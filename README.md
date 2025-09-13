@@ -1,8 +1,4 @@
-# **Eleva**
-
-> Official repo for Eleva dataset
-
-Eleva, a highly targeted dataset that contains 10 applications and 3,182 classes of UI elements, with a total of 32,807 samples distributed across these classes. These samples span diverse UI variations across multiple devices, app-specific and display modes, and have been carefully filtered to include challenging cases that existing static rules cannot fully cover.
+This is a highly targeted dataset that contains 10 applications and 3,182 classes of UI elements, with a total of 32,807 samples distributed across these classes. These samples span diverse UI variations across multiple devices, app-specific and display modes, and have been carefully filtered to include challenging cases that existing static rules cannot fully cover.
 
 ## Dataset Structure
 

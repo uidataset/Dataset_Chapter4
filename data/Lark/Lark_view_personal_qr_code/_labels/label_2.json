@@ -1,0 +1,948 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 480,
+                "left": 162,
+                "right": 332,
+                "top": 434
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro MRX-W39_shortcut_7_65/screen_1740152032037.webp",
+            "semantic": "Group creation function."
+        },
+        {
+            "bounds": {
+                "bottom": 439,
+                "left": 152,
+                "right": 312,
+                "top": 396
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_70/screen_1740142923832.webp",
+            "semantic": "Group creation function."
+        },
+        {
+            "bounds": {
+                "bottom": 548,
+                "left": 190,
+                "right": 390,
+                "top": 494
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_78/screen_1740129953774.webp",
+            "semantic": "Group creation function."
+        },
+        {
+            "bounds": {
+                "bottom": 548,
+                "left": 190,
+                "right": 390,
+                "top": 494
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_55/screen_1740335952139.webp",
+            "semantic": "Group creation function."
+        },
+        {
+            "bounds": {
+                "bottom": 761,
+                "left": 249,
+                "right": 544,
+                "top": 682
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Honor90GT_dark_shortcut_7_55/screen_1740571692234.webp",
+            "semantic": "Group creation function."
+        },
+        {
+            "bounds": {
+                "bottom": 685,
+                "left": 228,
+                "right": 468,
+                "top": 620
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/OPPO Reno9 Pro5G_dark_shortcut_7_52/screen_1740311122119.webp",
+            "semantic": "Group creation function."
+        },
+        {
+            "bounds": {
+                "bottom": 719,
+                "left": 247,
+                "right": 507,
+                "top": 654
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Redmik70U_dark_shortcut_7_52/screen_1740307151913.webp",
+            "semantic": "Group creation function."
+        },
+        {
+            "bounds": {
+                "bottom": 722,
+                "left": 247,
+                "right": 507,
+                "top": 652
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/redmi Turbo 14_dark_shortcut_7_54/screen_1740326326726.webp",
+            "semantic": "Group creation function."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 595,
+                "left": 162,
+                "right": 264,
+                "top": 549
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro MRX-W39_shortcut_7_65/screen_1740152032037.webp",
+            "semantic": "QR code scanning function."
+        },
+        {
+            "bounds": {
+                "bottom": 547,
+                "left": 152,
+                "right": 248,
+                "top": 504
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_70/screen_1740142923832.webp",
+            "semantic": "QR code scanning function."
+        },
+        {
+            "bounds": {
+                "bottom": 683,
+                "left": 190,
+                "right": 310,
+                "top": 629
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_78/screen_1740129953774.webp",
+            "semantic": "QR code scanning function."
+        },
+        {
+            "bounds": {
+                "bottom": 683,
+                "left": 190,
+                "right": 310,
+                "top": 629
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_55/screen_1740335952139.webp",
+            "semantic": "QR code scanning function."
+        },
+        {
+            "bounds": {
+                "bottom": 938,
+                "left": 249,
+                "right": 426,
+                "top": 859
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Honor90GT_dark_shortcut_7_55/screen_1740571692234.webp",
+            "semantic": "QR code scanning function."
+        },
+        {
+            "bounds": {
+                "bottom": 847,
+                "left": 228,
+                "right": 372,
+                "top": 782
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/OPPO Reno9 Pro5G_dark_shortcut_7_52/screen_1740311122119.webp",
+            "semantic": "QR code scanning function."
+        },
+        {
+            "bounds": {
+                "bottom": 895,
+                "left": 247,
+                "right": 403,
+                "top": 830
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Redmik70U_dark_shortcut_7_52/screen_1740307151913.webp",
+            "semantic": "QR code scanning function."
+        },
+        {
+            "bounds": {
+                "bottom": 898,
+                "left": 247,
+                "right": 403,
+                "top": 828
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/redmi Turbo 14_dark_shortcut_7_54/screen_1740326326726.webp",
+            "semantic": "QR code scanning function."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 349,
+                "left": 699,
+                "right": 849,
+                "top": 308
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro MRX-W39_shortcut_7_65/screen_1740152032037.webp",
+            "semantic": "\"My QR code\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 316,
+                "left": 706,
+                "right": 846,
+                "top": 278
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_70/screen_1740142923832.webp",
+            "semantic": "\"My QR code\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 394,
+                "left": 682,
+                "right": 857,
+                "top": 347
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_78/screen_1740129953774.webp",
+            "semantic": "\"My QR code\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 394,
+                "left": 682,
+                "right": 857,
+                "top": 347
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_55/screen_1740335952139.webp",
+            "semantic": "\"My QR code\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 555,
+                "left": 425,
+                "right": 695,
+                "top": 482
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Honor90GT_dark_shortcut_7_55/screen_1740571692234.webp",
+            "semantic": "\"My QR code\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 500,
+                "left": 399,
+                "right": 609,
+                "top": 443
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/OPPO Reno9 Pro5G_dark_shortcut_7_52/screen_1740311122119.webp",
+            "semantic": "\"My QR code\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 521,
+                "left": 456,
+                "right": 686,
+                "top": 463
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Redmik70U_dark_shortcut_7_52/screen_1740307151913.webp",
+            "semantic": "\"My QR code\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 521,
+                "left": 456,
+                "right": 686,
+                "top": 459
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/redmi Turbo 14_dark_shortcut_7_54/screen_1740326326726.webp",
+            "semantic": "\"My QR code\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 350,
+                "left": 858,
+                "right": 901,
+                "top": 307
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro MRX-W39_shortcut_7_65/screen_1740152032037.webp",
+            "semantic": "QR code generation button."
+        },
+        {
+            "bounds": {
+                "bottom": 317,
+                "left": 854,
+                "right": 894,
+                "top": 277
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_70/screen_1740142923832.webp",
+            "semantic": "QR code generation button."
+        },
+        {
+            "bounds": {
+                "bottom": 395,
+                "left": 867,
+                "right": 917,
+                "top": 345
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_78/screen_1740129953774.webp",
+            "semantic": "QR code generation button."
+        },
+        {
+            "bounds": {
+                "bottom": 395,
+                "left": 867,
+                "right": 917,
+                "top": 345
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_55/screen_1740335952139.webp",
+            "semantic": "QR code generation button."
+        },
+        {
+            "bounds": {
+                "bottom": 551,
+                "left": 708,
+                "right": 774,
+                "top": 485
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Honor90GT_dark_shortcut_7_55/screen_1740571692234.webp",
+            "semantic": "QR code generation button."
+        },
+        {
+            "bounds": {
+                "bottom": 501,
+                "left": 621,
+                "right": 681,
+                "top": 441
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/OPPO Reno9 Pro5G_dark_shortcut_7_52/screen_1740311122119.webp",
+            "semantic": "QR code generation button."
+        },
+        {
+            "bounds": {
+                "bottom": 524,
+                "left": 699,
+                "right": 764,
+                "top": 459
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Redmik70U_dark_shortcut_7_52/screen_1740307151913.webp",
+            "semantic": "QR code generation button."
+        },
+        {
+            "bounds": {
+                "bottom": 522,
+                "left": 699,
+                "right": 764,
+                "top": 457
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/redmi Turbo 14_dark_shortcut_7_54/screen_1740326326726.webp",
+            "semantic": "QR code generation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 174,
+                "left": 1498,
+                "right": 1600,
+                "top": 80
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro MRX-W39_shortcut_7_65/screen_1740152032037.webp",
+            "semantic": "Help or support section."
+        },
+        {
+            "bounds": {
+                "bottom": 152,
+                "left": 1504,
+                "right": 1600,
+                "top": 64
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_70/screen_1740142923832.webp",
+            "semantic": "Help or support section."
+        },
+        {
+            "bounds": {
+                "bottom": 190,
+                "left": 1479,
+                "right": 1600,
+                "top": 80
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_78/screen_1740129953774.webp",
+            "semantic": "Help or support section."
+        },
+        {
+            "bounds": {
+                "bottom": 190,
+                "left": 1479,
+                "right": 1600,
+                "top": 80
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_55/screen_1740335952139.webp",
+            "semantic": "Help or support section."
+        },
+        {
+            "bounds": {
+                "bottom": 265,
+                "left": 1043,
+                "right": 1200,
+                "top": 121
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Honor90GT_dark_shortcut_7_55/screen_1740571692234.webp",
+            "semantic": "Help or support section."
+        },
+        {
+            "bounds": {
+                "bottom": 254,
+                "left": 936,
+                "right": 1080,
+                "top": 122
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/OPPO Reno9 Pro5G_dark_shortcut_7_52/screen_1740311122119.webp",
+            "semantic": "Help or support section."
+        },
+        {
+            "bounds": {
+                "bottom": 261,
+                "left": 1064,
+                "right": 1220,
+                "top": 118
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Redmik70U_dark_shortcut_7_52/screen_1740307151913.webp",
+            "semantic": "Help or support section."
+        },
+        {
+            "bounds": {
+                "bottom": 253,
+                "left": 1064,
+                "right": 1220,
+                "top": 110
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/redmi Turbo 14_dark_shortcut_7_54/screen_1740326326726.webp",
+            "semantic": "Help or support section."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 153,
+                "left": 667,
+                "right": 933,
+                "top": 101
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro MRX-W39_shortcut_7_65/screen_1740152032037.webp",
+            "semantic": "Add external contact."
+        },
+        {
+            "bounds": {
+                "bottom": 132,
+                "left": 674,
+                "right": 926,
+                "top": 83
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_70/screen_1740142923832.webp",
+            "semantic": "Add external contact."
+        },
+        {
+            "bounds": {
+                "bottom": 165,
+                "left": 688,
+                "right": 912,
+                "top": 104
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_78/screen_1740129953774.webp",
+            "semantic": "Add external contact."
+        },
+        {
+            "bounds": {
+                "bottom": 165,
+                "left": 688,
+                "right": 912,
+                "top": 104
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_55/screen_1740335952139.webp",
+            "semantic": "Add external contact."
+        },
+        {
+            "bounds": {
+                "bottom": 236,
+                "left": 376,
+                "right": 824,
+                "top": 149
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Honor90GT_dark_shortcut_7_55/screen_1740571692234.webp",
+            "semantic": "Add external contact."
+        },
+        {
+            "bounds": {
+                "bottom": 224,
+                "left": 351,
+                "right": 729,
+                "top": 151
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/OPPO Reno9 Pro5G_dark_shortcut_7_52/screen_1740311122119.webp",
+            "semantic": "Add external contact."
+        },
+        {
+            "bounds": {
+                "bottom": 221,
+                "left": 407,
+                "right": 813,
+                "top": 142
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/redmi Turbo 14_dark_shortcut_7_54/screen_1740326326726.webp",
+            "semantic": "Add external contact."
+        },
+        {
+            "bounds": {
+                "bottom": 226,
+                "left": 465,
+                "right": 755,
+                "top": 153
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Redmik70U_dark_shortcut_7_52/screen_1740307151913.webp",
+            "semantic": "Add external contact."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 174,
+                "left": 0,
+                "right": 115,
+                "top": 80
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro MRX-W39_shortcut_7_65/screen_1740152032037.webp",
+            "semantic": "Back or Previous navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 152,
+                "left": 0,
+                "right": 108,
+                "top": 64
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_70/screen_1740142923832.webp",
+            "semantic": "Back or Previous navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 190,
+                "left": 0,
+                "right": 136,
+                "top": 80
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_78/screen_1740129953774.webp",
+            "semantic": "Back or Previous navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 190,
+                "left": 0,
+                "right": 136,
+                "top": 80
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_55/screen_1740335952139.webp",
+            "semantic": "Back or Previous navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 265,
+                "left": 0,
+                "right": 177,
+                "top": 121
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Honor90GT_dark_shortcut_7_55/screen_1740571692234.webp",
+            "semantic": "Back or Previous navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 254,
+                "left": 0,
+                "right": 162,
+                "top": 122
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/OPPO Reno9 Pro5G_dark_shortcut_7_52/screen_1740311122119.webp",
+            "semantic": "Back or Previous navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 261,
+                "left": 0,
+                "right": 176,
+                "top": 118
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Redmik70U_dark_shortcut_7_52/screen_1740307151913.webp",
+            "semantic": "Back or Previous navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 253,
+                "left": 0,
+                "right": 176,
+                "top": 110
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/redmi Turbo 14_dark_shortcut_7_54/screen_1740326326726.webp",
+            "semantic": "Back or Previous navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 274,
+                "left": 112,
+                "right": 1566,
+                "top": 191
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro MRX-W39_shortcut_7_65/screen_1740152032037.webp",
+            "semantic": "Search contact by phone number or email address."
+        },
+        {
+            "bounds": {
+                "bottom": 430,
+                "left": 170,
+                "right": 1148,
+                "top": 291
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Honor90GT_dark_shortcut_7_55/screen_1740571692234.webp",
+            "semantic": "Search contact by phone number or email address."
+        },
+        {
+            "bounds": {
+                "bottom": 395,
+                "left": 156,
+                "right": 1032,
+                "top": 278
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/OPPO Reno9 Pro5G_dark_shortcut_7_52/screen_1740311122119.webp",
+            "semantic": "Search contact by phone number or email address."
+        },
+        {
+            "bounds": {
+                "bottom": 307,
+                "left": 130,
+                "right": 1560,
+                "top": 210
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_55/screen_1740335952139.webp",
+            "semantic": "Search contact by phone number or email address."
+        },
+        {
+            "bounds": {
+                "bottom": 411,
+                "left": 169,
+                "right": 1168,
+                "top": 287
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Redmik70U_dark_shortcut_7_52/screen_1740307151913.webp",
+            "semantic": "Search contact by phone number or email address."
+        },
+        {
+            "bounds": {
+                "bottom": 407,
+                "left": 169,
+                "right": 1168,
+                "top": 279
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/redmi Turbo 14_dark_shortcut_7_54/screen_1740326326726.webp",
+            "semantic": "Search contact by phone number or email address."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 254,
+                "left": 60,
+                "right": 103,
+                "top": 211
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro MRX-W39_shortcut_7_65/screen_1740152032037.webp",
+            "semantic": "Search function icon."
+        },
+        {
+            "bounds": {
+                "bottom": 283,
+                "left": 70,
+                "right": 120,
+                "top": 233
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_55/screen_1740335952139.webp",
+            "semantic": "Search function icon."
+        },
+        {
+            "bounds": {
+                "bottom": 393,
+                "left": 91,
+                "right": 157,
+                "top": 327
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Honor90GT_dark_shortcut_7_55/screen_1740571692234.webp",
+            "semantic": "Search function icon."
+        },
+        {
+            "bounds": {
+                "bottom": 366,
+                "left": 84,
+                "right": 144,
+                "top": 306
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/OPPO Reno9 Pro5G_dark_shortcut_7_52/screen_1740311122119.webp",
+            "semantic": "Search function icon."
+        },
+        {
+            "bounds": {
+                "bottom": 381,
+                "left": 91,
+                "right": 156,
+                "top": 316
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Redmik70U_dark_shortcut_7_52/screen_1740307151913.webp",
+            "semantic": "Search function icon."
+        },
+        {
+            "bounds": {
+                "bottom": 375,
+                "left": 91,
+                "right": 156,
+                "top": 310
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/redmi Turbo 14_dark_shortcut_7_54/screen_1740326326726.webp",
+            "semantic": "Search function icon."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 479,
+                "left": 34,
+                "right": 77,
+                "top": 436
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro MRX-W39_shortcut_7_65/screen_1740152032037.webp",
+            "semantic": "Group creation function button."
+        },
+        {
+            "bounds": {
+                "bottom": 546,
+                "left": 40,
+                "right": 90,
+                "top": 496
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_55/screen_1740335952139.webp",
+            "semantic": "Group creation function button."
+        },
+        {
+            "bounds": {
+                "bottom": 754,
+                "left": 52,
+                "right": 118,
+                "top": 688
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Honor90GT_dark_shortcut_7_55/screen_1740571692234.webp",
+            "semantic": "Group creation function button."
+        },
+        {
+            "bounds": {
+                "bottom": 683,
+                "left": 48,
+                "right": 108,
+                "top": 623
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/OPPO Reno9 Pro5G_dark_shortcut_7_52/screen_1740311122119.webp",
+            "semantic": "Group creation function button."
+        },
+        {
+            "bounds": {
+                "bottom": 719,
+                "left": 52,
+                "right": 117,
+                "top": 654
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Redmik70U_dark_shortcut_7_52/screen_1740307151913.webp",
+            "semantic": "Group creation function button."
+        },
+        {
+            "bounds": {
+                "bottom": 719,
+                "left": 52,
+                "right": 117,
+                "top": 654
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/redmi Turbo 14_dark_shortcut_7_54/screen_1740326326726.webp",
+            "semantic": "Group creation function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 474,
+                "left": 1528,
+                "right": 1562,
+                "top": 440
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro MRX-W39_shortcut_7_65/screen_1740152032037.webp",
+            "semantic": "Navigation or Next page button."
+        },
+        {
+            "bounds": {
+                "bottom": 541,
+                "left": 1515,
+                "right": 1555,
+                "top": 501
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_55/screen_1740335952139.webp",
+            "semantic": "Navigation or Next page button."
+        },
+        {
+            "bounds": {
+                "bottom": 747,
+                "left": 1089,
+                "right": 1141,
+                "top": 695
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Honor90GT_dark_shortcut_7_55/screen_1740571692234.webp",
+            "semantic": "Navigation or Next page button."
+        },
+        {
+            "bounds": {
+                "bottom": 677,
+                "left": 978,
+                "right": 1026,
+                "top": 629
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/OPPO Reno9 Pro5G_dark_shortcut_7_52/screen_1740311122119.webp",
+            "semantic": "Navigation or Next page button."
+        },
+        {
+            "bounds": {
+                "bottom": 713,
+                "left": 1109,
+                "right": 1161,
+                "top": 661
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Redmik70U_dark_shortcut_7_52/screen_1740307151913.webp",
+            "semantic": "Navigation or Next page button."
+        },
+        {
+            "bounds": {
+                "bottom": 713,
+                "left": 1109,
+                "right": 1161,
+                "top": 661
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/redmi Turbo 14_dark_shortcut_7_54/screen_1740326326726.webp",
+            "semantic": "Navigation or Next page button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 594,
+                "left": 34,
+                "right": 77,
+                "top": 551
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro MRX-W39_shortcut_7_65/screen_1740152032037.webp",
+            "semantic": "Scan QR code function button."
+        },
+        {
+            "bounds": {
+                "bottom": 681,
+                "left": 40,
+                "right": 90,
+                "top": 631
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_55/screen_1740335952139.webp",
+            "semantic": "Scan QR code function button."
+        },
+        {
+            "bounds": {
+                "bottom": 931,
+                "left": 52,
+                "right": 118,
+                "top": 865
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Honor90GT_dark_shortcut_7_55/screen_1740571692234.webp",
+            "semantic": "Scan QR code function button."
+        },
+        {
+            "bounds": {
+                "bottom": 845,
+                "left": 48,
+                "right": 108,
+                "top": 785
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/OPPO Reno9 Pro5G_dark_shortcut_7_52/screen_1740311122119.webp",
+            "semantic": "Scan QR code function button."
+        },
+        {
+            "bounds": {
+                "bottom": 895,
+                "left": 52,
+                "right": 117,
+                "top": 830
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Redmik70U_dark_shortcut_7_52/screen_1740307151913.webp",
+            "semantic": "Scan QR code function button."
+        },
+        {
+            "bounds": {
+                "bottom": 895,
+                "left": 52,
+                "right": 117,
+                "top": 830
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/redmi Turbo 14_dark_shortcut_7_54/screen_1740326326726.webp",
+            "semantic": "Scan QR code function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 589,
+                "left": 1528,
+                "right": 1562,
+                "top": 555
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro MRX-W39_shortcut_7_65/screen_1740152032037.webp",
+            "semantic": "Navigation to next page or submenu."
+        },
+        {
+            "bounds": {
+                "bottom": 676,
+                "left": 1515,
+                "right": 1555,
+                "top": 636
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_55/screen_1740335952139.webp",
+            "semantic": "Navigation to next page or submenu."
+        },
+        {
+            "bounds": {
+                "bottom": 924,
+                "left": 1089,
+                "right": 1141,
+                "top": 872
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Honor90GT_dark_shortcut_7_55/screen_1740571692234.webp",
+            "semantic": "Navigation to next page or submenu."
+        },
+        {
+            "bounds": {
+                "bottom": 839,
+                "left": 978,
+                "right": 1026,
+                "top": 791
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/OPPO Reno9 Pro5G_dark_shortcut_7_52/screen_1740311122119.webp",
+            "semantic": "Navigation to next page or submenu."
+        },
+        {
+            "bounds": {
+                "bottom": 889,
+                "left": 1109,
+                "right": 1161,
+                "top": 837
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/Redmik70U_dark_shortcut_7_52/screen_1740307151913.webp",
+            "semantic": "Navigation to next page or submenu."
+        },
+        {
+            "bounds": {
+                "bottom": 889,
+                "left": 1109,
+                "right": 1161,
+                "top": 837
+            },
+            "img_path": "../data/Lark/Lark_view_personal_qr_code/redmi Turbo 14_dark_shortcut_7_54/screen_1740326326726.webp",
+            "semantic": "Navigation to next page or submenu."
+        }
+    ]
+]

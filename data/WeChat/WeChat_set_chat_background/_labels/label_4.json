@@ -1,0 +1,1722 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 186,
+                "left": 17,
+                "right": 69,
+                "top": 82
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_shortcut_7_4/screen_1740147310082.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 282,
+                "left": 29,
+                "right": 115,
+                "top": 110
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 186,
+                "left": 17,
+                "right": 69,
+                "top": 82
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_3/screen_1741840495330.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 183,
+                "left": 18,
+                "right": 73,
+                "top": 73
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_3/screen_1741965980857.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 183,
+                "left": 18,
+                "right": 73,
+                "top": 73
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_7/screen_1741964075971.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 183,
+                "left": 18,
+                "right": 73,
+                "top": 73
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_3/screen_1740311910252.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 290,
+                "left": 28,
+                "right": 113,
+                "top": 121
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_dark_shortcut_7_43/screen_1742034946833.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 290,
+                "left": 28,
+                "right": 113,
+                "top": 121
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_shortcut_7_30/screen_1742034113354.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 281,
+                "left": 27,
+                "right": 107,
+                "top": 121
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_dark_shortcut_7_3/screen_1740562941280.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 274,
+                "left": 25,
+                "right": 101,
+                "top": 122
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_4/screen_1741962226492.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 274,
+                "left": 25,
+                "right": 101,
+                "top": 122
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_shortcut_7_4/screen_1741959171431.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 22,
+                "right": 87,
+                "top": 122
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_dark_shortcut_7_3/screen_1740308735330.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 290,
+                "left": 29,
+                "right": 115,
+                "top": 118
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_black_shortcut_7_62/screen_1741848439573.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 290,
+                "left": 29,
+                "right": 115,
+                "top": 118
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_shortcut_7_4/screen_1741843389466.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 264,
+                "left": 24,
+                "right": 97,
+                "top": 118
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_dark_shortcut_7_8/screen_1740304592427.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 282,
+                "left": 29,
+                "right": 115,
+                "top": 110
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 282,
+                "left": 29,
+                "right": 115,
+                "top": 110
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_shortcut_7_4/screen_1741793209694.webp",
+            "semantic": "Back navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 159,
+                "left": 726,
+                "right": 874,
+                "top": 108
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_shortcut_7_4/screen_1740147310082.webp",
+            "semantic": "\"Chat background selection interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 488,
+                "right": 732,
+                "top": 155
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "\"Chat background selection interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 159,
+                "left": 726,
+                "right": 874,
+                "top": 108
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_3/screen_1741840495330.webp",
+            "semantic": "\"Chat background selection interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 154,
+                "left": 722,
+                "right": 878,
+                "top": 101
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_3/screen_1741965980857.webp",
+            "semantic": "\"Chat background selection interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 154,
+                "left": 722,
+                "right": 878,
+                "top": 101
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_7/screen_1741964075971.webp",
+            "semantic": "\"Chat background selection interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 154,
+                "left": 722,
+                "right": 878,
+                "top": 101
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_3/screen_1740311910252.webp",
+            "semantic": "\"Chat background selection interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 246,
+                "left": 480,
+                "right": 720,
+                "top": 165
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_dark_shortcut_7_43/screen_1742034946833.webp",
+            "semantic": "\"Chat background selection interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 246,
+                "left": 480,
+                "right": 720,
+                "top": 165
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_shortcut_7_30/screen_1742034113354.webp",
+            "semantic": "\"Chat background selection interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 239,
+                "left": 486,
+                "right": 714,
+                "top": 162
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_dark_shortcut_7_3/screen_1740562941280.webp",
+            "semantic": "\"Chat background selection interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 432,
+                "right": 648,
+                "top": 161
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_4/screen_1741962226492.webp",
+            "semantic": "\"Chat background selection interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 432,
+                "right": 648,
+                "top": 161
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_shortcut_7_4/screen_1741959171431.webp",
+            "semantic": "\"Chat background selection interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 448,
+                "right": 632,
+                "top": 156
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_dark_shortcut_7_3/screen_1740308735330.webp",
+            "semantic": "\"Chat background selection interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 242,
+                "left": 488,
+                "right": 732,
+                "top": 165
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_black_shortcut_7_62/screen_1741848439573.webp",
+            "semantic": "\"Chat background selection interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 242,
+                "left": 488,
+                "right": 732,
+                "top": 165
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_shortcut_7_4/screen_1741843389466.webp",
+            "semantic": "\"Chat background selection interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 223,
+                "left": 506,
+                "right": 714,
+                "top": 158
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_dark_shortcut_7_8/screen_1740304592427.webp",
+            "semantic": "\"Chat background selection interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 488,
+                "right": 732,
+                "top": 155
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "\"Chat background selection interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 488,
+                "right": 732,
+                "top": 155
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_shortcut_7_4/screen_1741793209694.webp",
+            "semantic": "\"Chat background selection interface.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 272,
+                "left": 35,
+                "right": 220,
+                "top": 221
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_shortcut_7_4/screen_1740147310082.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 440,
+                "left": 57,
+                "right": 482,
+                "top": 325
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 282,
+                "left": 35,
+                "right": 290,
+                "top": 212
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_3/screen_1741840495330.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 284,
+                "left": 37,
+                "right": 307,
+                "top": 211
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_3/screen_1741965980857.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 284,
+                "left": 37,
+                "right": 307,
+                "top": 211
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_7/screen_1741964075971.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 274,
+                "left": 37,
+                "right": 232,
+                "top": 221
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_3/screen_1740311910252.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 445,
+                "left": 56,
+                "right": 476,
+                "top": 333
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_dark_shortcut_7_43/screen_1742034946833.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 445,
+                "left": 56,
+                "right": 476,
+                "top": 333
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_shortcut_7_30/screen_1742034113354.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 413,
+                "left": 53,
+                "right": 338,
+                "top": 336
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_dark_shortcut_7_3/screen_1740562941280.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 414,
+                "left": 51,
+                "right": 426,
+                "top": 313
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_4/screen_1741962226492.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 414,
+                "left": 51,
+                "right": 426,
+                "top": 313
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_shortcut_7_4/screen_1741959171431.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 359,
+                "left": 43,
+                "right": 273,
+                "top": 297
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_dark_shortcut_7_3/screen_1740308735330.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 444,
+                "left": 57,
+                "right": 482,
+                "top": 338
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_black_shortcut_7_62/screen_1741848439573.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 444,
+                "left": 57,
+                "right": 482,
+                "top": 338
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_shortcut_7_4/screen_1741843389466.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 382,
+                "left": 49,
+                "right": 309,
+                "top": 317
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_dark_shortcut_7_8/screen_1740304592427.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 440,
+                "left": 57,
+                "right": 482,
+                "top": 325
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 440,
+                "left": 57,
+                "right": 482,
+                "top": 325
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_shortcut_7_4/screen_1741793209694.webp",
+            "semantic": "Background selection button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 273,
+                "left": 1539,
+                "right": 1565,
+                "top": 221
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_shortcut_7_4/screen_1740147310082.webp",
+            "semantic": "Navigation or forwarding button."
+        },
+        {
+            "bounds": {
+                "bottom": 426,
+                "left": 1120,
+                "right": 1163,
+                "top": 340
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "Navigation or forwarding button."
+        },
+        {
+            "bounds": {
+                "bottom": 273,
+                "left": 1539,
+                "right": 1565,
+                "top": 221
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_3/screen_1741840495330.webp",
+            "semantic": "Navigation or forwarding button."
+        },
+        {
+            "bounds": {
+                "bottom": 274,
+                "left": 1536,
+                "right": 1563,
+                "top": 220
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_3/screen_1741965980857.webp",
+            "semantic": "Navigation or forwarding button."
+        },
+        {
+            "bounds": {
+                "bottom": 274,
+                "left": 1536,
+                "right": 1563,
+                "top": 220
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_7/screen_1741964075971.webp",
+            "semantic": "Navigation or forwarding button."
+        },
+        {
+            "bounds": {
+                "bottom": 274,
+                "left": 1536,
+                "right": 1563,
+                "top": 220
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_3/screen_1740311910252.webp",
+            "semantic": "Navigation or forwarding button."
+        },
+        {
+            "bounds": {
+                "bottom": 431,
+                "left": 1102,
+                "right": 1144,
+                "top": 347
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_dark_shortcut_7_43/screen_1742034946833.webp",
+            "semantic": "Navigation or forwarding button."
+        },
+        {
+            "bounds": {
+                "bottom": 431,
+                "left": 1102,
+                "right": 1144,
+                "top": 347
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_shortcut_7_30/screen_1742034113354.webp",
+            "semantic": "Navigation or forwarding button."
+        },
+        {
+            "bounds": {
+                "bottom": 414,
+                "left": 1108,
+                "right": 1147,
+                "top": 335
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_dark_shortcut_7_3/screen_1740562941280.webp",
+            "semantic": "Navigation or forwarding button."
+        },
+        {
+            "bounds": {
+                "bottom": 401,
+                "left": 991,
+                "right": 1029,
+                "top": 325
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_4/screen_1741962226492.webp",
+            "semantic": "Navigation or forwarding button."
+        },
+        {
+            "bounds": {
+                "bottom": 401,
+                "left": 991,
+                "right": 1029,
+                "top": 325
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_shortcut_7_4/screen_1741959171431.webp",
+            "semantic": "Navigation or forwarding button."
+        },
+        {
+            "bounds": {
+                "bottom": 360,
+                "left": 1005,
+                "right": 1037,
+                "top": 296
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_dark_shortcut_7_3/screen_1740308735330.webp",
+            "semantic": "Navigation or forwarding button."
+        },
+        {
+            "bounds": {
+                "bottom": 434,
+                "left": 1120,
+                "right": 1163,
+                "top": 348
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_black_shortcut_7_62/screen_1741848439573.webp",
+            "semantic": "Navigation or forwarding button."
+        },
+        {
+            "bounds": {
+                "bottom": 434,
+                "left": 1120,
+                "right": 1163,
+                "top": 348
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_shortcut_7_4/screen_1741843389466.webp",
+            "semantic": "Navigation or forwarding button."
+        },
+        {
+            "bounds": {
+                "bottom": 386,
+                "left": 1135,
+                "right": 1171,
+                "top": 313
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_dark_shortcut_7_8/screen_1740304592427.webp",
+            "semantic": "Navigation or forwarding button."
+        },
+        {
+            "bounds": {
+                "bottom": 426,
+                "left": 1120,
+                "right": 1163,
+                "top": 340
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "Navigation or forwarding button."
+        },
+        {
+            "bounds": {
+                "bottom": 426,
+                "left": 1120,
+                "right": 1163,
+                "top": 340
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_shortcut_7_4/screen_1741793209694.webp",
+            "semantic": "Navigation or forwarding button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 394,
+                "left": 35,
+                "right": 257,
+                "top": 343
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_shortcut_7_4/screen_1740147310082.webp",
+            "semantic": "\"Select from album\" option within the chat wallpaper settings."
+        },
+        {
+            "bounds": {
+                "bottom": 641,
+                "left": 57,
+                "right": 567,
+                "top": 526
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "\"Select from album\" option within the chat wallpaper settings."
+        },
+        {
+            "bounds": {
+                "bottom": 404,
+                "left": 35,
+                "right": 341,
+                "top": 334
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_3/screen_1741840495330.webp",
+            "semantic": "\"Select from album\" option within the chat wallpaper settings."
+        },
+        {
+            "bounds": {
+                "bottom": 412,
+                "left": 37,
+                "right": 361,
+                "top": 339
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_3/screen_1741965980857.webp",
+            "semantic": "\"Select from album\" option within the chat wallpaper settings."
+        },
+        {
+            "bounds": {
+                "bottom": 412,
+                "left": 37,
+                "right": 361,
+                "top": 339
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_7/screen_1741964075971.webp",
+            "semantic": "\"Select from album\" option within the chat wallpaper settings."
+        },
+        {
+            "bounds": {
+                "bottom": 402,
+                "left": 37,
+                "right": 271,
+                "top": 349
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_3/screen_1740311910252.webp",
+            "semantic": "\"Select from album\" option within the chat wallpaper settings."
+        },
+        {
+            "bounds": {
+                "bottom": 445,
+                "left": 56,
+                "right": 476,
+                "top": 333
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_dark_shortcut_7_43/screen_1742034946833.webp",
+            "semantic": "Background selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 643,
+                "left": 56,
+                "right": 560,
+                "top": 531
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_shortcut_7_30/screen_1742034113354.webp",
+            "semantic": "\"Select from album\" option within the chat wallpaper settings."
+        },
+        {
+            "bounds": {
+                "bottom": 600,
+                "left": 53,
+                "right": 395,
+                "top": 523
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_dark_shortcut_7_3/screen_1740562941280.webp",
+            "semantic": "\"Select from album\" option within the chat wallpaper settings."
+        },
+        {
+            "bounds": {
+                "bottom": 592,
+                "left": 51,
+                "right": 501,
+                "top": 491
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_4/screen_1741962226492.webp",
+            "semantic": "\"Select from album\" option within the chat wallpaper settings."
+        },
+        {
+            "bounds": {
+                "bottom": 592,
+                "left": 51,
+                "right": 501,
+                "top": 491
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_shortcut_7_4/screen_1741959171431.webp",
+            "semantic": "\"Select from album\" option within the chat wallpaper settings."
+        },
+        {
+            "bounds": {
+                "bottom": 510,
+                "left": 43,
+                "right": 319,
+                "top": 448
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_dark_shortcut_7_3/screen_1740308735330.webp",
+            "semantic": "\"Select from album\" option within the chat wallpaper settings."
+        },
+        {
+            "bounds": {
+                "bottom": 645,
+                "left": 57,
+                "right": 567,
+                "top": 539
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_black_shortcut_7_62/screen_1741848439573.webp",
+            "semantic": "\"Select from album\" option within the chat wallpaper settings."
+        },
+        {
+            "bounds": {
+                "bottom": 645,
+                "left": 57,
+                "right": 567,
+                "top": 539
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_shortcut_7_4/screen_1741843389466.webp",
+            "semantic": "\"Select from album\" option within the chat wallpaper settings."
+        },
+        {
+            "bounds": {
+                "bottom": 553,
+                "left": 49,
+                "right": 361,
+                "top": 488
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_dark_shortcut_7_8/screen_1740304592427.webp",
+            "semantic": "\"Select from album\" option within the chat wallpaper settings."
+        },
+        {
+            "bounds": {
+                "bottom": 641,
+                "left": 57,
+                "right": 567,
+                "top": 526
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "\"Select from album\" option within the chat wallpaper settings."
+        },
+        {
+            "bounds": {
+                "bottom": 641,
+                "left": 57,
+                "right": 567,
+                "top": 526
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_shortcut_7_4/screen_1741793209694.webp",
+            "semantic": "\"Select from album\" option within the chat wallpaper settings."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 395,
+                "left": 1539,
+                "right": 1565,
+                "top": 343
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_shortcut_7_4/screen_1740147310082.webp",
+            "semantic": "Navigation or forward button."
+        },
+        {
+            "bounds": {
+                "bottom": 627,
+                "left": 1120,
+                "right": 1163,
+                "top": 541
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "Navigation or forward button."
+        },
+        {
+            "bounds": {
+                "bottom": 395,
+                "left": 1539,
+                "right": 1565,
+                "top": 343
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_3/screen_1741840495330.webp",
+            "semantic": "Navigation or forward button."
+        },
+        {
+            "bounds": {
+                "bottom": 402,
+                "left": 1536,
+                "right": 1563,
+                "top": 348
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_3/screen_1741965980857.webp",
+            "semantic": "Navigation or forward button."
+        },
+        {
+            "bounds": {
+                "bottom": 402,
+                "left": 1536,
+                "right": 1563,
+                "top": 348
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_7/screen_1741964075971.webp",
+            "semantic": "Navigation or forward button."
+        },
+        {
+            "bounds": {
+                "bottom": 402,
+                "left": 1536,
+                "right": 1563,
+                "top": 348
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_3/screen_1740311910252.webp",
+            "semantic": "Navigation or forward button."
+        },
+        {
+            "bounds": {
+                "bottom": 629,
+                "left": 1102,
+                "right": 1144,
+                "top": 545
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_dark_shortcut_7_43/screen_1742034946833.webp",
+            "semantic": "Navigation or forward button."
+        },
+        {
+            "bounds": {
+                "bottom": 629,
+                "left": 1102,
+                "right": 1144,
+                "top": 545
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_shortcut_7_30/screen_1742034113354.webp",
+            "semantic": "Navigation or forward button."
+        },
+        {
+            "bounds": {
+                "bottom": 601,
+                "left": 1108,
+                "right": 1147,
+                "top": 522
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_dark_shortcut_7_3/screen_1740562941280.webp",
+            "semantic": "Navigation or forward button."
+        },
+        {
+            "bounds": {
+                "bottom": 579,
+                "left": 991,
+                "right": 1029,
+                "top": 503
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_4/screen_1741962226492.webp",
+            "semantic": "Navigation or forward button."
+        },
+        {
+            "bounds": {
+                "bottom": 579,
+                "left": 991,
+                "right": 1029,
+                "top": 503
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_shortcut_7_4/screen_1741959171431.webp",
+            "semantic": "Navigation or forward button."
+        },
+        {
+            "bounds": {
+                "bottom": 511,
+                "left": 1005,
+                "right": 1037,
+                "top": 447
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_dark_shortcut_7_3/screen_1740308735330.webp",
+            "semantic": "Navigation or forward button."
+        },
+        {
+            "bounds": {
+                "bottom": 635,
+                "left": 1120,
+                "right": 1163,
+                "top": 549
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_black_shortcut_7_62/screen_1741848439573.webp",
+            "semantic": "Navigation or forward button."
+        },
+        {
+            "bounds": {
+                "bottom": 635,
+                "left": 1120,
+                "right": 1163,
+                "top": 549
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_shortcut_7_4/screen_1741843389466.webp",
+            "semantic": "Navigation or forward button."
+        },
+        {
+            "bounds": {
+                "bottom": 557,
+                "left": 1135,
+                "right": 1171,
+                "top": 484
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_dark_shortcut_7_8/screen_1740304592427.webp",
+            "semantic": "Navigation or forward button."
+        },
+        {
+            "bounds": {
+                "bottom": 627,
+                "left": 1120,
+                "right": 1163,
+                "top": 541
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "Navigation or forward button."
+        },
+        {
+            "bounds": {
+                "bottom": 627,
+                "left": 1120,
+                "right": 1163,
+                "top": 541
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_shortcut_7_4/screen_1741793209694.webp",
+            "semantic": "Navigation or forward button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 516,
+                "left": 35,
+                "right": 146,
+                "top": 465
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_shortcut_7_4/screen_1740147310082.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        },
+        {
+            "bounds": {
+                "bottom": 842,
+                "left": 57,
+                "right": 312,
+                "top": 727
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        },
+        {
+            "bounds": {
+                "bottom": 526,
+                "left": 35,
+                "right": 188,
+                "top": 456
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_3/screen_1741840495330.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        },
+        {
+            "bounds": {
+                "bottom": 540,
+                "left": 37,
+                "right": 199,
+                "top": 467
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_3/screen_1741965980857.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        },
+        {
+            "bounds": {
+                "bottom": 540,
+                "left": 37,
+                "right": 199,
+                "top": 467
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_7/screen_1741964075971.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 37,
+                "right": 154,
+                "top": 477
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_3/screen_1740311910252.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        },
+        {
+            "bounds": {
+                "bottom": 841,
+                "left": 56,
+                "right": 308,
+                "top": 729
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_dark_shortcut_7_43/screen_1742034946833.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        },
+        {
+            "bounds": {
+                "bottom": 841,
+                "left": 56,
+                "right": 308,
+                "top": 729
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_shortcut_7_30/screen_1742034113354.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        },
+        {
+            "bounds": {
+                "bottom": 787,
+                "left": 53,
+                "right": 224,
+                "top": 710
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_dark_shortcut_7_3/screen_1740562941280.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        },
+        {
+            "bounds": {
+                "bottom": 770,
+                "left": 51,
+                "right": 276,
+                "top": 669
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_4/screen_1741962226492.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        },
+        {
+            "bounds": {
+                "bottom": 770,
+                "left": 51,
+                "right": 276,
+                "top": 669
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_shortcut_7_4/screen_1741959171431.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        },
+        {
+            "bounds": {
+                "bottom": 661,
+                "left": 43,
+                "right": 181,
+                "top": 599
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_dark_shortcut_7_3/screen_1740308735330.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        },
+        {
+            "bounds": {
+                "bottom": 846,
+                "left": 57,
+                "right": 312,
+                "top": 740
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_black_shortcut_7_62/screen_1741848439573.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        },
+        {
+            "bounds": {
+                "bottom": 846,
+                "left": 57,
+                "right": 312,
+                "top": 740
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_shortcut_7_4/screen_1741843389466.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        },
+        {
+            "bounds": {
+                "bottom": 724,
+                "left": 49,
+                "right": 205,
+                "top": 659
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_dark_shortcut_7_8/screen_1740304592427.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        },
+        {
+            "bounds": {
+                "bottom": 842,
+                "left": 57,
+                "right": 312,
+                "top": 727
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        },
+        {
+            "bounds": {
+                "bottom": 842,
+                "left": 57,
+                "right": 312,
+                "top": 727
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_shortcut_7_4/screen_1741793209694.webp",
+            "semantic": "\"Take a photo\" operation button within chat background settings."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 517,
+                "left": 1539,
+                "right": 1565,
+                "top": 465
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_shortcut_7_4/screen_1740147310082.webp",
+            "semantic": "Next page or forward navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 828,
+                "left": 1120,
+                "right": 1163,
+                "top": 742
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "Next page or forward navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 517,
+                "left": 1539,
+                "right": 1565,
+                "top": 465
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_3/screen_1741840495330.webp",
+            "semantic": "Next page or forward navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 1536,
+                "right": 1563,
+                "top": 476
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_3/screen_1741965980857.webp",
+            "semantic": "Next page or forward navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 1536,
+                "right": 1563,
+                "top": 476
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_7/screen_1741964075971.webp",
+            "semantic": "Next page or forward navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 1536,
+                "right": 1563,
+                "top": 476
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_3/screen_1740311910252.webp",
+            "semantic": "Next page or forward navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 827,
+                "left": 1102,
+                "right": 1144,
+                "top": 743
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_dark_shortcut_7_43/screen_1742034946833.webp",
+            "semantic": "Next page or forward navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 827,
+                "left": 1102,
+                "right": 1144,
+                "top": 743
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_shortcut_7_30/screen_1742034113354.webp",
+            "semantic": "Next page or forward navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 788,
+                "left": 1108,
+                "right": 1147,
+                "top": 709
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_dark_shortcut_7_3/screen_1740562941280.webp",
+            "semantic": "Next page or forward navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 757,
+                "left": 991,
+                "right": 1029,
+                "top": 681
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_4/screen_1741962226492.webp",
+            "semantic": "Next page or forward navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 757,
+                "left": 991,
+                "right": 1029,
+                "top": 681
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_shortcut_7_4/screen_1741959171431.webp",
+            "semantic": "Next page or forward navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 662,
+                "left": 1005,
+                "right": 1037,
+                "top": 598
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_dark_shortcut_7_3/screen_1740308735330.webp",
+            "semantic": "Next page or forward navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 836,
+                "left": 1120,
+                "right": 1163,
+                "top": 750
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_black_shortcut_7_62/screen_1741848439573.webp",
+            "semantic": "Next page or forward navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 836,
+                "left": 1120,
+                "right": 1163,
+                "top": 750
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_shortcut_7_4/screen_1741843389466.webp",
+            "semantic": "Next page or forward navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 728,
+                "left": 1135,
+                "right": 1171,
+                "top": 655
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_dark_shortcut_7_8/screen_1740304592427.webp",
+            "semantic": "Next page or forward navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 828,
+                "left": 1120,
+                "right": 1163,
+                "top": 742
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "Next page or forward navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 828,
+                "left": 1120,
+                "right": 1163,
+                "top": 742
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_shortcut_7_4/screen_1741793209694.webp",
+            "semantic": "Next page or forward navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 638,
+                "left": 35,
+                "right": 627,
+                "top": 587
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_shortcut_7_4/screen_1740147310082.webp",
+            "semantic": "Background customization option."
+        },
+        {
+            "bounds": {
+                "bottom": 1043,
+                "left": 57,
+                "right": 1091,
+                "top": 928
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "Background customization option."
+        },
+        {
+            "bounds": {
+                "bottom": 648,
+                "left": 35,
+                "right": 851,
+                "top": 578
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_3/screen_1741840495330.webp",
+            "semantic": "Background customization option."
+        },
+        {
+            "bounds": {
+                "bottom": 668,
+                "left": 37,
+                "right": 901,
+                "top": 595
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_3/screen_1741965980857.webp",
+            "semantic": "Background customization option."
+        },
+        {
+            "bounds": {
+                "bottom": 668,
+                "left": 37,
+                "right": 901,
+                "top": 595
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_7/screen_1741964075971.webp",
+            "semantic": "Background customization option."
+        },
+        {
+            "bounds": {
+                "bottom": 658,
+                "left": 37,
+                "right": 661,
+                "top": 605
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_3/screen_1740311910252.webp",
+            "semantic": "Background customization option."
+        },
+        {
+            "bounds": {
+                "bottom": 1039,
+                "left": 56,
+                "right": 1074,
+                "top": 927
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_dark_shortcut_7_43/screen_1742034946833.webp",
+            "semantic": "Background customization option."
+        },
+        {
+            "bounds": {
+                "bottom": 1039,
+                "left": 56,
+                "right": 1074,
+                "top": 927
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_shortcut_7_30/screen_1742034113354.webp",
+            "semantic": "Background customization option."
+        },
+        {
+            "bounds": {
+                "bottom": 974,
+                "left": 53,
+                "right": 965,
+                "top": 897
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_dark_shortcut_7_3/screen_1740562941280.webp",
+            "semantic": "Background customization option."
+        },
+        {
+            "bounds": {
+                "bottom": 948,
+                "left": 51,
+                "right": 966,
+                "top": 847
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_4/screen_1741962226492.webp",
+            "semantic": "Background customization option."
+        },
+        {
+            "bounds": {
+                "bottom": 948,
+                "left": 51,
+                "right": 966,
+                "top": 847
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_shortcut_7_4/screen_1741959171431.webp",
+            "semantic": "Background customization option."
+        },
+        {
+            "bounds": {
+                "bottom": 812,
+                "left": 43,
+                "right": 779,
+                "top": 750
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_dark_shortcut_7_3/screen_1740308735330.webp",
+            "semantic": "Background customization option."
+        },
+        {
+            "bounds": {
+                "bottom": 1047,
+                "left": 57,
+                "right": 1091,
+                "top": 941
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_black_shortcut_7_62/screen_1741848439573.webp",
+            "semantic": "Background customization option."
+        },
+        {
+            "bounds": {
+                "bottom": 1047,
+                "left": 57,
+                "right": 1091,
+                "top": 941
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_shortcut_7_4/screen_1741843389466.webp",
+            "semantic": "Background customization option."
+        },
+        {
+            "bounds": {
+                "bottom": 895,
+                "left": 49,
+                "right": 881,
+                "top": 830
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_dark_shortcut_7_8/screen_1740304592427.webp",
+            "semantic": "Background customization option."
+        },
+        {
+            "bounds": {
+                "bottom": 1043,
+                "left": 57,
+                "right": 1091,
+                "top": 928
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "Background customization option."
+        },
+        {
+            "bounds": {
+                "bottom": 1043,
+                "left": 57,
+                "right": 1091,
+                "top": 928
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_shortcut_7_4/screen_1741793209694.webp",
+            "semantic": "Background customization option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 639,
+                "left": 1539,
+                "right": 1565,
+                "top": 587
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_shortcut_7_4/screen_1740147310082.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        },
+        {
+            "bounds": {
+                "bottom": 1029,
+                "left": 1120,
+                "right": 1163,
+                "top": 943
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        },
+        {
+            "bounds": {
+                "bottom": 639,
+                "left": 1539,
+                "right": 1565,
+                "top": 587
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_3/screen_1741840495330.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        },
+        {
+            "bounds": {
+                "bottom": 658,
+                "left": 1536,
+                "right": 1563,
+                "top": 604
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_3/screen_1741965980857.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        },
+        {
+            "bounds": {
+                "bottom": 658,
+                "left": 1536,
+                "right": 1563,
+                "top": 604
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_7/screen_1741964075971.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        },
+        {
+            "bounds": {
+                "bottom": 658,
+                "left": 1536,
+                "right": 1563,
+                "top": 604
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_3/screen_1740311910252.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        },
+        {
+            "bounds": {
+                "bottom": 1025,
+                "left": 1102,
+                "right": 1144,
+                "top": 941
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_dark_shortcut_7_43/screen_1742034946833.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        },
+        {
+            "bounds": {
+                "bottom": 1025,
+                "left": 1102,
+                "right": 1144,
+                "top": 941
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_bigger_shortcut_7_30/screen_1742034113354.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        },
+        {
+            "bounds": {
+                "bottom": 975,
+                "left": 1108,
+                "right": 1147,
+                "top": 896
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Honor90GT_dark_shortcut_7_3/screen_1740562941280.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        },
+        {
+            "bounds": {
+                "bottom": 935,
+                "left": 991,
+                "right": 1029,
+                "top": 859
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_4/screen_1741962226492.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        },
+        {
+            "bounds": {
+                "bottom": 935,
+                "left": 991,
+                "right": 1029,
+                "top": 859
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_bigger_shortcut_7_4/screen_1741959171431.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        },
+        {
+            "bounds": {
+                "bottom": 813,
+                "left": 1005,
+                "right": 1037,
+                "top": 749
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/OPPO Reno9 Pro5G_dark_shortcut_7_3/screen_1740308735330.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        },
+        {
+            "bounds": {
+                "bottom": 1037,
+                "left": 1120,
+                "right": 1163,
+                "top": 951
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_black_shortcut_7_62/screen_1741848439573.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        },
+        {
+            "bounds": {
+                "bottom": 1037,
+                "left": 1120,
+                "right": 1163,
+                "top": 951
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_bigger_shortcut_7_4/screen_1741843389466.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        },
+        {
+            "bounds": {
+                "bottom": 899,
+                "left": 1135,
+                "right": 1171,
+                "top": 826
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/Redmik70U_dark_shortcut_7_8/screen_1740304592427.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        },
+        {
+            "bounds": {
+                "bottom": 1029,
+                "left": 1120,
+                "right": 1163,
+                "top": 943
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_dark_shortcut_7_14/screen_1741966201360.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        },
+        {
+            "bounds": {
+                "bottom": 1029,
+                "left": 1120,
+                "right": 1163,
+                "top": 943
+            },
+            "img_path": "../data/WeChat/WeChat_set_chat_background/redmi Turbo 14_bigger_shortcut_7_4/screen_1741793209694.webp",
+            "semantic": "Navigation arrow for moving forward through options or menus."
+        }
+    ]
+]

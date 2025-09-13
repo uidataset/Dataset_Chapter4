@@ -1,0 +1,146 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 266,
+                "left": 1273,
+                "right": 1527,
+                "top": 181
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro MRX-W39_shortcut_7_41/screen_1740150380522.webp",
+            "semantic": "Settings configuration button."
+        },
+        {
+            "bounds": {
+                "bottom": 266,
+                "left": 1273,
+                "right": 1527,
+                "top": 181
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_31/screen_1740412715927.webp",
+            "semantic": "Settings configuration button."
+        },
+        {
+            "bounds": {
+                "bottom": 239,
+                "left": 1292,
+                "right": 1534,
+                "top": 159
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_30/screen_1740313273717.webp",
+            "semantic": "Settings configuration button."
+        },
+        {
+            "bounds": {
+                "bottom": 407,
+                "left": 696,
+                "right": 1092,
+                "top": 276
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/Honor90GT_dark_shortcut_7_40/screen_1740570854710.webp",
+            "semantic": "Settings configuration button."
+        },
+        {
+            "bounds": {
+                "bottom": 384,
+                "left": 618,
+                "right": 981,
+                "top": 264
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/OPPO Reno9 Pro5G_dark_shortcut_7_32/screen_1740310147650.webp",
+            "semantic": "Settings configuration button."
+        },
+        {
+            "bounds": {
+                "bottom": 402,
+                "left": 719,
+                "right": 1110,
+                "top": 272
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/Redmik70U_dark_shortcut_7_43/screen_1740306420330.webp",
+            "semantic": "Settings configuration button."
+        },
+        {
+            "bounds": {
+                "bottom": 394,
+                "left": 719,
+                "right": 1110,
+                "top": 264
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/redmi Turbo 14_dark_shortcut_7_30/screen_1740323153349.webp",
+            "semantic": "Settings configuration button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 370,
+                "left": 1273,
+                "right": 1527,
+                "top": 285
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro MRX-W39_shortcut_7_41/screen_1740150380522.webp",
+            "semantic": "Start a chat or initiate a conversation."
+        },
+        {
+            "bounds": {
+                "bottom": 336,
+                "left": 1292,
+                "right": 1534,
+                "top": 256
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_30/screen_1740313273717.webp",
+            "semantic": "Start a chat or initiate a conversation."
+        },
+        {
+            "bounds": {
+                "bottom": 565,
+                "left": 696,
+                "right": 1092,
+                "top": 434
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/Honor90GT_dark_shortcut_7_40/screen_1740570854710.webp",
+            "semantic": "Start a chat or initiate a conversation."
+        },
+        {
+            "bounds": {
+                "bottom": 529,
+                "left": 618,
+                "right": 981,
+                "top": 409
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/OPPO Reno9 Pro5G_dark_shortcut_7_32/screen_1740310147650.webp",
+            "semantic": "Start a chat or initiate a conversation."
+        },
+        {
+            "bounds": {
+                "bottom": 370,
+                "left": 1273,
+                "right": 1527,
+                "top": 285
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_31/screen_1740412715927.webp",
+            "semantic": "Start a chat or initiate a conversation."
+        },
+        {
+            "bounds": {
+                "bottom": 559,
+                "left": 719,
+                "right": 1110,
+                "top": 429
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/Redmik70U_dark_shortcut_7_43/screen_1740306420330.webp",
+            "semantic": "Start a chat or initiate a conversation."
+        },
+        {
+            "bounds": {
+                "bottom": 551,
+                "left": 719,
+                "right": 1110,
+                "top": 421
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/redmi Turbo 14_dark_shortcut_7_30/screen_1740323153349.webp",
+            "semantic": "Start a chat or initiate a conversation."
+        }
+    ]
+]

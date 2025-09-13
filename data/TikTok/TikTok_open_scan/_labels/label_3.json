@@ -1,0 +1,882 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 1984,
+                "left": 766,
+                "right": 834,
+                "top": 1916
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_124/screen_1742314429052.webp",
+            "semantic": "Flashlight function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1984,
+                "left": 766,
+                "right": 834,
+                "top": 1916
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_101/screen_1742313211039.webp",
+            "semantic": "Flashlight function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1984,
+                "left": 766,
+                "right": 834,
+                "top": 1916
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/HUAWEl MatePad Pro MRX-W39_shortcut_7_25/screen_1742306793974.webp",
+            "semantic": "Flashlight function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1776,
+                "left": 547,
+                "right": 652,
+                "top": 1671
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_bigger_shortcut_7_197/screen_1742398885220.webp",
+            "semantic": "Flashlight function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1587,
+                "left": 492,
+                "right": 588,
+                "top": 1491
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_shortcut_7_69/screen_1742361971428.webp",
+            "semantic": "Flashlight function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1599,
+                "left": 492,
+                "right": 588,
+                "top": 1503
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/honorPlay8T_shortcut_7_158/screen_1741760947697.webp",
+            "semantic": "Flashlight function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1779,
+                "left": 558,
+                "right": 662,
+                "top": 1675
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_bigger_shortcut_7_69/screen_1742286045998.webp",
+            "semantic": "Flashlight function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 211,
+                "left": 1506,
+                "right": 1574,
+                "top": 143
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_124/screen_1742314429052.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 211,
+                "left": 1506,
+                "right": 1574,
+                "top": 143
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_101/screen_1742313211039.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 211,
+                "left": 1506,
+                "right": 1574,
+                "top": 143
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/HUAWEl MatePad Pro MRX-W39_shortcut_7_25/screen_1742306793974.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 323,
+                "left": 1056,
+                "right": 1161,
+                "top": 218
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_bigger_shortcut_7_197/screen_1742398885220.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 323,
+                "left": 1056,
+                "right": 1161,
+                "top": 218
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_dark_bigger_shortcut_7_188/screen_1742398265770.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 323,
+                "left": 1056,
+                "right": 1161,
+                "top": 218
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_dark_shortcut_7_151/screen_1742384969854.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 323,
+                "left": 1056,
+                "right": 1161,
+                "top": 218
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_shortcut_7_66/screen_1742310941157.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 269,
+                "left": 948,
+                "right": 1044,
+                "top": 173
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_bigger_shortcut_7_136/screen_1742383704691.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 269,
+                "left": 948,
+                "right": 1044,
+                "top": 173
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_dark_bigger_shortcut_7_176/screen_1742386816055.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 269,
+                "left": 948,
+                "right": 1044,
+                "top": 173
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_dark_shortcut_7_26/screen_1742278539830.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 269,
+                "left": 948,
+                "right": 1044,
+                "top": 173
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_shortcut_7_69/screen_1742361971428.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 318,
+                "left": 1077,
+                "right": 1181,
+                "top": 214
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Redmik70U_bigger_shortcut_7_189/screen_1742377606454.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 318,
+                "left": 1077,
+                "right": 1181,
+                "top": 214
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Redmik70U_dark_bigger_shortcut_7_244/screen_1742382849837.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 318,
+                "left": 1077,
+                "right": 1181,
+                "top": 214
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Redmik70U_dark_shortcut_7_258/screen_1742383417620.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 318,
+                "left": 1077,
+                "right": 1181,
+                "top": 214
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Redmik70U_shortcut_7_105/screen_1742353636048.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 293,
+                "left": 948,
+                "right": 1044,
+                "top": 197
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/honorPlay8T_shortcut_7_158/screen_1741760947697.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 310,
+                "left": 1077,
+                "right": 1181,
+                "top": 206
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_bigger_shortcut_7_69/screen_1742286045998.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 310,
+                "left": 1077,
+                "right": 1181,
+                "top": 206
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_dark_bigger_shortcut_7_146/screen_1742291637591.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 310,
+                "left": 1077,
+                "right": 1181,
+                "top": 206
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_dark_shortcut_7_109/screen_1742288820861.webp",
+            "semantic": "Flashlight activation button."
+        },
+        {
+            "bounds": {
+                "bottom": 310,
+                "left": 1077,
+                "right": 1181,
+                "top": 206
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_shortcut_7_9/screen_1742227819397.webp",
+            "semantic": "Flashlight activation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 711,
+                "right": 890,
+                "top": 2456
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_124/screen_1742314429052.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2557,
+                "left": 724,
+                "right": 876,
+                "top": 2458
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_101/screen_1742313211039.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2557,
+                "left": 724,
+                "right": 876,
+                "top": 2458
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/HUAWEl MatePad Pro MRX-W39_shortcut_7_25/screen_1742306793974.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 461,
+                "right": 739,
+                "top": 2504
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_bigger_shortcut_7_197/screen_1742398885220.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 461,
+                "right": 739,
+                "top": 2504
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_dark_bigger_shortcut_7_188/screen_1742398265770.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 473,
+                "right": 727,
+                "top": 2504
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_dark_shortcut_7_151/screen_1742384969854.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 473,
+                "right": 727,
+                "top": 2504
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_shortcut_7_66/screen_1742310941157.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 414,
+                "right": 666,
+                "top": 2253
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_bigger_shortcut_7_136/screen_1742383704691.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 414,
+                "right": 666,
+                "top": 2253
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_dark_bigger_shortcut_7_176/screen_1742386816055.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2396,
+                "left": 434,
+                "right": 647,
+                "top": 2257
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_dark_shortcut_7_26/screen_1742278539830.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2396,
+                "left": 434,
+                "right": 647,
+                "top": 2257
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_shortcut_7_69/screen_1742361971428.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 474,
+                "right": 747,
+                "top": 2553
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Redmik70U_bigger_shortcut_7_189/screen_1742377606454.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 474,
+                "right": 747,
+                "top": 2553
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Redmik70U_dark_bigger_shortcut_7_244/screen_1742382849837.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2705,
+                "left": 495,
+                "right": 726,
+                "top": 2560
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Redmik70U_dark_shortcut_7_258/screen_1742383417620.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2705,
+                "left": 495,
+                "right": 726,
+                "top": 2560
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Redmik70U_shortcut_7_105/screen_1742353636048.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2408,
+                "left": 434,
+                "right": 647,
+                "top": 2269
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/honorPlay8T_shortcut_7_158/screen_1741760947697.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 474,
+                "right": 747,
+                "top": 2501
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_bigger_shortcut_7_69/screen_1742286045998.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 474,
+                "right": 747,
+                "top": 2501
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_dark_bigger_shortcut_7_146/screen_1742291637591.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2655,
+                "left": 495,
+                "right": 726,
+                "top": 2505
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_dark_shortcut_7_109/screen_1742288820861.webp",
+            "semantic": "QR code scanning function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2655,
+                "left": 495,
+                "right": 726,
+                "top": 2505
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_shortcut_7_9/screen_1742227819397.webp",
+            "semantic": "QR code scanning function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 890,
+                "right": 1069,
+                "top": 2456
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_124/screen_1742314429052.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2655,
+                "left": 726,
+                "right": 957,
+                "top": 2505
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_shortcut_7_9/screen_1742227819397.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2655,
+                "left": 726,
+                "right": 957,
+                "top": 2505
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_dark_shortcut_7_109/screen_1742288820861.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 747,
+                "right": 1020,
+                "top": 2501
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_dark_bigger_shortcut_7_146/screen_1742291637591.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 747,
+                "right": 1020,
+                "top": 2501
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_bigger_shortcut_7_69/screen_1742286045998.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2408,
+                "left": 647,
+                "right": 860,
+                "top": 2269
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/honorPlay8T_shortcut_7_158/screen_1741760947697.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2705,
+                "left": 726,
+                "right": 957,
+                "top": 2560
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Redmik70U_shortcut_7_105/screen_1742353636048.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2705,
+                "left": 726,
+                "right": 957,
+                "top": 2560
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Redmik70U_dark_shortcut_7_258/screen_1742383417620.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 747,
+                "right": 1020,
+                "top": 2553
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Redmik70U_dark_bigger_shortcut_7_244/screen_1742382849837.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 747,
+                "right": 1020,
+                "top": 2553
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Redmik70U_bigger_shortcut_7_189/screen_1742377606454.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2396,
+                "left": 647,
+                "right": 860,
+                "top": 2257
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_shortcut_7_69/screen_1742361971428.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2396,
+                "left": 647,
+                "right": 860,
+                "top": 2257
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_dark_shortcut_7_26/screen_1742278539830.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 666,
+                "right": 918,
+                "top": 2253
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_dark_bigger_shortcut_7_176/screen_1742386816055.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 666,
+                "right": 918,
+                "top": 2253
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_bigger_shortcut_7_136/screen_1742383704691.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 727,
+                "right": 981,
+                "top": 2504
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_shortcut_7_66/screen_1742310941157.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 727,
+                "right": 981,
+                "top": 2504
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_dark_shortcut_7_151/screen_1742384969854.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 739,
+                "right": 1017,
+                "top": 2504
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_dark_bigger_shortcut_7_188/screen_1742398265770.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 739,
+                "right": 1017,
+                "top": 2504
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_bigger_shortcut_7_197/screen_1742398885220.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2557,
+                "left": 876,
+                "right": 1028,
+                "top": 2458
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/HUAWEl MatePad Pro MRX-W39_shortcut_7_25/screen_1742306793974.webp",
+            "semantic": "\"Object recognition\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2557,
+                "left": 876,
+                "right": 1028,
+                "top": 2458
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_101/screen_1742313211039.webp",
+            "semantic": "\"Object recognition\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 1069,
+                "right": 1207,
+                "top": 2456
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_124/screen_1742314429052.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2557,
+                "left": 1028,
+                "right": 1148,
+                "top": 2458
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_101/screen_1742313211039.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2557,
+                "left": 1028,
+                "right": 1148,
+                "top": 2458
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/HUAWEl MatePad Pro MRX-W39_shortcut_7_25/screen_1742306793974.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 1017,
+                "right": 1200,
+                "top": 2504
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_bigger_shortcut_7_197/screen_1742398885220.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 1017,
+                "right": 1200,
+                "top": 2504
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_dark_bigger_shortcut_7_188/screen_1742398265770.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 981,
+                "right": 1179,
+                "top": 2504
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_dark_shortcut_7_151/screen_1742384969854.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 981,
+                "right": 1179,
+                "top": 2504
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Honor90GT_shortcut_7_66/screen_1742310941157.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 918,
+                "right": 1080,
+                "top": 2253
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_bigger_shortcut_7_136/screen_1742383704691.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 918,
+                "right": 1080,
+                "top": 2253
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_dark_bigger_shortcut_7_176/screen_1742386816055.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2396,
+                "left": 860,
+                "right": 1028,
+                "top": 2257
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_dark_shortcut_7_26/screen_1742278539830.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2396,
+                "left": 860,
+                "right": 1028,
+                "top": 2257
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/IQOONeo5_shortcut_7_69/screen_1742361971428.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 1020,
+                "right": 1220,
+                "top": 2553
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Redmik70U_bigger_shortcut_7_189/screen_1742377606454.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 1020,
+                "right": 1220,
+                "top": 2553
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Redmik70U_dark_bigger_shortcut_7_244/screen_1742382849837.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2705,
+                "left": 957,
+                "right": 1139,
+                "top": 2560
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Redmik70U_dark_shortcut_7_258/screen_1742383417620.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2705,
+                "left": 957,
+                "right": 1139,
+                "top": 2560
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/Redmik70U_shortcut_7_105/screen_1742353636048.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2408,
+                "left": 860,
+                "right": 1028,
+                "top": 2269
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/honorPlay8T_shortcut_7_158/screen_1741760947697.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 1020,
+                "right": 1220,
+                "top": 2501
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_bigger_shortcut_7_69/screen_1742286045998.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 1020,
+                "right": 1220,
+                "top": 2501
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_dark_bigger_shortcut_7_146/screen_1742291637591.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2655,
+                "left": 957,
+                "right": 1139,
+                "top": 2505
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_dark_shortcut_7_109/screen_1742288820861.webp",
+            "semantic": "Help or FAQ section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2655,
+                "left": 957,
+                "right": 1139,
+                "top": 2505
+            },
+            "img_path": "../data/TikTok/TikTok_open_scan/redmi Turbo 14_shortcut_7_9/screen_1742227819397.webp",
+            "semantic": "Help or FAQ section button."
+        }
+    ]
+]

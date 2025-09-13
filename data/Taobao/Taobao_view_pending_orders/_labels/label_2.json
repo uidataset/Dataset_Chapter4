@@ -1,0 +1,2788 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 0,
+                "right": 266,
+                "top": 172
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_shortcut_7_49/screen_1740151004825.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 52,
+                "right": 150,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 0,
+                "right": 266,
+                "top": 183
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_13/screen_1741841017564.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 0,
+                "right": 266,
+                "top": 183
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_22/screen_1741841502354.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 0,
+                "right": 266,
+                "top": 152
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_35/screen_1741965235444.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 52,
+                "right": 170,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 393,
+                "left": 51,
+                "right": 167,
+                "top": 262
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_15/screen_1742032427783.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 527,
+                "left": 51,
+                "right": 167,
+                "top": 396
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_5/screen_1741868079762.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 488,
+                "left": 12,
+                "right": 168,
+                "top": 370
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_15/screen_1741962644501.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 367,
+                "left": 47,
+                "right": 151,
+                "top": 249
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_25/screen_1741963130456.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 488,
+                "left": 47,
+                "right": 151,
+                "top": 370
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_14/screen_1741959908904.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 488,
+                "left": 47,
+                "right": 133,
+                "top": 370
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_26/screen_1741961152551.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 367,
+                "left": 47,
+                "right": 133,
+                "top": 249
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_dark_shortcut_7_38/screen_1740310518916.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 52,
+                "right": 170,
+                "top": 397
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_31/screen_1741845902114.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 52,
+                "right": 150,
+                "top": 397
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_43/screen_1741846921398.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 52,
+                "right": 150,
+                "top": 397
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_style_shortcut_7_77/screen_1741849654164.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 52,
+                "right": 150,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 52,
+                "right": 170,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 52,
+                "right": 170,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_20/screen_1741794661936.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 52,
+                "right": 150,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_34/screen_1741835503398.webp",
+            "semantic": "\"View all orders\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 383,
+                "left": 39,
+                "right": 137,
+                "top": 266
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_dark_shortcut_7_36/screen_1740325215808.webp",
+            "semantic": "\"View all orders\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 266,
+                "right": 532,
+                "top": 172
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_shortcut_7_49/screen_1740151004825.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 228,
+                "right": 405,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 266,
+                "right": 532,
+                "top": 183
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_13/screen_1741841017564.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 266,
+                "right": 532,
+                "top": 183
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_22/screen_1741841502354.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 266,
+                "right": 532,
+                "top": 152
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_35/screen_1741965235444.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 248,
+                "right": 443,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 393,
+                "left": 243,
+                "right": 435,
+                "top": 262
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_15/screen_1742032427783.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 527,
+                "left": 243,
+                "right": 435,
+                "top": 396
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_5/screen_1741868079762.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 488,
+                "left": 203,
+                "right": 359,
+                "top": 370
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_15/screen_1741962644501.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 367,
+                "left": 221,
+                "right": 395,
+                "top": 249
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_25/screen_1741963130456.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 488,
+                "left": 221,
+                "right": 395,
+                "top": 370
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_14/screen_1741959908904.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 488,
+                "left": 203,
+                "right": 359,
+                "top": 370
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_26/screen_1741961152551.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 367,
+                "left": 203,
+                "right": 359,
+                "top": 249
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_dark_shortcut_7_38/screen_1740310518916.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 248,
+                "right": 443,
+                "top": 397
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_31/screen_1741845902114.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 228,
+                "right": 405,
+                "top": 397
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_43/screen_1741846921398.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 228,
+                "right": 405,
+                "top": 397
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_style_shortcut_7_77/screen_1741849654164.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 228,
+                "right": 405,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 248,
+                "right": 443,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 248,
+                "right": 443,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_20/screen_1741794661936.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 228,
+                "right": 405,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_34/screen_1741835503398.webp",
+            "semantic": "\"Pending payment\" status label."
+        },
+        {
+            "bounds": {
+                "bottom": 383,
+                "left": 215,
+                "right": 392,
+                "top": 266
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_dark_shortcut_7_36/screen_1740325215808.webp",
+            "semantic": "\"Pending payment\" status label."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 532,
+                "right": 798,
+                "top": 172
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_shortcut_7_49/screen_1740151004825.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 483,
+                "right": 630,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 532,
+                "right": 798,
+                "top": 183
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_13/screen_1741841017564.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 532,
+                "right": 798,
+                "top": 183
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_22/screen_1741841502354.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 532,
+                "right": 798,
+                "top": 152
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_35/screen_1741965235444.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 521,
+                "right": 698,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 393,
+                "left": 511,
+                "right": 685,
+                "top": 262
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_15/screen_1742032427783.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 527,
+                "left": 511,
+                "right": 685,
+                "top": 396
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_5/screen_1741868079762.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 488,
+                "left": 429,
+                "right": 558,
+                "top": 370
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_15/screen_1741962644501.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 367,
+                "left": 465,
+                "right": 621,
+                "top": 249
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_25/screen_1741963130456.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 488,
+                "left": 465,
+                "right": 621,
+                "top": 370
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_14/screen_1741959908904.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 488,
+                "left": 429,
+                "right": 558,
+                "top": 370
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_26/screen_1741961152551.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 367,
+                "left": 429,
+                "right": 558,
+                "top": 249
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_dark_shortcut_7_38/screen_1740310518916.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 521,
+                "right": 698,
+                "top": 397
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_31/screen_1741845902114.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 483,
+                "right": 630,
+                "top": 397
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_43/screen_1741846921398.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 483,
+                "right": 630,
+                "top": 397
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_style_shortcut_7_77/screen_1741849654164.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 483,
+                "right": 630,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 521,
+                "right": 698,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 521,
+                "right": 698,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_20/screen_1741794661936.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 483,
+                "right": 630,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_34/screen_1741835503398.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 383,
+                "left": 470,
+                "right": 617,
+                "top": 266
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_dark_shortcut_7_36/screen_1740325215808.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 798,
+                "right": 1064,
+                "top": 172
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_shortcut_7_49/screen_1740151004825.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 708,
+                "right": 855,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 798,
+                "right": 1064,
+                "top": 183
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_13/screen_1741841017564.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 532,
+                "right": 798,
+                "top": 183
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_22/screen_1741841502354.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 798,
+                "right": 1064,
+                "top": 152
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_35/screen_1741965235444.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 776,
+                "right": 953,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 393,
+                "left": 761,
+                "right": 935,
+                "top": 262
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_15/screen_1742032427783.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 527,
+                "left": 761,
+                "right": 935,
+                "top": 396
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_5/screen_1741868079762.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 488,
+                "left": 628,
+                "right": 757,
+                "top": 370
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_15/screen_1741962644501.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 367,
+                "left": 465,
+                "right": 621,
+                "top": 249
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_25/screen_1741963130456.webp",
+            "semantic": "\"Pending Shipment\" status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 488,
+                "left": 691,
+                "right": 847,
+                "top": 370
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_14/screen_1741959908904.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 488,
+                "left": 628,
+                "right": 757,
+                "top": 370
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_26/screen_1741961152551.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 367,
+                "left": 628,
+                "right": 757,
+                "top": 249
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_dark_shortcut_7_38/screen_1740310518916.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 776,
+                "right": 953,
+                "top": 397
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_31/screen_1741845902114.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 708,
+                "right": 855,
+                "top": 397
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_43/screen_1741846921398.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 708,
+                "right": 855,
+                "top": 397
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_style_shortcut_7_77/screen_1741849654164.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 708,
+                "right": 855,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 776,
+                "right": 953,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 776,
+                "right": 953,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_20/screen_1741794661936.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 708,
+                "right": 855,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_34/screen_1741835503398.webp",
+            "semantic": "Pending receipt of goods."
+        },
+        {
+            "bounds": {
+                "bottom": 383,
+                "left": 695,
+                "right": 842,
+                "top": 266
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_dark_shortcut_7_36/screen_1740325215808.webp",
+            "semantic": "Pending receipt of goods."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 1064,
+                "right": 1330,
+                "top": 172
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_shortcut_7_49/screen_1740151004825.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 933,
+                "right": 1149,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 1064,
+                "right": 1330,
+                "top": 183
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_13/screen_1741841017564.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 1064,
+                "right": 1330,
+                "top": 183
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_22/screen_1741841502354.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 1064,
+                "right": 1330,
+                "top": 152
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_35/screen_1741965235444.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 1031,
+                "right": 1220,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 393,
+                "left": 973,
+                "right": 1200,
+                "top": 262
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_15/screen_1742032427783.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 527,
+                "left": 1011,
+                "right": 1200,
+                "top": 396
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_5/screen_1741868079762.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 488,
+                "left": 827,
+                "right": 1018,
+                "top": 370
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_15/screen_1741962644501.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 367,
+                "left": 917,
+                "right": 1080,
+                "top": 249
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_25/screen_1741963130456.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 488,
+                "left": 917,
+                "right": 1080,
+                "top": 370
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_14/screen_1741959908904.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 488,
+                "left": 827,
+                "right": 1018,
+                "top": 370
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_26/screen_1741961152551.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 367,
+                "left": 827,
+                "right": 1018,
+                "top": 249
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_dark_shortcut_7_38/screen_1740310518916.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 1031,
+                "right": 1220,
+                "top": 397
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_31/screen_1741845902114.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 933,
+                "right": 1145,
+                "top": 397
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_43/screen_1741846921398.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 933,
+                "right": 1145,
+                "top": 397
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_style_shortcut_7_77/screen_1741849654164.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 933,
+                "right": 1149,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 1031,
+                "right": 1220,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 1031,
+                "right": 1220,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_20/screen_1741794661936.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 933,
+                "right": 1149,
+                "top": 387
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_34/screen_1741835503398.webp",
+            "semantic": "Refund or after-sales service button."
+        },
+        {
+            "bounds": {
+                "bottom": 383,
+                "left": 920,
+                "right": 1136,
+                "top": 266
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_dark_shortcut_7_36/screen_1740325215808.webp",
+            "semantic": "Refund or after-sales service button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 151,
+                "left": 21,
+                "right": 72,
+                "top": 100
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_shortcut_7_49/screen_1740151004825.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 217,
+                "left": 33,
+                "right": 111,
+                "top": 139
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 147,
+                "left": 31,
+                "right": 74,
+                "top": 104
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_13/screen_1741841017564.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 147,
+                "left": 31,
+                "right": 74,
+                "top": 104
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_22/screen_1741841502354.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 132,
+                "left": 20,
+                "right": 68,
+                "top": 84
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_23/screen_1741964640548.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 132,
+                "left": 20,
+                "right": 68,
+                "top": 84
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_35/screen_1741965235444.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 217,
+                "left": 33,
+                "right": 111,
+                "top": 139
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 227,
+                "left": 32,
+                "right": 109,
+                "top": 150
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_15/screen_1742032427783.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 227,
+                "left": 32,
+                "right": 109,
+                "top": 150
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_5/screen_1741868079762.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 29,
+                "right": 98,
+                "top": 149
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_15/screen_1741962644501.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 29,
+                "right": 98,
+                "top": 149
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_25/screen_1741963130456.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 29,
+                "right": 98,
+                "top": 149
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_14/screen_1741959908904.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 29,
+                "right": 98,
+                "top": 149
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_26/screen_1741961152551.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 29,
+                "right": 98,
+                "top": 149
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_dark_shortcut_7_38/screen_1740310518916.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 227,
+                "left": 33,
+                "right": 111,
+                "top": 149
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_31/screen_1741845902114.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 227,
+                "left": 33,
+                "right": 111,
+                "top": 149
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_43/screen_1741846921398.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 227,
+                "left": 33,
+                "right": 111,
+                "top": 149
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_style_shortcut_7_77/screen_1741849654164.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 217,
+                "left": 33,
+                "right": 111,
+                "top": 139
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 217,
+                "left": 33,
+                "right": 111,
+                "top": 139
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 217,
+                "left": 33,
+                "right": 111,
+                "top": 139
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_20/screen_1741794661936.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 217,
+                "left": 33,
+                "right": 111,
+                "top": 139
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_34/screen_1741835503398.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 210,
+                "left": 48,
+                "right": 113,
+                "top": 145
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_dark_shortcut_7_36/screen_1740325215808.webp",
+            "semantic": "Navigation or \"Back\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 135,
+                "left": 1450,
+                "right": 1501,
+                "top": 84
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_shortcut_7_49/screen_1740151004825.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 192,
+                "left": 992,
+                "right": 1070,
+                "top": 114
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 159,
+                "left": 1422,
+                "right": 1490,
+                "top": 91
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_13/screen_1741841017564.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 159,
+                "left": 1422,
+                "right": 1490,
+                "top": 91
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_22/screen_1741841502354.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 116,
+                "left": 1460,
+                "right": 1508,
+                "top": 68
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_23/screen_1741964640548.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 116,
+                "left": 1460,
+                "right": 1508,
+                "top": 68
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_35/screen_1741965235444.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 192,
+                "left": 992,
+                "right": 1070,
+                "top": 114
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 202,
+                "left": 975,
+                "right": 1052,
+                "top": 125
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_15/screen_1742032427783.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 202,
+                "left": 975,
+                "right": 1052,
+                "top": 125
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_5/screen_1741868079762.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 195,
+                "left": 878,
+                "right": 947,
+                "top": 126
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_15/screen_1741962644501.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 195,
+                "left": 878,
+                "right": 947,
+                "top": 126
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_25/screen_1741963130456.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 195,
+                "left": 878,
+                "right": 947,
+                "top": 126
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_14/screen_1741959908904.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 195,
+                "left": 878,
+                "right": 947,
+                "top": 126
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_26/screen_1741961152551.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 195,
+                "left": 878,
+                "right": 947,
+                "top": 126
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_dark_shortcut_7_38/screen_1740310518916.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 204,
+                "left": 992,
+                "right": 1070,
+                "top": 126
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_31/screen_1741845902114.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 204,
+                "left": 992,
+                "right": 1070,
+                "top": 126
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_43/screen_1741846921398.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 204,
+                "left": 992,
+                "right": 1070,
+                "top": 126
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_style_shortcut_7_77/screen_1741849654164.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 192,
+                "left": 992,
+                "right": 1070,
+                "top": 114
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 192,
+                "left": 992,
+                "right": 1070,
+                "top": 114
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 192,
+                "left": 992,
+                "right": 1070,
+                "top": 114
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_20/screen_1741794661936.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 192,
+                "left": 992,
+                "right": 1070,
+                "top": 114
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_34/screen_1741835503398.webp",
+            "semantic": "Filter or search customization function button."
+        },
+        {
+            "bounds": {
+                "bottom": 200,
+                "left": 978,
+                "right": 1025,
+                "top": 156
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_dark_shortcut_7_36/screen_1740325215808.webp",
+            "semantic": "Filter or search customization function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 149,
+                "left": 1524,
+                "right": 1575,
+                "top": 98
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_shortcut_7_49/screen_1740151004825.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 151,
+                "left": 1513,
+                "right": 1564,
+                "top": 100
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_13/screen_1741841017564.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 151,
+                "left": 1513,
+                "right": 1564,
+                "top": 100
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_22/screen_1741841502354.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 130,
+                "left": 1530,
+                "right": 1578,
+                "top": 82
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_23/screen_1741964640548.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 130,
+                "left": 1530,
+                "right": 1578,
+                "top": 82
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_35/screen_1741965235444.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 215,
+                "left": 1106,
+                "right": 1184,
+                "top": 137
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 215,
+                "left": 1106,
+                "right": 1184,
+                "top": 137
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 224,
+                "left": 1087,
+                "right": 1165,
+                "top": 146
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_15/screen_1742032427783.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 224,
+                "left": 1087,
+                "right": 1165,
+                "top": 146
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_5/screen_1741868079762.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 217,
+                "left": 978,
+                "right": 1050,
+                "top": 145
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_15/screen_1741962644501.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 217,
+                "left": 978,
+                "right": 1050,
+                "top": 145
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_25/screen_1741963130456.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 217,
+                "left": 978,
+                "right": 1050,
+                "top": 145
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_14/screen_1741959908904.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 217,
+                "left": 978,
+                "right": 1050,
+                "top": 145
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_26/screen_1741961152551.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 217,
+                "left": 978,
+                "right": 1050,
+                "top": 145
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_dark_shortcut_7_38/screen_1740310518916.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 225,
+                "left": 1106,
+                "right": 1184,
+                "top": 147
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_31/screen_1741845902114.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 225,
+                "left": 1106,
+                "right": 1184,
+                "top": 147
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_43/screen_1741846921398.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 225,
+                "left": 1106,
+                "right": 1184,
+                "top": 147
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_style_shortcut_7_77/screen_1741849654164.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 215,
+                "left": 1106,
+                "right": 1184,
+                "top": 137
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 215,
+                "left": 1106,
+                "right": 1184,
+                "top": 137
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 215,
+                "left": 1106,
+                "right": 1184,
+                "top": 137
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_20/screen_1741794661936.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 215,
+                "left": 1106,
+                "right": 1184,
+                "top": 137
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_34/screen_1741835503398.webp",
+            "semantic": "Options or settings menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 1090,
+                "right": 1168,
+                "top": 140
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_dark_shortcut_7_36/screen_1740325215808.webp",
+            "semantic": "Options or settings menu button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 164,
+                "left": 1454,
+                "right": 1496,
+                "top": 135
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_shortcut_7_49/screen_1740151004825.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 998,
+                "right": 1064,
+                "top": 192
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 998,
+                "right": 1064,
+                "top": 192
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 144,
+                "left": 1464,
+                "right": 1504,
+                "top": 116
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_23/screen_1741964640548.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 144,
+                "left": 1464,
+                "right": 1504,
+                "top": 116
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_35/screen_1741965235444.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 245,
+                "left": 981,
+                "right": 1045,
+                "top": 202
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_15/screen_1742032427783.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 245,
+                "left": 981,
+                "right": 1045,
+                "top": 202
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_5/screen_1741868079762.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 883,
+                "right": 941,
+                "top": 195
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_15/screen_1741962644501.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 883,
+                "right": 941,
+                "top": 195
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_25/screen_1741963130456.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 883,
+                "right": 941,
+                "top": 195
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_14/screen_1741959908904.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 883,
+                "right": 941,
+                "top": 195
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_26/screen_1741961152551.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 883,
+                "right": 941,
+                "top": 195
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_dark_shortcut_7_38/screen_1740310518916.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 245,
+                "left": 998,
+                "right": 1064,
+                "top": 204
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_31/screen_1741845902114.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 245,
+                "left": 998,
+                "right": 1064,
+                "top": 204
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_43/screen_1741846921398.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 245,
+                "left": 998,
+                "right": 1064,
+                "top": 204
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_style_shortcut_7_77/screen_1741849654164.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 998,
+                "right": 1064,
+                "top": 192
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 998,
+                "right": 1064,
+                "top": 192
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 998,
+                "right": 1064,
+                "top": 192
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_20/screen_1741794661936.webp",
+            "semantic": "Filter or sort option button."
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 998,
+                "right": 1064,
+                "top": 192
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_34/screen_1741835503398.webp",
+            "semantic": "Filter or sort option button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 140,
+                "left": 108,
+                "right": 138,
+                "top": 110
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_shortcut_7_49/screen_1740151004825.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 201,
+                "left": 166,
+                "right": 212,
+                "top": 155
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 201,
+                "left": 166,
+                "right": 212,
+                "top": 155
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 143,
+                "left": 142,
+                "right": 176,
+                "top": 109
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_13/screen_1741841017564.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 143,
+                "left": 142,
+                "right": 176,
+                "top": 109
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_22/screen_1741841502354.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 122,
+                "left": 102,
+                "right": 130,
+                "top": 94
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_23/screen_1741964640548.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 122,
+                "left": 102,
+                "right": 130,
+                "top": 94
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_35/screen_1741965235444.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 211,
+                "left": 164,
+                "right": 209,
+                "top": 166
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_15/screen_1742032427783.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 211,
+                "left": 164,
+                "right": 209,
+                "top": 166
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_5/screen_1741868079762.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 203,
+                "left": 147,
+                "right": 187,
+                "top": 163
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_15/screen_1741962644501.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 203,
+                "left": 147,
+                "right": 187,
+                "top": 163
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_25/screen_1741963130456.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 203,
+                "left": 147,
+                "right": 187,
+                "top": 163
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_14/screen_1741959908904.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 203,
+                "left": 147,
+                "right": 187,
+                "top": 163
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_26/screen_1741961152551.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 203,
+                "left": 147,
+                "right": 187,
+                "top": 163
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_dark_shortcut_7_38/screen_1740310518916.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 211,
+                "left": 166,
+                "right": 212,
+                "top": 165
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_31/screen_1741845902114.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 211,
+                "left": 166,
+                "right": 212,
+                "top": 165
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_43/screen_1741846921398.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 211,
+                "left": 166,
+                "right": 212,
+                "top": 165
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_style_shortcut_7_77/screen_1741849654164.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 201,
+                "left": 166,
+                "right": 212,
+                "top": 155
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 201,
+                "left": 166,
+                "right": 212,
+                "top": 155
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 201,
+                "left": 166,
+                "right": 212,
+                "top": 155
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_20/screen_1741794661936.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 201,
+                "left": 166,
+                "right": 212,
+                "top": 155
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_34/screen_1741835503398.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 204,
+                "left": 218,
+                "right": 270,
+                "top": 152
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_dark_shortcut_7_36/screen_1740325215808.webp",
+            "semantic": "Search function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 160,
+                "left": 149,
+                "right": 1427,
+                "top": 90
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_shortcut_7_49/screen_1740151004825.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 232,
+                "left": 228,
+                "right": 956,
+                "top": 125
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 232,
+                "left": 228,
+                "right": 956,
+                "top": 125
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 161,
+                "left": 197,
+                "right": 1407,
+                "top": 91
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_13/screen_1741841017564.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 161,
+                "left": 197,
+                "right": 1407,
+                "top": 91
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_22/screen_1741841502354.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 141,
+                "left": 140,
+                "right": 1438,
+                "top": 75
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_23/screen_1741964640548.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 141,
+                "left": 140,
+                "right": 1438,
+                "top": 75
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_35/screen_1741965235444.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 241,
+                "left": 225,
+                "right": 940,
+                "top": 135
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_15/screen_1742032427783.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 241,
+                "left": 225,
+                "right": 940,
+                "top": 135
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_5/screen_1741868079762.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 230,
+                "left": 201,
+                "right": 846,
+                "top": 135
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_15/screen_1741962644501.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 230,
+                "left": 201,
+                "right": 846,
+                "top": 135
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_25/screen_1741963130456.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 230,
+                "left": 201,
+                "right": 846,
+                "top": 135
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_14/screen_1741959908904.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 230,
+                "left": 201,
+                "right": 846,
+                "top": 135
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_26/screen_1741961152551.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 230,
+                "left": 201,
+                "right": 846,
+                "top": 135
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_dark_shortcut_7_38/screen_1740310518916.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 242,
+                "left": 228,
+                "right": 956,
+                "top": 135
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_31/screen_1741845902114.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 242,
+                "left": 228,
+                "right": 956,
+                "top": 135
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_43/screen_1741846921398.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 242,
+                "left": 228,
+                "right": 956,
+                "top": 135
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_style_shortcut_7_77/screen_1741849654164.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 232,
+                "left": 228,
+                "right": 956,
+                "top": 125
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 232,
+                "left": 228,
+                "right": 956,
+                "top": 125
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 232,
+                "left": 228,
+                "right": 956,
+                "top": 125
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_20/screen_1741794661936.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 232,
+                "left": 228,
+                "right": 956,
+                "top": 125
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_34/screen_1741835503398.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 232,
+                "left": 303,
+                "right": 927,
+                "top": 125
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_dark_shortcut_7_36/screen_1740325215808.webp",
+            "semantic": "Search function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 377,
+                "left": 722,
+                "right": 875,
+                "top": 278
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_shortcut_7_49/screen_1740151004825.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 700,
+                "left": 493,
+                "right": 727,
+                "top": 549
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 700,
+                "left": 493,
+                "right": 727,
+                "top": 549
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 513,
+                "left": 714,
+                "right": 884,
+                "top": 343
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_13/screen_1741841017564.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 513,
+                "left": 714,
+                "right": 884,
+                "top": 343
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_22/screen_1741841502354.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 345,
+                "left": 728,
+                "right": 872,
+                "top": 252
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_35/screen_1741965235444.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 571,
+                "left": 485,
+                "right": 715,
+                "top": 422
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_15/screen_1742032427783.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 705,
+                "left": 485,
+                "right": 715,
+                "top": 556
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_5/screen_1741868079762.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 648,
+                "left": 436,
+                "right": 643,
+                "top": 514
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_15/screen_1741962644501.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 527,
+                "left": 436,
+                "right": 643,
+                "top": 393
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_25/screen_1741963130456.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 648,
+                "left": 436,
+                "right": 643,
+                "top": 514
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_14/screen_1741959908904.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 648,
+                "left": 436,
+                "right": 643,
+                "top": 514
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_26/screen_1741961152551.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 527,
+                "left": 436,
+                "right": 643,
+                "top": 393
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_dark_shortcut_7_38/screen_1740310518916.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 710,
+                "left": 493,
+                "right": 727,
+                "top": 559
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_31/screen_1741845902114.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 710,
+                "left": 493,
+                "right": 727,
+                "top": 559
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_43/screen_1741846921398.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 710,
+                "left": 493,
+                "right": 727,
+                "top": 559
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_style_shortcut_7_77/screen_1741849654164.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 700,
+                "left": 493,
+                "right": 727,
+                "top": 549
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 700,
+                "left": 493,
+                "right": 727,
+                "top": 549
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 700,
+                "left": 493,
+                "right": 727,
+                "top": 549
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_20/screen_1741794661936.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 700,
+                "left": 493,
+                "right": 727,
+                "top": 549
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_34/screen_1741835503398.webp",
+            "semantic": "Pending order icon."
+        },
+        {
+            "bounds": {
+                "bottom": 772,
+                "left": 480,
+                "right": 740,
+                "top": 512
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_dark_shortcut_7_36/screen_1740325215808.webp",
+            "semantic": "Pending order icon."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 430,
+                "left": 0,
+                "right": 1598,
+                "top": 394
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_shortcut_7_49/screen_1740151004825.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 778,
+                "left": 0,
+                "right": 1220,
+                "top": 726
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 778,
+                "left": 0,
+                "right": 1220,
+                "top": 726
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 580,
+                "left": 0,
+                "right": 1598,
+                "top": 534
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_13/screen_1741841017564.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 580,
+                "left": 0,
+                "right": 1598,
+                "top": 534
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_22/screen_1741841502354.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 394,
+                "left": 0,
+                "right": 1600,
+                "top": 361
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_35/screen_1741965235444.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 649,
+                "left": 0,
+                "right": 1200,
+                "top": 597
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_15/screen_1742032427783.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 783,
+                "left": 0,
+                "right": 1200,
+                "top": 731
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Honor90GT_bigger_shortcut_7_5/screen_1741868079762.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 718,
+                "left": 0,
+                "right": 1080,
+                "top": 671
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_15/screen_1741962644501.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 597,
+                "left": 0,
+                "right": 1080,
+                "top": 550
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_25/screen_1741963130456.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 718,
+                "left": 0,
+                "right": 1080,
+                "top": 671
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_14/screen_1741959908904.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 718,
+                "left": 0,
+                "right": 1080,
+                "top": 671
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_bigger_shortcut_7_26/screen_1741961152551.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 597,
+                "left": 0,
+                "right": 1080,
+                "top": 550
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/OPPO Reno9 Pro5G_dark_shortcut_7_38/screen_1740310518916.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 782,
+                "left": 0,
+                "right": 1220,
+                "top": 736
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_31/screen_1741845902114.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 782,
+                "left": 0,
+                "right": 1220,
+                "top": 736
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_bigger_shortcut_7_43/screen_1741846921398.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 782,
+                "left": 0,
+                "right": 1220,
+                "top": 736
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/Redmik70U_style_shortcut_7_77/screen_1741849654164.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 778,
+                "left": 0,
+                "right": 1220,
+                "top": 726
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_2/screen_1741965647814.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 778,
+                "left": 0,
+                "right": 1220,
+                "top": 726
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_dark_shortcut_7_25/screen_1741966871510.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 778,
+                "left": 0,
+                "right": 1220,
+                "top": 726
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_20/screen_1741794661936.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 778,
+                "left": 0,
+                "right": 1220,
+                "top": 726
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_bigger_shortcut_7_34/screen_1741835503398.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        },
+        {
+            "bounds": {
+                "bottom": 875,
+                "left": 0,
+                "right": 1220,
+                "top": 805
+            },
+            "img_path": "../data/Taobao/Taobao_view_pending_orders/redmi Turbo 14_dark_shortcut_7_36/screen_1740325215808.webp",
+            "semantic": "\"No relevant orders found.\"\r\n\r\n"
+        }
+    ]
+]

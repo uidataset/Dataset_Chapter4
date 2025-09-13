@@ -1,0 +1,1154 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 153,
+                "left": 30,
+                "right": 77,
+                "top": 104
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/HUAWEl MatePad Pro MRX-W39_shortcut_7_44/screen_1742308465604.webp",
+            "semantic": "Back or previous screen navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 46,
+                "right": 118,
+                "top": 158
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/Honor90GT_shortcut_7_95/screen_1742354880403.webp",
+            "semantic": "Back or previous screen navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 187,
+                "left": 42,
+                "right": 108,
+                "top": 118
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_dark_shortcut_7_50/screen_1742352933598.webp",
+            "semantic": "Back or previous screen navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 187,
+                "left": 42,
+                "right": 108,
+                "top": 118
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_shortcut_7_90/screen_1742368980227.webp",
+            "semantic": "Back or previous screen navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 211,
+                "left": 42,
+                "right": 108,
+                "top": 142
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/honorPlay8T_shortcut_7_183/screen_1741770753065.webp",
+            "semantic": "Back or previous screen navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 223,
+                "left": 46,
+                "right": 118,
+                "top": 147
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_dark_shortcut_7_132/screen_1742290783002.webp",
+            "semantic": "Back or previous screen navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 223,
+                "left": 46,
+                "right": 118,
+                "top": 147
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_shortcut_7_28/screen_1742271156156.webp",
+            "semantic": "Back or previous screen navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 152,
+                "left": 1523,
+                "right": 1570,
+                "top": 105
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/HUAWEl MatePad Pro MRX-W39_shortcut_7_44/screen_1742308465604.webp",
+            "semantic": "Share function button."
+        },
+        {
+            "bounds": {
+                "bottom": 232,
+                "left": 1083,
+                "right": 1155,
+                "top": 160
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/Honor90GT_shortcut_7_95/screen_1742354880403.webp",
+            "semantic": "Share function button."
+        },
+        {
+            "bounds": {
+                "bottom": 186,
+                "left": 972,
+                "right": 1038,
+                "top": 120
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_dark_shortcut_7_50/screen_1742352933598.webp",
+            "semantic": "Share function button."
+        },
+        {
+            "bounds": {
+                "bottom": 186,
+                "left": 972,
+                "right": 1038,
+                "top": 120
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_shortcut_7_90/screen_1742368980227.webp",
+            "semantic": "Share function button."
+        },
+        {
+            "bounds": {
+                "bottom": 210,
+                "left": 972,
+                "right": 1038,
+                "top": 144
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/honorPlay8T_shortcut_7_183/screen_1741770753065.webp",
+            "semantic": "Share function button."
+        },
+        {
+            "bounds": {
+                "bottom": 221,
+                "left": 1103,
+                "right": 1175,
+                "top": 149
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_dark_shortcut_7_132/screen_1742290783002.webp",
+            "semantic": "Share function button."
+        },
+        {
+            "bounds": {
+                "bottom": 221,
+                "left": 1103,
+                "right": 1175,
+                "top": 149
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_shortcut_7_28/screen_1742271156156.webp",
+            "semantic": "Share function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 488,
+                "left": 1436,
+                "right": 1551,
+                "top": 318
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/HUAWEl MatePad Pro MRX-W39_shortcut_7_44/screen_1742308465604.webp",
+            "semantic": "Contact (User Profile) information button."
+        },
+        {
+            "bounds": {
+                "bottom": 507,
+                "left": 1077,
+                "right": 1165,
+                "top": 376
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/Honor90GT_shortcut_7_95/screen_1742354880403.webp",
+            "semantic": "Contact (User Profile) information button."
+        },
+        {
+            "bounds": {
+                "bottom": 432,
+                "left": 969,
+                "right": 1047,
+                "top": 318
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_dark_shortcut_7_50/screen_1742352933598.webp",
+            "semantic": "Contact (User Profile) information button."
+        },
+        {
+            "bounds": {
+                "bottom": 432,
+                "left": 969,
+                "right": 1047,
+                "top": 318
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_shortcut_7_90/screen_1742368980227.webp",
+            "semantic": "Contact (User Profile) information button."
+        },
+        {
+            "bounds": {
+                "bottom": 456,
+                "left": 969,
+                "right": 1047,
+                "top": 342
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/honorPlay8T_shortcut_7_183/screen_1741770753065.webp",
+            "semantic": "Contact (User Profile) information button."
+        },
+        {
+            "bounds": {
+                "bottom": 497,
+                "left": 1095,
+                "right": 1183,
+                "top": 367
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_dark_shortcut_7_132/screen_1742290783002.webp",
+            "semantic": "Contact (User Profile) information button."
+        },
+        {
+            "bounds": {
+                "bottom": 497,
+                "left": 1095,
+                "right": 1183,
+                "top": 367
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_shortcut_7_28/screen_1742271156156.webp",
+            "semantic": "Contact (User Profile) information button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 699,
+                "left": 0,
+                "right": 801,
+                "top": 518
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/HUAWEl MatePad Pro MRX-W39_shortcut_7_44/screen_1742308465604.webp",
+            "semantic": "Recharge voice call fees tab button."
+        },
+        {
+            "bounds": {
+                "bottom": 664,
+                "left": 0,
+                "right": 602,
+                "top": 527
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/Honor90GT_shortcut_7_95/screen_1742354880403.webp",
+            "semantic": "Recharge voice call fees tab button."
+        },
+        {
+            "bounds": {
+                "bottom": 576,
+                "left": 0,
+                "right": 540,
+                "top": 450
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_dark_shortcut_7_50/screen_1742352933598.webp",
+            "semantic": "Recharge voice call fees tab button."
+        },
+        {
+            "bounds": {
+                "bottom": 576,
+                "left": 0,
+                "right": 540,
+                "top": 450
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_shortcut_7_90/screen_1742368980227.webp",
+            "semantic": "Recharge voice call fees tab button."
+        },
+        {
+            "bounds": {
+                "bottom": 600,
+                "left": 0,
+                "right": 540,
+                "top": 474
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/honorPlay8T_shortcut_7_183/screen_1741770753065.webp",
+            "semantic": "Recharge voice call fees tab button."
+        },
+        {
+            "bounds": {
+                "bottom": 659,
+                "left": 0,
+                "right": 611,
+                "top": 520
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_dark_shortcut_7_132/screen_1742290783002.webp",
+            "semantic": "Recharge voice call fees tab button."
+        },
+        {
+            "bounds": {
+                "bottom": 659,
+                "left": 0,
+                "right": 611,
+                "top": 520
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_shortcut_7_28/screen_1742271156156.webp",
+            "semantic": "Recharge voice call fees tab button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 699,
+                "left": 799,
+                "right": 1602,
+                "top": 518
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/HUAWEl MatePad Pro MRX-W39_shortcut_7_44/screen_1742308465604.webp",
+            "semantic": "\"Recharge data\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 664,
+                "left": 599,
+                "right": 1205,
+                "top": 527
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/Honor90GT_shortcut_7_95/screen_1742354880403.webp",
+            "semantic": "\"Recharge data\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 576,
+                "left": 540,
+                "right": 1080,
+                "top": 450
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_dark_shortcut_7_50/screen_1742352933598.webp",
+            "semantic": "\"Recharge data\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 576,
+                "left": 540,
+                "right": 1080,
+                "top": 450
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_shortcut_7_90/screen_1742368980227.webp",
+            "semantic": "\"Recharge data\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 600,
+                "left": 540,
+                "right": 1080,
+                "top": 474
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/honorPlay8T_shortcut_7_183/screen_1741770753065.webp",
+            "semantic": "\"Recharge data\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 659,
+                "left": 611,
+                "right": 1222,
+                "top": 520
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_dark_shortcut_7_132/screen_1742290783002.webp",
+            "semantic": "\"Recharge data\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 659,
+                "left": 611,
+                "right": 1222,
+                "top": 520
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_shortcut_7_28/screen_1742271156156.webp",
+            "semantic": "\"Recharge data\" section header."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1011,
+                "left": 51,
+                "right": 518,
+                "top": 748
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/HUAWEl MatePad Pro MRX-W39_shortcut_7_44/screen_1742308465604.webp",
+            "semantic": "Phone recharge option priced at 50 yuan with a discounted price of 49.99 yuan."
+        },
+        {
+            "bounds": {
+                "bottom": 995,
+                "left": 36,
+                "right": 389,
+                "top": 795
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/Honor90GT_shortcut_7_95/screen_1742354880403.webp",
+            "semantic": "Phone recharge option priced at 50 yuan with a discounted price of 49.99 yuan."
+        },
+        {
+            "bounds": {
+                "bottom": 870,
+                "left": 33,
+                "right": 351,
+                "top": 693
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_dark_shortcut_7_50/screen_1742352933598.webp",
+            "semantic": "Phone recharge option priced at 50 yuan with a discounted price of 49.99 yuan."
+        },
+        {
+            "bounds": {
+                "bottom": 870,
+                "left": 33,
+                "right": 351,
+                "top": 693
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_shortcut_7_90/screen_1742368980227.webp",
+            "semantic": "Phone recharge option priced at 50 yuan with a discounted price of 49.99 yuan."
+        },
+        {
+            "bounds": {
+                "bottom": 894,
+                "left": 33,
+                "right": 351,
+                "top": 717
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/honorPlay8T_shortcut_7_183/screen_1741770753065.webp",
+            "semantic": "Phone recharge option priced at 50 yuan with a discounted price of 49.99 yuan."
+        },
+        {
+            "bounds": {
+                "bottom": 900,
+                "left": 39,
+                "right": 396,
+                "top": 689
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_dark_shortcut_7_132/screen_1742290783002.webp",
+            "semantic": "Phone recharge option priced at 50 yuan with a discounted price of 49.99 yuan."
+        },
+        {
+            "bounds": {
+                "bottom": 897,
+                "left": 39,
+                "right": 396,
+                "top": 695
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_shortcut_7_28/screen_1742271156156.webp",
+            "semantic": "Phone recharge option priced at 50 yuan with a discounted price of 49.99 yuan."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1011,
+                "left": 565,
+                "right": 1034,
+                "top": 748
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/HUAWEl MatePad Pro MRX-W39_shortcut_7_44/screen_1742308465604.webp",
+            "semantic": "\"Recommended\" tag for topping up RMB 100."
+        },
+        {
+            "bounds": {
+                "bottom": 897,
+                "left": 432,
+                "right": 789,
+                "top": 695
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_shortcut_7_28/screen_1742271156156.webp",
+            "semantic": "\"Recommended\" tag for topping up RMB 100."
+        },
+        {
+            "bounds": {
+                "bottom": 995,
+                "left": 425,
+                "right": 776,
+                "top": 795
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/Honor90GT_shortcut_7_95/screen_1742354880403.webp",
+            "semantic": "\"Recommended\" tag for topping up RMB 100."
+        },
+        {
+            "bounds": {
+                "bottom": 870,
+                "left": 381,
+                "right": 699,
+                "top": 693
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_dark_shortcut_7_50/screen_1742352933598.webp",
+            "semantic": "\"Recommended\" tag for topping up RMB 100."
+        },
+        {
+            "bounds": {
+                "bottom": 870,
+                "left": 381,
+                "right": 699,
+                "top": 693
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_shortcut_7_90/screen_1742368980227.webp",
+            "semantic": "\"Recommended\" tag for topping up RMB 100."
+        },
+        {
+            "bounds": {
+                "bottom": 894,
+                "left": 381,
+                "right": 699,
+                "top": 717
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/honorPlay8T_shortcut_7_183/screen_1741770753065.webp",
+            "semantic": "\"Recommended\" tag for topping up RMB 100."
+        },
+        {
+            "bounds": {
+                "bottom": 897,
+                "left": 432,
+                "right": 789,
+                "top": 695
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_dark_shortcut_7_132/screen_1742290783002.webp",
+            "semantic": "\"Recommended\" tag for topping up RMB 100."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1011,
+                "left": 1083,
+                "right": 1551,
+                "top": 748
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/HUAWEl MatePad Pro MRX-W39_shortcut_7_44/screen_1742308465604.webp",
+            "semantic": "Prepaid top-up option for 200 yuan."
+        },
+        {
+            "bounds": {
+                "bottom": 897,
+                "left": 825,
+                "right": 1183,
+                "top": 695
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_shortcut_7_28/screen_1742271156156.webp",
+            "semantic": "Prepaid top-up option for 200 yuan."
+        },
+        {
+            "bounds": {
+                "bottom": 995,
+                "left": 812,
+                "right": 1165,
+                "top": 795
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/Honor90GT_shortcut_7_95/screen_1742354880403.webp",
+            "semantic": "Prepaid top-up option for 200 yuan."
+        },
+        {
+            "bounds": {
+                "bottom": 870,
+                "left": 729,
+                "right": 1047,
+                "top": 693
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_dark_shortcut_7_50/screen_1742352933598.webp",
+            "semantic": "Prepaid top-up option for 200 yuan."
+        },
+        {
+            "bounds": {
+                "bottom": 870,
+                "left": 729,
+                "right": 1047,
+                "top": 693
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_shortcut_7_90/screen_1742368980227.webp",
+            "semantic": "Prepaid top-up option for 200 yuan."
+        },
+        {
+            "bounds": {
+                "bottom": 894,
+                "left": 729,
+                "right": 1047,
+                "top": 717
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/honorPlay8T_shortcut_7_183/screen_1741770753065.webp",
+            "semantic": "Prepaid top-up option for 200 yuan."
+        },
+        {
+            "bounds": {
+                "bottom": 897,
+                "left": 825,
+                "right": 1183,
+                "top": 695
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_dark_shortcut_7_132/screen_1742290783002.webp",
+            "semantic": "Prepaid top-up option for 200 yuan."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1323,
+                "left": 51,
+                "right": 518,
+                "top": 1060
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/HUAWEl MatePad Pro MRX-W39_shortcut_7_44/screen_1742308465604.webp",
+            "semantic": "\"300 yuan recharge option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1228,
+                "left": 36,
+                "right": 389,
+                "top": 1028
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/Honor90GT_shortcut_7_95/screen_1742354880403.webp",
+            "semantic": "\"300 yuan recharge option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1134,
+                "left": 39,
+                "right": 396,
+                "top": 932
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_shortcut_7_28/screen_1742271156156.webp",
+            "semantic": "\"300 yuan recharge option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1134,
+                "left": 39,
+                "right": 396,
+                "top": 932
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_dark_shortcut_7_132/screen_1742290783002.webp",
+            "semantic": "\"300 yuan recharge option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1107,
+                "left": 33,
+                "right": 351,
+                "top": 927
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/honorPlay8T_shortcut_7_183/screen_1741770753065.webp",
+            "semantic": "\"300 yuan recharge option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1083,
+                "left": 33,
+                "right": 351,
+                "top": 903
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_shortcut_7_90/screen_1742368980227.webp",
+            "semantic": "\"300 yuan recharge option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1083,
+                "left": 33,
+                "right": 351,
+                "top": 903
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_dark_shortcut_7_50/screen_1742352933598.webp",
+            "semantic": "\"300 yuan recharge option button.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1323,
+                "left": 565,
+                "right": 1034,
+                "top": 1060
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/HUAWEl MatePad Pro MRX-W39_shortcut_7_44/screen_1742308465604.webp",
+            "semantic": "500 Yuan recharge option."
+        },
+        {
+            "bounds": {
+                "bottom": 1134,
+                "left": 432,
+                "right": 789,
+                "top": 932
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_shortcut_7_28/screen_1742271156156.webp",
+            "semantic": "500 Yuan recharge option."
+        },
+        {
+            "bounds": {
+                "bottom": 1134,
+                "left": 432,
+                "right": 789,
+                "top": 932
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_dark_shortcut_7_132/screen_1742290783002.webp",
+            "semantic": "500 Yuan recharge option."
+        },
+        {
+            "bounds": {
+                "bottom": 1107,
+                "left": 381,
+                "right": 699,
+                "top": 927
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/honorPlay8T_shortcut_7_183/screen_1741770753065.webp",
+            "semantic": "500 Yuan recharge option."
+        },
+        {
+            "bounds": {
+                "bottom": 1083,
+                "left": 381,
+                "right": 699,
+                "top": 903
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_shortcut_7_90/screen_1742368980227.webp",
+            "semantic": "500 Yuan recharge option."
+        },
+        {
+            "bounds": {
+                "bottom": 1083,
+                "left": 381,
+                "right": 699,
+                "top": 903
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_dark_shortcut_7_50/screen_1742352933598.webp",
+            "semantic": "500 Yuan recharge option."
+        },
+        {
+            "bounds": {
+                "bottom": 1228,
+                "left": 425,
+                "right": 776,
+                "top": 1028
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/Honor90GT_shortcut_7_95/screen_1742354880403.webp",
+            "semantic": "500 Yuan recharge option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1323,
+                "left": 1083,
+                "right": 1551,
+                "top": 1060
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/HUAWEl MatePad Pro MRX-W39_shortcut_7_44/screen_1742308465604.webp",
+            "semantic": "\"Special offer for 30GB of data with video membership renewal.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1134,
+                "left": 825,
+                "right": 1183,
+                "top": 932
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_shortcut_7_28/screen_1742271156156.webp",
+            "semantic": "\"Special offer for 30GB of data with video membership renewal.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1134,
+                "left": 825,
+                "right": 1183,
+                "top": 932
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_dark_shortcut_7_132/screen_1742290783002.webp",
+            "semantic": "\"Special offer for 30GB of data with video membership renewal.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1317,
+                "left": 33,
+                "right": 351,
+                "top": 1137
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/honorPlay8T_shortcut_7_183/screen_1741770753065.webp",
+            "semantic": "\"Special offer for 30GB of data with video membership renewal.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1083,
+                "left": 729,
+                "right": 1047,
+                "top": 903
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_shortcut_7_90/screen_1742368980227.webp",
+            "semantic": "\"Special offer for 30GB of data with video membership renewal.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1293,
+                "left": 33,
+                "right": 351,
+                "top": 1113
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_dark_shortcut_7_50/screen_1742352933598.webp",
+            "semantic": "\"Special offer for 30GB of data with video membership renewal.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1463,
+                "left": 36,
+                "right": 389,
+                "top": 1264
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/Honor90GT_shortcut_7_95/screen_1742354880403.webp",
+            "semantic": "\"Special offer for 30GB of data with video membership renewal.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1634,
+                "left": 51,
+                "right": 518,
+                "top": 1372
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/HUAWEl MatePad Pro MRX-W39_shortcut_7_44/screen_1742308465604.webp",
+            "semantic": "\"Limited time offer for 1 yuan per 1GB data.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1371,
+                "left": 39,
+                "right": 396,
+                "top": 1170
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_shortcut_7_28/screen_1742271156156.webp",
+            "semantic": "\"Limited time offer for 1 yuan per 1GB data.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1371,
+                "left": 39,
+                "right": 396,
+                "top": 1170
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_dark_shortcut_7_132/screen_1742290783002.webp",
+            "semantic": "\"Limited time offer for 1 yuan per 1GB data.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1317,
+                "left": 381,
+                "right": 699,
+                "top": 1137
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/honorPlay8T_shortcut_7_183/screen_1741770753065.webp",
+            "semantic": "\"Limited time offer for 1 yuan per 1GB data.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1293,
+                "left": 33,
+                "right": 351,
+                "top": 1113
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_shortcut_7_90/screen_1742368980227.webp",
+            "semantic": "\"Limited time offer for 1 yuan per 1GB data.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1293,
+                "left": 381,
+                "right": 699,
+                "top": 1113
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_dark_shortcut_7_50/screen_1742352933598.webp",
+            "semantic": "\"Limited time offer for 1 yuan per 1GB data.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1463,
+                "left": 425,
+                "right": 776,
+                "top": 1264
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/Honor90GT_shortcut_7_95/screen_1742354880403.webp",
+            "semantic": "\"Limited time offer for 1 yuan per 1GB data.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1878,
+                "left": 51,
+                "right": 801,
+                "top": 1683
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/HUAWEl MatePad Pro MRX-W39_shortcut_7_44/screen_1742308465604.webp",
+            "semantic": "Discounted Data Packages button."
+        },
+        {
+            "bounds": {
+                "bottom": 1624,
+                "left": 36,
+                "right": 602,
+                "top": 1519
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/Honor90GT_shortcut_7_95/screen_1742354880403.webp",
+            "semantic": "Discounted Data Packages button."
+        },
+        {
+            "bounds": {
+                "bottom": 1437,
+                "left": 33,
+                "right": 540,
+                "top": 1341
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_dark_shortcut_7_50/screen_1742352933598.webp",
+            "semantic": "Discounted Data Packages button."
+        },
+        {
+            "bounds": {
+                "bottom": 1437,
+                "left": 33,
+                "right": 540,
+                "top": 1341
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_shortcut_7_90/screen_1742368980227.webp",
+            "semantic": "Discounted Data Packages button."
+        },
+        {
+            "bounds": {
+                "bottom": 1461,
+                "left": 33,
+                "right": 540,
+                "top": 1365
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/honorPlay8T_shortcut_7_183/screen_1741770753065.webp",
+            "semantic": "Discounted Data Packages button."
+        },
+        {
+            "bounds": {
+                "bottom": 1537,
+                "left": 39,
+                "right": 611,
+                "top": 1430
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_dark_shortcut_7_132/screen_1742290783002.webp",
+            "semantic": "Discounted Data Packages button."
+        },
+        {
+            "bounds": {
+                "bottom": 1537,
+                "left": 39,
+                "right": 611,
+                "top": 1430
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_shortcut_7_28/screen_1742271156156.webp",
+            "semantic": "Discounted Data Packages button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1878,
+                "left": 799,
+                "right": 1551,
+                "top": 1683
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/HUAWEl MatePad Pro MRX-W39_shortcut_7_44/screen_1742308465604.webp",
+            "semantic": "Special offer package button."
+        },
+        {
+            "bounds": {
+                "bottom": 1560,
+                "left": 611,
+                "right": 1183,
+                "top": 1407
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_shortcut_7_28/screen_1742271156156.webp",
+            "semantic": "Special offer package button."
+        },
+        {
+            "bounds": {
+                "bottom": 1560,
+                "left": 611,
+                "right": 1183,
+                "top": 1407
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_dark_shortcut_7_132/screen_1742290783002.webp",
+            "semantic": "Special offer package button."
+        },
+        {
+            "bounds": {
+                "bottom": 1479,
+                "left": 540,
+                "right": 1047,
+                "top": 1347
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/honorPlay8T_shortcut_7_183/screen_1741770753065.webp",
+            "semantic": "Special offer package button."
+        },
+        {
+            "bounds": {
+                "bottom": 1455,
+                "left": 540,
+                "right": 1047,
+                "top": 1323
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_shortcut_7_90/screen_1742368980227.webp",
+            "semantic": "Special offer package button."
+        },
+        {
+            "bounds": {
+                "bottom": 1455,
+                "left": 540,
+                "right": 1047,
+                "top": 1323
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_dark_shortcut_7_50/screen_1742352933598.webp",
+            "semantic": "Special offer package button."
+        },
+        {
+            "bounds": {
+                "bottom": 1644,
+                "left": 599,
+                "right": 1165,
+                "top": 1496
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/Honor90GT_shortcut_7_95/screen_1742354880403.webp",
+            "semantic": "Special offer package button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2063,
+                "left": 51,
+                "right": 325,
+                "top": 1980
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/HUAWEl MatePad Pro MRX-W39_shortcut_7_44/screen_1742308465604.webp",
+            "semantic": "\"Member recharge\" section or tab."
+        },
+        {
+            "bounds": {
+                "bottom": 1784,
+                "left": 36,
+                "right": 245,
+                "top": 1719
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/Honor90GT_shortcut_7_95/screen_1742354880403.webp",
+            "semantic": "\"Member recharge\" section or tab."
+        },
+        {
+            "bounds": {
+                "bottom": 1581,
+                "left": 33,
+                "right": 219,
+                "top": 1524
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_dark_shortcut_7_50/screen_1742352933598.webp",
+            "semantic": "\"Member recharge\" section or tab."
+        },
+        {
+            "bounds": {
+                "bottom": 1581,
+                "left": 33,
+                "right": 219,
+                "top": 1524
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_shortcut_7_90/screen_1742368980227.webp",
+            "semantic": "\"Member recharge\" section or tab."
+        },
+        {
+            "bounds": {
+                "bottom": 1605,
+                "left": 33,
+                "right": 219,
+                "top": 1548
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/honorPlay8T_shortcut_7_183/screen_1741770753065.webp",
+            "semantic": "\"Member recharge\" section or tab."
+        },
+        {
+            "bounds": {
+                "bottom": 1703,
+                "left": 39,
+                "right": 250,
+                "top": 1631
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_dark_shortcut_7_132/screen_1742290783002.webp",
+            "semantic": "\"Member recharge\" section or tab."
+        },
+        {
+            "bounds": {
+                "bottom": 1703,
+                "left": 39,
+                "right": 250,
+                "top": 1631
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_shortcut_7_28/screen_1742271156156.webp",
+            "semantic": "\"Member recharge\" section or tab."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2082,
+                "left": 1287,
+                "right": 1564,
+                "top": 1974
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/HUAWEl MatePad Pro MRX-W39_shortcut_7_44/screen_1742308465604.webp",
+            "semantic": "\"See more offers\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1801,
+                "left": 966,
+                "right": 1175,
+                "top": 1716
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/Honor90GT_shortcut_7_95/screen_1742354880403.webp",
+            "semantic": "\"See more offers\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1593,
+                "left": 867,
+                "right": 1056,
+                "top": 1518
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_dark_shortcut_7_50/screen_1742352933598.webp",
+            "semantic": "\"See more offers\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1593,
+                "left": 867,
+                "right": 1056,
+                "top": 1518
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/IQOONeo5_shortcut_7_90/screen_1742368980227.webp",
+            "semantic": "\"See more offers\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1617,
+                "left": 867,
+                "right": 1056,
+                "top": 1542
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/honorPlay8T_shortcut_7_183/screen_1741770753065.webp",
+            "semantic": "\"See more offers\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1716,
+                "left": 981,
+                "right": 1196,
+                "top": 1628
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_dark_shortcut_7_132/screen_1742290783002.webp",
+            "semantic": "\"See more offers\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1716,
+                "left": 981,
+                "right": 1196,
+                "top": 1628
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_data_plan/redmi Turbo 14_shortcut_7_28/screen_1742271156156.webp",
+            "semantic": "\"See more offers\" button."
+        }
+    ]
+]

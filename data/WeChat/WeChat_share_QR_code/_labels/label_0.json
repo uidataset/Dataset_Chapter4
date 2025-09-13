@@ -1,0 +1,418 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 158,
+                "left": 1410,
+                "right": 1462,
+                "top": 106
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/HUAWEl MatePad Pro MRX-W39_shortcut_7_15/screen_1740148377002.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 239,
+                "left": 933,
+                "right": 1019,
+                "top": 153
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_22/screen_1741966653012.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 248,
+                "left": 918,
+                "right": 1003,
+                "top": 163
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Honor90GT_bigger_dark_shortcut_7_50/screen_1742035503954.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 248,
+                "left": 918,
+                "right": 1003,
+                "top": 163
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Honor90GT_bigger_shortcut_7_37/screen_1742034494975.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 236,
+                "left": 827,
+                "right": 903,
+                "top": 160
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_13/screen_1741962542762.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 236,
+                "left": 827,
+                "right": 903,
+                "top": 160
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/OPPO Reno9 Pro5G_bigger_shortcut_7_12/screen_1741959524139.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 219,
+                "left": 863,
+                "right": 928,
+                "top": 154
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/OPPO Reno9 Pro5G_dark_shortcut_7_11/screen_1740309125814.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 247,
+                "left": 933,
+                "right": 1019,
+                "top": 161
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Redmik70U_bigger_black_shortcut_7_74/screen_1741848854000.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 247,
+                "left": 933,
+                "right": 1019,
+                "top": 161
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Redmik70U_bigger_shortcut_7_23/screen_1741845444166.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 227,
+                "left": 977,
+                "right": 1050,
+                "top": 154
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Redmik70U_dark_shortcut_7_17/screen_1740304983829.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 239,
+                "left": 933,
+                "right": 1019,
+                "top": 153
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/redmi Turbo 14_bigger_dark_shortcut_7_22/screen_1741966653012.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 239,
+                "left": 933,
+                "right": 1019,
+                "top": 153
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/redmi Turbo 14_bigger_shortcut_7_16/screen_1741794145751.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 219,
+                "left": 977,
+                "right": 1050,
+                "top": 146
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/redmi Turbo 14_dark_shortcut_7_12/screen_1740321221686.webp",
+            "semantic": "Search function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 158,
+                "left": 1496,
+                "right": 1548,
+                "top": 106
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/HUAWEl MatePad Pro MRX-W39_shortcut_7_15/screen_1740148377002.webp",
+            "semantic": "New chat or conversation creation button."
+        },
+        {
+            "bounds": {
+                "bottom": 239,
+                "left": 1077,
+                "right": 1163,
+                "top": 153
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_22/screen_1741966653012.webp",
+            "semantic": "New chat or conversation creation button."
+        },
+        {
+            "bounds": {
+                "bottom": 248,
+                "left": 1059,
+                "right": 1144,
+                "top": 163
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Honor90GT_bigger_dark_shortcut_7_50/screen_1742035503954.webp",
+            "semantic": "New chat or conversation creation button."
+        },
+        {
+            "bounds": {
+                "bottom": 248,
+                "left": 1059,
+                "right": 1144,
+                "top": 163
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Honor90GT_bigger_shortcut_7_37/screen_1742034494975.webp",
+            "semantic": "New chat or conversation creation button."
+        },
+        {
+            "bounds": {
+                "bottom": 241,
+                "left": 1067,
+                "right": 1147,
+                "top": 161
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Honor90GT_dark_shortcut_7_19/screen_1740563857914.webp",
+            "semantic": "New chat or conversation creation button."
+        },
+        {
+            "bounds": {
+                "bottom": 236,
+                "left": 953,
+                "right": 1029,
+                "top": 160
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_13/screen_1741962542762.webp",
+            "semantic": "New chat or conversation creation button."
+        },
+        {
+            "bounds": {
+                "bottom": 236,
+                "left": 953,
+                "right": 1029,
+                "top": 160
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/OPPO Reno9 Pro5G_bigger_shortcut_7_12/screen_1741959524139.webp",
+            "semantic": "New chat or conversation creation button."
+        },
+        {
+            "bounds": {
+                "bottom": 219,
+                "left": 972,
+                "right": 1037,
+                "top": 154
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/OPPO Reno9 Pro5G_dark_shortcut_7_11/screen_1740309125814.webp",
+            "semantic": "New chat or conversation creation button."
+        },
+        {
+            "bounds": {
+                "bottom": 247,
+                "left": 1077,
+                "right": 1163,
+                "top": 161
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Redmik70U_bigger_black_shortcut_7_74/screen_1741848854000.webp",
+            "semantic": "New chat or conversation creation button."
+        },
+        {
+            "bounds": {
+                "bottom": 247,
+                "left": 1077,
+                "right": 1163,
+                "top": 161
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Redmik70U_bigger_shortcut_7_23/screen_1741845444166.webp",
+            "semantic": "New chat or conversation creation button."
+        },
+        {
+            "bounds": {
+                "bottom": 227,
+                "left": 1098,
+                "right": 1171,
+                "top": 154
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Redmik70U_dark_shortcut_7_17/screen_1740304983829.webp",
+            "semantic": "New chat or conversation creation button."
+        },
+        {
+            "bounds": {
+                "bottom": 239,
+                "left": 1077,
+                "right": 1163,
+                "top": 153
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/redmi Turbo 14_bigger_dark_shortcut_7_22/screen_1741966653012.webp",
+            "semantic": "New chat or conversation creation button."
+        },
+        {
+            "bounds": {
+                "bottom": 239,
+                "left": 1077,
+                "right": 1163,
+                "top": 153
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/redmi Turbo 14_bigger_shortcut_7_16/screen_1741794145751.webp",
+            "semantic": "New chat or conversation creation button."
+        },
+        {
+            "bounds": {
+                "bottom": 219,
+                "left": 1098,
+                "right": 1171,
+                "top": 146
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/redmi Turbo 14_dark_shortcut_7_12/screen_1740321221686.webp",
+            "semantic": "New chat or conversation creation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 157,
+                "left": 730,
+                "right": 870,
+                "top": 106
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/HUAWEl MatePad Pro MRX-W39_shortcut_7_15/screen_1740148377002.webp",
+            "semantic": "Notification indicator displaying the number of unread messages."
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 549,
+                "right": 671,
+                "top": 155
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_22/screen_1741966653012.webp",
+            "semantic": "Notification indicator displaying the number of unread messages."
+        },
+        {
+            "bounds": {
+                "bottom": 246,
+                "left": 505,
+                "right": 695,
+                "top": 165
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Honor90GT_bigger_dark_shortcut_7_50/screen_1742035503954.webp",
+            "semantic": "Notification indicator displaying the number of unread messages."
+        },
+        {
+            "bounds": {
+                "bottom": 246,
+                "left": 504,
+                "right": 695,
+                "top": 165
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Honor90GT_bigger_shortcut_7_37/screen_1742034494975.webp",
+            "semantic": "Notification indicator displaying the number of unread messages."
+        },
+        {
+            "bounds": {
+                "bottom": 239,
+                "left": 509,
+                "right": 690,
+                "top": 162
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Honor90GT_dark_shortcut_7_19/screen_1740563857914.webp",
+            "semantic": "Notification indicator displaying the number of unread messages."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 486,
+                "right": 594,
+                "top": 161
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_13/screen_1741962542762.webp",
+            "semantic": "Notification indicator displaying the number of unread messages."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 486,
+                "right": 594,
+                "top": 161
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/OPPO Reno9 Pro5G_bigger_shortcut_7_12/screen_1741959524139.webp",
+            "semantic": "Notification indicator displaying the number of unread messages."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 469,
+                "right": 611,
+                "top": 156
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/OPPO Reno9 Pro5G_dark_shortcut_7_11/screen_1740309125814.webp",
+            "semantic": "Notification indicator displaying the number of unread messages."
+        },
+        {
+            "bounds": {
+                "bottom": 242,
+                "left": 549,
+                "right": 671,
+                "top": 165
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Redmik70U_bigger_black_shortcut_7_74/screen_1741848854000.webp",
+            "semantic": "Notification indicator displaying the number of unread messages."
+        },
+        {
+            "bounds": {
+                "bottom": 242,
+                "left": 549,
+                "right": 671,
+                "top": 165
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Redmik70U_bigger_shortcut_7_23/screen_1741845444166.webp",
+            "semantic": "Notification indicator displaying the number of unread messages."
+        },
+        {
+            "bounds": {
+                "bottom": 223,
+                "left": 558,
+                "right": 662,
+                "top": 158
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/Redmik70U_dark_shortcut_7_17/screen_1740304983829.webp",
+            "semantic": "Notification indicator displaying the number of unread messages."
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 549,
+                "right": 671,
+                "top": 155
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/redmi Turbo 14_bigger_dark_shortcut_7_22/screen_1741966653012.webp",
+            "semantic": "Notification indicator displaying the number of unread messages."
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 490,
+                "right": 729,
+                "top": 155
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/redmi Turbo 14_bigger_shortcut_7_16/screen_1741794145751.webp",
+            "semantic": "Notification indicator displaying the number of unread messages."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 558,
+                "right": 662,
+                "top": 148
+            },
+            "img_path": "../data/WeChat/WeChat_share_QR_code/redmi Turbo 14_dark_shortcut_7_12/screen_1740321221686.webp",
+            "semantic": "Notification indicator displaying the number of unread messages."
+        }
+    ]
+]

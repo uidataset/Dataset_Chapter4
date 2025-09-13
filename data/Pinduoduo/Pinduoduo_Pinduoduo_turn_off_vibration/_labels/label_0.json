@@ -1,0 +1,1898 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 151,
+                "left": 547,
+                "right": 581,
+                "top": 116
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 215,
+                "left": 423,
+                "right": 469,
+                "top": 168
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_shortcut_7_29/screen_1742271228181.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 215,
+                "left": 423,
+                "right": 469,
+                "top": 168
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_dark_shortcut_7_133/screen_1742290825225.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 204,
+                "left": 365,
+                "right": 407,
+                "top": 161
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 223,
+                "left": 465,
+                "right": 511,
+                "top": 176
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_shortcut_7_132/screen_1742368256882.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 226,
+                "left": 422,
+                "right": 474,
+                "top": 173
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_bigger_shortcut_7_204/screen_1742379157095.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 180,
+                "left": 369,
+                "right": 411,
+                "top": 137
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_shortcut_7_91/screen_1742369085625.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 183,
+                "left": 352,
+                "right": 400,
+                "top": 134
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_dark_bigger_shortcut_7_181/screen_1742387224526.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 183,
+                "left": 352,
+                "right": 400,
+                "top": 134
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_bigger_shortcut_7_144/screen_1742384472075.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 226,
+                "left": 336,
+                "right": 382,
+                "top": 179
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_shortcut_7_96/screen_1742354945826.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 229,
+                "left": 98,
+                "right": 150,
+                "top": 176
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_bigger_shortcut_7_204/screen_1742399221467.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 148,
+                "left": 566,
+                "right": 596,
+                "top": 118
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_shortcut_7_45/screen_1742308503950.webp",
+            "semantic": "Search function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 156,
+                "left": 1502,
+                "right": 1600,
+                "top": 109
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "Camera function button."
+        },
+        {
+            "bounds": {
+                "bottom": 227,
+                "left": 1070,
+                "right": 1220,
+                "top": 155
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_shortcut_7_29/screen_1742271228181.webp",
+            "semantic": "Camera function button."
+        },
+        {
+            "bounds": {
+                "bottom": 227,
+                "left": 1070,
+                "right": 1220,
+                "top": 155
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_dark_shortcut_7_133/screen_1742290825225.webp",
+            "semantic": "Camera function button."
+        },
+        {
+            "bounds": {
+                "bottom": 216,
+                "left": 941,
+                "right": 1080,
+                "top": 149
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "Camera function button."
+        },
+        {
+            "bounds": {
+                "bottom": 235,
+                "left": 1070,
+                "right": 1220,
+                "top": 163
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_shortcut_7_132/screen_1742368256882.webp",
+            "semantic": "Camera function button."
+        },
+        {
+            "bounds": {
+                "bottom": 235,
+                "left": 1070,
+                "right": 1220,
+                "top": 163
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_bigger_shortcut_7_204/screen_1742379157095.webp",
+            "semantic": "Camera function button."
+        },
+        {
+            "bounds": {
+                "bottom": 192,
+                "left": 941,
+                "right": 1080,
+                "top": 125
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_shortcut_7_91/screen_1742369085625.webp",
+            "semantic": "Camera function button."
+        },
+        {
+            "bounds": {
+                "bottom": 192,
+                "left": 941,
+                "right": 1080,
+                "top": 125
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_dark_bigger_shortcut_7_181/screen_1742387224526.webp",
+            "semantic": "Camera function button."
+        },
+        {
+            "bounds": {
+                "bottom": 192,
+                "left": 941,
+                "right": 1080,
+                "top": 125
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_bigger_shortcut_7_144/screen_1742384472075.webp",
+            "semantic": "Camera function button."
+        },
+        {
+            "bounds": {
+                "bottom": 239,
+                "left": 1050,
+                "right": 1200,
+                "top": 167
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_shortcut_7_96/screen_1742354945826.webp",
+            "semantic": "Camera function button."
+        },
+        {
+            "bounds": {
+                "bottom": 239,
+                "left": 1050,
+                "right": 1200,
+                "top": 167
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_bigger_shortcut_7_204/screen_1742399221467.webp",
+            "semantic": "Camera function button."
+        },
+        {
+            "bounds": {
+                "bottom": 156,
+                "left": 1502,
+                "right": 1600,
+                "top": 109
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_shortcut_7_45/screen_1742308503950.webp",
+            "semantic": "Camera function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 174,
+                "left": 27,
+                "right": 1573,
+                "top": 93
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 254,
+                "left": 41,
+                "right": 1179,
+                "top": 130
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_shortcut_7_29/screen_1742271228181.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 254,
+                "left": 41,
+                "right": 1179,
+                "top": 130
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_dark_shortcut_7_133/screen_1742290825225.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 240,
+                "left": 38,
+                "right": 1042,
+                "top": 126
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 262,
+                "left": 41,
+                "right": 1179,
+                "top": 138
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_shortcut_7_132/screen_1742368256882.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 262,
+                "left": 41,
+                "right": 1179,
+                "top": 138
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_bigger_shortcut_7_204/screen_1742379157095.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 216,
+                "left": 38,
+                "right": 1042,
+                "top": 102
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_shortcut_7_91/screen_1742369085625.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 216,
+                "left": 38,
+                "right": 1042,
+                "top": 102
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_dark_bigger_shortcut_7_181/screen_1742387224526.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 216,
+                "left": 38,
+                "right": 1042,
+                "top": 102
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_bigger_shortcut_7_144/screen_1742384472075.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 265,
+                "left": 41,
+                "right": 1159,
+                "top": 141
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_shortcut_7_96/screen_1742354945826.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 265,
+                "left": 41,
+                "right": 1159,
+                "top": 141
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_bigger_shortcut_7_204/screen_1742399221467.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 174,
+                "left": 27,
+                "right": 1573,
+                "top": 93
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_shortcut_7_45/screen_1742308503950.webp",
+            "semantic": "Search function."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 30,
+                "right": 106,
+                "top": 200
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "\"Recommendation\" tab or section."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 46,
+                "right": 150,
+                "top": 299
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_shortcut_7_29/screen_1742271228181.webp",
+            "semantic": "\"Recommendation\" tab or section."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 46,
+                "right": 150,
+                "top": 299
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_dark_shortcut_7_133/screen_1742290825225.webp",
+            "semantic": "\"Recommendation\" tab or section."
+        },
+        {
+            "bounds": {
+                "bottom": 347,
+                "left": 42,
+                "right": 138,
+                "top": 282
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "\"Recommendation\" tab or section."
+        },
+        {
+            "bounds": {
+                "bottom": 372,
+                "left": 46,
+                "right": 150,
+                "top": 312
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_shortcut_7_132/screen_1742368256882.webp",
+            "semantic": "\"Recommendation\" tab or section."
+        },
+        {
+            "bounds": {
+                "bottom": 376,
+                "left": 46,
+                "right": 162,
+                "top": 308
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_bigger_shortcut_7_204/screen_1742379157095.webp",
+            "semantic": "\"Recommendation\" tab or section."
+        },
+        {
+            "bounds": {
+                "bottom": 323,
+                "left": 42,
+                "right": 138,
+                "top": 258
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_shortcut_7_91/screen_1742369085625.webp",
+            "semantic": "\"Recommendation\" tab or section."
+        },
+        {
+            "bounds": {
+                "bottom": 327,
+                "left": 42,
+                "right": 150,
+                "top": 255
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_dark_bigger_shortcut_7_181/screen_1742387224526.webp",
+            "semantic": "\"Recommendation\" tab or section."
+        },
+        {
+            "bounds": {
+                "bottom": 327,
+                "left": 42,
+                "right": 150,
+                "top": 255
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_bigger_shortcut_7_144/screen_1742384472075.webp",
+            "semantic": "\"Recommendation\" tab or section."
+        },
+        {
+            "bounds": {
+                "bottom": 382,
+                "left": 46,
+                "right": 150,
+                "top": 311
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_shortcut_7_96/screen_1742354945826.webp",
+            "semantic": "\"Recommendation\" tab or section."
+        },
+        {
+            "bounds": {
+                "bottom": 386,
+                "left": 46,
+                "right": 162,
+                "top": 307
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_bigger_shortcut_7_204/screen_1742399221467.webp",
+            "semantic": "\"Recommendation\" tab or section."
+        },
+        {
+            "bounds": {
+                "bottom": 249,
+                "left": 30,
+                "right": 98,
+                "top": 203
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_shortcut_7_45/screen_1742308503950.webp",
+            "semantic": "\"Recommendation\" tab or section."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 148,
+                "right": 224,
+                "top": 200
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "Mobile phone category tab."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 216,
+                "right": 320,
+                "top": 299
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_shortcut_7_29/screen_1742271228181.webp",
+            "semantic": "Mobile phone category tab."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 216,
+                "right": 320,
+                "top": 299
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_dark_shortcut_7_133/screen_1742290825225.webp",
+            "semantic": "Mobile phone category tab."
+        },
+        {
+            "bounds": {
+                "bottom": 347,
+                "left": 198,
+                "right": 294,
+                "top": 282
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "Mobile phone category tab."
+        },
+        {
+            "bounds": {
+                "bottom": 372,
+                "left": 600,
+                "right": 704,
+                "top": 312
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_shortcut_7_132/screen_1742368256882.webp",
+            "semantic": "Mobile phone category tab."
+        },
+        {
+            "bounds": {
+                "bottom": 376,
+                "left": 1138,
+                "right": 1220,
+                "top": 308
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_bigger_shortcut_7_204/screen_1742379157095.webp",
+            "semantic": "Mobile phone category tab."
+        },
+        {
+            "bounds": {
+                "bottom": 323,
+                "left": 198,
+                "right": 294,
+                "top": 258
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_shortcut_7_91/screen_1742369085625.webp",
+            "semantic": "Mobile phone category tab."
+        },
+        {
+            "bounds": {
+                "bottom": 327,
+                "left": 210,
+                "right": 318,
+                "top": 255
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_dark_bigger_shortcut_7_181/screen_1742387224526.webp",
+            "semantic": "Mobile phone category tab."
+        },
+        {
+            "bounds": {
+                "bottom": 327,
+                "left": 210,
+                "right": 318,
+                "top": 255
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_bigger_shortcut_7_144/screen_1742384472075.webp",
+            "semantic": "Mobile phone category tab."
+        },
+        {
+            "bounds": {
+                "bottom": 382,
+                "left": 216,
+                "right": 320,
+                "top": 311
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_shortcut_7_96/screen_1742354945826.webp",
+            "semantic": "Mobile phone category tab."
+        },
+        {
+            "bounds": {
+                "bottom": 386,
+                "left": 228,
+                "right": 344,
+                "top": 307
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_bigger_shortcut_7_204/screen_1742399221467.webp",
+            "semantic": "Mobile phone category tab."
+        },
+        {
+            "bounds": {
+                "bottom": 249,
+                "left": 140,
+                "right": 208,
+                "top": 203
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_shortcut_7_45/screen_1742308503950.webp",
+            "semantic": "Mobile phone category tab."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 266,
+                "right": 342,
+                "top": 200
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "\"Computer\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 556,
+                "right": 660,
+                "top": 299
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_dark_shortcut_7_133/screen_1742290825225.webp",
+            "semantic": "\"Computer\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 347,
+                "left": 666,
+                "right": 762,
+                "top": 282
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "\"Computer\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 323,
+                "left": 354,
+                "right": 450,
+                "top": 258
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_shortcut_7_91/screen_1742369085625.webp",
+            "semantic": "\"Computer\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 327,
+                "left": 546,
+                "right": 654,
+                "top": 255
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_dark_bigger_shortcut_7_181/screen_1742387224526.webp",
+            "semantic": "\"Computer\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 327,
+                "left": 546,
+                "right": 654,
+                "top": 255
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_bigger_shortcut_7_144/screen_1742384472075.webp",
+            "semantic": "\"Computer\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 249,
+                "left": 360,
+                "right": 428,
+                "top": 203
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_shortcut_7_45/screen_1742308503950.webp",
+            "semantic": "\"Computer\" section tab."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 384,
+                "right": 460,
+                "top": 200
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "\"Women's clothing\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 249,
+                "left": 250,
+                "right": 318,
+                "top": 203
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_shortcut_7_45/screen_1742308503950.webp",
+            "semantic": "\"Women's clothing\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 556,
+                "right": 660,
+                "top": 299
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_shortcut_7_29/screen_1742271228181.webp",
+            "semantic": "\"Women's clothing\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 376,
+                "left": 410,
+                "right": 526,
+                "top": 308
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_bigger_shortcut_7_204/screen_1742379157095.webp",
+            "semantic": "\"Women's clothing\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 382,
+                "left": 1066,
+                "right": 1170,
+                "top": 311
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_shortcut_7_96/screen_1742354945826.webp",
+            "semantic": "\"Women's clothing\" category button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 502,
+                "right": 578,
+                "top": 200
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "\"General merchandise\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 386,
+                "right": 490,
+                "top": 299
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_shortcut_7_29/screen_1742271228181.webp",
+            "semantic": "\"General merchandise\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 896,
+                "right": 1000,
+                "top": 299
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_dark_shortcut_7_133/screen_1742290825225.webp",
+            "semantic": "\"General merchandise\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 347,
+                "left": 822,
+                "right": 918,
+                "top": 282
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "\"General merchandise\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 372,
+                "left": 1110,
+                "right": 1214,
+                "top": 312
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_shortcut_7_132/screen_1742368256882.webp",
+            "semantic": "\"General merchandise\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 386,
+                "left": 956,
+                "right": 1072,
+                "top": 307
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_bigger_shortcut_7_204/screen_1742399221467.webp",
+            "semantic": "\"General merchandise\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 249,
+                "left": 470,
+                "right": 538,
+                "top": 203
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_shortcut_7_45/screen_1742308503950.webp",
+            "semantic": "\"General merchandise\" category button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 738,
+                "right": 814,
+                "top": 200
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "\"Electronics\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 726,
+                "right": 830,
+                "top": 299
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_dark_shortcut_7_133/screen_1742290825225.webp",
+            "semantic": "\"Electronics\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 347,
+                "left": 510,
+                "right": 606,
+                "top": 282
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "\"Electronics\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 323,
+                "left": 978,
+                "right": 1074,
+                "top": 258
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_shortcut_7_91/screen_1742369085625.webp",
+            "semantic": "\"Electronics\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 249,
+                "left": 580,
+                "right": 648,
+                "top": 203
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_shortcut_7_45/screen_1742308503950.webp",
+            "semantic": "\"Electronics\" category button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 856,
+                "right": 932,
+                "top": 200
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "Food category selection tab."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 726,
+                "right": 830,
+                "top": 299
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_shortcut_7_29/screen_1742271228181.webp",
+            "semantic": "Food category selection tab."
+        },
+        {
+            "bounds": {
+                "bottom": 347,
+                "left": 354,
+                "right": 450,
+                "top": 282
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "Food category selection tab."
+        },
+        {
+            "bounds": {
+                "bottom": 372,
+                "left": 940,
+                "right": 1044,
+                "top": 312
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_shortcut_7_132/screen_1742368256882.webp",
+            "semantic": "Food category selection tab."
+        },
+        {
+            "bounds": {
+                "bottom": 376,
+                "left": 228,
+                "right": 344,
+                "top": 308
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_bigger_shortcut_7_204/screen_1742379157095.webp",
+            "semantic": "Food category selection tab."
+        },
+        {
+            "bounds": {
+                "bottom": 323,
+                "left": 510,
+                "right": 606,
+                "top": 258
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_shortcut_7_91/screen_1742369085625.webp",
+            "semantic": "Food category selection tab."
+        },
+        {
+            "bounds": {
+                "bottom": 327,
+                "left": 378,
+                "right": 486,
+                "top": 255
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_dark_bigger_shortcut_7_181/screen_1742387224526.webp",
+            "semantic": "Food category selection tab."
+        },
+        {
+            "bounds": {
+                "bottom": 327,
+                "left": 378,
+                "right": 486,
+                "top": 255
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_bigger_shortcut_7_144/screen_1742384472075.webp",
+            "semantic": "Food category selection tab."
+        },
+        {
+            "bounds": {
+                "bottom": 382,
+                "left": 556,
+                "right": 660,
+                "top": 311
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_shortcut_7_96/screen_1742354945826.webp",
+            "semantic": "Food category selection tab."
+        },
+        {
+            "bounds": {
+                "bottom": 386,
+                "left": 592,
+                "right": 708,
+                "top": 307
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_bigger_shortcut_7_204/screen_1742399221467.webp",
+            "semantic": "Food category selection tab."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 396,
+                "left": 129,
+                "right": 212,
+                "top": 313
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "Grocery shopping or fresh food purchase function button."
+        },
+        {
+            "bounds": {
+                "bottom": 606,
+                "left": 72,
+                "right": 200,
+                "top": 478
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_bigger_shortcut_7_204/screen_1742399221467.webp",
+            "semantic": "Grocery shopping or fresh food purchase function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1216,
+                "left": 632,
+                "right": 694,
+                "top": 1154
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_shortcut_7_96/screen_1742354945826.webp",
+            "semantic": "Grocery shopping or fresh food purchase function button."
+        },
+        {
+            "bounds": {
+                "bottom": 849,
+                "left": 119,
+                "right": 202,
+                "top": 766
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_shortcut_7_45/screen_1742308503950.webp",
+            "semantic": "Grocery shopping or fresh food purchase function button."
+        },
+        {
+            "bounds": {
+                "bottom": 529,
+                "left": 64,
+                "right": 181,
+                "top": 412
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_bigger_shortcut_7_144/screen_1742384472075.webp",
+            "semantic": "Grocery shopping or fresh food purchase function button."
+        },
+        {
+            "bounds": {
+                "bottom": 529,
+                "left": 64,
+                "right": 181,
+                "top": 412
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_dark_bigger_shortcut_7_181/screen_1742387224526.webp",
+            "semantic": "Grocery shopping or fresh food purchase function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1273,
+                "left": 50,
+                "right": 167,
+                "top": 1156
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_shortcut_7_91/screen_1742369085625.webp",
+            "semantic": "Grocery shopping or fresh food purchase function button."
+        },
+        {
+            "bounds": {
+                "bottom": 600,
+                "left": 75,
+                "right": 202,
+                "top": 473
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_bigger_shortcut_7_204/screen_1742379157095.webp",
+            "semantic": "Grocery shopping or fresh food purchase function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1290,
+                "left": 59,
+                "right": 186,
+                "top": 1163
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_shortcut_7_132/screen_1742368256882.webp",
+            "semantic": "Grocery shopping or fresh food purchase function button."
+        },
+        {
+            "bounds": {
+                "bottom": 900,
+                "left": 568,
+                "right": 625,
+                "top": 843
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "Grocery shopping or fresh food purchase function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1282,
+                "left": 59,
+                "right": 186,
+                "top": 1155
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_dark_shortcut_7_133/screen_1742290825225.webp",
+            "semantic": "Grocery shopping or fresh food purchase function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1282,
+                "left": 59,
+                "right": 186,
+                "top": 1155
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_shortcut_7_29/screen_1742271228181.webp",
+            "semantic": "Grocery shopping or fresh food purchase function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 438,
+                "left": 102,
+                "right": 238,
+                "top": 403
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "\"Next day delivery\" badge."
+        },
+        {
+            "bounds": {
+                "bottom": 670,
+                "left": 32,
+                "right": 240,
+                "top": 617
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_bigger_shortcut_7_204/screen_1742399221467.webp",
+            "semantic": "\"Next day delivery\" badge."
+        },
+        {
+            "bounds": {
+                "bottom": 1212,
+                "left": 701,
+                "right": 881,
+                "top": 1158
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_shortcut_7_96/screen_1742354945826.webp",
+            "semantic": "\"Next day delivery\" badge."
+        },
+        {
+            "bounds": {
+                "bottom": 891,
+                "left": 102,
+                "right": 218,
+                "top": 856
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_shortcut_7_45/screen_1742308503950.webp",
+            "semantic": "\"Next day delivery\" badge."
+        },
+        {
+            "bounds": {
+                "bottom": 589,
+                "left": 26,
+                "right": 218,
+                "top": 540
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_bigger_shortcut_7_144/screen_1742384472075.webp",
+            "semantic": "\"Next day delivery\" badge."
+        },
+        {
+            "bounds": {
+                "bottom": 589,
+                "left": 26,
+                "right": 218,
+                "top": 540
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_dark_bigger_shortcut_7_181/screen_1742387224526.webp",
+            "semantic": "\"Next day delivery\" badge."
+        },
+        {
+            "bounds": {
+                "bottom": 1333,
+                "left": 24,
+                "right": 192,
+                "top": 1284
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_shortcut_7_91/screen_1742369085625.webp",
+            "semantic": "\"Next day delivery\" badge."
+        },
+        {
+            "bounds": {
+                "bottom": 664,
+                "left": 34,
+                "right": 242,
+                "top": 611
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_bigger_shortcut_7_204/screen_1742379157095.webp",
+            "semantic": "\"Next day delivery\" badge."
+        },
+        {
+            "bounds": {
+                "bottom": 1354,
+                "left": 32,
+                "right": 212,
+                "top": 1301
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_shortcut_7_132/screen_1742368256882.webp",
+            "semantic": "\"Next day delivery\" badge."
+        },
+        {
+            "bounds": {
+                "bottom": 896,
+                "left": 631,
+                "right": 799,
+                "top": 847
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "\"Next day delivery\" badge."
+        },
+        {
+            "bounds": {
+                "bottom": 1347,
+                "left": 32,
+                "right": 212,
+                "top": 1293
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_dark_shortcut_7_133/screen_1742290825225.webp",
+            "semantic": "\"Next day delivery\" badge."
+        },
+        {
+            "bounds": {
+                "bottom": 1347,
+                "left": 32,
+                "right": 212,
+                "top": 1293
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_shortcut_7_29/screen_1742271228181.webp",
+            "semantic": "\"Next day delivery\" badge."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 478,
+                "left": 112,
+                "right": 228,
+                "top": 448
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "Pre-order for next day delivery."
+        },
+        {
+            "bounds": {
+                "bottom": 733,
+                "left": 46,
+                "right": 226,
+                "top": 687
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_bigger_shortcut_7_204/screen_1742399221467.webp",
+            "semantic": "Pre-order for next day delivery."
+        },
+        {
+            "bounds": {
+                "bottom": 931,
+                "left": 110,
+                "right": 210,
+                "top": 901
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_shortcut_7_45/screen_1742308503950.webp",
+            "semantic": "Pre-order for next day delivery."
+        },
+        {
+            "bounds": {
+                "bottom": 646,
+                "left": 38,
+                "right": 206,
+                "top": 604
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_bigger_shortcut_7_144/screen_1742384472075.webp",
+            "semantic": "Pre-order for next day delivery."
+        },
+        {
+            "bounds": {
+                "bottom": 646,
+                "left": 38,
+                "right": 206,
+                "top": 604
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_dark_bigger_shortcut_7_181/screen_1742387224526.webp",
+            "semantic": "Pre-order for next day delivery."
+        },
+        {
+            "bounds": {
+                "bottom": 1390,
+                "left": 36,
+                "right": 180,
+                "top": 1348
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_shortcut_7_91/screen_1742369085625.webp",
+            "semantic": "Pre-order for next day delivery."
+        },
+        {
+            "bounds": {
+                "bottom": 726,
+                "left": 48,
+                "right": 228,
+                "top": 680
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_bigger_shortcut_7_204/screen_1742379157095.webp",
+            "semantic": "Pre-order for next day delivery."
+        },
+        {
+            "bounds": {
+                "bottom": 1417,
+                "left": 44,
+                "right": 200,
+                "top": 1371
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_shortcut_7_132/screen_1742368256882.webp",
+            "semantic": "Pre-order for next day delivery."
+        },
+        {
+            "bounds": {
+                "bottom": 891,
+                "left": 897,
+                "right": 1041,
+                "top": 852
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "Pre-order for next day delivery."
+        },
+        {
+            "bounds": {
+                "bottom": 1409,
+                "left": 44,
+                "right": 200,
+                "top": 1363
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_dark_shortcut_7_133/screen_1742290825225.webp",
+            "semantic": "Pre-order for next day delivery."
+        },
+        {
+            "bounds": {
+                "bottom": 1409,
+                "left": 44,
+                "right": 200,
+                "top": 1363
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_shortcut_7_29/screen_1742271228181.webp",
+            "semantic": "Pre-order for next day delivery."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 662,
+                "left": 102,
+                "right": 238,
+                "top": 627
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "Special sale or discount area section."
+        },
+        {
+            "bounds": {
+                "bottom": 1017,
+                "left": 32,
+                "right": 240,
+                "top": 963
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_bigger_shortcut_7_204/screen_1742399221467.webp",
+            "semantic": "Special sale or discount area section."
+        },
+        {
+            "bounds": {
+                "bottom": 1212,
+                "left": 112,
+                "right": 292,
+                "top": 1158
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_shortcut_7_96/screen_1742354945826.webp",
+            "semantic": "Special sale or discount area section."
+        },
+        {
+            "bounds": {
+                "bottom": 905,
+                "left": 26,
+                "right": 218,
+                "top": 856
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_bigger_shortcut_7_144/screen_1742384472075.webp",
+            "semantic": "Special sale or discount area section."
+        },
+        {
+            "bounds": {
+                "bottom": 905,
+                "left": 26,
+                "right": 218,
+                "top": 856
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_dark_bigger_shortcut_7_181/screen_1742387224526.webp",
+            "semantic": "Special sale or discount area section."
+        },
+        {
+            "bounds": {
+                "bottom": 1015,
+                "left": 24,
+                "right": 192,
+                "top": 966
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_shortcut_7_91/screen_1742369085625.webp",
+            "semantic": "Special sale or discount area section."
+        },
+        {
+            "bounds": {
+                "bottom": 1009,
+                "left": 34,
+                "right": 242,
+                "top": 955
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_bigger_shortcut_7_204/screen_1742379157095.webp",
+            "semantic": "Special sale or discount area section."
+        },
+        {
+            "bounds": {
+                "bottom": 1702,
+                "left": 31,
+                "right": 211,
+                "top": 1646
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_shortcut_7_132/screen_1742368256882.webp",
+            "semantic": "Special sale or discount area section."
+        },
+        {
+            "bounds": {
+                "bottom": 896,
+                "left": 102,
+                "right": 270,
+                "top": 847
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "Special sale or discount area section."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2508,
+                "left": 247,
+                "right": 285,
+                "top": 2470
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "\"Homepage\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2517,
+                "left": 135,
+                "right": 184,
+                "top": 2468
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_shortcut_7_45/screen_1742308503950.webp",
+            "semantic": "\"Homepage\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2585,
+                "left": 170,
+                "right": 229,
+                "top": 2526
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_bigger_shortcut_7_204/screen_1742399221467.webp",
+            "semantic": "\"Homepage\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2600,
+                "left": 82,
+                "right": 157,
+                "top": 2525
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_shortcut_7_96/screen_1742354945826.webp",
+            "semantic": "\"Homepage\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2329,
+                "left": 153,
+                "right": 207,
+                "top": 2275
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_bigger_shortcut_7_144/screen_1742384472075.webp",
+            "semantic": "\"Homepage\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2329,
+                "left": 153,
+                "right": 207,
+                "top": 2275
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_dark_bigger_shortcut_7_181/screen_1742387224526.webp",
+            "semantic": "\"Homepage\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2341,
+                "left": 73,
+                "right": 142,
+                "top": 2272
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_shortcut_7_91/screen_1742369085625.webp",
+            "semantic": "\"Homepage\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2631,
+                "left": 173,
+                "right": 232,
+                "top": 2572
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_bigger_shortcut_7_204/screen_1742379157095.webp",
+            "semantic": "\"Homepage\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2646,
+                "left": 84,
+                "right": 159,
+                "top": 2571
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_shortcut_7_132/screen_1742368256882.webp",
+            "semantic": "\"Homepage\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2353,
+                "left": 73,
+                "right": 142,
+                "top": 2284
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "\"Homepage\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2591,
+                "left": 84,
+                "right": 159,
+                "top": 2516
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_dark_shortcut_7_133/screen_1742290825225.webp",
+            "semantic": "\"Homepage\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2591,
+                "left": 84,
+                "right": 159,
+                "top": 2516
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_shortcut_7_29/screen_1742271228181.webp",
+            "semantic": "\"Homepage\" navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 230,
+                "right": 302,
+                "top": 2517
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "\"Home\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2551,
+                "left": 139,
+                "right": 181,
+                "top": 2526
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_shortcut_7_45/screen_1742308503950.webp",
+            "semantic": "\"Home\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 0,
+                "right": 400,
+                "top": 2504
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_bigger_shortcut_7_204/screen_1742399221467.webp",
+            "semantic": "\"Home\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 0,
+                "right": 240,
+                "top": 2504
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_shortcut_7_96/screen_1742354945826.webp",
+            "semantic": "\"Home\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 129,
+                "right": 231,
+                "top": 2341
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_bigger_shortcut_7_144/screen_1742384472075.webp",
+            "semantic": "\"Home\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 129,
+                "right": 231,
+                "top": 2341
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_dark_bigger_shortcut_7_181/screen_1742387224526.webp",
+            "semantic": "\"Home\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2388,
+                "left": 78,
+                "right": 138,
+                "top": 2353
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_shortcut_7_91/screen_1742369085625.webp",
+            "semantic": "\"Home\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 148,
+                "right": 258,
+                "top": 2644
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_bigger_shortcut_7_204/screen_1742379157095.webp",
+            "semantic": "\"Home\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 0,
+                "right": 244,
+                "top": 2553
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_shortcut_7_132/screen_1742368256882.webp",
+            "semantic": "\"Home\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2412,
+                "left": 0,
+                "right": 216,
+                "top": 2265
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "\"Home\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2647,
+                "left": 90,
+                "right": 154,
+                "top": 2604
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_dark_shortcut_7_133/screen_1742290825225.webp",
+            "semantic": "\"Home\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2647,
+                "left": 90,
+                "right": 154,
+                "top": 2604
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_shortcut_7_29/screen_1742271228181.webp",
+            "semantic": "\"Home\" navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 533,
+                "right": 1066,
+                "top": 2456
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "Chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 960,
+                "right": 1280,
+                "top": 2456
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_shortcut_7_45/screen_1742308503950.webp",
+            "semantic": "Chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 400,
+                "right": 800,
+                "top": 2504
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_bigger_shortcut_7_204/screen_1742399221467.webp",
+            "semantic": "Chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 720,
+                "right": 960,
+                "top": 2504
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_shortcut_7_96/screen_1742354945826.webp",
+            "semantic": "Chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 360,
+                "right": 720,
+                "top": 2253
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_bigger_shortcut_7_144/screen_1742384472075.webp",
+            "semantic": "Chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 360,
+                "right": 720,
+                "top": 2253
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_dark_bigger_shortcut_7_181/screen_1742387224526.webp",
+            "semantic": "Chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 648,
+                "right": 864,
+                "top": 2253
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_shortcut_7_91/screen_1742369085625.webp",
+            "semantic": "Chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 406,
+                "right": 813,
+                "top": 2553
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_bigger_shortcut_7_204/screen_1742379157095.webp",
+            "semantic": "Chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 732,
+                "right": 976,
+                "top": 2553
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_shortcut_7_132/screen_1742368256882.webp",
+            "semantic": "Chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2412,
+                "left": 648,
+                "right": 864,
+                "top": 2265
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "Chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 732,
+                "right": 976,
+                "top": 2501
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_dark_shortcut_7_133/screen_1742290825225.webp",
+            "semantic": "Chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 732,
+                "right": 976,
+                "top": 2501
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_shortcut_7_29/screen_1742271228181.webp",
+            "semantic": "Chat function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 1066,
+                "right": 1600,
+                "top": 2456
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_84/screen_1742311207248.webp",
+            "semantic": "\"User profile or account management section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 1280,
+                "right": 1600,
+                "top": 2456
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/HUAWEl MatePad Pro MRX-W39_shortcut_7_45/screen_1742308503950.webp",
+            "semantic": "\"User profile or account management section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 800,
+                "right": 1200,
+                "top": 2504
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_bigger_shortcut_7_204/screen_1742399221467.webp",
+            "semantic": "\"User profile or account management section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 960,
+                "right": 1200,
+                "top": 2504
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Honor90GT_shortcut_7_96/screen_1742354945826.webp",
+            "semantic": "\"User profile or account management section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 720,
+                "right": 1080,
+                "top": 2253
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_bigger_shortcut_7_144/screen_1742384472075.webp",
+            "semantic": "\"User profile or account management section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 720,
+                "right": 1080,
+                "top": 2253
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_dark_bigger_shortcut_7_181/screen_1742387224526.webp",
+            "semantic": "\"User profile or account management section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 864,
+                "right": 1080,
+                "top": 2253
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/IQOONeo5_shortcut_7_91/screen_1742369085625.webp",
+            "semantic": "\"User profile or account management section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 813,
+                "right": 1220,
+                "top": 2553
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_bigger_shortcut_7_204/screen_1742379157095.webp",
+            "semantic": "\"User profile or account management section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 976,
+                "right": 1220,
+                "top": 2553
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/Redmik70U_shortcut_7_132/screen_1742368256882.webp",
+            "semantic": "\"User profile or account management section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2412,
+                "left": 864,
+                "right": 1080,
+                "top": 2265
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/honorPlay8T_shortcut_7_184/screen_1741770876553.webp",
+            "semantic": "\"User profile or account management section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 976,
+                "right": 1220,
+                "top": 2501
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_dark_shortcut_7_133/screen_1742290825225.webp",
+            "semantic": "\"User profile or account management section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 976,
+                "right": 1220,
+                "top": 2501
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_turn_off_vibration/redmi Turbo 14_shortcut_7_29/screen_1742271228181.webp",
+            "semantic": "\"User profile or account management section.\""
+        }
+    ]
+]

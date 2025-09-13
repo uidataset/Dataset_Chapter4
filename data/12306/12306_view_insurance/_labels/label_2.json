@@ -1,0 +1,450 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 182,
+                "left": 0,
+                "right": 102,
+                "top": 80
+            },
+            "img_path": "../data/12306/12306_view_insurance/HUAWEl MatePad Pro MRX-W39_shortcut_7_52/screen_1742308975225.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 278,
+                "left": 0,
+                "right": 157,
+                "top": 121
+            },
+            "img_path": "../data/12306/12306_view_insurance/Honor90GT_bigger_shortcut_7_216/screen_1742399750146.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 278,
+                "left": 0,
+                "right": 157,
+                "top": 121
+            },
+            "img_path": "../data/12306/12306_view_insurance/Honor90GT_shortcut_7_110/screen_1742373634045.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 228,
+                "left": 0,
+                "right": 144,
+                "top": 84
+            },
+            "img_path": "../data/12306/12306_view_insurance/IQOONeo5_bigger_shortcut_7_154/screen_1742385037333.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 228,
+                "left": 0,
+                "right": 144,
+                "top": 84
+            },
+            "img_path": "../data/12306/12306_view_insurance/IQOONeo5_shortcut_7_100/screen_1742370730690.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 266,
+                "left": 0,
+                "right": 144,
+                "top": 122
+            },
+            "img_path": "../data/12306/12306_view_insurance/OPPO Reno9 Pro5G_bigger_shortcut_7_61/screen_1742274276595.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 274,
+                "left": 0,
+                "right": 156,
+                "top": 118
+            },
+            "img_path": "../data/12306/12306_view_insurance/Redmik70U_bigger_shortcut_7_215/screen_1742380628815.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 274,
+                "left": 0,
+                "right": 156,
+                "top": 118
+            },
+            "img_path": "../data/12306/12306_view_insurance/Redmik70U_shortcut_7_143/screen_1742369515978.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 0,
+                "right": 144,
+                "top": 108
+            },
+            "img_path": "../data/12306/12306_view_insurance/honorPlay8T_shortcut_7_192/screen_1741837142608.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 266,
+                "left": 0,
+                "right": 156,
+                "top": 110
+            },
+            "img_path": "../data/12306/12306_view_insurance/redmi Turbo 14_bigger_shortcut_7_86/screen_1742287489965.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 266,
+                "left": 0,
+                "right": 156,
+                "top": 110
+            },
+            "img_path": "../data/12306/12306_view_insurance/redmi Turbo 14_shortcut_7_36/screen_1742271718723.webp",
+            "semantic": "\"Back\" navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 298,
+                "left": 42,
+                "right": 371,
+                "top": 182
+            },
+            "img_path": "../data/12306/12306_view_insurance/HUAWEl MatePad Pro MRX-W39_shortcut_7_52/screen_1742308975225.webp",
+            "semantic": "\"Travel insurance selection tab.\""
+        },
+        {
+            "bounds": {
+                "bottom": 425,
+                "left": 29,
+                "right": 409,
+                "top": 278
+            },
+            "img_path": "../data/12306/12306_view_insurance/Honor90GT_bigger_shortcut_7_216/screen_1742399750146.webp",
+            "semantic": "\"Travel insurance selection tab.\""
+        },
+        {
+            "bounds": {
+                "bottom": 395,
+                "left": 29,
+                "right": 340,
+                "top": 278
+            },
+            "img_path": "../data/12306/12306_view_insurance/Honor90GT_shortcut_7_110/screen_1742373634045.webp",
+            "semantic": "\"Travel insurance selection tab.\""
+        },
+        {
+            "bounds": {
+                "bottom": 360,
+                "left": 27,
+                "right": 366,
+                "top": 228
+            },
+            "img_path": "../data/12306/12306_view_insurance/IQOONeo5_bigger_shortcut_7_154/screen_1742385037333.webp",
+            "semantic": "\"Travel insurance selection tab.\""
+        },
+        {
+            "bounds": {
+                "bottom": 330,
+                "left": 27,
+                "right": 306,
+                "top": 228
+            },
+            "img_path": "../data/12306/12306_view_insurance/IQOONeo5_shortcut_7_100/screen_1742370730690.webp",
+            "semantic": "\"Travel insurance selection tab.\""
+        },
+        {
+            "bounds": {
+                "bottom": 377,
+                "left": 27,
+                "right": 327,
+                "top": 266
+            },
+            "img_path": "../data/12306/12306_view_insurance/OPPO Reno9 Pro5G_bigger_shortcut_7_61/screen_1742274276595.webp",
+            "semantic": "\"Travel insurance selection tab.\""
+        },
+        {
+            "bounds": {
+                "bottom": 426,
+                "left": 29,
+                "right": 416,
+                "top": 274
+            },
+            "img_path": "../data/12306/12306_view_insurance/Redmik70U_bigger_shortcut_7_215/screen_1742380628815.webp",
+            "semantic": "\"Travel insurance selection tab.\""
+        },
+        {
+            "bounds": {
+                "bottom": 394,
+                "left": 29,
+                "right": 347,
+                "top": 274
+            },
+            "img_path": "../data/12306/12306_view_insurance/Redmik70U_shortcut_7_143/screen_1742369515978.webp",
+            "semantic": "\"Travel insurance selection tab.\""
+        },
+        {
+            "bounds": {
+                "bottom": 354,
+                "left": 27,
+                "right": 306,
+                "top": 252
+            },
+            "img_path": "../data/12306/12306_view_insurance/honorPlay8T_shortcut_7_192/screen_1741837142608.webp",
+            "semantic": "\"Travel insurance selection tab.\""
+        },
+        {
+            "bounds": {
+                "bottom": 418,
+                "left": 29,
+                "right": 416,
+                "top": 266
+            },
+            "img_path": "../data/12306/12306_view_insurance/redmi Turbo 14_bigger_shortcut_7_86/screen_1742287489965.webp",
+            "semantic": "\"Travel insurance selection tab.\""
+        },
+        {
+            "bounds": {
+                "bottom": 386,
+                "left": 29,
+                "right": 347,
+                "top": 266
+            },
+            "img_path": "../data/12306/12306_view_insurance/redmi Turbo 14_shortcut_7_36/screen_1742271718723.webp",
+            "semantic": "\"Travel insurance selection tab.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 298,
+                "left": 369,
+                "right": 752,
+                "top": 182
+            },
+            "img_path": "../data/12306/12306_view_insurance/HUAWEl MatePad Pro MRX-W39_shortcut_7_52/screen_1742308975225.webp",
+            "semantic": "Travel insurance selection indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 386,
+                "left": 344,
+                "right": 718,
+                "top": 266
+            },
+            "img_path": "../data/12306/12306_view_insurance/redmi Turbo 14_shortcut_7_36/screen_1742271718723.webp",
+            "semantic": "Travel insurance selection indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 418,
+                "left": 412,
+                "right": 884,
+                "top": 266
+            },
+            "img_path": "../data/12306/12306_view_insurance/redmi Turbo 14_bigger_shortcut_7_86/screen_1742287489965.webp",
+            "semantic": "Travel insurance selection indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 354,
+                "left": 303,
+                "right": 636,
+                "top": 252
+            },
+            "img_path": "../data/12306/12306_view_insurance/honorPlay8T_shortcut_7_192/screen_1741837142608.webp",
+            "semantic": "Travel insurance selection indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 394,
+                "left": 344,
+                "right": 718,
+                "top": 274
+            },
+            "img_path": "../data/12306/12306_view_insurance/Redmik70U_shortcut_7_143/screen_1742369515978.webp",
+            "semantic": "Travel insurance selection indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 426,
+                "left": 412,
+                "right": 884,
+                "top": 274
+            },
+            "img_path": "../data/12306/12306_view_insurance/Redmik70U_bigger_shortcut_7_215/screen_1742380628815.webp",
+            "semantic": "Travel insurance selection indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 377,
+                "left": 324,
+                "right": 684,
+                "top": 266
+            },
+            "img_path": "../data/12306/12306_view_insurance/OPPO Reno9 Pro5G_bigger_shortcut_7_61/screen_1742274276595.webp",
+            "semantic": "Travel insurance selection indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 330,
+                "left": 303,
+                "right": 636,
+                "top": 228
+            },
+            "img_path": "../data/12306/12306_view_insurance/IQOONeo5_shortcut_7_100/screen_1742370730690.webp",
+            "semantic": "Travel insurance selection indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 360,
+                "left": 363,
+                "right": 783,
+                "top": 228
+            },
+            "img_path": "../data/12306/12306_view_insurance/IQOONeo5_bigger_shortcut_7_154/screen_1742385037333.webp",
+            "semantic": "Travel insurance selection indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 395,
+                "left": 337,
+                "right": 707,
+                "top": 278
+            },
+            "img_path": "../data/12306/12306_view_insurance/Honor90GT_shortcut_7_110/screen_1742373634045.webp",
+            "semantic": "Travel insurance selection indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 425,
+                "left": 406,
+                "right": 871,
+                "top": 278
+            },
+            "img_path": "../data/12306/12306_view_insurance/Honor90GT_bigger_shortcut_7_216/screen_1742399750146.webp",
+            "semantic": "Travel insurance selection indicator."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 358,
+                "left": 0,
+                "right": 1600,
+                "top": 262
+            },
+            "img_path": "../data/12306/12306_view_insurance/HUAWEl MatePad Pro MRX-W39_shortcut_7_52/screen_1742308975225.webp",
+            "semantic": "\"Query\" or \"Search\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 618,
+                "left": 0,
+                "right": 1201,
+                "top": 422
+            },
+            "img_path": "../data/12306/12306_view_insurance/Honor90GT_bigger_shortcut_7_216/screen_1742399750146.webp",
+            "semantic": "\"Query\" or \"Search\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 513,
+                "left": 0,
+                "right": 1201,
+                "top": 382
+            },
+            "img_path": "../data/12306/12306_view_insurance/Honor90GT_shortcut_7_110/screen_1742373634045.webp",
+            "semantic": "\"Query\" or \"Search\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 534,
+                "left": 0,
+                "right": 1080,
+                "top": 357
+            },
+            "img_path": "../data/12306/12306_view_insurance/IQOONeo5_bigger_shortcut_7_154/screen_1742385037333.webp",
+            "semantic": "\"Query\" or \"Search\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 441,
+                "left": 0,
+                "right": 1080,
+                "top": 321
+            },
+            "img_path": "../data/12306/12306_view_insurance/IQOONeo5_shortcut_7_100/screen_1742370730690.webp",
+            "semantic": "\"Query\" or \"Search\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 497,
+                "left": 0,
+                "right": 1080,
+                "top": 359
+            },
+            "img_path": "../data/12306/12306_view_insurance/OPPO Reno9 Pro5G_bigger_shortcut_7_61/screen_1742274276595.webp",
+            "semantic": "\"Query\" or \"Search\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 621,
+                "left": 0,
+                "right": 1222,
+                "top": 417
+            },
+            "img_path": "../data/12306/12306_view_insurance/Redmik70U_bigger_shortcut_7_215/screen_1742380628815.webp",
+            "semantic": "\"Query\" or \"Search\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 517,
+                "left": 0,
+                "right": 1222,
+                "top": 378
+            },
+            "img_path": "../data/12306/12306_view_insurance/Redmik70U_shortcut_7_143/screen_1742369515978.webp",
+            "semantic": "\"Query\" or \"Search\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 465,
+                "left": 0,
+                "right": 1080,
+                "top": 345
+            },
+            "img_path": "../data/12306/12306_view_insurance/honorPlay8T_shortcut_7_192/screen_1741837142608.webp",
+            "semantic": "\"Query\" or \"Search\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 613,
+                "left": 0,
+                "right": 1222,
+                "top": 409
+            },
+            "img_path": "../data/12306/12306_view_insurance/redmi Turbo 14_bigger_shortcut_7_86/screen_1742287489965.webp",
+            "semantic": "\"Query\" or \"Search\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 509,
+                "left": 0,
+                "right": 1222,
+                "top": 370
+            },
+            "img_path": "../data/12306/12306_view_insurance/redmi Turbo 14_shortcut_7_36/screen_1742271718723.webp",
+            "semantic": "\"Query\" or \"Search\" function button."
+        }
+    ]
+]

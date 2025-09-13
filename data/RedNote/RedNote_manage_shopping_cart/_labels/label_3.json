@@ -1,0 +1,496 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 148,
+                "left": 26,
+                "right": 68,
+                "top": 106
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1740149137845.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 128,
+                "left": 24,
+                "right": 64,
+                "top": 88
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_20/screen_1740312865845.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 226,
+                "left": 39,
+                "right": 105,
+                "top": 160
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/Honor90GT_dark_shortcut_7_27/screen_1740569917436.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 36,
+                "right": 96,
+                "top": 158
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/OPPO Reno9 Pro5G_dark_shortcut_7_20/screen_1740309558855.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 160,
+                "left": 30,
+                "right": 80,
+                "top": 110
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_30/screen_1740325363486.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 222,
+                "left": 39,
+                "right": 104,
+                "top": 157
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/Redmik70U_dark_shortcut_7_27/screen_1740311661890.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 214,
+                "left": 39,
+                "right": 104,
+                "top": 149
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/redmi Turbo 14_dark_shortcut_7_19/screen_1740321906884.webp",
+            "semantic": "\"Back\" navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 150,
+                "left": 745,
+                "right": 847,
+                "top": 104
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1740149137845.webp",
+            "semantic": "Shopping cart button."
+        },
+        {
+            "bounds": {
+                "bottom": 127,
+                "left": 748,
+                "right": 844,
+                "top": 90
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_20/screen_1740312865845.webp",
+            "semantic": "Shopping cart button."
+        },
+        {
+            "bounds": {
+                "bottom": 158,
+                "left": 735,
+                "right": 855,
+                "top": 112
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_30/screen_1740325363486.webp",
+            "semantic": "Shopping cart button."
+        },
+        {
+            "bounds": {
+                "bottom": 224,
+                "left": 517,
+                "right": 736,
+                "top": 163
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/Honor90GT_dark_shortcut_7_27/screen_1740569917436.webp",
+            "semantic": "Shopping cart button."
+        },
+        {
+            "bounds": {
+                "bottom": 216,
+                "left": 462,
+                "right": 606,
+                "top": 161
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/OPPO Reno9 Pro5G_dark_shortcut_7_20/screen_1740309558855.webp",
+            "semantic": "Shopping cart button."
+        },
+        {
+            "bounds": {
+                "bottom": 220,
+                "left": 526,
+                "right": 682,
+                "top": 160
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/Redmik70U_dark_shortcut_7_27/screen_1740311661890.webp",
+            "semantic": "Shopping cart button."
+        },
+        {
+            "bounds": {
+                "bottom": 212,
+                "left": 526,
+                "right": 682,
+                "top": 152
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/redmi Turbo 14_dark_shortcut_7_19/screen_1740321906884.webp",
+            "semantic": "Shopping cart button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 147,
+                "left": 1515,
+                "right": 1575,
+                "top": 106
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1740149137845.webp",
+            "semantic": "\"Manage\" or \"Settings\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 127,
+                "left": 1520,
+                "right": 1576,
+                "top": 89
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_20/screen_1740312865845.webp",
+            "semantic": "\"Manage\" or \"Settings\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 159,
+                "left": 1500,
+                "right": 1570,
+                "top": 112
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_30/screen_1740325363486.webp",
+            "semantic": "\"Manage\" or \"Settings\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 224,
+                "left": 1069,
+                "right": 1161,
+                "top": 162
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/Honor90GT_dark_shortcut_7_27/screen_1740569917436.webp",
+            "semantic": "\"Manage\" or \"Settings\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 217,
+                "left": 960,
+                "right": 1044,
+                "top": 160
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/OPPO Reno9 Pro5G_dark_shortcut_7_20/screen_1740309558855.webp",
+            "semantic": "\"Manage\" or \"Settings\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 217,
+                "left": 1089,
+                "right": 1181,
+                "top": 163
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/Redmik70U_dark_shortcut_7_27/screen_1740311661890.webp",
+            "semantic": "\"Manage\" or \"Settings\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 213,
+                "left": 1089,
+                "right": 1181,
+                "top": 151
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/redmi Turbo 14_dark_shortcut_7_19/screen_1740321906884.webp",
+            "semantic": "\"Manage\" or \"Settings\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 797,
+                "left": 21,
+                "right": 141,
+                "top": 752
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1740149137845.webp",
+            "semantic": "\"Recommendations\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 738,
+                "left": 20,
+                "right": 132,
+                "top": 696
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_20/screen_1740312865845.webp",
+            "semantic": "\"Recommendations\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 923,
+                "left": 25,
+                "right": 165,
+                "top": 870
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_30/screen_1740325363486.webp",
+            "semantic": "\"Recommendations\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 1559,
+                "left": 33,
+                "right": 217,
+                "top": 1490
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/Honor90GT_dark_shortcut_7_27/screen_1740569917436.webp",
+            "semantic": "\"Recommendations\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 1115,
+                "left": 30,
+                "right": 198,
+                "top": 1052
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/OPPO Reno9 Pro5G_dark_shortcut_7_20/screen_1740309558855.webp",
+            "semantic": "\"Recommendations\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 1206,
+                "left": 33,
+                "right": 217,
+                "top": 1137
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/redmi Turbo 14_dark_shortcut_7_19/screen_1740321906884.webp",
+            "semantic": "\"Recommendations\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 1214,
+                "left": 33,
+                "right": 217,
+                "top": 1145
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/Redmik70U_dark_shortcut_7_27/screen_1740311661890.webp",
+            "semantic": "\"Recommendations\" section header."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2525,
+                "left": 34,
+                "right": 85,
+                "top": 2474
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1740149137845.webp",
+            "semantic": "Navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2526,
+                "left": 32,
+                "right": 80,
+                "top": 2478
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_20/screen_1740312865845.webp",
+            "semantic": "Navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2518,
+                "left": 40,
+                "right": 100,
+                "top": 2458
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_30/screen_1740325363486.webp",
+            "semantic": "Navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2609,
+                "left": 52,
+                "right": 131,
+                "top": 2530
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/Honor90GT_dark_shortcut_7_27/screen_1740569917436.webp",
+            "semantic": "Navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2313,
+                "left": 48,
+                "right": 120,
+                "top": 2241
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/OPPO Reno9 Pro5G_dark_shortcut_7_20/screen_1740309558855.webp",
+            "semantic": "Navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2657,
+                "left": 52,
+                "right": 130,
+                "top": 2579
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/Redmik70U_dark_shortcut_7_27/screen_1740311661890.webp",
+            "semantic": "Navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2605,
+                "left": 52,
+                "right": 130,
+                "top": 2527
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/redmi Turbo 14_dark_shortcut_7_19/screen_1740321906884.webp",
+            "semantic": "Navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2520,
+                "left": 1430,
+                "right": 1490,
+                "top": 2479
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1740149137845.webp",
+            "semantic": "Checkout button."
+        },
+        {
+            "bounds": {
+                "bottom": 2519,
+                "left": 1440,
+                "right": 1496,
+                "top": 2487
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_20/screen_1740312865845.webp",
+            "semantic": "Checkout button."
+        },
+        {
+            "bounds": {
+                "bottom": 2510,
+                "left": 1400,
+                "right": 1470,
+                "top": 2469
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_30/screen_1740325363486.webp",
+            "semantic": "Checkout button."
+        },
+        {
+            "bounds": {
+                "bottom": 2597,
+                "left": 938,
+                "right": 1030,
+                "top": 2545
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/Honor90GT_dark_shortcut_7_27/screen_1740569917436.webp",
+            "semantic": "Checkout button."
+        },
+        {
+            "bounds": {
+                "bottom": 2303,
+                "left": 840,
+                "right": 924,
+                "top": 2255
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/OPPO Reno9 Pro5G_dark_shortcut_7_20/screen_1740309558855.webp",
+            "semantic": "Checkout button."
+        },
+        {
+            "bounds": {
+                "bottom": 2594,
+                "left": 960,
+                "right": 1052,
+                "top": 2542
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/redmi Turbo 14_dark_shortcut_7_19/screen_1740321906884.webp",
+            "semantic": "Checkout button."
+        },
+        {
+            "bounds": {
+                "bottom": 2646,
+                "left": 960,
+                "right": 1052,
+                "top": 2594
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/Redmik70U_dark_shortcut_7_27/screen_1740311661890.webp",
+            "semantic": "Checkout button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 250,
+                "left": 1524,
+                "right": 1558,
+                "top": 216
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1740149137845.webp",
+            "semantic": "\"Navigation or 'Next' button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 224,
+                "left": 1528,
+                "right": 1560,
+                "top": 192
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_20/screen_1740312865845.webp",
+            "semantic": "\"Navigation or 'Next' button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 280,
+                "left": 1510,
+                "right": 1550,
+                "top": 240
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_30/screen_1740325363486.webp",
+            "semantic": "\"Navigation or 'Next' button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 353,
+                "left": 972,
+                "right": 1020,
+                "top": 305
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/OPPO Reno9 Pro5G_dark_shortcut_7_20/screen_1740309558855.webp",
+            "semantic": "\"Navigation or 'Next' button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 379,
+                "left": 1103,
+                "right": 1155,
+                "top": 327
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/Redmik70U_dark_shortcut_7_27/screen_1740311661890.webp",
+            "semantic": "\"Navigation or 'Next' button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 371,
+                "left": 1103,
+                "right": 1155,
+                "top": 319
+            },
+            "img_path": "../data/RedNote/RedNote_manage_shopping_cart/redmi Turbo 14_dark_shortcut_7_19/screen_1740321906884.webp",
+            "semantic": "\"Navigation or 'Next' button.\""
+        }
+    ]
+]

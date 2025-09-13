@@ -1,0 +1,2930 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 165,
+                "left": 13,
+                "right": 90,
+                "top": 88
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 240,
+                "left": 20,
+                "right": 138,
+                "top": 122
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 240,
+                "left": 20,
+                "right": 138,
+                "top": 122
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 228,
+                "left": 18,
+                "right": 126,
+                "top": 120
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 248,
+                "left": 20,
+                "right": 138,
+                "top": 130
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 248,
+                "left": 20,
+                "right": 138,
+                "top": 130
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 242,
+                "left": 18,
+                "right": 126,
+                "top": 134
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 204,
+                "left": 18,
+                "right": 126,
+                "top": 96
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 204,
+                "left": 18,
+                "right": 126,
+                "top": 96
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 20,
+                "right": 139,
+                "top": 133
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 20,
+                "right": 139,
+                "top": 133
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 165,
+                "left": 13,
+                "right": 90,
+                "top": 88
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "Back or Return navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 150,
+                "left": 732,
+                "right": 868,
+                "top": 104
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 150,
+                "left": 732,
+                "right": 868,
+                "top": 104
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 216,
+                "left": 506,
+                "right": 714,
+                "top": 146
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 216,
+                "left": 506,
+                "right": 714,
+                "top": 146
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 206,
+                "left": 444,
+                "right": 636,
+                "top": 141
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 222,
+                "left": 506,
+                "right": 714,
+                "top": 157
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 222,
+                "left": 506,
+                "right": 714,
+                "top": 157
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 220,
+                "left": 444,
+                "right": 636,
+                "top": 155
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 182,
+                "left": 444,
+                "right": 636,
+                "top": 117
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 182,
+                "left": 444,
+                "right": 636,
+                "top": 117
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 228,
+                "left": 496,
+                "right": 704,
+                "top": 158
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 228,
+                "left": 496,
+                "right": 704,
+                "top": 158
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "Meeting scheduling screen."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 170,
+                "left": 1500,
+                "right": 1568,
+                "top": 85
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "\"Complete\" or \"Finish\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 247,
+                "left": 1067,
+                "right": 1171,
+                "top": 117
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "\"Complete\" or \"Finish\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 247,
+                "left": 1067,
+                "right": 1171,
+                "top": 117
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "\"Complete\" or \"Finish\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 939,
+                "right": 1035,
+                "top": 114
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "\"Complete\" or \"Finish\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 255,
+                "left": 1067,
+                "right": 1171,
+                "top": 125
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "\"Complete\" or \"Finish\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 255,
+                "left": 1067,
+                "right": 1171,
+                "top": 125
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "\"Complete\" or \"Finish\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 248,
+                "left": 939,
+                "right": 1035,
+                "top": 128
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "\"Complete\" or \"Finish\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 210,
+                "left": 939,
+                "right": 1035,
+                "top": 90
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "\"Complete\" or \"Finish\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 210,
+                "left": 939,
+                "right": 1035,
+                "top": 90
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "\"Complete\" or \"Finish\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 1047,
+                "right": 1151,
+                "top": 128
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "\"Complete\" or \"Finish\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 1047,
+                "right": 1151,
+                "top": 128
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "\"Complete\" or \"Finish\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 170,
+                "left": 1500,
+                "right": 1568,
+                "top": 85
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "\"Complete\" or \"Finish\" action button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 319,
+                "left": 0,
+                "right": 1600,
+                "top": 200
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 474,
+                "left": 0,
+                "right": 1220,
+                "top": 292
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 474,
+                "left": 0,
+                "right": 1220,
+                "top": 292
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 444,
+                "left": 0,
+                "right": 1080,
+                "top": 276
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 482,
+                "left": 0,
+                "right": 1220,
+                "top": 300
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 482,
+                "left": 0,
+                "right": 1220,
+                "top": 300
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 458,
+                "left": 0,
+                "right": 1080,
+                "top": 290
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 420,
+                "left": 0,
+                "right": 1080,
+                "top": 252
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 420,
+                "left": 0,
+                "right": 1080,
+                "top": 252
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 487,
+                "left": 0,
+                "right": 1200,
+                "top": 304
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 487,
+                "left": 0,
+                "right": 1200,
+                "top": 304
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "Meeting scheduling screen."
+        },
+        {
+            "bounds": {
+                "bottom": 319,
+                "left": 0,
+                "right": 1600,
+                "top": 200
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "Meeting scheduling screen."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 428,
+                "left": 34,
+                "right": 170,
+                "top": 382
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "Start time indicator within scheduling or meeting setup interface."
+        },
+        {
+            "bounds": {
+                "bottom": 428,
+                "left": 34,
+                "right": 170,
+                "top": 382
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "Start time indicator within scheduling or meeting setup interface."
+        },
+        {
+            "bounds": {
+                "bottom": 653,
+                "left": 52,
+                "right": 260,
+                "top": 582
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "Start time indicator within scheduling or meeting setup interface."
+        },
+        {
+            "bounds": {
+                "bottom": 653,
+                "left": 52,
+                "right": 260,
+                "top": 582
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "Start time indicator within scheduling or meeting setup interface."
+        },
+        {
+            "bounds": {
+                "bottom": 573,
+                "left": 48,
+                "right": 240,
+                "top": 508
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "Start time indicator within scheduling or meeting setup interface."
+        },
+        {
+            "bounds": {
+                "bottom": 573,
+                "left": 48,
+                "right": 240,
+                "top": 508
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "Start time indicator within scheduling or meeting setup interface."
+        },
+        {
+            "bounds": {
+                "bottom": 611,
+                "left": 48,
+                "right": 240,
+                "top": 546
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "Start time indicator within scheduling or meeting setup interface."
+        },
+        {
+            "bounds": {
+                "bottom": 645,
+                "left": 52,
+                "right": 260,
+                "top": 580
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "Start time indicator within scheduling or meeting setup interface."
+        },
+        {
+            "bounds": {
+                "bottom": 645,
+                "left": 52,
+                "right": 260,
+                "top": 580
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "Start time indicator within scheduling or meeting setup interface."
+        },
+        {
+            "bounds": {
+                "bottom": 597,
+                "left": 48,
+                "right": 240,
+                "top": 532
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "Start time indicator within scheduling or meeting setup interface."
+        },
+        {
+            "bounds": {
+                "bottom": 639,
+                "left": 52,
+                "right": 260,
+                "top": 569
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "Start time indicator within scheduling or meeting setup interface."
+        },
+        {
+            "bounds": {
+                "bottom": 639,
+                "left": 52,
+                "right": 260,
+                "top": 569
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "Start time indicator within scheduling or meeting setup interface."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 430,
+                "left": 1515,
+                "right": 1566,
+                "top": 379
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "Navigation or expand options button."
+        },
+        {
+            "bounds": {
+                "bottom": 430,
+                "left": 1515,
+                "right": 1566,
+                "top": 379
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "Navigation or expand options button."
+        },
+        {
+            "bounds": {
+                "bottom": 657,
+                "left": 1069,
+                "right": 1148,
+                "top": 578
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "Navigation or expand options button."
+        },
+        {
+            "bounds": {
+                "bottom": 657,
+                "left": 1069,
+                "right": 1148,
+                "top": 578
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "Navigation or expand options button."
+        },
+        {
+            "bounds": {
+                "bottom": 576,
+                "left": 960,
+                "right": 1032,
+                "top": 504
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "Navigation or expand options button."
+        },
+        {
+            "bounds": {
+                "bottom": 576,
+                "left": 960,
+                "right": 1032,
+                "top": 504
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "Navigation or expand options button."
+        },
+        {
+            "bounds": {
+                "bottom": 614,
+                "left": 960,
+                "right": 1032,
+                "top": 542
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "Navigation or expand options button."
+        },
+        {
+            "bounds": {
+                "bottom": 651,
+                "left": 1090,
+                "right": 1168,
+                "top": 573
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "Navigation or expand options button."
+        },
+        {
+            "bounds": {
+                "bottom": 651,
+                "left": 1090,
+                "right": 1168,
+                "top": 573
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "Navigation or expand options button."
+        },
+        {
+            "bounds": {
+                "bottom": 600,
+                "left": 960,
+                "right": 1032,
+                "top": 528
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "Navigation or expand options button."
+        },
+        {
+            "bounds": {
+                "bottom": 643,
+                "left": 1090,
+                "right": 1168,
+                "top": 565
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "Navigation or expand options button."
+        },
+        {
+            "bounds": {
+                "bottom": 643,
+                "left": 1090,
+                "right": 1168,
+                "top": 565
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "Navigation or expand options button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 547,
+                "left": 34,
+                "right": 170,
+                "top": 501
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "\"Meeting duration\" setting option."
+        },
+        {
+            "bounds": {
+                "bottom": 547,
+                "left": 34,
+                "right": 170,
+                "top": 501
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "\"Meeting duration\" setting option."
+        },
+        {
+            "bounds": {
+                "bottom": 836,
+                "left": 52,
+                "right": 260,
+                "top": 765
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "\"Meeting duration\" setting option."
+        },
+        {
+            "bounds": {
+                "bottom": 836,
+                "left": 52,
+                "right": 260,
+                "top": 765
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "\"Meeting duration\" setting option."
+        },
+        {
+            "bounds": {
+                "bottom": 741,
+                "left": 48,
+                "right": 240,
+                "top": 676
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "\"Meeting duration\" setting option."
+        },
+        {
+            "bounds": {
+                "bottom": 741,
+                "left": 48,
+                "right": 240,
+                "top": 676
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "\"Meeting duration\" setting option."
+        },
+        {
+            "bounds": {
+                "bottom": 779,
+                "left": 48,
+                "right": 240,
+                "top": 714
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "\"Meeting duration\" setting option."
+        },
+        {
+            "bounds": {
+                "bottom": 827,
+                "left": 52,
+                "right": 260,
+                "top": 762
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "\"Meeting duration\" setting option."
+        },
+        {
+            "bounds": {
+                "bottom": 827,
+                "left": 52,
+                "right": 260,
+                "top": 762
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "\"Meeting duration\" setting option."
+        },
+        {
+            "bounds": {
+                "bottom": 765,
+                "left": 48,
+                "right": 240,
+                "top": 700
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "\"Meeting duration\" setting option."
+        },
+        {
+            "bounds": {
+                "bottom": 821,
+                "left": 52,
+                "right": 260,
+                "top": 751
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "\"Meeting duration\" setting option."
+        },
+        {
+            "bounds": {
+                "bottom": 821,
+                "left": 52,
+                "right": 260,
+                "top": 751
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "\"Meeting duration\" setting option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 549,
+                "left": 1515,
+                "right": 1566,
+                "top": 498
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "\"Next\" or \"Forward\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 549,
+                "left": 1515,
+                "right": 1566,
+                "top": 498
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "\"Next\" or \"Forward\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 840,
+                "left": 1069,
+                "right": 1148,
+                "top": 761
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "\"Next\" or \"Forward\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 840,
+                "left": 1069,
+                "right": 1148,
+                "top": 761
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "\"Next\" or \"Forward\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 744,
+                "left": 960,
+                "right": 1032,
+                "top": 672
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "\"Next\" or \"Forward\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 744,
+                "left": 960,
+                "right": 1032,
+                "top": 672
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "\"Next\" or \"Forward\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 782,
+                "left": 960,
+                "right": 1032,
+                "top": 710
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "\"Next\" or \"Forward\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 833,
+                "left": 1090,
+                "right": 1168,
+                "top": 755
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "\"Next\" or \"Forward\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 833,
+                "left": 1090,
+                "right": 1168,
+                "top": 755
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "\"Next\" or \"Forward\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 768,
+                "left": 960,
+                "right": 1032,
+                "top": 696
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "\"Next\" or \"Forward\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 825,
+                "left": 1090,
+                "right": 1168,
+                "top": 747
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "\"Next\" or \"Forward\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 825,
+                "left": 1090,
+                "right": 1168,
+                "top": 747
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "\"Next\" or \"Forward\" navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 655,
+                "left": 34,
+                "right": 1566,
+                "top": 583
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "\"Upgrade\" or \"Enhance\" capability option."
+        },
+        {
+            "bounds": {
+                "bottom": 1055,
+                "left": 52,
+                "right": 1168,
+                "top": 877
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "\"Upgrade\" or \"Enhance\" capability option."
+        },
+        {
+            "bounds": {
+                "bottom": 1055,
+                "left": 52,
+                "right": 1168,
+                "top": 877
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "\"Upgrade\" or \"Enhance\" capability option."
+        },
+        {
+            "bounds": {
+                "bottom": 980,
+                "left": 48,
+                "right": 1032,
+                "top": 816
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "\"Upgrade\" or \"Enhance\" capability option."
+        },
+        {
+            "bounds": {
+                "bottom": 1052,
+                "left": 52,
+                "right": 1168,
+                "top": 885
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "\"Upgrade\" or \"Enhance\" capability option."
+        },
+        {
+            "bounds": {
+                "bottom": 1052,
+                "left": 52,
+                "right": 1168,
+                "top": 885
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "\"Upgrade\" or \"Enhance\" capability option."
+        },
+        {
+            "bounds": {
+                "bottom": 994,
+                "left": 48,
+                "right": 1032,
+                "top": 830
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "\"Upgrade\" or \"Enhance\" capability option."
+        },
+        {
+            "bounds": {
+                "bottom": 950,
+                "left": 48,
+                "right": 1032,
+                "top": 792
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "\"Upgrade\" or \"Enhance\" capability option."
+        },
+        {
+            "bounds": {
+                "bottom": 950,
+                "left": 48,
+                "right": 1032,
+                "top": 792
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "\"Upgrade\" or \"Enhance\" capability option."
+        },
+        {
+            "bounds": {
+                "bottom": 1069,
+                "left": 52,
+                "right": 1148,
+                "top": 892
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "\"Upgrade\" or \"Enhance\" capability option."
+        },
+        {
+            "bounds": {
+                "bottom": 1069,
+                "left": 52,
+                "right": 1148,
+                "top": 892
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "\"Upgrade\" or \"Enhance\" capability option."
+        },
+        {
+            "bounds": {
+                "bottom": 655,
+                "left": 34,
+                "right": 1566,
+                "top": 583
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "\"Upgrade\" or \"Enhance\" capability option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 751,
+                "left": 66,
+                "right": 357,
+                "top": 705
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "The remaining session time card information."
+        },
+        {
+            "bounds": {
+                "bottom": 751,
+                "left": 66,
+                "right": 357,
+                "top": 705
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "The remaining session time card information."
+        },
+        {
+            "bounds": {
+                "bottom": 1216,
+                "left": 101,
+                "right": 547,
+                "top": 1146
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "The remaining session time card information."
+        },
+        {
+            "bounds": {
+                "bottom": 1216,
+                "left": 101,
+                "right": 547,
+                "top": 1146
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "The remaining session time card information."
+        },
+        {
+            "bounds": {
+                "bottom": 1086,
+                "left": 93,
+                "right": 506,
+                "top": 1021
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "The remaining session time card information."
+        },
+        {
+            "bounds": {
+                "bottom": 1086,
+                "left": 93,
+                "right": 506,
+                "top": 1021
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "The remaining session time card information."
+        },
+        {
+            "bounds": {
+                "bottom": 1130,
+                "left": 93,
+                "right": 509,
+                "top": 1065
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "The remaining session time card information."
+        },
+        {
+            "bounds": {
+                "bottom": 1194,
+                "left": 101,
+                "right": 543,
+                "top": 1129
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "The remaining session time card information."
+        },
+        {
+            "bounds": {
+                "bottom": 1194,
+                "left": 101,
+                "right": 543,
+                "top": 1129
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "The remaining session time card information."
+        },
+        {
+            "bounds": {
+                "bottom": 1116,
+                "left": 93,
+                "right": 517,
+                "top": 1051
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "The remaining session time card information."
+        },
+        {
+            "bounds": {
+                "bottom": 1202,
+                "left": 101,
+                "right": 549,
+                "top": 1132
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "The remaining session time card information."
+        },
+        {
+            "bounds": {
+                "bottom": 1202,
+                "left": 101,
+                "right": 549,
+                "top": 1132
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "The remaining session time card information."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 745,
+                "left": 1493,
+                "right": 1527,
+                "top": 711
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "Dark mode toggle switch."
+        },
+        {
+            "bounds": {
+                "bottom": 1193,
+                "left": 1058,
+                "right": 1110,
+                "top": 1141
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "Dark mode toggle switch."
+        },
+        {
+            "bounds": {
+                "bottom": 1193,
+                "left": 1058,
+                "right": 1110,
+                "top": 1141
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "Dark mode toggle switch."
+        },
+        {
+            "bounds": {
+                "bottom": 1107,
+                "left": 930,
+                "right": 978,
+                "top": 1059
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "Dark mode toggle switch."
+        },
+        {
+            "bounds": {
+                "bottom": 1185,
+                "left": 1058,
+                "right": 1110,
+                "top": 1133
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "Dark mode toggle switch."
+        },
+        {
+            "bounds": {
+                "bottom": 1185,
+                "left": 1058,
+                "right": 1110,
+                "top": 1133
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "Dark mode toggle switch."
+        },
+        {
+            "bounds": {
+                "bottom": 1121,
+                "left": 930,
+                "right": 978,
+                "top": 1073
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "Dark mode toggle switch."
+        },
+        {
+            "bounds": {
+                "bottom": 1077,
+                "left": 930,
+                "right": 978,
+                "top": 1029
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "Dark mode toggle switch."
+        },
+        {
+            "bounds": {
+                "bottom": 1077,
+                "left": 930,
+                "right": 978,
+                "top": 1029
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "Dark mode toggle switch."
+        },
+        {
+            "bounds": {
+                "bottom": 1207,
+                "left": 1038,
+                "right": 1090,
+                "top": 1155
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "Dark mode toggle switch."
+        },
+        {
+            "bounds": {
+                "bottom": 1207,
+                "left": 1038,
+                "right": 1090,
+                "top": 1155
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "Dark mode toggle switch."
+        },
+        {
+            "bounds": {
+                "bottom": 745,
+                "left": 1493,
+                "right": 1527,
+                "top": 711
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "Dark mode toggle switch."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 855,
+                "left": 34,
+                "right": 102,
+                "top": 809
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "Time zone selection."
+        },
+        {
+            "bounds": {
+                "bottom": 855,
+                "left": 34,
+                "right": 102,
+                "top": 809
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "Time zone selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1377,
+                "left": 52,
+                "right": 156,
+                "top": 1306
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "Time zone selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1377,
+                "left": 52,
+                "right": 156,
+                "top": 1306
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "Time zone selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1233,
+                "left": 48,
+                "right": 144,
+                "top": 1168
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "Time zone selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1233,
+                "left": 48,
+                "right": 144,
+                "top": 1168
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "Time zone selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1277,
+                "left": 48,
+                "right": 144,
+                "top": 1212
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "Time zone selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1351,
+                "left": 52,
+                "right": 156,
+                "top": 1286
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "Time zone selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1351,
+                "left": 52,
+                "right": 156,
+                "top": 1286
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "Time zone selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1263,
+                "left": 48,
+                "right": 144,
+                "top": 1198
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "Time zone selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1361,
+                "left": 52,
+                "right": 156,
+                "top": 1291
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "Time zone selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1361,
+                "left": 52,
+                "right": 156,
+                "top": 1291
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "Time zone selection."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 857,
+                "left": 1515,
+                "right": 1566,
+                "top": 806
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "Navigational button to move to next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 857,
+                "left": 1515,
+                "right": 1566,
+                "top": 806
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "Navigational button to move to next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1381,
+                "left": 1069,
+                "right": 1148,
+                "top": 1302
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "Navigational button to move to next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1381,
+                "left": 1069,
+                "right": 1148,
+                "top": 1302
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "Navigational button to move to next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1236,
+                "left": 960,
+                "right": 1032,
+                "top": 1164
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "Navigational button to move to next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1236,
+                "left": 960,
+                "right": 1032,
+                "top": 1164
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "Navigational button to move to next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1280,
+                "left": 960,
+                "right": 1032,
+                "top": 1208
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "Navigational button to move to next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1357,
+                "left": 1090,
+                "right": 1168,
+                "top": 1279
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "Navigational button to move to next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1357,
+                "left": 1090,
+                "right": 1168,
+                "top": 1279
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "Navigational button to move to next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1266,
+                "left": 960,
+                "right": 1032,
+                "top": 1194
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "Navigational button to move to next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1365,
+                "left": 1090,
+                "right": 1168,
+                "top": 1287
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "Navigational button to move to next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1365,
+                "left": 1090,
+                "right": 1168,
+                "top": 1287
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "Navigational button to move to next screen or option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 974,
+                "left": 34,
+                "right": 170,
+                "top": 928
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "\"Meeting scheduling repeat frequency selection.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1543,
+                "left": 52,
+                "right": 260,
+                "top": 1473
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "\"Meeting scheduling repeat frequency selection.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1543,
+                "left": 52,
+                "right": 260,
+                "top": 1473
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "\"Meeting scheduling repeat frequency selection.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1431,
+                "left": 48,
+                "right": 240,
+                "top": 1366
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "\"Meeting scheduling repeat frequency selection.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1533,
+                "left": 52,
+                "right": 260,
+                "top": 1468
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "\"Meeting scheduling repeat frequency selection.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1533,
+                "left": 52,
+                "right": 260,
+                "top": 1468
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "\"Meeting scheduling repeat frequency selection.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1445,
+                "left": 48,
+                "right": 240,
+                "top": 1380
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "\"Meeting scheduling repeat frequency selection.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1401,
+                "left": 48,
+                "right": 240,
+                "top": 1336
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "\"Meeting scheduling repeat frequency selection.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1401,
+                "left": 48,
+                "right": 240,
+                "top": 1336
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "\"Meeting scheduling repeat frequency selection.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1560,
+                "left": 52,
+                "right": 260,
+                "top": 1489
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "\"Meeting scheduling repeat frequency selection.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1560,
+                "left": 52,
+                "right": 260,
+                "top": 1489
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "\"Meeting scheduling repeat frequency selection.\""
+        },
+        {
+            "bounds": {
+                "bottom": 974,
+                "left": 34,
+                "right": 170,
+                "top": 928
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "\"Meeting scheduling repeat frequency selection.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 976,
+                "left": 1515,
+                "right": 1566,
+                "top": 925
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "Navigation to another page or menu option."
+        },
+        {
+            "bounds": {
+                "bottom": 1547,
+                "left": 1090,
+                "right": 1168,
+                "top": 1469
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "Navigation to another page or menu option."
+        },
+        {
+            "bounds": {
+                "bottom": 1547,
+                "left": 1090,
+                "right": 1168,
+                "top": 1469
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "Navigation to another page or menu option."
+        },
+        {
+            "bounds": {
+                "bottom": 1434,
+                "left": 960,
+                "right": 1032,
+                "top": 1362
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "Navigation to another page or menu option."
+        },
+        {
+            "bounds": {
+                "bottom": 1539,
+                "left": 1090,
+                "right": 1168,
+                "top": 1461
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "Navigation to another page or menu option."
+        },
+        {
+            "bounds": {
+                "bottom": 1539,
+                "left": 1090,
+                "right": 1168,
+                "top": 1461
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "Navigation to another page or menu option."
+        },
+        {
+            "bounds": {
+                "bottom": 1448,
+                "left": 960,
+                "right": 1032,
+                "top": 1376
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "Navigation to another page or menu option."
+        },
+        {
+            "bounds": {
+                "bottom": 1404,
+                "left": 960,
+                "right": 1032,
+                "top": 1332
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "Navigation to another page or menu option."
+        },
+        {
+            "bounds": {
+                "bottom": 1404,
+                "left": 960,
+                "right": 1032,
+                "top": 1332
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "Navigation to another page or menu option."
+        },
+        {
+            "bounds": {
+                "bottom": 1564,
+                "left": 1069,
+                "right": 1148,
+                "top": 1485
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "Navigation to another page or menu option."
+        },
+        {
+            "bounds": {
+                "bottom": 1564,
+                "left": 1069,
+                "right": 1148,
+                "top": 1485
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "Navigation to another page or menu option."
+        },
+        {
+            "bounds": {
+                "bottom": 976,
+                "left": 1515,
+                "right": 1566,
+                "top": 925
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "Navigation to another page or menu option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1155,
+                "left": 34,
+                "right": 136,
+                "top": 1036
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "Add meeting participants."
+        },
+        {
+            "bounds": {
+                "bottom": 1155,
+                "left": 34,
+                "right": 136,
+                "top": 1036
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "Add meeting participants."
+        },
+        {
+            "bounds": {
+                "bottom": 1838,
+                "left": 52,
+                "right": 208,
+                "top": 1655
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "Add meeting participants."
+        },
+        {
+            "bounds": {
+                "bottom": 1838,
+                "left": 52,
+                "right": 208,
+                "top": 1655
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "Add meeting participants."
+        },
+        {
+            "bounds": {
+                "bottom": 1656,
+                "left": 48,
+                "right": 192,
+                "top": 1488
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "Add meeting participants."
+        },
+        {
+            "bounds": {
+                "bottom": 1656,
+                "left": 48,
+                "right": 192,
+                "top": 1488
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "Add meeting participants."
+        },
+        {
+            "bounds": {
+                "bottom": 1700,
+                "left": 48,
+                "right": 192,
+                "top": 1532
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "Add meeting participants."
+        },
+        {
+            "bounds": {
+                "bottom": 1812,
+                "left": 52,
+                "right": 208,
+                "top": 1630
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "Add meeting participants."
+        },
+        {
+            "bounds": {
+                "bottom": 1812,
+                "left": 52,
+                "right": 208,
+                "top": 1630
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "Add meeting participants."
+        },
+        {
+            "bounds": {
+                "bottom": 1686,
+                "left": 48,
+                "right": 192,
+                "top": 1518
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "Add meeting participants."
+        },
+        {
+            "bounds": {
+                "bottom": 1820,
+                "left": 52,
+                "right": 208,
+                "top": 1638
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "Add meeting participants."
+        },
+        {
+            "bounds": {
+                "bottom": 1820,
+                "left": 52,
+                "right": 208,
+                "top": 1638
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "Add meeting participants."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1121,
+                "left": 1515,
+                "right": 1566,
+                "top": 1070
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "Navigate to the next section or screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1121,
+                "left": 1515,
+                "right": 1566,
+                "top": 1070
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "Navigate to the next section or screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1786,
+                "left": 1069,
+                "right": 1148,
+                "top": 1707
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "Navigate to the next section or screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1786,
+                "left": 1069,
+                "right": 1148,
+                "top": 1707
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "Navigate to the next section or screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1608,
+                "left": 960,
+                "right": 1032,
+                "top": 1536
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "Navigate to the next section or screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1608,
+                "left": 960,
+                "right": 1032,
+                "top": 1536
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "Navigate to the next section or screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1652,
+                "left": 960,
+                "right": 1032,
+                "top": 1580
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "Navigate to the next section or screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1760,
+                "left": 1090,
+                "right": 1168,
+                "top": 1682
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "Navigate to the next section or screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1760,
+                "left": 1090,
+                "right": 1168,
+                "top": 1682
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "Navigate to the next section or screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1638,
+                "left": 960,
+                "right": 1032,
+                "top": 1566
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "Navigate to the next section or screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1768,
+                "left": 1090,
+                "right": 1168,
+                "top": 1690
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "Navigate to the next section or screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1768,
+                "left": 1090,
+                "right": 1168,
+                "top": 1690
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "Navigate to the next section or screen."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1264,
+                "left": 34,
+                "right": 102,
+                "top": 1218
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "Calendar option or button."
+        },
+        {
+            "bounds": {
+                "bottom": 1985,
+                "left": 52,
+                "right": 156,
+                "top": 1915
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "Calendar option or button."
+        },
+        {
+            "bounds": {
+                "bottom": 1985,
+                "left": 52,
+                "right": 156,
+                "top": 1915
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "Calendar option or button."
+        },
+        {
+            "bounds": {
+                "bottom": 1839,
+                "left": 48,
+                "right": 144,
+                "top": 1774
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "Calendar option or button."
+        },
+        {
+            "bounds": {
+                "bottom": 1975,
+                "left": 52,
+                "right": 156,
+                "top": 1910
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "Calendar option or button."
+        },
+        {
+            "bounds": {
+                "bottom": 1975,
+                "left": 52,
+                "right": 156,
+                "top": 1910
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "Calendar option or button."
+        },
+        {
+            "bounds": {
+                "bottom": 1853,
+                "left": 48,
+                "right": 144,
+                "top": 1788
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "Calendar option or button."
+        },
+        {
+            "bounds": {
+                "bottom": 1809,
+                "left": 48,
+                "right": 144,
+                "top": 1744
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "Calendar option or button."
+        },
+        {
+            "bounds": {
+                "bottom": 1809,
+                "left": 48,
+                "right": 144,
+                "top": 1744
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "Calendar option or button."
+        },
+        {
+            "bounds": {
+                "bottom": 2004,
+                "left": 52,
+                "right": 156,
+                "top": 1933
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "Calendar option or button."
+        },
+        {
+            "bounds": {
+                "bottom": 2004,
+                "left": 52,
+                "right": 156,
+                "top": 1933
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "Calendar option or button."
+        },
+        {
+            "bounds": {
+                "bottom": 1264,
+                "left": 34,
+                "right": 102,
+                "top": 1218
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "Calendar option or button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1266,
+                "left": 1463,
+                "right": 1557,
+                "top": 1215
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "Toggle switch in its \"on\" state."
+        },
+        {
+            "bounds": {
+                "bottom": 1989,
+                "left": 1012,
+                "right": 1155,
+                "top": 1911
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "Toggle switch in its \"on\" state."
+        },
+        {
+            "bounds": {
+                "bottom": 1989,
+                "left": 1012,
+                "right": 1155,
+                "top": 1911
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "Toggle switch in its \"on\" state."
+        },
+        {
+            "bounds": {
+                "bottom": 1842,
+                "left": 888,
+                "right": 1020,
+                "top": 1770
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "Toggle switch in its \"on\" state."
+        },
+        {
+            "bounds": {
+                "bottom": 1981,
+                "left": 1012,
+                "right": 1155,
+                "top": 1903
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "Toggle switch in its \"on\" state."
+        },
+        {
+            "bounds": {
+                "bottom": 1981,
+                "left": 1012,
+                "right": 1155,
+                "top": 1903
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "Toggle switch in its \"on\" state."
+        },
+        {
+            "bounds": {
+                "bottom": 1856,
+                "left": 888,
+                "right": 1020,
+                "top": 1784
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "Toggle switch in its \"on\" state."
+        },
+        {
+            "bounds": {
+                "bottom": 1812,
+                "left": 888,
+                "right": 1020,
+                "top": 1740
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "Toggle switch in its \"on\" state."
+        },
+        {
+            "bounds": {
+                "bottom": 1812,
+                "left": 888,
+                "right": 1020,
+                "top": 1740
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "Toggle switch in its \"on\" state."
+        },
+        {
+            "bounds": {
+                "bottom": 2008,
+                "left": 991,
+                "right": 1135,
+                "top": 1929
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "Toggle switch in its \"on\" state."
+        },
+        {
+            "bounds": {
+                "bottom": 2008,
+                "left": 991,
+                "right": 1135,
+                "top": 1929
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "Toggle switch in its \"on\" state."
+        },
+        {
+            "bounds": {
+                "bottom": 1266,
+                "left": 1463,
+                "right": 1557,
+                "top": 1215
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "Toggle switch in its \"on\" state."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1383,
+                "left": 34,
+                "right": 136,
+                "top": 1337
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "\"Waiting Room\" activation or configuration option."
+        },
+        {
+            "bounds": {
+                "bottom": 1383,
+                "left": 34,
+                "right": 136,
+                "top": 1337
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "\"Waiting Room\" activation or configuration option."
+        },
+        {
+            "bounds": {
+                "bottom": 2187,
+                "left": 52,
+                "right": 208,
+                "top": 2116
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "\"Waiting Room\" activation or configuration option."
+        },
+        {
+            "bounds": {
+                "bottom": 2187,
+                "left": 52,
+                "right": 208,
+                "top": 2116
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "\"Waiting Room\" activation or configuration option."
+        },
+        {
+            "bounds": {
+                "bottom": 1977,
+                "left": 48,
+                "right": 192,
+                "top": 1912
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "\"Waiting Room\" activation or configuration option."
+        },
+        {
+            "bounds": {
+                "bottom": 1977,
+                "left": 48,
+                "right": 192,
+                "top": 1912
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "\"Waiting Room\" activation or configuration option."
+        },
+        {
+            "bounds": {
+                "bottom": 2021,
+                "left": 48,
+                "right": 192,
+                "top": 1956
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "\"Waiting Room\" activation or configuration option."
+        },
+        {
+            "bounds": {
+                "bottom": 2157,
+                "left": 52,
+                "right": 208,
+                "top": 2092
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "\"Waiting Room\" activation or configuration option."
+        },
+        {
+            "bounds": {
+                "bottom": 2157,
+                "left": 52,
+                "right": 208,
+                "top": 2092
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "\"Waiting Room\" activation or configuration option."
+        },
+        {
+            "bounds": {
+                "bottom": 2043,
+                "left": 48,
+                "right": 192,
+                "top": 1978
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "\"Waiting Room\" activation or configuration option."
+        },
+        {
+            "bounds": {
+                "bottom": 2167,
+                "left": 52,
+                "right": 208,
+                "top": 2097
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "\"Waiting Room\" activation or configuration option."
+        },
+        {
+            "bounds": {
+                "bottom": 2167,
+                "left": 52,
+                "right": 208,
+                "top": 2097
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "\"Waiting Room\" activation or configuration option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1385,
+                "left": 1463,
+                "right": 1557,
+                "top": 1334
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "Toggle switch for enabling or disabling a specific feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1385,
+                "left": 1463,
+                "right": 1557,
+                "top": 1334
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "Toggle switch for enabling or disabling a specific feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2191,
+                "left": 991,
+                "right": 1135,
+                "top": 2112
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "Toggle switch for enabling or disabling a specific feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2191,
+                "left": 991,
+                "right": 1135,
+                "top": 2112
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "Toggle switch for enabling or disabling a specific feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1980,
+                "left": 888,
+                "right": 1020,
+                "top": 1908
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "Toggle switch for enabling or disabling a specific feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1980,
+                "left": 888,
+                "right": 1020,
+                "top": 1908
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "Toggle switch for enabling or disabling a specific feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2024,
+                "left": 888,
+                "right": 1020,
+                "top": 1952
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "Toggle switch for enabling or disabling a specific feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2163,
+                "left": 1012,
+                "right": 1155,
+                "top": 2085
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "Toggle switch for enabling or disabling a specific feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2163,
+                "left": 1012,
+                "right": 1155,
+                "top": 2085
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "Toggle switch for enabling or disabling a specific feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2046,
+                "left": 888,
+                "right": 1020,
+                "top": 1974
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "Toggle switch for enabling or disabling a specific feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2171,
+                "left": 1012,
+                "right": 1155,
+                "top": 2093
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "Toggle switch for enabling or disabling a specific feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2171,
+                "left": 1012,
+                "right": 1155,
+                "top": 2093
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "Toggle switch for enabling or disabling a specific feature."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1502,
+                "left": 34,
+                "right": 170,
+                "top": 1456
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "Meeting password."
+        },
+        {
+            "bounds": {
+                "bottom": 2349,
+                "left": 52,
+                "right": 260,
+                "top": 2279
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "Meeting password."
+        },
+        {
+            "bounds": {
+                "bottom": 2349,
+                "left": 52,
+                "right": 260,
+                "top": 2279
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "Meeting password."
+        },
+        {
+            "bounds": {
+                "bottom": 2211,
+                "left": 48,
+                "right": 240,
+                "top": 2146
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "Meeting password."
+        },
+        {
+            "bounds": {
+                "bottom": 2339,
+                "left": 52,
+                "right": 260,
+                "top": 2274
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "Meeting password."
+        },
+        {
+            "bounds": {
+                "bottom": 2339,
+                "left": 52,
+                "right": 260,
+                "top": 2274
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "Meeting password."
+        },
+        {
+            "bounds": {
+                "bottom": 2189,
+                "left": 48,
+                "right": 240,
+                "top": 2124
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "Meeting password."
+        },
+        {
+            "bounds": {
+                "bottom": 2145,
+                "left": 48,
+                "right": 240,
+                "top": 2080
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "Meeting password."
+        },
+        {
+            "bounds": {
+                "bottom": 2145,
+                "left": 48,
+                "right": 240,
+                "top": 2080
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "Meeting password."
+        },
+        {
+            "bounds": {
+                "bottom": 2370,
+                "left": 52,
+                "right": 260,
+                "top": 2299
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "Meeting password."
+        },
+        {
+            "bounds": {
+                "bottom": 2370,
+                "left": 52,
+                "right": 260,
+                "top": 2299
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "Meeting password."
+        },
+        {
+            "bounds": {
+                "bottom": 1502,
+                "left": 34,
+                "right": 170,
+                "top": 1456
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "Meeting password."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1504,
+                "left": 1463,
+                "right": 1557,
+                "top": 1453
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2353,
+                "left": 1012,
+                "right": 1155,
+                "top": 2275
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2353,
+                "left": 1012,
+                "right": 1155,
+                "top": 2275
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2214,
+                "left": 888,
+                "right": 1020,
+                "top": 2142
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2345,
+                "left": 1012,
+                "right": 1155,
+                "top": 2267
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2345,
+                "left": 1012,
+                "right": 1155,
+                "top": 2267
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2192,
+                "left": 888,
+                "right": 1020,
+                "top": 2120
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2148,
+                "left": 888,
+                "right": 1020,
+                "top": 2076
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2148,
+                "left": 888,
+                "right": 1020,
+                "top": 2076
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2374,
+                "left": 991,
+                "right": 1135,
+                "top": 2295
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2374,
+                "left": 991,
+                "right": 1135,
+                "top": 2295
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1504,
+                "left": 1463,
+                "right": 1557,
+                "top": 1453
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1646,
+                "left": 753,
+                "right": 847,
+                "top": 1600
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_112/screen_1742313704853.webp",
+            "semantic": "\"More options\" dropdown button."
+        },
+        {
+            "bounds": {
+                "bottom": 1646,
+                "left": 743,
+                "right": 856,
+                "top": 1600
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/HUAWEl MatePad Pro MRX-W39_shortcut_7_35/screen_1742307656033.webp",
+            "semantic": "\"More options\" dropdown button."
+        },
+        {
+            "bounds": {
+                "bottom": 2592,
+                "left": 528,
+                "right": 671,
+                "top": 2521
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_dark_shortcut_7_165/screen_1742385734700.webp",
+            "semantic": "\"More options\" dropdown button."
+        },
+        {
+            "bounds": {
+                "bottom": 2592,
+                "left": 513,
+                "right": 686,
+                "top": 2521
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Honor90GT_shortcut_7_84/screen_1742312273503.webp",
+            "semantic": "\"More options\" dropdown button."
+        },
+        {
+            "bounds": {
+                "bottom": 2348,
+                "left": 474,
+                "right": 606,
+                "top": 2283
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_dark_shortcut_7_40/screen_1742320214734.webp",
+            "semantic": "\"More options\" dropdown button."
+        },
+        {
+            "bounds": {
+                "bottom": 2348,
+                "left": 460,
+                "right": 619,
+                "top": 2283
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/IQOONeo5_shortcut_7_80/screen_1742366527391.webp",
+            "semantic": "\"More options\" dropdown button."
+        },
+        {
+            "bounds": {
+                "bottom": 2364,
+                "left": 474,
+                "right": 606,
+                "top": 2327
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/OPPO Reno9 Pro5G_dark_shortcut_7_89/screen_1742276572902.webp",
+            "semantic": "\"More options\" dropdown button."
+        },
+        {
+            "bounds": {
+                "bottom": 2559,
+                "left": 538,
+                "right": 681,
+                "top": 2494
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_dark_shortcut_7_273/screen_1742384344540.webp",
+            "semantic": "\"More options\" dropdown button."
+        },
+        {
+            "bounds": {
+                "bottom": 2559,
+                "left": 524,
+                "right": 696,
+                "top": 2494
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/Redmik70U_shortcut_7_120/screen_1742364668578.webp",
+            "semantic": "\"More options\" dropdown button."
+        },
+        {
+            "bounds": {
+                "bottom": 2412,
+                "left": 0,
+                "right": 1080,
+                "top": 2298
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/honorPlay8T_shortcut_7_172/screen_1741768419809.webp",
+            "semantic": "\"More options\" dropdown button."
+        },
+        {
+            "bounds": {
+                "bottom": 2570,
+                "left": 538,
+                "right": 681,
+                "top": 2500
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_dark_shortcut_7_124/screen_1742290047742.webp",
+            "semantic": "\"More options\" dropdown button."
+        },
+        {
+            "bounds": {
+                "bottom": 2570,
+                "left": 524,
+                "right": 696,
+                "top": 2500
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_Tx_create_meeting/redmi Turbo 14_shortcut_7_17/screen_1742228608478.webp",
+            "semantic": "\"More options\" dropdown button."
+        }
+    ]
+]

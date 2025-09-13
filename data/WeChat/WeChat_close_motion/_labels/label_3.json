@@ -1,0 +1,166 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 1475,
+                "left": 452,
+                "right": 799,
+                "top": 1353
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro MRX-W39_shortcut_7_3/screen_1740147222338.webp",
+            "semantic": "Cancel button."
+        },
+        {
+            "bounds": {
+                "bottom": 1519,
+                "left": 452,
+                "right": 799,
+                "top": 1397
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_2/screen_1741840457854.webp",
+            "semantic": "Cancel button."
+        },
+        {
+            "bounds": {
+                "bottom": 1521,
+                "left": 434,
+                "right": 799,
+                "top": 1393
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_2/screen_1741965951783.webp",
+            "semantic": "Cancel button."
+        },
+        {
+            "bounds": {
+                "bottom": 1521,
+                "left": 434,
+                "right": 799,
+                "top": 1393
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_6/screen_1741964041283.webp",
+            "semantic": "Cancel button."
+        },
+        {
+            "bounds": {
+                "bottom": 1475,
+                "left": 434,
+                "right": 799,
+                "top": 1347
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_2/screen_1740311867969.webp",
+            "semantic": "Cancel button."
+        },
+        {
+            "bounds": {
+                "bottom": 1603,
+                "left": 122,
+                "right": 609,
+                "top": 1432
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/redmi Turbo 14_dark_shortcut_7_2/screen_1740320432247.webp",
+            "semantic": "Cancel button."
+        },
+        {
+            "bounds": {
+                "bottom": 1435,
+                "left": 108,
+                "right": 540,
+                "top": 1284
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/OPPO Reno9 Pro5G_dark_shortcut_7_2/screen_1740308691176.webp",
+            "semantic": "Cancel button."
+        },
+        {
+            "bounds": {
+                "bottom": 1631,
+                "left": 122,
+                "right": 609,
+                "top": 1460
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/Redmik70U_dark_shortcut_7_7/screen_1740304555071.webp",
+            "semantic": "Cancel button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1475,
+                "left": 800,
+                "right": 1147,
+                "top": 1353
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro MRX-W39_shortcut_7_3/screen_1740147222338.webp",
+            "semantic": "Clear history or data function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1519,
+                "left": 800,
+                "right": 1147,
+                "top": 1397
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_2/screen_1741840457854.webp",
+            "semantic": "Clear history or data function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1521,
+                "left": 800,
+                "right": 1165,
+                "top": 1393
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_2/screen_1741965951783.webp",
+            "semantic": "Clear history or data function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1521,
+                "left": 800,
+                "right": 1165,
+                "top": 1393
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_6/screen_1741964041283.webp",
+            "semantic": "Clear history or data function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1475,
+                "left": 800,
+                "right": 1165,
+                "top": 1347
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_2/screen_1740311867969.webp",
+            "semantic": "Clear history or data function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1435,
+                "left": 541,
+                "right": 972,
+                "top": 1284
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/OPPO Reno9 Pro5G_dark_shortcut_7_2/screen_1740308691176.webp",
+            "semantic": "Clear history or data function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1631,
+                "left": 611,
+                "right": 1098,
+                "top": 1460
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/Redmik70U_dark_shortcut_7_7/screen_1740304555071.webp",
+            "semantic": "Clear history or data function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1603,
+                "left": 611,
+                "right": 1098,
+                "top": 1432
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/redmi Turbo 14_dark_shortcut_7_2/screen_1740320432247.webp",
+            "semantic": "Clear history or data function button."
+        }
+    ]
+]

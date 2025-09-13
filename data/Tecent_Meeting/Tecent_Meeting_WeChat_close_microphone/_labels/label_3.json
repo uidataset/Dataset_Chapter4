@@ -1,0 +1,3420 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 167,
+                "left": 13,
+                "right": 90,
+                "top": 90
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 167,
+                "left": 13,
+                "right": 90,
+                "top": 90
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 243,
+                "left": 20,
+                "right": 138,
+                "top": 125
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 243,
+                "left": 20,
+                "right": 138,
+                "top": 125
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 231,
+                "left": 18,
+                "right": 126,
+                "top": 123
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 251,
+                "left": 20,
+                "right": 138,
+                "top": 133
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 251,
+                "left": 20,
+                "right": 138,
+                "top": 133
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 245,
+                "left": 18,
+                "right": 126,
+                "top": 137
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 207,
+                "left": 18,
+                "right": 126,
+                "top": 99
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 207,
+                "left": 18,
+                "right": 126,
+                "top": 99
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 255,
+                "left": 20,
+                "right": 139,
+                "top": 136
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 255,
+                "left": 20,
+                "right": 139,
+                "top": 136
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "\"Back\" navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 155,
+                "left": 762,
+                "right": 838,
+                "top": 103
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Settings menu label."
+        },
+        {
+            "bounds": {
+                "bottom": 224,
+                "left": 551,
+                "right": 669,
+                "top": 145
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Settings menu label."
+        },
+        {
+            "bounds": {
+                "bottom": 224,
+                "left": 551,
+                "right": 669,
+                "top": 145
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Settings menu label."
+        },
+        {
+            "bounds": {
+                "bottom": 213,
+                "left": 486,
+                "right": 594,
+                "top": 140
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Settings menu label."
+        },
+        {
+            "bounds": {
+                "bottom": 229,
+                "left": 551,
+                "right": 669,
+                "top": 155
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Settings menu label."
+        },
+        {
+            "bounds": {
+                "bottom": 229,
+                "left": 551,
+                "right": 669,
+                "top": 155
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Settings menu label."
+        },
+        {
+            "bounds": {
+                "bottom": 227,
+                "left": 486,
+                "right": 594,
+                "top": 154
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Settings menu label."
+        },
+        {
+            "bounds": {
+                "bottom": 189,
+                "left": 486,
+                "right": 594,
+                "top": 117
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Settings menu label."
+        },
+        {
+            "bounds": {
+                "bottom": 189,
+                "left": 486,
+                "right": 594,
+                "top": 117
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Settings menu label."
+        },
+        {
+            "bounds": {
+                "bottom": 235,
+                "left": 541,
+                "right": 659,
+                "top": 156
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Settings menu label."
+        },
+        {
+            "bounds": {
+                "bottom": 235,
+                "left": 541,
+                "right": 659,
+                "top": 156
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Settings menu label."
+        },
+        {
+            "bounds": {
+                "bottom": 155,
+                "left": 762,
+                "right": 838,
+                "top": 103
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Settings menu label."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 282,
+                "left": 55,
+                "right": 259,
+                "top": 236
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Notification reception settings."
+        },
+        {
+            "bounds": {
+                "bottom": 418,
+                "left": 85,
+                "right": 397,
+                "top": 348
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Notification reception settings."
+        },
+        {
+            "bounds": {
+                "bottom": 418,
+                "left": 85,
+                "right": 397,
+                "top": 348
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Notification reception settings."
+        },
+        {
+            "bounds": {
+                "bottom": 393,
+                "left": 78,
+                "right": 366,
+                "top": 328
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Notification reception settings."
+        },
+        {
+            "bounds": {
+                "bottom": 424,
+                "left": 85,
+                "right": 397,
+                "top": 359
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Notification reception settings."
+        },
+        {
+            "bounds": {
+                "bottom": 424,
+                "left": 85,
+                "right": 397,
+                "top": 359
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Notification reception settings."
+        },
+        {
+            "bounds": {
+                "bottom": 407,
+                "left": 78,
+                "right": 366,
+                "top": 342
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Notification reception settings."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 78,
+                "right": 366,
+                "top": 304
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Notification reception settings."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 78,
+                "right": 366,
+                "top": 304
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Notification reception settings."
+        },
+        {
+            "bounds": {
+                "bottom": 431,
+                "left": 85,
+                "right": 397,
+                "top": 361
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Notification reception settings."
+        },
+        {
+            "bounds": {
+                "bottom": 431,
+                "left": 85,
+                "right": 397,
+                "top": 361
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Notification reception settings."
+        },
+        {
+            "bounds": {
+                "bottom": 282,
+                "left": 55,
+                "right": 259,
+                "top": 236
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Notification reception settings."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 276,
+                "left": 268,
+                "right": 302,
+                "top": 242
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Information or help button."
+        },
+        {
+            "bounds": {
+                "bottom": 409,
+                "left": 410,
+                "right": 462,
+                "top": 357
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Information or help button."
+        },
+        {
+            "bounds": {
+                "bottom": 409,
+                "left": 410,
+                "right": 462,
+                "top": 357
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Information or help button."
+        },
+        {
+            "bounds": {
+                "bottom": 385,
+                "left": 378,
+                "right": 426,
+                "top": 337
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Information or help button."
+        },
+        {
+            "bounds": {
+                "bottom": 418,
+                "left": 410,
+                "right": 462,
+                "top": 366
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Information or help button."
+        },
+        {
+            "bounds": {
+                "bottom": 418,
+                "left": 410,
+                "right": 462,
+                "top": 366
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Information or help button."
+        },
+        {
+            "bounds": {
+                "bottom": 399,
+                "left": 378,
+                "right": 426,
+                "top": 351
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Information or help button."
+        },
+        {
+            "bounds": {
+                "bottom": 361,
+                "left": 378,
+                "right": 426,
+                "top": 313
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Information or help button."
+        },
+        {
+            "bounds": {
+                "bottom": 361,
+                "left": 378,
+                "right": 426,
+                "top": 313
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Information or help button."
+        },
+        {
+            "bounds": {
+                "bottom": 422,
+                "left": 410,
+                "right": 462,
+                "top": 370
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Information or help button."
+        },
+        {
+            "bounds": {
+                "bottom": 422,
+                "left": 410,
+                "right": 462,
+                "top": 370
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Information or help button."
+        },
+        {
+            "bounds": {
+                "bottom": 276,
+                "left": 268,
+                "right": 302,
+                "top": 242
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Information or help button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 285,
+                "left": 1450,
+                "right": 1545,
+                "top": 233
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 422,
+                "left": 992,
+                "right": 1135,
+                "top": 344
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 422,
+                "left": 992,
+                "right": 1135,
+                "top": 344
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 397,
+                "left": 870,
+                "right": 1002,
+                "top": 325
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 431,
+                "left": 992,
+                "right": 1135,
+                "top": 353
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 431,
+                "left": 992,
+                "right": 1135,
+                "top": 353
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 411,
+                "left": 870,
+                "right": 1002,
+                "top": 339
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 373,
+                "left": 870,
+                "right": 1002,
+                "top": 301
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 373,
+                "left": 870,
+                "right": 1002,
+                "top": 301
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 436,
+                "left": 969,
+                "right": 1115,
+                "top": 356
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 436,
+                "left": 969,
+                "right": 1115,
+                "top": 356
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 285,
+                "left": 1450,
+                "right": 1545,
+                "top": 233
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 422,
+                "left": 55,
+                "right": 225,
+                "top": 376
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Section relating to account and security settings."
+        },
+        {
+            "bounds": {
+                "bottom": 422,
+                "left": 55,
+                "right": 225,
+                "top": 376
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Section relating to account and security settings."
+        },
+        {
+            "bounds": {
+                "bottom": 633,
+                "left": 85,
+                "right": 345,
+                "top": 563
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Section relating to account and security settings."
+        },
+        {
+            "bounds": {
+                "bottom": 633,
+                "left": 85,
+                "right": 345,
+                "top": 563
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Section relating to account and security settings."
+        },
+        {
+            "bounds": {
+                "bottom": 591,
+                "left": 78,
+                "right": 318,
+                "top": 526
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Section relating to account and security settings."
+        },
+        {
+            "bounds": {
+                "bottom": 639,
+                "left": 85,
+                "right": 345,
+                "top": 574
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Section relating to account and security settings."
+        },
+        {
+            "bounds": {
+                "bottom": 639,
+                "left": 85,
+                "right": 345,
+                "top": 574
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Section relating to account and security settings."
+        },
+        {
+            "bounds": {
+                "bottom": 605,
+                "left": 78,
+                "right": 318,
+                "top": 540
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Section relating to account and security settings."
+        },
+        {
+            "bounds": {
+                "bottom": 567,
+                "left": 78,
+                "right": 318,
+                "top": 502
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Section relating to account and security settings."
+        },
+        {
+            "bounds": {
+                "bottom": 567,
+                "left": 78,
+                "right": 318,
+                "top": 502
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Section relating to account and security settings."
+        },
+        {
+            "bounds": {
+                "bottom": 647,
+                "left": 85,
+                "right": 345,
+                "top": 577
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Section relating to account and security settings."
+        },
+        {
+            "bounds": {
+                "bottom": 647,
+                "left": 85,
+                "right": 345,
+                "top": 577
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Section relating to account and security settings."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 416,
+                "left": 1511,
+                "right": 1545,
+                "top": 382
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Navigation or next page button."
+        },
+        {
+            "bounds": {
+                "bottom": 624,
+                "left": 1083,
+                "right": 1135,
+                "top": 572
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Navigation or next page button."
+        },
+        {
+            "bounds": {
+                "bottom": 624,
+                "left": 1083,
+                "right": 1135,
+                "top": 572
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Navigation or next page button."
+        },
+        {
+            "bounds": {
+                "bottom": 582,
+                "left": 954,
+                "right": 1002,
+                "top": 534
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Navigation or next page button."
+        },
+        {
+            "bounds": {
+                "bottom": 633,
+                "left": 1083,
+                "right": 1135,
+                "top": 581
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Navigation or next page button."
+        },
+        {
+            "bounds": {
+                "bottom": 633,
+                "left": 1083,
+                "right": 1135,
+                "top": 581
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Navigation or next page button."
+        },
+        {
+            "bounds": {
+                "bottom": 596,
+                "left": 954,
+                "right": 1002,
+                "top": 548
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Navigation or next page button."
+        },
+        {
+            "bounds": {
+                "bottom": 558,
+                "left": 954,
+                "right": 1002,
+                "top": 510
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Navigation or next page button."
+        },
+        {
+            "bounds": {
+                "bottom": 558,
+                "left": 954,
+                "right": 1002,
+                "top": 510
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Navigation or next page button."
+        },
+        {
+            "bounds": {
+                "bottom": 638,
+                "left": 1063,
+                "right": 1115,
+                "top": 586
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Navigation or next page button."
+        },
+        {
+            "bounds": {
+                "bottom": 638,
+                "left": 1063,
+                "right": 1115,
+                "top": 586
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Navigation or next page button."
+        },
+        {
+            "bounds": {
+                "bottom": 416,
+                "left": 1511,
+                "right": 1545,
+                "top": 382
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Navigation or next page button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 547,
+                "left": 55,
+                "right": 89,
+                "top": 513
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Audio settings or volume control adjustment."
+        },
+        {
+            "bounds": {
+                "bottom": 547,
+                "left": 55,
+                "right": 89,
+                "top": 513
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Audio settings or volume control adjustment."
+        },
+        {
+            "bounds": {
+                "bottom": 841,
+                "left": 85,
+                "right": 137,
+                "top": 789
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Audio settings or volume control adjustment."
+        },
+        {
+            "bounds": {
+                "bottom": 841,
+                "left": 85,
+                "right": 137,
+                "top": 789
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Audio settings or volume control adjustment."
+        },
+        {
+            "bounds": {
+                "bottom": 744,
+                "left": 78,
+                "right": 126,
+                "top": 696
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Audio settings or volume control adjustment."
+        },
+        {
+            "bounds": {
+                "bottom": 744,
+                "left": 78,
+                "right": 126,
+                "top": 696
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Audio settings or volume control adjustment."
+        },
+        {
+            "bounds": {
+                "bottom": 782,
+                "left": 78,
+                "right": 126,
+                "top": 734
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Audio settings or volume control adjustment."
+        },
+        {
+            "bounds": {
+                "bottom": 834,
+                "left": 85,
+                "right": 137,
+                "top": 782
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Audio settings or volume control adjustment."
+        },
+        {
+            "bounds": {
+                "bottom": 834,
+                "left": 85,
+                "right": 137,
+                "top": 782
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Audio settings or volume control adjustment."
+        },
+        {
+            "bounds": {
+                "bottom": 768,
+                "left": 78,
+                "right": 126,
+                "top": 720
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Audio settings or volume control adjustment."
+        },
+        {
+            "bounds": {
+                "bottom": 826,
+                "left": 85,
+                "right": 137,
+                "top": 774
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Audio settings or volume control adjustment."
+        },
+        {
+            "bounds": {
+                "bottom": 826,
+                "left": 85,
+                "right": 137,
+                "top": 774
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Audio settings or volume control adjustment."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 548,
+                "left": 98,
+                "right": 158,
+                "top": 513
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Audio settings section."
+        },
+        {
+            "bounds": {
+                "bottom": 548,
+                "left": 98,
+                "right": 158,
+                "top": 513
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Audio settings section."
+        },
+        {
+            "bounds": {
+                "bottom": 845,
+                "left": 150,
+                "right": 242,
+                "top": 785
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Audio settings section."
+        },
+        {
+            "bounds": {
+                "bottom": 845,
+                "left": 150,
+                "right": 242,
+                "top": 785
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Audio settings section."
+        },
+        {
+            "bounds": {
+                "bottom": 745,
+                "left": 138,
+                "right": 222,
+                "top": 696
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Audio settings section."
+        },
+        {
+            "bounds": {
+                "bottom": 745,
+                "left": 138,
+                "right": 222,
+                "top": 696
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Audio settings section."
+        },
+        {
+            "bounds": {
+                "bottom": 786,
+                "left": 138,
+                "right": 222,
+                "top": 731
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Audio settings section."
+        },
+        {
+            "bounds": {
+                "bottom": 837,
+                "left": 150,
+                "right": 242,
+                "top": 780
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Audio settings section."
+        },
+        {
+            "bounds": {
+                "bottom": 837,
+                "left": 150,
+                "right": 242,
+                "top": 780
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Audio settings section."
+        },
+        {
+            "bounds": {
+                "bottom": 772,
+                "left": 138,
+                "right": 222,
+                "top": 717
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Audio settings section."
+        },
+        {
+            "bounds": {
+                "bottom": 831,
+                "left": 150,
+                "right": 242,
+                "top": 770
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Audio settings section."
+        },
+        {
+            "bounds": {
+                "bottom": 831,
+                "left": 150,
+                "right": 242,
+                "top": 770
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Audio settings section."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 664,
+                "left": 55,
+                "right": 293,
+                "top": 618
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Microphone-related feature enabling."
+        },
+        {
+            "bounds": {
+                "bottom": 1004,
+                "left": 85,
+                "right": 449,
+                "top": 934
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Microphone-related feature enabling."
+        },
+        {
+            "bounds": {
+                "bottom": 1004,
+                "left": 85,
+                "right": 449,
+                "top": 934
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Microphone-related feature enabling."
+        },
+        {
+            "bounds": {
+                "bottom": 933,
+                "left": 78,
+                "right": 414,
+                "top": 868
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Microphone-related feature enabling."
+        },
+        {
+            "bounds": {
+                "bottom": 1010,
+                "left": 85,
+                "right": 449,
+                "top": 945
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Microphone-related feature enabling."
+        },
+        {
+            "bounds": {
+                "bottom": 1010,
+                "left": 85,
+                "right": 449,
+                "top": 945
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Microphone-related feature enabling."
+        },
+        {
+            "bounds": {
+                "bottom": 947,
+                "left": 78,
+                "right": 414,
+                "top": 882
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Microphone-related feature enabling."
+        },
+        {
+            "bounds": {
+                "bottom": 909,
+                "left": 78,
+                "right": 414,
+                "top": 844
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Microphone-related feature enabling."
+        },
+        {
+            "bounds": {
+                "bottom": 909,
+                "left": 78,
+                "right": 414,
+                "top": 844
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Microphone-related feature enabling."
+        },
+        {
+            "bounds": {
+                "bottom": 1020,
+                "left": 85,
+                "right": 449,
+                "top": 950
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Microphone-related feature enabling."
+        },
+        {
+            "bounds": {
+                "bottom": 1020,
+                "left": 85,
+                "right": 449,
+                "top": 950
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Microphone-related feature enabling."
+        },
+        {
+            "bounds": {
+                "bottom": 664,
+                "left": 55,
+                "right": 293,
+                "top": 618
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Microphone-related feature enabling."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 667,
+                "left": 1450,
+                "right": 1545,
+                "top": 615
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Toggle switch for enabling or disabling specific settings or features."
+        },
+        {
+            "bounds": {
+                "bottom": 1008,
+                "left": 992,
+                "right": 1135,
+                "top": 930
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Toggle switch for enabling or disabling specific settings or features."
+        },
+        {
+            "bounds": {
+                "bottom": 1008,
+                "left": 992,
+                "right": 1135,
+                "top": 930
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Toggle switch for enabling or disabling specific settings or features."
+        },
+        {
+            "bounds": {
+                "bottom": 937,
+                "left": 870,
+                "right": 1002,
+                "top": 865
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Toggle switch for enabling or disabling specific settings or features."
+        },
+        {
+            "bounds": {
+                "bottom": 1017,
+                "left": 992,
+                "right": 1135,
+                "top": 939
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Toggle switch for enabling or disabling specific settings or features."
+        },
+        {
+            "bounds": {
+                "bottom": 1017,
+                "left": 992,
+                "right": 1135,
+                "top": 939
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Toggle switch for enabling or disabling specific settings or features."
+        },
+        {
+            "bounds": {
+                "bottom": 951,
+                "left": 870,
+                "right": 1002,
+                "top": 879
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Toggle switch for enabling or disabling specific settings or features."
+        },
+        {
+            "bounds": {
+                "bottom": 913,
+                "left": 870,
+                "right": 1002,
+                "top": 841
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Toggle switch for enabling or disabling specific settings or features."
+        },
+        {
+            "bounds": {
+                "bottom": 913,
+                "left": 870,
+                "right": 1002,
+                "top": 841
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Toggle switch for enabling or disabling specific settings or features."
+        },
+        {
+            "bounds": {
+                "bottom": 1025,
+                "left": 969,
+                "right": 1115,
+                "top": 945
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Toggle switch for enabling or disabling specific settings or features."
+        },
+        {
+            "bounds": {
+                "bottom": 1025,
+                "left": 969,
+                "right": 1115,
+                "top": 945
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Toggle switch for enabling or disabling specific settings or features."
+        },
+        {
+            "bounds": {
+                "bottom": 667,
+                "left": 1450,
+                "right": 1545,
+                "top": 615
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Toggle switch for enabling or disabling specific settings or features."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 783,
+                "left": 55,
+                "right": 293,
+                "top": 737
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Enable speaker upon joining a meeting."
+        },
+        {
+            "bounds": {
+                "bottom": 1186,
+                "left": 85,
+                "right": 449,
+                "top": 1116
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Enable speaker upon joining a meeting."
+        },
+        {
+            "bounds": {
+                "bottom": 1186,
+                "left": 85,
+                "right": 449,
+                "top": 1116
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Enable speaker upon joining a meeting."
+        },
+        {
+            "bounds": {
+                "bottom": 1101,
+                "left": 78,
+                "right": 414,
+                "top": 1036
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Enable speaker upon joining a meeting."
+        },
+        {
+            "bounds": {
+                "bottom": 1192,
+                "left": 85,
+                "right": 449,
+                "top": 1127
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Enable speaker upon joining a meeting."
+        },
+        {
+            "bounds": {
+                "bottom": 1192,
+                "left": 85,
+                "right": 449,
+                "top": 1127
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Enable speaker upon joining a meeting."
+        },
+        {
+            "bounds": {
+                "bottom": 1115,
+                "left": 78,
+                "right": 414,
+                "top": 1050
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Enable speaker upon joining a meeting."
+        },
+        {
+            "bounds": {
+                "bottom": 1077,
+                "left": 78,
+                "right": 414,
+                "top": 1012
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Enable speaker upon joining a meeting."
+        },
+        {
+            "bounds": {
+                "bottom": 1077,
+                "left": 78,
+                "right": 414,
+                "top": 1012
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Enable speaker upon joining a meeting."
+        },
+        {
+            "bounds": {
+                "bottom": 1203,
+                "left": 85,
+                "right": 449,
+                "top": 1133
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Enable speaker upon joining a meeting."
+        },
+        {
+            "bounds": {
+                "bottom": 1203,
+                "left": 85,
+                "right": 449,
+                "top": 1133
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Enable speaker upon joining a meeting."
+        },
+        {
+            "bounds": {
+                "bottom": 783,
+                "left": 55,
+                "right": 293,
+                "top": 737
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Enable speaker upon joining a meeting."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 786,
+                "left": 1450,
+                "right": 1545,
+                "top": 734
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1190,
+                "left": 992,
+                "right": 1135,
+                "top": 1112
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1190,
+                "left": 992,
+                "right": 1135,
+                "top": 1112
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1105,
+                "left": 870,
+                "right": 1002,
+                "top": 1033
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1199,
+                "left": 992,
+                "right": 1135,
+                "top": 1121
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1199,
+                "left": 992,
+                "right": 1135,
+                "top": 1121
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1119,
+                "left": 870,
+                "right": 1002,
+                "top": 1047
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1081,
+                "left": 870,
+                "right": 1002,
+                "top": 1009
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1081,
+                "left": 870,
+                "right": 1002,
+                "top": 1009
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1208,
+                "left": 969,
+                "right": 1115,
+                "top": 1128
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1208,
+                "left": 969,
+                "right": 1115,
+                "top": 1128
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 786,
+                "left": 1450,
+                "right": 1545,
+                "top": 734
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Toggle switch in the \"on\" position."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 902,
+                "left": 55,
+                "right": 293,
+                "top": 856
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Enable microphone floating window."
+        },
+        {
+            "bounds": {
+                "bottom": 1368,
+                "left": 85,
+                "right": 449,
+                "top": 1298
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Enable microphone floating window."
+        },
+        {
+            "bounds": {
+                "bottom": 1368,
+                "left": 85,
+                "right": 449,
+                "top": 1298
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Enable microphone floating window."
+        },
+        {
+            "bounds": {
+                "bottom": 1269,
+                "left": 78,
+                "right": 414,
+                "top": 1204
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Enable microphone floating window."
+        },
+        {
+            "bounds": {
+                "bottom": 1374,
+                "left": 85,
+                "right": 449,
+                "top": 1309
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Enable microphone floating window."
+        },
+        {
+            "bounds": {
+                "bottom": 1374,
+                "left": 85,
+                "right": 449,
+                "top": 1309
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Enable microphone floating window."
+        },
+        {
+            "bounds": {
+                "bottom": 1283,
+                "left": 78,
+                "right": 414,
+                "top": 1218
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Enable microphone floating window."
+        },
+        {
+            "bounds": {
+                "bottom": 1245,
+                "left": 78,
+                "right": 414,
+                "top": 1180
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Enable microphone floating window."
+        },
+        {
+            "bounds": {
+                "bottom": 1245,
+                "left": 78,
+                "right": 414,
+                "top": 1180
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Enable microphone floating window."
+        },
+        {
+            "bounds": {
+                "bottom": 1386,
+                "left": 85,
+                "right": 449,
+                "top": 1316
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Enable microphone floating window."
+        },
+        {
+            "bounds": {
+                "bottom": 1386,
+                "left": 85,
+                "right": 449,
+                "top": 1316
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Enable microphone floating window."
+        },
+        {
+            "bounds": {
+                "bottom": 902,
+                "left": 55,
+                "right": 293,
+                "top": 856
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Enable microphone floating window."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 905,
+                "left": 1450,
+                "right": 1545,
+                "top": 853
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Toggle switch in the \"ON\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1372,
+                "left": 992,
+                "right": 1135,
+                "top": 1294
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Toggle switch in the \"ON\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1372,
+                "left": 992,
+                "right": 1135,
+                "top": 1294
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Toggle switch in the \"ON\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1273,
+                "left": 870,
+                "right": 1002,
+                "top": 1201
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Toggle switch in the \"ON\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1381,
+                "left": 992,
+                "right": 1135,
+                "top": 1303
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Toggle switch in the \"ON\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1381,
+                "left": 992,
+                "right": 1135,
+                "top": 1303
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Toggle switch in the \"ON\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1287,
+                "left": 870,
+                "right": 1002,
+                "top": 1215
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Toggle switch in the \"ON\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1249,
+                "left": 870,
+                "right": 1002,
+                "top": 1177
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Toggle switch in the \"ON\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1249,
+                "left": 870,
+                "right": 1002,
+                "top": 1177
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Toggle switch in the \"ON\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1391,
+                "left": 969,
+                "right": 1115,
+                "top": 1311
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Toggle switch in the \"ON\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 1391,
+                "left": 969,
+                "right": 1115,
+                "top": 1311
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Toggle switch in the \"ON\" position."
+        },
+        {
+            "bounds": {
+                "bottom": 905,
+                "left": 1450,
+                "right": 1545,
+                "top": 853
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Toggle switch in the \"ON\" position."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1021,
+                "left": 55,
+                "right": 327,
+                "top": 975
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "\"Play sound when microphone is on\" toggle button."
+        },
+        {
+            "bounds": {
+                "bottom": 1550,
+                "left": 85,
+                "right": 501,
+                "top": 1480
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "\"Play sound when microphone is on\" toggle button."
+        },
+        {
+            "bounds": {
+                "bottom": 1550,
+                "left": 85,
+                "right": 501,
+                "top": 1480
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "\"Play sound when microphone is on\" toggle button."
+        },
+        {
+            "bounds": {
+                "bottom": 1437,
+                "left": 78,
+                "right": 462,
+                "top": 1372
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "\"Play sound when microphone is on\" toggle button."
+        },
+        {
+            "bounds": {
+                "bottom": 1556,
+                "left": 85,
+                "right": 501,
+                "top": 1491
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "\"Play sound when microphone is on\" toggle button."
+        },
+        {
+            "bounds": {
+                "bottom": 1556,
+                "left": 85,
+                "right": 501,
+                "top": 1491
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "\"Play sound when microphone is on\" toggle button."
+        },
+        {
+            "bounds": {
+                "bottom": 1451,
+                "left": 78,
+                "right": 462,
+                "top": 1386
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "\"Play sound when microphone is on\" toggle button."
+        },
+        {
+            "bounds": {
+                "bottom": 1413,
+                "left": 78,
+                "right": 462,
+                "top": 1348
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "\"Play sound when microphone is on\" toggle button."
+        },
+        {
+            "bounds": {
+                "bottom": 1413,
+                "left": 78,
+                "right": 462,
+                "top": 1348
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "\"Play sound when microphone is on\" toggle button."
+        },
+        {
+            "bounds": {
+                "bottom": 1569,
+                "left": 85,
+                "right": 501,
+                "top": 1499
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "\"Play sound when microphone is on\" toggle button."
+        },
+        {
+            "bounds": {
+                "bottom": 1569,
+                "left": 85,
+                "right": 501,
+                "top": 1499
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "\"Play sound when microphone is on\" toggle button."
+        },
+        {
+            "bounds": {
+                "bottom": 1021,
+                "left": 55,
+                "right": 327,
+                "top": 975
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "\"Play sound when microphone is on\" toggle button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1024,
+                "left": 1450,
+                "right": 1545,
+                "top": 972
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1554,
+                "left": 992,
+                "right": 1135,
+                "top": 1476
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1554,
+                "left": 992,
+                "right": 1135,
+                "top": 1476
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1441,
+                "left": 870,
+                "right": 1002,
+                "top": 1369
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1563,
+                "left": 992,
+                "right": 1135,
+                "top": 1485
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1563,
+                "left": 992,
+                "right": 1135,
+                "top": 1485
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1455,
+                "left": 870,
+                "right": 1002,
+                "top": 1383
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1417,
+                "left": 870,
+                "right": 1002,
+                "top": 1345
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1417,
+                "left": 870,
+                "right": 1002,
+                "top": 1345
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1574,
+                "left": 969,
+                "right": 1115,
+                "top": 1494
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1574,
+                "left": 969,
+                "right": 1115,
+                "top": 1494
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1024,
+                "left": 1450,
+                "right": 1545,
+                "top": 972
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Toggle switch for enabling or disabling a feature."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1140,
+                "left": 55,
+                "right": 293,
+                "top": 1094
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Audio noise reduction and enhancement feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1140,
+                "left": 55,
+                "right": 293,
+                "top": 1094
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Audio noise reduction and enhancement feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1752,
+                "left": 85,
+                "right": 449,
+                "top": 1682
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Audio noise reduction and enhancement feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1752,
+                "left": 85,
+                "right": 449,
+                "top": 1682
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Audio noise reduction and enhancement feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1581,
+                "left": 78,
+                "right": 414,
+                "top": 1516
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Audio noise reduction and enhancement feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1581,
+                "left": 78,
+                "right": 414,
+                "top": 1516
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Audio noise reduction and enhancement feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1619,
+                "left": 78,
+                "right": 414,
+                "top": 1554
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Audio noise reduction and enhancement feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1738,
+                "left": 85,
+                "right": 449,
+                "top": 1673
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Audio noise reduction and enhancement feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1738,
+                "left": 85,
+                "right": 449,
+                "top": 1673
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Audio noise reduction and enhancement feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1605,
+                "left": 78,
+                "right": 414,
+                "top": 1540
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Audio noise reduction and enhancement feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1732,
+                "left": 85,
+                "right": 449,
+                "top": 1662
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Audio noise reduction and enhancement feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1732,
+                "left": 85,
+                "right": 449,
+                "top": 1662
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Audio noise reduction and enhancement feature."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1134,
+                "left": 1511,
+                "right": 1545,
+                "top": 1100
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Navigation or expand menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 1134,
+                "left": 1511,
+                "right": 1545,
+                "top": 1100
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Navigation or expand menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 1743,
+                "left": 1063,
+                "right": 1115,
+                "top": 1691
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Navigation or expand menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 1743,
+                "left": 1063,
+                "right": 1115,
+                "top": 1691
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Navigation or expand menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 1572,
+                "left": 954,
+                "right": 1002,
+                "top": 1524
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Navigation or expand menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 1572,
+                "left": 954,
+                "right": 1002,
+                "top": 1524
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Navigation or expand menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 1610,
+                "left": 954,
+                "right": 1002,
+                "top": 1562
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Navigation or expand menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 1732,
+                "left": 1083,
+                "right": 1135,
+                "top": 1680
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Navigation or expand menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 1732,
+                "left": 1083,
+                "right": 1135,
+                "top": 1680
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Navigation or expand menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 1596,
+                "left": 954,
+                "right": 1002,
+                "top": 1548
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Navigation or expand menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 1723,
+                "left": 1083,
+                "right": 1135,
+                "top": 1671
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Navigation or expand menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 1723,
+                "left": 1083,
+                "right": 1135,
+                "top": 1671
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Navigation or expand menu button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1265,
+                "left": 55,
+                "right": 89,
+                "top": 1231
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Video settings or video-related function."
+        },
+        {
+            "bounds": {
+                "bottom": 1925,
+                "left": 85,
+                "right": 137,
+                "top": 1873
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Video settings or video-related function."
+        },
+        {
+            "bounds": {
+                "bottom": 1925,
+                "left": 85,
+                "right": 137,
+                "top": 1873
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Video settings or video-related function."
+        },
+        {
+            "bounds": {
+                "bottom": 1782,
+                "left": 78,
+                "right": 126,
+                "top": 1734
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Video settings or video-related function."
+        },
+        {
+            "bounds": {
+                "bottom": 1933,
+                "left": 85,
+                "right": 137,
+                "top": 1881
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Video settings or video-related function."
+        },
+        {
+            "bounds": {
+                "bottom": 1933,
+                "left": 85,
+                "right": 137,
+                "top": 1881
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Video settings or video-related function."
+        },
+        {
+            "bounds": {
+                "bottom": 1796,
+                "left": 78,
+                "right": 126,
+                "top": 1748
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Video settings or video-related function."
+        },
+        {
+            "bounds": {
+                "bottom": 1758,
+                "left": 78,
+                "right": 126,
+                "top": 1710
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Video settings or video-related function."
+        },
+        {
+            "bounds": {
+                "bottom": 1758,
+                "left": 78,
+                "right": 126,
+                "top": 1710
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Video settings or video-related function."
+        },
+        {
+            "bounds": {
+                "bottom": 1946,
+                "left": 85,
+                "right": 137,
+                "top": 1894
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Video settings or video-related function."
+        },
+        {
+            "bounds": {
+                "bottom": 1946,
+                "left": 85,
+                "right": 137,
+                "top": 1894
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Video settings or video-related function."
+        },
+        {
+            "bounds": {
+                "bottom": 1265,
+                "left": 55,
+                "right": 89,
+                "top": 1231
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Video settings or video-related function."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1266,
+                "left": 98,
+                "right": 158,
+                "top": 1231
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Video settings option."
+        },
+        {
+            "bounds": {
+                "bottom": 1930,
+                "left": 150,
+                "right": 242,
+                "top": 1869
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Video settings option."
+        },
+        {
+            "bounds": {
+                "bottom": 1930,
+                "left": 150,
+                "right": 242,
+                "top": 1869
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Video settings option."
+        },
+        {
+            "bounds": {
+                "bottom": 1786,
+                "left": 138,
+                "right": 222,
+                "top": 1731
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Video settings option."
+        },
+        {
+            "bounds": {
+                "bottom": 1936,
+                "left": 150,
+                "right": 242,
+                "top": 1879
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Video settings option."
+        },
+        {
+            "bounds": {
+                "bottom": 1936,
+                "left": 150,
+                "right": 242,
+                "top": 1879
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Video settings option."
+        },
+        {
+            "bounds": {
+                "bottom": 1800,
+                "left": 138,
+                "right": 222,
+                "top": 1745
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Video settings option."
+        },
+        {
+            "bounds": {
+                "bottom": 1759,
+                "left": 138,
+                "right": 222,
+                "top": 1710
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Video settings option."
+        },
+        {
+            "bounds": {
+                "bottom": 1759,
+                "left": 138,
+                "right": 222,
+                "top": 1710
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Video settings option."
+        },
+        {
+            "bounds": {
+                "bottom": 1950,
+                "left": 150,
+                "right": 242,
+                "top": 1890
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Video settings option."
+        },
+        {
+            "bounds": {
+                "bottom": 1950,
+                "left": 150,
+                "right": 242,
+                "top": 1890
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Video settings option."
+        },
+        {
+            "bounds": {
+                "bottom": 1266,
+                "left": 98,
+                "right": 158,
+                "top": 1231
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Video settings option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1382,
+                "left": 55,
+                "right": 293,
+                "top": 1336
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Enable camera on joining the meeting setting."
+        },
+        {
+            "bounds": {
+                "bottom": 1382,
+                "left": 55,
+                "right": 293,
+                "top": 1336
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Enable camera on joining the meeting setting."
+        },
+        {
+            "bounds": {
+                "bottom": 2125,
+                "left": 85,
+                "right": 449,
+                "top": 2055
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Enable camera on joining the meeting setting."
+        },
+        {
+            "bounds": {
+                "bottom": 2125,
+                "left": 85,
+                "right": 449,
+                "top": 2055
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Enable camera on joining the meeting setting."
+        },
+        {
+            "bounds": {
+                "bottom": 1923,
+                "left": 78,
+                "right": 414,
+                "top": 1858
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Enable camera on joining the meeting setting."
+        },
+        {
+            "bounds": {
+                "bottom": 1923,
+                "left": 78,
+                "right": 414,
+                "top": 1858
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Enable camera on joining the meeting setting."
+        },
+        {
+            "bounds": {
+                "bottom": 1961,
+                "left": 78,
+                "right": 414,
+                "top": 1896
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Enable camera on joining the meeting setting."
+        },
+        {
+            "bounds": {
+                "bottom": 2109,
+                "left": 85,
+                "right": 449,
+                "top": 2044
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Enable camera on joining the meeting setting."
+        },
+        {
+            "bounds": {
+                "bottom": 2109,
+                "left": 85,
+                "right": 449,
+                "top": 2044
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Enable camera on joining the meeting setting."
+        },
+        {
+            "bounds": {
+                "bottom": 1947,
+                "left": 78,
+                "right": 414,
+                "top": 1882
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Enable camera on joining the meeting setting."
+        },
+        {
+            "bounds": {
+                "bottom": 2103,
+                "left": 85,
+                "right": 449,
+                "top": 2033
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Enable camera on joining the meeting setting."
+        },
+        {
+            "bounds": {
+                "bottom": 2103,
+                "left": 85,
+                "right": 449,
+                "top": 2033
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Enable camera on joining the meeting setting."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1385,
+                "left": 1450,
+                "right": 1545,
+                "top": 1333
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Toggle switch button for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1385,
+                "left": 1450,
+                "right": 1545,
+                "top": 1333
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Toggle switch button for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2130,
+                "left": 969,
+                "right": 1115,
+                "top": 2050
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Toggle switch button for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2130,
+                "left": 969,
+                "right": 1115,
+                "top": 2050
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Toggle switch button for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1927,
+                "left": 870,
+                "right": 1002,
+                "top": 1855
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Toggle switch button for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1927,
+                "left": 870,
+                "right": 1002,
+                "top": 1855
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Toggle switch button for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1965,
+                "left": 870,
+                "right": 1002,
+                "top": 1893
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Toggle switch button for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2116,
+                "left": 992,
+                "right": 1135,
+                "top": 2038
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Toggle switch button for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2116,
+                "left": 992,
+                "right": 1135,
+                "top": 2038
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Toggle switch button for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1951,
+                "left": 870,
+                "right": 1002,
+                "top": 1879
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Toggle switch button for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2107,
+                "left": 992,
+                "right": 1135,
+                "top": 2029
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Toggle switch button for enabling or disabling a feature."
+        },
+        {
+            "bounds": {
+                "bottom": 2107,
+                "left": 992,
+                "right": 1135,
+                "top": 2029
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Toggle switch button for enabling or disabling a feature."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1501,
+                "left": 55,
+                "right": 191,
+                "top": 1455
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "\"Virtual Background\" setting."
+        },
+        {
+            "bounds": {
+                "bottom": 2285,
+                "left": 85,
+                "right": 293,
+                "top": 2215
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "\"Virtual Background\" setting."
+        },
+        {
+            "bounds": {
+                "bottom": 2285,
+                "left": 85,
+                "right": 293,
+                "top": 2215
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "\"Virtual Background\" setting."
+        },
+        {
+            "bounds": {
+                "bottom": 2115,
+                "left": 78,
+                "right": 270,
+                "top": 2050
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "\"Virtual Background\" setting."
+        },
+        {
+            "bounds": {
+                "bottom": 2291,
+                "left": 85,
+                "right": 293,
+                "top": 2226
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "\"Virtual Background\" setting."
+        },
+        {
+            "bounds": {
+                "bottom": 2291,
+                "left": 85,
+                "right": 293,
+                "top": 2226
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "\"Virtual Background\" setting."
+        },
+        {
+            "bounds": {
+                "bottom": 2129,
+                "left": 78,
+                "right": 270,
+                "top": 2064
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "\"Virtual Background\" setting."
+        },
+        {
+            "bounds": {
+                "bottom": 2091,
+                "left": 78,
+                "right": 270,
+                "top": 2026
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "\"Virtual Background\" setting."
+        },
+        {
+            "bounds": {
+                "bottom": 2091,
+                "left": 78,
+                "right": 270,
+                "top": 2026
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "\"Virtual Background\" setting."
+        },
+        {
+            "bounds": {
+                "bottom": 2308,
+                "left": 85,
+                "right": 293,
+                "top": 2238
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "\"Virtual Background\" setting."
+        },
+        {
+            "bounds": {
+                "bottom": 2308,
+                "left": 85,
+                "right": 293,
+                "top": 2238
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "\"Virtual Background\" setting."
+        },
+        {
+            "bounds": {
+                "bottom": 1501,
+                "left": 55,
+                "right": 191,
+                "top": 1455
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "\"Virtual Background\" setting."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1495,
+                "left": 1511,
+                "right": 1545,
+                "top": 1461
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2276,
+                "left": 1083,
+                "right": 1135,
+                "top": 2224
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2276,
+                "left": 1083,
+                "right": 1135,
+                "top": 2224
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2106,
+                "left": 954,
+                "right": 1002,
+                "top": 2058
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2285,
+                "left": 1083,
+                "right": 1135,
+                "top": 2233
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2285,
+                "left": 1083,
+                "right": 1135,
+                "top": 2233
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2120,
+                "left": 954,
+                "right": 1002,
+                "top": 2072
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2082,
+                "left": 954,
+                "right": 1002,
+                "top": 2034
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2082,
+                "left": 954,
+                "right": 1002,
+                "top": 2034
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2299,
+                "left": 1063,
+                "right": 1115,
+                "top": 2247
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2299,
+                "left": 1063,
+                "right": 1115,
+                "top": 2247
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1495,
+                "left": 1511,
+                "right": 1545,
+                "top": 1461
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Navigation or \"Next\" button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1620,
+                "left": 55,
+                "right": 123,
+                "top": 1574
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "\"Beauty mode\" or \"Face enhancement\" function."
+        },
+        {
+            "bounds": {
+                "bottom": 1620,
+                "left": 55,
+                "right": 123,
+                "top": 1574
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "\"Beauty mode\" or \"Face enhancement\" function."
+        },
+        {
+            "bounds": {
+                "bottom": 2491,
+                "left": 85,
+                "right": 189,
+                "top": 2421
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "\"Beauty mode\" or \"Face enhancement\" function."
+        },
+        {
+            "bounds": {
+                "bottom": 2491,
+                "left": 85,
+                "right": 189,
+                "top": 2421
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "\"Beauty mode\" or \"Face enhancement\" function."
+        },
+        {
+            "bounds": {
+                "bottom": 2259,
+                "left": 78,
+                "right": 174,
+                "top": 2194
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "\"Beauty mode\" or \"Face enhancement\" function."
+        },
+        {
+            "bounds": {
+                "bottom": 2259,
+                "left": 78,
+                "right": 174,
+                "top": 2194
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "\"Beauty mode\" or \"Face enhancement\" function."
+        },
+        {
+            "bounds": {
+                "bottom": 2297,
+                "left": 78,
+                "right": 174,
+                "top": 2232
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "\"Beauty mode\" or \"Face enhancement\" function."
+        },
+        {
+            "bounds": {
+                "bottom": 2473,
+                "left": 85,
+                "right": 189,
+                "top": 2408
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "\"Beauty mode\" or \"Face enhancement\" function."
+        },
+        {
+            "bounds": {
+                "bottom": 2473,
+                "left": 85,
+                "right": 189,
+                "top": 2408
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "\"Beauty mode\" or \"Face enhancement\" function."
+        },
+        {
+            "bounds": {
+                "bottom": 2467,
+                "left": 85,
+                "right": 189,
+                "top": 2397
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "\"Beauty mode\" or \"Face enhancement\" function."
+        },
+        {
+            "bounds": {
+                "bottom": 2467,
+                "left": 85,
+                "right": 189,
+                "top": 2397
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "\"Beauty mode\" or \"Face enhancement\" function."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1614,
+                "left": 1511,
+                "right": 1545,
+                "top": 1580
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1614,
+                "left": 1511,
+                "right": 1545,
+                "top": 1580
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2482,
+                "left": 1063,
+                "right": 1115,
+                "top": 2430
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_dark_shortcut_7_156/screen_1742385186436.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2482,
+                "left": 1063,
+                "right": 1115,
+                "top": 2430
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Honor90GT_shortcut_7_75/screen_1742311810268.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2250,
+                "left": 954,
+                "right": 1002,
+                "top": 2202
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_dark_shortcut_7_33/screen_1742292464370.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2250,
+                "left": 954,
+                "right": 1002,
+                "top": 2202
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/IQOONeo5_shortcut_7_75/screen_1742362845442.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2288,
+                "left": 954,
+                "right": 1002,
+                "top": 2240
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/OPPO Reno9 Pro5G_dark_shortcut_7_82/screen_1742276295585.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2467,
+                "left": 1083,
+                "right": 1135,
+                "top": 2415
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2467,
+                "left": 1083,
+                "right": 1135,
+                "top": 2415
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2458,
+                "left": 1083,
+                "right": 1135,
+                "top": 2406
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Navigation or \"Next\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2458,
+                "left": 1083,
+                "right": 1135,
+                "top": 2406
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Navigation or \"Next\" button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1739,
+                "left": 55,
+                "right": 191,
+                "top": 1693
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Virtual Avatar settings."
+        },
+        {
+            "bounds": {
+                "bottom": 2649,
+                "left": 85,
+                "right": 293,
+                "top": 2579
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Virtual Avatar settings."
+        },
+        {
+            "bounds": {
+                "bottom": 2649,
+                "left": 85,
+                "right": 293,
+                "top": 2579
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Virtual Avatar settings."
+        },
+        {
+            "bounds": {
+                "bottom": 2283,
+                "left": 78,
+                "right": 270,
+                "top": 2218
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Virtual Avatar settings."
+        },
+        {
+            "bounds": {
+                "bottom": 2655,
+                "left": 85,
+                "right": 293,
+                "top": 2590
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Virtual Avatar settings."
+        },
+        {
+            "bounds": {
+                "bottom": 2655,
+                "left": 85,
+                "right": 293,
+                "top": 2590
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Virtual Avatar settings."
+        },
+        {
+            "bounds": {
+                "bottom": 1739,
+                "left": 55,
+                "right": 191,
+                "top": 1693
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Virtual Avatar settings."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1733,
+                "left": 1511,
+                "right": 1545,
+                "top": 1699
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_105/screen_1742313437667.webp",
+            "semantic": "Navigate to the next menu or sub-menu."
+        },
+        {
+            "bounds": {
+                "bottom": 2640,
+                "left": 1083,
+                "right": 1135,
+                "top": 2588
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_shortcut_7_13/screen_1742228183270.webp",
+            "semantic": "Navigate to the next menu or sub-menu."
+        },
+        {
+            "bounds": {
+                "bottom": 2640,
+                "left": 1083,
+                "right": 1135,
+                "top": 2588
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/redmi Turbo 14_dark_shortcut_7_118/screen_1742289497206.webp",
+            "semantic": "Navigate to the next menu or sub-menu."
+        },
+        {
+            "bounds": {
+                "bottom": 2274,
+                "left": 954,
+                "right": 1002,
+                "top": 2226
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/honorPlay8T_shortcut_7_164/screen_1741767658925.webp",
+            "semantic": "Navigate to the next menu or sub-menu."
+        },
+        {
+            "bounds": {
+                "bottom": 2649,
+                "left": 1083,
+                "right": 1135,
+                "top": 2597
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_shortcut_7_112/screen_1742364182628.webp",
+            "semantic": "Navigate to the next menu or sub-menu."
+        },
+        {
+            "bounds": {
+                "bottom": 2649,
+                "left": 1083,
+                "right": 1135,
+                "top": 2597
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/Redmik70U_dark_shortcut_7_266/screen_1742384036014.webp",
+            "semantic": "Navigate to the next menu or sub-menu."
+        },
+        {
+            "bounds": {
+                "bottom": 1733,
+                "left": 1511,
+                "right": 1545,
+                "top": 1699
+            },
+            "img_path": "../data/Tecent_Meeting/Tecent_Meeting_WeChat_close_microphone/HUAWEl MatePad Pro MRX-W39_shortcut_7_106/screen_1742313483831.webp",
+            "semantic": "Navigate to the next menu or sub-menu."
+        }
+    ]
+]

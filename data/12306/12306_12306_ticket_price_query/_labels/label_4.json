@@ -1,0 +1,1832 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 954,
+                "left": 0,
+                "right": 263,
+                "top": 694
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_92/screen_1742311621387.webp",
+            "semantic": "Reset button."
+        },
+        {
+            "bounds": {
+                "bottom": 1436,
+                "left": 0,
+                "right": 217,
+                "top": 1235
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_shortcut_7_37/screen_1742271791333.webp",
+            "semantic": "Reset button."
+        },
+        {
+            "bounds": {
+                "bottom": 1436,
+                "left": 0,
+                "right": 260,
+                "top": 1235
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_bigger_shortcut_7_89/screen_1742287599801.webp",
+            "semantic": "Reset button."
+        },
+        {
+            "bounds": {
+                "bottom": 1329,
+                "left": 0,
+                "right": 192,
+                "top": 1152
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/honorPlay8T_shortcut_7_194/screen_1741837735441.webp",
+            "semantic": "Reset button."
+        },
+        {
+            "bounds": {
+                "bottom": 1488,
+                "left": 0,
+                "right": 217,
+                "top": 1287
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_shortcut_7_144/screen_1742369603673.webp",
+            "semantic": "Reset button."
+        },
+        {
+            "bounds": {
+                "bottom": 1488,
+                "left": 0,
+                "right": 260,
+                "top": 1287
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_bigger_shortcut_7_216/screen_1742380708751.webp",
+            "semantic": "Reset button."
+        },
+        {
+            "bounds": {
+                "bottom": 1281,
+                "left": 0,
+                "right": 204,
+                "top": 1104
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/OPPO Reno9 Pro5G_bigger_shortcut_7_62/screen_1742274348172.webp",
+            "semantic": "Reset button."
+        },
+        {
+            "bounds": {
+                "bottom": 1317,
+                "left": 0,
+                "right": 192,
+                "top": 1140
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_shortcut_7_101/screen_1742370875663.webp",
+            "semantic": "Reset button."
+        },
+        {
+            "bounds": {
+                "bottom": 1317,
+                "left": 0,
+                "right": 228,
+                "top": 1140
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_bigger_shortcut_7_155/screen_1742385158591.webp",
+            "semantic": "Reset button."
+        },
+        {
+            "bounds": {
+                "bottom": 1460,
+                "left": 0,
+                "right": 212,
+                "top": 1264
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_shortcut_7_111/screen_1742373694342.webp",
+            "semantic": "Reset button."
+        },
+        {
+            "bounds": {
+                "bottom": 1460,
+                "left": 0,
+                "right": 255,
+                "top": 1264
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_bigger_shortcut_7_218/screen_1742399823357.webp",
+            "semantic": "Reset button."
+        },
+        {
+            "bounds": {
+                "bottom": 954,
+                "left": 0,
+                "right": 231,
+                "top": 694
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_shortcut_7_53/screen_1742309046304.webp",
+            "semantic": "Reset button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 954,
+                "left": 1336,
+                "right": 1600,
+                "top": 694
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_92/screen_1742311621387.webp",
+            "semantic": "Confirmation button."
+        },
+        {
+            "bounds": {
+                "bottom": 954,
+                "left": 1368,
+                "right": 1600,
+                "top": 694
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_shortcut_7_53/screen_1742309046304.webp",
+            "semantic": "Confirmation button."
+        },
+        {
+            "bounds": {
+                "bottom": 1460,
+                "left": 946,
+                "right": 1201,
+                "top": 1264
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_bigger_shortcut_7_218/screen_1742399823357.webp",
+            "semantic": "Confirmation button."
+        },
+        {
+            "bounds": {
+                "bottom": 1460,
+                "left": 989,
+                "right": 1201,
+                "top": 1264
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_shortcut_7_111/screen_1742373694342.webp",
+            "semantic": "Confirmation button."
+        },
+        {
+            "bounds": {
+                "bottom": 1317,
+                "left": 852,
+                "right": 1080,
+                "top": 1140
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_bigger_shortcut_7_155/screen_1742385158591.webp",
+            "semantic": "Confirmation button."
+        },
+        {
+            "bounds": {
+                "bottom": 1317,
+                "left": 888,
+                "right": 1080,
+                "top": 1140
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_shortcut_7_101/screen_1742370875663.webp",
+            "semantic": "Confirmation button."
+        },
+        {
+            "bounds": {
+                "bottom": 1281,
+                "left": 876,
+                "right": 1080,
+                "top": 1104
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/OPPO Reno9 Pro5G_bigger_shortcut_7_62/screen_1742274348172.webp",
+            "semantic": "Confirmation button."
+        },
+        {
+            "bounds": {
+                "bottom": 1488,
+                "left": 962,
+                "right": 1222,
+                "top": 1287
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_bigger_shortcut_7_216/screen_1742380708751.webp",
+            "semantic": "Confirmation button."
+        },
+        {
+            "bounds": {
+                "bottom": 1488,
+                "left": 1004,
+                "right": 1222,
+                "top": 1287
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_shortcut_7_144/screen_1742369603673.webp",
+            "semantic": "Confirmation button."
+        },
+        {
+            "bounds": {
+                "bottom": 1329,
+                "left": 888,
+                "right": 1080,
+                "top": 1152
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/honorPlay8T_shortcut_7_194/screen_1741837735441.webp",
+            "semantic": "Confirmation button."
+        },
+        {
+            "bounds": {
+                "bottom": 1436,
+                "left": 962,
+                "right": 1222,
+                "top": 1235
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_bigger_shortcut_7_89/screen_1742287599801.webp",
+            "semantic": "Confirmation button."
+        },
+        {
+            "bounds": {
+                "bottom": 1436,
+                "left": 1004,
+                "right": 1222,
+                "top": 1235
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_shortcut_7_37/screen_1742271791333.webp",
+            "semantic": "Confirmation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1298,
+                "left": 63,
+                "right": 533,
+                "top": 1147
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_92/screen_1742311621387.webp",
+            "semantic": "High-speed rail (G) option selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1699,
+                "left": 45,
+                "right": 409,
+                "top": 1582
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_shortcut_7_37/screen_1742271791333.webp",
+            "semantic": "High-speed rail (G) option selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1699,
+                "left": 45,
+                "right": 409,
+                "top": 1582
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_bigger_shortcut_7_89/screen_1742287599801.webp",
+            "semantic": "High-speed rail (G) option selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1560,
+                "left": 42,
+                "right": 360,
+                "top": 1458
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/honorPlay8T_shortcut_7_194/screen_1741837735441.webp",
+            "semantic": "High-speed rail (G) option selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1751,
+                "left": 45,
+                "right": 409,
+                "top": 1634
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_shortcut_7_144/screen_1742369603673.webp",
+            "semantic": "High-speed rail (G) option selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1751,
+                "left": 45,
+                "right": 409,
+                "top": 1634
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_bigger_shortcut_7_216/screen_1742380708751.webp",
+            "semantic": "High-speed rail (G) option selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1512,
+                "left": 42,
+                "right": 360,
+                "top": 1410
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/OPPO Reno9 Pro5G_bigger_shortcut_7_62/screen_1742274348172.webp",
+            "semantic": "High-speed rail (G) option selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1548,
+                "left": 42,
+                "right": 360,
+                "top": 1446
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_shortcut_7_101/screen_1742370875663.webp",
+            "semantic": "High-speed rail (G) option selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1548,
+                "left": 42,
+                "right": 360,
+                "top": 1446
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_bigger_shortcut_7_155/screen_1742385158591.webp",
+            "semantic": "High-speed rail (G) option selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1719,
+                "left": 45,
+                "right": 402,
+                "top": 1604
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_shortcut_7_111/screen_1742373694342.webp",
+            "semantic": "High-speed rail (G) option selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1719,
+                "left": 45,
+                "right": 402,
+                "top": 1604
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_bigger_shortcut_7_218/screen_1742399823357.webp",
+            "semantic": "High-speed rail (G) option selection."
+        },
+        {
+            "bounds": {
+                "bottom": 1298,
+                "left": 63,
+                "right": 533,
+                "top": 1147
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_shortcut_7_53/screen_1742309046304.webp",
+            "semantic": "High-speed rail (G) option selection."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1298,
+                "left": 554,
+                "right": 1024,
+                "top": 1147
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_92/screen_1742311621387.webp",
+            "semantic": "\"Select 'Bullet Train (C/D)' train type option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1298,
+                "left": 554,
+                "right": 1024,
+                "top": 1147
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_shortcut_7_53/screen_1742309046304.webp",
+            "semantic": "\"Select 'Bullet Train (C/D)' train type option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1719,
+                "left": 415,
+                "right": 769,
+                "top": 1604
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_bigger_shortcut_7_218/screen_1742399823357.webp",
+            "semantic": "\"Select 'Bullet Train (C/D)' train type option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1719,
+                "left": 415,
+                "right": 769,
+                "top": 1604
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_shortcut_7_111/screen_1742373694342.webp",
+            "semantic": "\"Select 'Bullet Train (C/D)' train type option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1548,
+                "left": 372,
+                "right": 693,
+                "top": 1446
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_bigger_shortcut_7_155/screen_1742385158591.webp",
+            "semantic": "\"Select 'Bullet Train (C/D)' train type option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1548,
+                "left": 372,
+                "right": 693,
+                "top": 1446
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_shortcut_7_101/screen_1742370875663.webp",
+            "semantic": "\"Select 'Bullet Train (C/D)' train type option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1512,
+                "left": 372,
+                "right": 693,
+                "top": 1410
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/OPPO Reno9 Pro5G_bigger_shortcut_7_62/screen_1742274348172.webp",
+            "semantic": "\"Select 'Bullet Train (C/D)' train type option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1751,
+                "left": 422,
+                "right": 783,
+                "top": 1634
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_bigger_shortcut_7_216/screen_1742380708751.webp",
+            "semantic": "\"Select 'Bullet Train (C/D)' train type option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1751,
+                "left": 422,
+                "right": 783,
+                "top": 1634
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_shortcut_7_144/screen_1742369603673.webp",
+            "semantic": "\"Select 'Bullet Train (C/D)' train type option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1560,
+                "left": 372,
+                "right": 693,
+                "top": 1458
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/honorPlay8T_shortcut_7_194/screen_1741837735441.webp",
+            "semantic": "\"Select 'Bullet Train (C/D)' train type option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1699,
+                "left": 422,
+                "right": 783,
+                "top": 1582
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_bigger_shortcut_7_89/screen_1742287599801.webp",
+            "semantic": "\"Select 'Bullet Train (C/D)' train type option button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1699,
+                "left": 422,
+                "right": 783,
+                "top": 1582
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_shortcut_7_37/screen_1742271791333.webp",
+            "semantic": "\"Select 'Bullet Train (C/D)' train type option button.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1298,
+                "left": 1043,
+                "right": 1515,
+                "top": 1147
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_92/screen_1742311621387.webp",
+            "semantic": "\"General Train\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1699,
+                "left": 796,
+                "right": 1157,
+                "top": 1582
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_shortcut_7_37/screen_1742271791333.webp",
+            "semantic": "\"General Train\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1699,
+                "left": 796,
+                "right": 1157,
+                "top": 1582
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_bigger_shortcut_7_89/screen_1742287599801.webp",
+            "semantic": "\"General Train\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1560,
+                "left": 705,
+                "right": 1023,
+                "top": 1458
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/honorPlay8T_shortcut_7_194/screen_1741837735441.webp",
+            "semantic": "\"General Train\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1751,
+                "left": 796,
+                "right": 1157,
+                "top": 1634
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_shortcut_7_144/screen_1742369603673.webp",
+            "semantic": "\"General Train\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1751,
+                "left": 796,
+                "right": 1157,
+                "top": 1634
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_bigger_shortcut_7_216/screen_1742380708751.webp",
+            "semantic": "\"General Train\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1512,
+                "left": 705,
+                "right": 1023,
+                "top": 1410
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/OPPO Reno9 Pro5G_bigger_shortcut_7_62/screen_1742274348172.webp",
+            "semantic": "\"General Train\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1548,
+                "left": 705,
+                "right": 1023,
+                "top": 1446
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_shortcut_7_101/screen_1742370875663.webp",
+            "semantic": "\"General Train\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1548,
+                "left": 705,
+                "right": 1023,
+                "top": 1446
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_bigger_shortcut_7_155/screen_1742385158591.webp",
+            "semantic": "\"General Train\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1719,
+                "left": 782,
+                "right": 1139,
+                "top": 1604
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_shortcut_7_111/screen_1742373694342.webp",
+            "semantic": "\"General Train\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1719,
+                "left": 782,
+                "right": 1139,
+                "top": 1604
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_bigger_shortcut_7_218/screen_1742399823357.webp",
+            "semantic": "\"General Train\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1298,
+                "left": 1043,
+                "right": 1515,
+                "top": 1147
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_shortcut_7_53/screen_1742309046304.webp",
+            "semantic": "\"General Train\" selection button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1094,
+                "left": 0,
+                "right": 1600,
+                "top": 1028
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_92/screen_1742311621387.webp",
+            "semantic": "Train type selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 1094,
+                "left": 0,
+                "right": 1600,
+                "top": 1028
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_shortcut_7_53/screen_1742309046304.webp",
+            "semantic": "Train type selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 1565,
+                "left": 0,
+                "right": 1201,
+                "top": 1513
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_bigger_shortcut_7_218/screen_1742399823357.webp",
+            "semantic": "Train type selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 1565,
+                "left": 0,
+                "right": 1201,
+                "top": 1513
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_shortcut_7_111/screen_1742373694342.webp",
+            "semantic": "Train type selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 1410,
+                "left": 0,
+                "right": 1080,
+                "top": 1365
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_bigger_shortcut_7_155/screen_1742385158591.webp",
+            "semantic": "Train type selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 1410,
+                "left": 0,
+                "right": 1080,
+                "top": 1365
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_shortcut_7_101/screen_1742370875663.webp",
+            "semantic": "Train type selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 1374,
+                "left": 0,
+                "right": 1080,
+                "top": 1329
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/OPPO Reno9 Pro5G_bigger_shortcut_7_62/screen_1742274348172.webp",
+            "semantic": "Train type selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 1595,
+                "left": 0,
+                "right": 1222,
+                "top": 1543
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_bigger_shortcut_7_216/screen_1742380708751.webp",
+            "semantic": "Train type selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 1595,
+                "left": 0,
+                "right": 1222,
+                "top": 1543
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_shortcut_7_144/screen_1742369603673.webp",
+            "semantic": "Train type selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 1422,
+                "left": 0,
+                "right": 1080,
+                "top": 1377
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/honorPlay8T_shortcut_7_194/screen_1741837735441.webp",
+            "semantic": "Train type selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 1543,
+                "left": 0,
+                "right": 1222,
+                "top": 1491
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_bigger_shortcut_7_89/screen_1742287599801.webp",
+            "semantic": "Train type selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 1543,
+                "left": 0,
+                "right": 1222,
+                "top": 1491
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_shortcut_7_37/screen_1742271791333.webp",
+            "semantic": "Train type selection label."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1470,
+                "left": 0,
+                "right": 1600,
+                "top": 1402
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_92/screen_1742311621387.webp",
+            "semantic": "\"Departure Station\" label for selecting the starting train station."
+        },
+        {
+            "bounds": {
+                "bottom": 1470,
+                "left": 0,
+                "right": 1600,
+                "top": 1402
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_shortcut_7_53/screen_1742309046304.webp",
+            "semantic": "\"Departure Station\" label for selecting the starting train station."
+        },
+        {
+            "bounds": {
+                "bottom": 1847,
+                "left": 0,
+                "right": 1201,
+                "top": 1794
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_bigger_shortcut_7_218/screen_1742399823357.webp",
+            "semantic": "\"Departure Station\" label for selecting the starting train station."
+        },
+        {
+            "bounds": {
+                "bottom": 1847,
+                "left": 0,
+                "right": 1201,
+                "top": 1794
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_shortcut_7_111/screen_1742373694342.webp",
+            "semantic": "\"Departure Station\" label for selecting the starting train station."
+        },
+        {
+            "bounds": {
+                "bottom": 1665,
+                "left": 0,
+                "right": 1080,
+                "top": 1617
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_bigger_shortcut_7_155/screen_1742385158591.webp",
+            "semantic": "\"Departure Station\" label for selecting the starting train station."
+        },
+        {
+            "bounds": {
+                "bottom": 1665,
+                "left": 0,
+                "right": 1080,
+                "top": 1617
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_shortcut_7_101/screen_1742370875663.webp",
+            "semantic": "\"Departure Station\" label for selecting the starting train station."
+        },
+        {
+            "bounds": {
+                "bottom": 1629,
+                "left": 0,
+                "right": 1080,
+                "top": 1581
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/OPPO Reno9 Pro5G_bigger_shortcut_7_62/screen_1742274348172.webp",
+            "semantic": "\"Departure Station\" label for selecting the starting train station."
+        },
+        {
+            "bounds": {
+                "bottom": 1881,
+                "left": 0,
+                "right": 1222,
+                "top": 1829
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_bigger_shortcut_7_216/screen_1742380708751.webp",
+            "semantic": "\"Departure Station\" label for selecting the starting train station."
+        },
+        {
+            "bounds": {
+                "bottom": 1881,
+                "left": 0,
+                "right": 1222,
+                "top": 1829
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_shortcut_7_144/screen_1742369603673.webp",
+            "semantic": "\"Departure Station\" label for selecting the starting train station."
+        },
+        {
+            "bounds": {
+                "bottom": 1677,
+                "left": 0,
+                "right": 1080,
+                "top": 1629
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/honorPlay8T_shortcut_7_194/screen_1741837735441.webp",
+            "semantic": "\"Departure Station\" label for selecting the starting train station."
+        },
+        {
+            "bounds": {
+                "bottom": 1829,
+                "left": 0,
+                "right": 1222,
+                "top": 1777
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_bigger_shortcut_7_89/screen_1742287599801.webp",
+            "semantic": "\"Departure Station\" label for selecting the starting train station."
+        },
+        {
+            "bounds": {
+                "bottom": 1829,
+                "left": 0,
+                "right": 1222,
+                "top": 1777
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_shortcut_7_37/screen_1742271791333.webp",
+            "semantic": "\"Departure Station\" label for selecting the starting train station."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1674,
+                "left": 63,
+                "right": 533,
+                "top": 1523
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_92/screen_1742311621387.webp",
+            "semantic": "Selection button for \"Beijing South\" departure station."
+        },
+        {
+            "bounds": {
+                "bottom": 1985,
+                "left": 45,
+                "right": 409,
+                "top": 1868
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_shortcut_7_37/screen_1742271791333.webp",
+            "semantic": "Selection button for \"Beijing South\" departure station."
+        },
+        {
+            "bounds": {
+                "bottom": 1985,
+                "left": 45,
+                "right": 409,
+                "top": 1868
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_bigger_shortcut_7_89/screen_1742287599801.webp",
+            "semantic": "Selection button for \"Beijing South\" departure station."
+        },
+        {
+            "bounds": {
+                "bottom": 1815,
+                "left": 42,
+                "right": 360,
+                "top": 1710
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/honorPlay8T_shortcut_7_194/screen_1741837735441.webp",
+            "semantic": "Selection button for \"Beijing South\" departure station."
+        },
+        {
+            "bounds": {
+                "bottom": 2037,
+                "left": 45,
+                "right": 409,
+                "top": 1920
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_shortcut_7_144/screen_1742369603673.webp",
+            "semantic": "Selection button for \"Beijing South\" departure station."
+        },
+        {
+            "bounds": {
+                "bottom": 2037,
+                "left": 45,
+                "right": 409,
+                "top": 1920
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_bigger_shortcut_7_216/screen_1742380708751.webp",
+            "semantic": "Selection button for \"Beijing South\" departure station."
+        },
+        {
+            "bounds": {
+                "bottom": 1767,
+                "left": 42,
+                "right": 360,
+                "top": 1662
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/OPPO Reno9 Pro5G_bigger_shortcut_7_62/screen_1742274348172.webp",
+            "semantic": "Selection button for \"Beijing South\" departure station."
+        },
+        {
+            "bounds": {
+                "bottom": 1803,
+                "left": 42,
+                "right": 360,
+                "top": 1698
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_shortcut_7_101/screen_1742370875663.webp",
+            "semantic": "Selection button for \"Beijing South\" departure station."
+        },
+        {
+            "bounds": {
+                "bottom": 1803,
+                "left": 42,
+                "right": 360,
+                "top": 1698
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_bigger_shortcut_7_155/screen_1742385158591.webp",
+            "semantic": "Selection button for \"Beijing South\" departure station."
+        },
+        {
+            "bounds": {
+                "bottom": 2001,
+                "left": 45,
+                "right": 402,
+                "top": 1886
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_shortcut_7_111/screen_1742373694342.webp",
+            "semantic": "Selection button for \"Beijing South\" departure station."
+        },
+        {
+            "bounds": {
+                "bottom": 2001,
+                "left": 45,
+                "right": 402,
+                "top": 1886
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_bigger_shortcut_7_218/screen_1742399823357.webp",
+            "semantic": "Selection button for \"Beijing South\" departure station."
+        },
+        {
+            "bounds": {
+                "bottom": 1674,
+                "left": 63,
+                "right": 533,
+                "top": 1523
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_shortcut_7_53/screen_1742309046304.webp",
+            "semantic": "Selection button for \"Beijing South\" departure station."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1674,
+                "left": 554,
+                "right": 1024,
+                "top": 1523
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_92/screen_1742311621387.webp",
+            "semantic": "Beijing departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1674,
+                "left": 554,
+                "right": 1024,
+                "top": 1523
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_shortcut_7_53/screen_1742309046304.webp",
+            "semantic": "Beijing departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2001,
+                "left": 415,
+                "right": 769,
+                "top": 1886
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_bigger_shortcut_7_218/screen_1742399823357.webp",
+            "semantic": "Beijing departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2001,
+                "left": 415,
+                "right": 769,
+                "top": 1886
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_shortcut_7_111/screen_1742373694342.webp",
+            "semantic": "Beijing departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1803,
+                "left": 372,
+                "right": 693,
+                "top": 1698
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_bigger_shortcut_7_155/screen_1742385158591.webp",
+            "semantic": "Beijing departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1803,
+                "left": 372,
+                "right": 693,
+                "top": 1698
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_shortcut_7_101/screen_1742370875663.webp",
+            "semantic": "Beijing departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1767,
+                "left": 372,
+                "right": 693,
+                "top": 1662
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/OPPO Reno9 Pro5G_bigger_shortcut_7_62/screen_1742274348172.webp",
+            "semantic": "Beijing departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2037,
+                "left": 422,
+                "right": 783,
+                "top": 1920
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_bigger_shortcut_7_216/screen_1742380708751.webp",
+            "semantic": "Beijing departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2037,
+                "left": 422,
+                "right": 783,
+                "top": 1920
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_shortcut_7_144/screen_1742369603673.webp",
+            "semantic": "Beijing departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1815,
+                "left": 372,
+                "right": 693,
+                "top": 1710
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/honorPlay8T_shortcut_7_194/screen_1741837735441.webp",
+            "semantic": "Beijing departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1985,
+                "left": 422,
+                "right": 783,
+                "top": 1868
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_bigger_shortcut_7_89/screen_1742287599801.webp",
+            "semantic": "Beijing departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1985,
+                "left": 422,
+                "right": 783,
+                "top": 1868
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_shortcut_7_37/screen_1742271791333.webp",
+            "semantic": "Beijing departure station selection button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1674,
+                "left": 1043,
+                "right": 1515,
+                "top": 1523
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_92/screen_1742311621387.webp",
+            "semantic": "Departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1985,
+                "left": 796,
+                "right": 1157,
+                "top": 1868
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_shortcut_7_37/screen_1742271791333.webp",
+            "semantic": "Departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1985,
+                "left": 796,
+                "right": 1157,
+                "top": 1868
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_bigger_shortcut_7_89/screen_1742287599801.webp",
+            "semantic": "Departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1815,
+                "left": 705,
+                "right": 1023,
+                "top": 1710
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/honorPlay8T_shortcut_7_194/screen_1741837735441.webp",
+            "semantic": "Departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2037,
+                "left": 796,
+                "right": 1157,
+                "top": 1920
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_shortcut_7_144/screen_1742369603673.webp",
+            "semantic": "Departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2037,
+                "left": 796,
+                "right": 1157,
+                "top": 1920
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_bigger_shortcut_7_216/screen_1742380708751.webp",
+            "semantic": "Departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1767,
+                "left": 705,
+                "right": 1023,
+                "top": 1662
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/OPPO Reno9 Pro5G_bigger_shortcut_7_62/screen_1742274348172.webp",
+            "semantic": "Departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1803,
+                "left": 705,
+                "right": 1023,
+                "top": 1698
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_shortcut_7_101/screen_1742370875663.webp",
+            "semantic": "Departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1803,
+                "left": 705,
+                "right": 1023,
+                "top": 1698
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_bigger_shortcut_7_155/screen_1742385158591.webp",
+            "semantic": "Departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2001,
+                "left": 782,
+                "right": 1139,
+                "top": 1886
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_shortcut_7_111/screen_1742373694342.webp",
+            "semantic": "Departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2001,
+                "left": 782,
+                "right": 1139,
+                "top": 1886
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_bigger_shortcut_7_218/screen_1742399823357.webp",
+            "semantic": "Departure station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 1674,
+                "left": 1043,
+                "right": 1515,
+                "top": 1523
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_shortcut_7_53/screen_1742309046304.webp",
+            "semantic": "Departure station selection button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1844,
+                "left": 0,
+                "right": 1600,
+                "top": 1778
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_92/screen_1742311621387.webp",
+            "semantic": "\"Arrival Station\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 1844,
+                "left": 0,
+                "right": 1600,
+                "top": 1778
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_shortcut_7_53/screen_1742309046304.webp",
+            "semantic": "\"Arrival Station\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 2128,
+                "left": 0,
+                "right": 1201,
+                "top": 2076
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_bigger_shortcut_7_218/screen_1742399823357.webp",
+            "semantic": "\"Arrival Station\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 2128,
+                "left": 0,
+                "right": 1201,
+                "top": 2076
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_shortcut_7_111/screen_1742373694342.webp",
+            "semantic": "\"Arrival Station\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 1917,
+                "left": 0,
+                "right": 1080,
+                "top": 1872
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_bigger_shortcut_7_155/screen_1742385158591.webp",
+            "semantic": "\"Arrival Station\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 1917,
+                "left": 0,
+                "right": 1080,
+                "top": 1872
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_shortcut_7_101/screen_1742370875663.webp",
+            "semantic": "\"Arrival Station\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 1881,
+                "left": 0,
+                "right": 1080,
+                "top": 1836
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/OPPO Reno9 Pro5G_bigger_shortcut_7_62/screen_1742274348172.webp",
+            "semantic": "\"Arrival Station\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 2167,
+                "left": 0,
+                "right": 1222,
+                "top": 2115
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_bigger_shortcut_7_216/screen_1742380708751.webp",
+            "semantic": "\"Arrival Station\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 2167,
+                "left": 0,
+                "right": 1222,
+                "top": 2115
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_shortcut_7_144/screen_1742369603673.webp",
+            "semantic": "\"Arrival Station\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 1929,
+                "left": 0,
+                "right": 1080,
+                "top": 1884
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/honorPlay8T_shortcut_7_194/screen_1741837735441.webp",
+            "semantic": "\"Arrival Station\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 2115,
+                "left": 0,
+                "right": 1222,
+                "top": 2063
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_bigger_shortcut_7_89/screen_1742287599801.webp",
+            "semantic": "\"Arrival Station\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 2115,
+                "left": 0,
+                "right": 1222,
+                "top": 2063
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_shortcut_7_37/screen_1742271791333.webp",
+            "semantic": "\"Arrival Station\" label."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2050,
+                "left": 63,
+                "right": 533,
+                "top": 1897
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_92/screen_1742311621387.webp",
+            "semantic": "Departure station selection button (\"Shanghai Hongqiao\")."
+        },
+        {
+            "bounds": {
+                "bottom": 2271,
+                "left": 45,
+                "right": 409,
+                "top": 2154
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_shortcut_7_37/screen_1742271791333.webp",
+            "semantic": "Departure station selection button (\"Shanghai Hongqiao\")."
+        },
+        {
+            "bounds": {
+                "bottom": 2271,
+                "left": 45,
+                "right": 409,
+                "top": 2154
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_bigger_shortcut_7_89/screen_1742287599801.webp",
+            "semantic": "Departure station selection button (\"Shanghai Hongqiao\")."
+        },
+        {
+            "bounds": {
+                "bottom": 2067,
+                "left": 42,
+                "right": 360,
+                "top": 1965
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/honorPlay8T_shortcut_7_194/screen_1741837735441.webp",
+            "semantic": "Departure station selection button (\"Shanghai Hongqiao\")."
+        },
+        {
+            "bounds": {
+                "bottom": 2323,
+                "left": 45,
+                "right": 409,
+                "top": 2206
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_shortcut_7_144/screen_1742369603673.webp",
+            "semantic": "Departure station selection button (\"Shanghai Hongqiao\")."
+        },
+        {
+            "bounds": {
+                "bottom": 2323,
+                "left": 45,
+                "right": 409,
+                "top": 2206
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_bigger_shortcut_7_216/screen_1742380708751.webp",
+            "semantic": "Departure station selection button (\"Shanghai Hongqiao\")."
+        },
+        {
+            "bounds": {
+                "bottom": 2019,
+                "left": 42,
+                "right": 360,
+                "top": 1917
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/OPPO Reno9 Pro5G_bigger_shortcut_7_62/screen_1742274348172.webp",
+            "semantic": "Departure station selection button (\"Shanghai Hongqiao\")."
+        },
+        {
+            "bounds": {
+                "bottom": 2055,
+                "left": 42,
+                "right": 360,
+                "top": 1953
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_shortcut_7_101/screen_1742370875663.webp",
+            "semantic": "Departure station selection button (\"Shanghai Hongqiao\")."
+        },
+        {
+            "bounds": {
+                "bottom": 2055,
+                "left": 42,
+                "right": 360,
+                "top": 1953
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_bigger_shortcut_7_155/screen_1742385158591.webp",
+            "semantic": "Departure station selection button (\"Shanghai Hongqiao\")."
+        },
+        {
+            "bounds": {
+                "bottom": 2282,
+                "left": 45,
+                "right": 402,
+                "top": 2168
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_shortcut_7_111/screen_1742373694342.webp",
+            "semantic": "Departure station selection button (\"Shanghai Hongqiao\")."
+        },
+        {
+            "bounds": {
+                "bottom": 2282,
+                "left": 45,
+                "right": 402,
+                "top": 2168
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_bigger_shortcut_7_218/screen_1742399823357.webp",
+            "semantic": "Departure station selection button (\"Shanghai Hongqiao\")."
+        },
+        {
+            "bounds": {
+                "bottom": 2050,
+                "left": 63,
+                "right": 533,
+                "top": 1897
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_shortcut_7_53/screen_1742309046304.webp",
+            "semantic": "Departure station selection button (\"Shanghai Hongqiao\")."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2050,
+                "left": 554,
+                "right": 1024,
+                "top": 1897
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_92/screen_1742311621387.webp",
+            "semantic": "Train destination selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2050,
+                "left": 554,
+                "right": 1024,
+                "top": 1897
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_shortcut_7_53/screen_1742309046304.webp",
+            "semantic": "Train destination selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2282,
+                "left": 415,
+                "right": 769,
+                "top": 2168
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_bigger_shortcut_7_218/screen_1742399823357.webp",
+            "semantic": "Train destination selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2282,
+                "left": 415,
+                "right": 769,
+                "top": 2168
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_shortcut_7_111/screen_1742373694342.webp",
+            "semantic": "Train destination selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2055,
+                "left": 372,
+                "right": 693,
+                "top": 1953
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_bigger_shortcut_7_155/screen_1742385158591.webp",
+            "semantic": "Train destination selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2055,
+                "left": 372,
+                "right": 693,
+                "top": 1953
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_shortcut_7_101/screen_1742370875663.webp",
+            "semantic": "Train destination selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2019,
+                "left": 372,
+                "right": 693,
+                "top": 1917
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/OPPO Reno9 Pro5G_bigger_shortcut_7_62/screen_1742274348172.webp",
+            "semantic": "Train destination selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2323,
+                "left": 422,
+                "right": 783,
+                "top": 2206
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_bigger_shortcut_7_216/screen_1742380708751.webp",
+            "semantic": "Train destination selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2323,
+                "left": 422,
+                "right": 783,
+                "top": 2206
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_shortcut_7_144/screen_1742369603673.webp",
+            "semantic": "Train destination selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2067,
+                "left": 372,
+                "right": 693,
+                "top": 1965
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/honorPlay8T_shortcut_7_194/screen_1741837735441.webp",
+            "semantic": "Train destination selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2271,
+                "left": 422,
+                "right": 783,
+                "top": 2154
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_bigger_shortcut_7_89/screen_1742287599801.webp",
+            "semantic": "Train destination selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2271,
+                "left": 422,
+                "right": 783,
+                "top": 2154
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_shortcut_7_37/screen_1742271791333.webp",
+            "semantic": "Train destination selection button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2050,
+                "left": 1043,
+                "right": 1515,
+                "top": 1897
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_92/screen_1742311621387.webp",
+            "semantic": "Destination station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2271,
+                "left": 796,
+                "right": 1157,
+                "top": 2154
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_shortcut_7_37/screen_1742271791333.webp",
+            "semantic": "Destination station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2271,
+                "left": 796,
+                "right": 1157,
+                "top": 2154
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_bigger_shortcut_7_89/screen_1742287599801.webp",
+            "semantic": "Destination station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2067,
+                "left": 705,
+                "right": 1023,
+                "top": 1965
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/honorPlay8T_shortcut_7_194/screen_1741837735441.webp",
+            "semantic": "Destination station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2323,
+                "left": 796,
+                "right": 1157,
+                "top": 2206
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_shortcut_7_144/screen_1742369603673.webp",
+            "semantic": "Destination station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2323,
+                "left": 796,
+                "right": 1157,
+                "top": 2206
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_bigger_shortcut_7_216/screen_1742380708751.webp",
+            "semantic": "Destination station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2019,
+                "left": 705,
+                "right": 1023,
+                "top": 1917
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/OPPO Reno9 Pro5G_bigger_shortcut_7_62/screen_1742274348172.webp",
+            "semantic": "Destination station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2055,
+                "left": 705,
+                "right": 1023,
+                "top": 1953
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_shortcut_7_101/screen_1742370875663.webp",
+            "semantic": "Destination station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2055,
+                "left": 705,
+                "right": 1023,
+                "top": 1953
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_bigger_shortcut_7_155/screen_1742385158591.webp",
+            "semantic": "Destination station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2282,
+                "left": 782,
+                "right": 1139,
+                "top": 2168
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_shortcut_7_111/screen_1742373694342.webp",
+            "semantic": "Destination station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2282,
+                "left": 782,
+                "right": 1139,
+                "top": 2168
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_bigger_shortcut_7_218/screen_1742399823357.webp",
+            "semantic": "Destination station selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 2050,
+                "left": 1043,
+                "right": 1515,
+                "top": 1897
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_shortcut_7_53/screen_1742309046304.webp",
+            "semantic": "Destination station selection button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2231,
+                "left": 63,
+                "right": 533,
+                "top": 2080
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_92/screen_1742311621387.webp",
+            "semantic": "Destination button for \"Shanghai South\" train station."
+        },
+        {
+            "bounds": {
+                "bottom": 2231,
+                "left": 63,
+                "right": 533,
+                "top": 2080
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/HUAWEl MatePad Pro MRX-W39_shortcut_7_53/screen_1742309046304.webp",
+            "semantic": "Destination button for \"Shanghai South\" train station."
+        },
+        {
+            "bounds": {
+                "bottom": 2420,
+                "left": 45,
+                "right": 402,
+                "top": 2302
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_bigger_shortcut_7_218/screen_1742399823357.webp",
+            "semantic": "Destination button for \"Shanghai South\" train station."
+        },
+        {
+            "bounds": {
+                "bottom": 2420,
+                "left": 45,
+                "right": 402,
+                "top": 2302
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Honor90GT_shortcut_7_111/screen_1742373694342.webp",
+            "semantic": "Destination button for \"Shanghai South\" train station."
+        },
+        {
+            "bounds": {
+                "bottom": 2178,
+                "left": 42,
+                "right": 360,
+                "top": 2076
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_bigger_shortcut_7_155/screen_1742385158591.webp",
+            "semantic": "Destination button for \"Shanghai South\" train station."
+        },
+        {
+            "bounds": {
+                "bottom": 2178,
+                "left": 42,
+                "right": 360,
+                "top": 2076
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/IQOONeo5_shortcut_7_101/screen_1742370875663.webp",
+            "semantic": "Destination button for \"Shanghai South\" train station."
+        },
+        {
+            "bounds": {
+                "bottom": 2142,
+                "left": 42,
+                "right": 360,
+                "top": 2040
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/OPPO Reno9 Pro5G_bigger_shortcut_7_62/screen_1742274348172.webp",
+            "semantic": "Destination button for \"Shanghai South\" train station."
+        },
+        {
+            "bounds": {
+                "bottom": 2463,
+                "left": 45,
+                "right": 409,
+                "top": 2346
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_bigger_shortcut_7_216/screen_1742380708751.webp",
+            "semantic": "Destination button for \"Shanghai South\" train station."
+        },
+        {
+            "bounds": {
+                "bottom": 2463,
+                "left": 45,
+                "right": 409,
+                "top": 2346
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/Redmik70U_shortcut_7_144/screen_1742369603673.webp",
+            "semantic": "Destination button for \"Shanghai South\" train station."
+        },
+        {
+            "bounds": {
+                "bottom": 2190,
+                "left": 42,
+                "right": 360,
+                "top": 2088
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/honorPlay8T_shortcut_7_194/screen_1741837735441.webp",
+            "semantic": "Destination button for \"Shanghai South\" train station."
+        },
+        {
+            "bounds": {
+                "bottom": 2411,
+                "left": 45,
+                "right": 409,
+                "top": 2294
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_bigger_shortcut_7_89/screen_1742287599801.webp",
+            "semantic": "Destination button for \"Shanghai South\" train station."
+        },
+        {
+            "bounds": {
+                "bottom": 2411,
+                "left": 45,
+                "right": 409,
+                "top": 2294
+            },
+            "img_path": "../data/12306/12306_12306_ticket_price_query/redmi Turbo 14_shortcut_7_37/screen_1742271791333.webp",
+            "semantic": "Destination button for \"Shanghai South\" train station."
+        }
+    ]
+]

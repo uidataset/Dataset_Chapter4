@@ -1,0 +1,330 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 153,
+                "left": 30,
+                "right": 77,
+                "top": 104
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/HUAWEl MatePad Pro MRX-W39_shortcut_7_41/screen_1742308227484.webp",
+            "semantic": "Back or previous page navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 223,
+                "left": 46,
+                "right": 118,
+                "top": 147
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/redmi Turbo 14_shortcut_7_22/screen_1742270833704.webp",
+            "semantic": "Back or previous page navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 223,
+                "left": 46,
+                "right": 118,
+                "top": 147
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/redmi Turbo 14_dark_shortcut_7_129/screen_1742290634196.webp",
+            "semantic": "Back or previous page navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 211,
+                "left": 42,
+                "right": 108,
+                "top": 142
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/honorPlay8T_shortcut_7_179/screen_1741770391167.webp",
+            "semantic": "Back or previous page navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 231,
+                "left": 46,
+                "right": 118,
+                "top": 155
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/Redmik70U_shortcut_7_126/screen_1742365346328.webp",
+            "semantic": "Back or previous page navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 187,
+                "left": 42,
+                "right": 108,
+                "top": 118
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/IQOONeo5_shortcut_7_86/screen_1742368463253.webp",
+            "semantic": "Back or previous page navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 187,
+                "left": 42,
+                "right": 108,
+                "top": 118
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/IQOONeo5_dark_shortcut_7_47/screen_1742352494814.webp",
+            "semantic": "Back or previous page navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 46,
+                "right": 118,
+                "top": 158
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/Honor90GT_shortcut_7_89/screen_1742354259187.webp",
+            "semantic": "Back or previous page navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 178,
+                "left": 728,
+                "right": 872,
+                "top": 80
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/HUAWEl MatePad Pro MRX-W39_shortcut_7_41/screen_1742308227484.webp",
+            "semantic": "Logistics Assistant application header."
+        },
+        {
+            "bounds": {
+                "bottom": 260,
+                "left": 500,
+                "right": 720,
+                "top": 110
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/redmi Turbo 14_shortcut_7_22/screen_1742270833704.webp",
+            "semantic": "Logistics Assistant application header."
+        },
+        {
+            "bounds": {
+                "bottom": 260,
+                "left": 500,
+                "right": 720,
+                "top": 110
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/redmi Turbo 14_dark_shortcut_7_129/screen_1742290634196.webp",
+            "semantic": "Logistics Assistant application header."
+        },
+        {
+            "bounds": {
+                "bottom": 246,
+                "left": 438,
+                "right": 642,
+                "top": 108
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/honorPlay8T_shortcut_7_179/screen_1741770391167.webp",
+            "semantic": "Logistics Assistant application header."
+        },
+        {
+            "bounds": {
+                "bottom": 268,
+                "left": 500,
+                "right": 720,
+                "top": 118
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/Redmik70U_shortcut_7_126/screen_1742365346328.webp",
+            "semantic": "Logistics Assistant application header."
+        },
+        {
+            "bounds": {
+                "bottom": 222,
+                "left": 438,
+                "right": 642,
+                "top": 84
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/IQOONeo5_shortcut_7_86/screen_1742368463253.webp",
+            "semantic": "Logistics Assistant application header."
+        },
+        {
+            "bounds": {
+                "bottom": 222,
+                "left": 438,
+                "right": 642,
+                "top": 84
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/IQOONeo5_dark_shortcut_7_47/screen_1742352494814.webp",
+            "semantic": "Logistics Assistant application header."
+        },
+        {
+            "bounds": {
+                "bottom": 272,
+                "left": 488,
+                "right": 712,
+                "top": 121
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/Honor90GT_shortcut_7_89/screen_1742354259187.webp",
+            "semantic": "Logistics Assistant application header."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2522,
+                "left": 352,
+                "right": 448,
+                "top": 2479
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/HUAWEl MatePad Pro MRX-W39_shortcut_7_41/screen_1742308227484.webp",
+            "semantic": "\"Check delivery status\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2602,
+                "left": 231,
+                "right": 378,
+                "top": 2536
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/redmi Turbo 14_shortcut_7_22/screen_1742270833704.webp",
+            "semantic": "\"Check delivery status\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2602,
+                "left": 231,
+                "right": 378,
+                "top": 2536
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/redmi Turbo 14_dark_shortcut_7_129/screen_1742290634196.webp",
+            "semantic": "\"Check delivery status\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2358,
+                "left": 202,
+                "right": 337,
+                "top": 2297
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/honorPlay8T_shortcut_7_179/screen_1741770391167.webp",
+            "semantic": "\"Check delivery status\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2649,
+                "left": 231,
+                "right": 378,
+                "top": 2592
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/Redmik70U_shortcut_7_126/screen_1742365346328.webp",
+            "semantic": "\"Check delivery status\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2346,
+                "left": 202,
+                "right": 337,
+                "top": 2285
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/IQOONeo5_shortcut_7_86/screen_1742368463253.webp",
+            "semantic": "\"Check delivery status\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2346,
+                "left": 202,
+                "right": 337,
+                "top": 2285
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/IQOONeo5_dark_shortcut_7_47/screen_1742352494814.webp",
+            "semantic": "\"Check delivery status\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2605,
+                "left": 226,
+                "right": 373,
+                "top": 2539
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/Honor90GT_shortcut_7_89/screen_1742354259187.webp",
+            "semantic": "\"Check delivery status\" button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2522,
+                "left": 1113,
+                "right": 1241,
+                "top": 2479
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/HUAWEl MatePad Pro MRX-W39_shortcut_7_41/screen_1742308227484.webp",
+            "semantic": "\"Logistics customer service\" section identifier."
+        },
+        {
+            "bounds": {
+                "bottom": 2605,
+                "left": 802,
+                "right": 998,
+                "top": 2539
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/Honor90GT_shortcut_7_89/screen_1742354259187.webp",
+            "semantic": "\"Logistics customer service\" section identifier."
+        },
+        {
+            "bounds": {
+                "bottom": 2346,
+                "left": 720,
+                "right": 900,
+                "top": 2285
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/IQOONeo5_dark_shortcut_7_47/screen_1742352494814.webp",
+            "semantic": "\"Logistics customer service\" section identifier."
+        },
+        {
+            "bounds": {
+                "bottom": 2346,
+                "left": 720,
+                "right": 900,
+                "top": 2285
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/IQOONeo5_shortcut_7_86/screen_1742368463253.webp",
+            "semantic": "\"Logistics customer service\" section identifier."
+        },
+        {
+            "bounds": {
+                "bottom": 2649,
+                "left": 817,
+                "right": 1013,
+                "top": 2592
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/Redmik70U_shortcut_7_126/screen_1742365346328.webp",
+            "semantic": "\"Logistics customer service\" section identifier."
+        },
+        {
+            "bounds": {
+                "bottom": 2358,
+                "left": 720,
+                "right": 900,
+                "top": 2297
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/honorPlay8T_shortcut_7_179/screen_1741770391167.webp",
+            "semantic": "\"Logistics customer service\" section identifier."
+        },
+        {
+            "bounds": {
+                "bottom": 2602,
+                "left": 781,
+                "right": 977,
+                "top": 2536
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/redmi Turbo 14_dark_shortcut_7_129/screen_1742290634196.webp",
+            "semantic": "\"Logistics customer service\" section identifier."
+        },
+        {
+            "bounds": {
+                "bottom": 2602,
+                "left": 817,
+                "right": 1013,
+                "top": 2536
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/redmi Turbo 14_shortcut_7_22/screen_1742270833704.webp",
+            "semantic": "\"Logistics customer service\" section identifier."
+        }
+    ]
+]

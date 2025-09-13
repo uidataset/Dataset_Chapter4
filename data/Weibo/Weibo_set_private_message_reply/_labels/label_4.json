@@ -1,0 +1,342 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 174,
+                "left": 55,
+                "right": 123,
+                "top": 80
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro MRX-W39_shortcut_7_41/screen_1740150393713.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 174,
+                "left": 55,
+                "right": 123,
+                "top": 80
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_31/screen_1740412723048.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 152,
+                "left": 52,
+                "right": 116,
+                "top": 64
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_30/screen_1740313283391.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 265,
+                "left": 85,
+                "right": 189,
+                "top": 121
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/Honor90GT_dark_shortcut_7_40/screen_1740570861471.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 254,
+                "left": 78,
+                "right": 174,
+                "top": 122
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/OPPO Reno9 Pro5G_dark_shortcut_7_32/screen_1740310163327.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 261,
+                "left": 85,
+                "right": 189,
+                "top": 118
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/Redmik70U_dark_shortcut_7_43/screen_1740306426066.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 253,
+                "left": 85,
+                "right": 189,
+                "top": 110
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/redmi Turbo 14_dark_shortcut_7_30/screen_1740323157749.webp",
+            "semantic": "\"Back\" navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 151,
+                "left": 728,
+                "right": 872,
+                "top": 102
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro MRX-W39_shortcut_7_41/screen_1740150393713.webp",
+            "semantic": "\"Private message settings\" menu title."
+        },
+        {
+            "bounds": {
+                "bottom": 151,
+                "left": 728,
+                "right": 872,
+                "top": 102
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_31/screen_1740412723048.webp",
+            "semantic": "\"Private message settings\" menu title."
+        },
+        {
+            "bounds": {
+                "bottom": 131,
+                "left": 732,
+                "right": 868,
+                "top": 85
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_30/screen_1740313283391.webp",
+            "semantic": "\"Private message settings\" menu title."
+        },
+        {
+            "bounds": {
+                "bottom": 231,
+                "left": 488,
+                "right": 712,
+                "top": 155
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/Honor90GT_dark_shortcut_7_40/screen_1740570861471.webp",
+            "semantic": "\"Private message settings\" menu title."
+        },
+        {
+            "bounds": {
+                "bottom": 222,
+                "left": 438,
+                "right": 642,
+                "top": 154
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/OPPO Reno9 Pro5G_dark_shortcut_7_32/screen_1740310163327.webp",
+            "semantic": "\"Private message settings\" menu title."
+        },
+        {
+            "bounds": {
+                "bottom": 224,
+                "left": 500,
+                "right": 720,
+                "top": 155
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/Redmik70U_dark_shortcut_7_43/screen_1740306426066.webp",
+            "semantic": "\"Private message settings\" menu title."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 500,
+                "right": 720,
+                "top": 144
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/redmi Turbo 14_dark_shortcut_7_30/screen_1740323157749.webp",
+            "semantic": "\"Private message settings\" menu title."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 273,
+                "left": 29,
+                "right": 238,
+                "top": 229
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro MRX-W39_shortcut_7_41/screen_1740150393713.webp",
+            "semantic": "Settings for private response."
+        },
+        {
+            "bounds": {
+                "bottom": 273,
+                "left": 29,
+                "right": 238,
+                "top": 229
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_31/screen_1740412723048.webp",
+            "semantic": "Settings for private response."
+        },
+        {
+            "bounds": {
+                "bottom": 244,
+                "left": 30,
+                "right": 224,
+                "top": 206
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_30/screen_1740313283391.webp",
+            "semantic": "Settings for private response."
+        },
+        {
+            "bounds": {
+                "bottom": 425,
+                "left": 45,
+                "right": 366,
+                "top": 350
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/Honor90GT_dark_shortcut_7_40/screen_1740570861471.webp",
+            "semantic": "Settings for private response."
+        },
+        {
+            "bounds": {
+                "bottom": 426,
+                "left": 45,
+                "right": 364,
+                "top": 345
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/Redmik70U_dark_shortcut_7_43/screen_1740306426066.webp",
+            "semantic": "Settings for private response."
+        },
+        {
+            "bounds": {
+                "bottom": 418,
+                "left": 45,
+                "right": 364,
+                "top": 337
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/redmi Turbo 14_dark_shortcut_7_30/screen_1740323157749.webp",
+            "semantic": "Settings for private response."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 159,
+                "left": 21,
+                "right": 55,
+                "top": 95
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro MRX-W39_shortcut_7_41/screen_1740150393713.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 159,
+                "left": 21,
+                "right": 55,
+                "top": 95
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_31/screen_1740412723048.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 138,
+                "left": 20,
+                "right": 52,
+                "top": 78
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_30/screen_1740313283391.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 242,
+                "left": 33,
+                "right": 85,
+                "top": 144
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/Honor90GT_dark_shortcut_7_40/screen_1740570861471.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 233,
+                "left": 30,
+                "right": 78,
+                "top": 143
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/OPPO Reno9 Pro5G_dark_shortcut_7_32/screen_1740310163327.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 238,
+                "left": 33,
+                "right": 85,
+                "top": 140
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/Redmik70U_dark_shortcut_7_43/screen_1740306426066.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 230,
+                "left": 33,
+                "right": 85,
+                "top": 132
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/redmi Turbo 14_dark_shortcut_7_30/screen_1740323157749.webp",
+            "semantic": "\"Back\" navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 295,
+                "left": 0,
+                "right": 1602,
+                "top": 208
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro MRX-W39_shortcut_7_41/screen_1740150393713.webp",
+            "semantic": "Private message reply settings."
+        },
+        {
+            "bounds": {
+                "bottom": 295,
+                "left": 0,
+                "right": 1602,
+                "top": 208
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_31/screen_1740412723048.webp",
+            "semantic": "Private message reply settings."
+        },
+        {
+            "bounds": {
+                "bottom": 266,
+                "left": 0,
+                "right": 1600,
+                "top": 184
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_30/screen_1740313283391.webp",
+            "semantic": "Private message reply settings."
+        },
+        {
+            "bounds": {
+                "bottom": 461,
+                "left": 0,
+                "right": 1205,
+                "top": 314
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/Honor90GT_dark_shortcut_7_40/screen_1740570861471.webp",
+            "semantic": "Private message reply settings."
+        },
+        {
+            "bounds": {
+                "bottom": 462,
+                "left": 0,
+                "right": 1222,
+                "top": 313
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/Redmik70U_dark_shortcut_7_43/screen_1740306426066.webp",
+            "semantic": "Private message reply settings."
+        },
+        {
+            "bounds": {
+                "bottom": 454,
+                "left": 0,
+                "right": 1222,
+                "top": 305
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/redmi Turbo 14_dark_shortcut_7_30/screen_1740323157749.webp",
+            "semantic": "Private message reply settings."
+        }
+    ]
+]

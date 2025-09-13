@@ -1,0 +1,3942 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 171,
+                "left": 0,
+                "right": 111,
+                "top": 82
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 171,
+                "left": 0,
+                "right": 111,
+                "top": 82
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 250,
+                "left": 0,
+                "right": 169,
+                "top": 113
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 250,
+                "left": 0,
+                "right": 169,
+                "top": 113
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 250,
+                "left": 0,
+                "right": 169,
+                "top": 113
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 250,
+                "left": 0,
+                "right": 169,
+                "top": 113
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 0,
+                "right": 156,
+                "top": 111
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 258,
+                "left": 0,
+                "right": 169,
+                "top": 121
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 258,
+                "left": 0,
+                "right": 169,
+                "top": 121
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 258,
+                "left": 0,
+                "right": 169,
+                "top": 121
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 258,
+                "left": 0,
+                "right": 169,
+                "top": 121
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 213,
+                "left": 0,
+                "right": 156,
+                "top": 87
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 213,
+                "left": 0,
+                "right": 156,
+                "top": 87
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 213,
+                "left": 0,
+                "right": 156,
+                "top": 87
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 213,
+                "left": 0,
+                "right": 156,
+                "top": 87
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 262,
+                "left": 0,
+                "right": 170,
+                "top": 124
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 262,
+                "left": 0,
+                "right": 170,
+                "top": 124
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 262,
+                "left": 0,
+                "right": 170,
+                "top": 124
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_bigger_shortcut_7_186/screen_1742398188944.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 262,
+                "left": 0,
+                "right": 170,
+                "top": 124
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_bigger_shortcut_7_195/screen_1742398813922.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 171,
+                "left": 0,
+                "right": 111,
+                "top": 82
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 171,
+                "left": 0,
+                "right": 111,
+                "top": 82
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "\"Back\" or \"return to the previous screen\" button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 171,
+                "left": 1489,
+                "right": 1600,
+                "top": 82
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "Settings or configuration options button."
+        },
+        {
+            "bounds": {
+                "bottom": 250,
+                "left": 1051,
+                "right": 1220,
+                "top": 113
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "Settings or configuration options button."
+        },
+        {
+            "bounds": {
+                "bottom": 250,
+                "left": 1051,
+                "right": 1220,
+                "top": 113
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "Settings or configuration options button."
+        },
+        {
+            "bounds": {
+                "bottom": 250,
+                "left": 1051,
+                "right": 1220,
+                "top": 113
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "Settings or configuration options button."
+        },
+        {
+            "bounds": {
+                "bottom": 250,
+                "left": 1051,
+                "right": 1220,
+                "top": 113
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "Settings or configuration options button."
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 924,
+                "right": 1080,
+                "top": 111
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "Settings or configuration options button."
+        },
+        {
+            "bounds": {
+                "bottom": 258,
+                "left": 1051,
+                "right": 1220,
+                "top": 121
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "Settings or configuration options button."
+        },
+        {
+            "bounds": {
+                "bottom": 258,
+                "left": 1051,
+                "right": 1220,
+                "top": 121
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "Settings or configuration options button."
+        },
+        {
+            "bounds": {
+                "bottom": 258,
+                "left": 1051,
+                "right": 1220,
+                "top": 121
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "Settings or configuration options button."
+        },
+        {
+            "bounds": {
+                "bottom": 258,
+                "left": 1051,
+                "right": 1220,
+                "top": 121
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "Settings or configuration options button."
+        },
+        {
+            "bounds": {
+                "bottom": 213,
+                "left": 924,
+                "right": 1080,
+                "top": 87
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "Settings or configuration options button."
+        },
+        {
+            "bounds": {
+                "bottom": 213,
+                "left": 924,
+                "right": 1080,
+                "top": 87
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "Settings or configuration options button."
+        },
+        {
+            "bounds": {
+                "bottom": 213,
+                "left": 924,
+                "right": 1080,
+                "top": 87
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "Settings or configuration options button."
+        },
+        {
+            "bounds": {
+                "bottom": 213,
+                "left": 924,
+                "right": 1080,
+                "top": 87
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "Settings or configuration options button."
+        },
+        {
+            "bounds": {
+                "bottom": 262,
+                "left": 1030,
+                "right": 1200,
+                "top": 124
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "Settings or configuration options button."
+        },
+        {
+            "bounds": {
+                "bottom": 262,
+                "left": 1030,
+                "right": 1200,
+                "top": 124
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "Settings or configuration options button."
+        },
+        {
+            "bounds": {
+                "bottom": 262,
+                "left": 1030,
+                "right": 1200,
+                "top": 124
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_bigger_shortcut_7_186/screen_1742398188944.webp",
+            "semantic": "Settings or configuration options button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 51,
+                "right": 94,
+                "top": 209
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 51,
+                "right": 94,
+                "top": 209
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 51,
+                "right": 94,
+                "top": 209
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 51,
+                "right": 94,
+                "top": 209
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 383,
+                "left": 78,
+                "right": 144,
+                "top": 317
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_bigger_shortcut_7_195/screen_1742398813922.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 383,
+                "left": 78,
+                "right": 144,
+                "top": 317
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_bigger_shortcut_7_186/screen_1742398188944.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 383,
+                "left": 78,
+                "right": 144,
+                "top": 317
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 383,
+                "left": 78,
+                "right": 144,
+                "top": 317
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 324,
+                "left": 72,
+                "right": 132,
+                "top": 264
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 324,
+                "left": 72,
+                "right": 132,
+                "top": 264
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 324,
+                "left": 72,
+                "right": 132,
+                "top": 264
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 324,
+                "left": 72,
+                "right": 132,
+                "top": 264
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 378,
+                "left": 78,
+                "right": 143,
+                "top": 313
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 378,
+                "left": 78,
+                "right": 143,
+                "top": 313
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 378,
+                "left": 78,
+                "right": 143,
+                "top": 313
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 378,
+                "left": 78,
+                "right": 143,
+                "top": 313
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 348,
+                "left": 72,
+                "right": 132,
+                "top": 288
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 370,
+                "left": 78,
+                "right": 143,
+                "top": 305
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 370,
+                "left": 78,
+                "right": 143,
+                "top": 305
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 370,
+                "left": 78,
+                "right": 143,
+                "top": 305
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "Search function."
+        },
+        {
+            "bounds": {
+                "bottom": 370,
+                "left": 78,
+                "right": 143,
+                "top": 305
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "Search function."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 111,
+                "right": 1480,
+                "top": 203
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 111,
+                "right": 1480,
+                "top": 203
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 111,
+                "right": 1480,
+                "top": 209
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 111,
+                "right": 1480,
+                "top": 209
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 393,
+                "left": 170,
+                "right": 1017,
+                "top": 307
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_bigger_shortcut_7_195/screen_1742398813922.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 393,
+                "left": 170,
+                "right": 1017,
+                "top": 307
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_bigger_shortcut_7_186/screen_1742398188944.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 388,
+                "left": 170,
+                "right": 1017,
+                "top": 312
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 388,
+                "left": 170,
+                "right": 1017,
+                "top": 312
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 333,
+                "left": 156,
+                "right": 912,
+                "top": 256
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 333,
+                "left": 156,
+                "right": 912,
+                "top": 256
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 325,
+                "left": 156,
+                "right": 912,
+                "top": 264
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 325,
+                "left": 156,
+                "right": 912,
+                "top": 264
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 385,
+                "left": 169,
+                "right": 1038,
+                "top": 306
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 385,
+                "left": 169,
+                "right": 1038,
+                "top": 306
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 376,
+                "left": 169,
+                "right": 1038,
+                "top": 315
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 376,
+                "left": 169,
+                "right": 1038,
+                "top": 315
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 349,
+                "left": 156,
+                "right": 912,
+                "top": 288
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 380,
+                "left": 169,
+                "right": 1038,
+                "top": 296
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 380,
+                "left": 169,
+                "right": 1038,
+                "top": 296
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 371,
+                "left": 169,
+                "right": 1038,
+                "top": 305
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "Search for username or Douyin number function."
+        },
+        {
+            "bounds": {
+                "bottom": 371,
+                "left": 169,
+                "right": 1038,
+                "top": 305
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "Search for username or Douyin number function."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 762,
+                "left": 579,
+                "right": 1020,
+                "top": 321
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 994,
+                "left": 350,
+                "right": 870,
+                "top": 474
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 994,
+                "left": 350,
+                "right": 870,
+                "top": 474
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 1150,
+                "left": 272,
+                "right": 948,
+                "top": 474
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 1150,
+                "left": 272,
+                "right": 948,
+                "top": 474
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 924,
+                "left": 300,
+                "right": 780,
+                "top": 444
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 1002,
+                "left": 350,
+                "right": 870,
+                "top": 482
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 1002,
+                "left": 350,
+                "right": 870,
+                "top": 482
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 1158,
+                "left": 272,
+                "right": 948,
+                "top": 482
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 1158,
+                "left": 272,
+                "right": 948,
+                "top": 482
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 900,
+                "left": 300,
+                "right": 780,
+                "top": 420
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 900,
+                "left": 300,
+                "right": 780,
+                "top": 420
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 1044,
+                "left": 228,
+                "right": 852,
+                "top": 420
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 1044,
+                "left": 228,
+                "right": 852,
+                "top": 420
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 1090,
+                "left": 299,
+                "right": 901,
+                "top": 488
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 1090,
+                "left": 298,
+                "right": 900,
+                "top": 488
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 1169,
+                "left": 259,
+                "right": 940,
+                "top": 488
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_bigger_shortcut_7_186/screen_1742398188944.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 1169,
+                "left": 259,
+                "right": 940,
+                "top": 488
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_bigger_shortcut_7_195/screen_1742398813922.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 661,
+                "left": 630,
+                "right": 970,
+                "top": 321
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 661,
+                "left": 630,
+                "right": 970,
+                "top": 321
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        },
+        {
+            "bounds": {
+                "bottom": 762,
+                "left": 579,
+                "right": 1020,
+                "top": 321
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "Douyin QR code for adding a friend."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1074,
+                "left": 34,
+                "right": 112,
+                "top": 996
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1074,
+                "left": 34,
+                "right": 112,
+                "top": 996
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 930,
+                "left": 34,
+                "right": 94,
+                "top": 870
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 930,
+                "left": 34,
+                "right": 94,
+                "top": 870
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1641,
+                "left": 52,
+                "right": 171,
+                "top": 1522
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_bigger_shortcut_7_195/screen_1742398813922.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1641,
+                "left": 52,
+                "right": 171,
+                "top": 1522
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_bigger_shortcut_7_186/screen_1742398188944.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1530,
+                "left": 52,
+                "right": 157,
+                "top": 1425
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1530,
+                "left": 52,
+                "right": 157,
+                "top": 1425
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1480,
+                "left": 48,
+                "right": 157,
+                "top": 1371
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1480,
+                "left": 48,
+                "right": 157,
+                "top": 1371
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1277,
+                "left": 48,
+                "right": 132,
+                "top": 1193
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1277,
+                "left": 48,
+                "right": 132,
+                "top": 1193
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1615,
+                "left": 52,
+                "right": 170,
+                "top": 1497
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1615,
+                "left": 52,
+                "right": 170,
+                "top": 1497
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1406,
+                "left": 52,
+                "right": 143,
+                "top": 1315
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1406,
+                "left": 52,
+                "right": 143,
+                "top": 1315
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1301,
+                "left": 48,
+                "right": 132,
+                "top": 1217
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1619,
+                "left": 52,
+                "right": 170,
+                "top": 1501
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1619,
+                "left": 52,
+                "right": 170,
+                "top": 1501
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1403,
+                "left": 52,
+                "right": 143,
+                "top": 1312
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "\"Scan\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1403,
+                "left": 52,
+                "right": 143,
+                "top": 1312
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "\"Scan\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1059,
+                "left": 146,
+                "right": 287,
+                "top": 996
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1386,
+                "left": 195,
+                "right": 360,
+                "top": 1312
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1386,
+                "left": 195,
+                "right": 360,
+                "top": 1312
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1592,
+                "left": 222,
+                "right": 426,
+                "top": 1501
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1592,
+                "left": 222,
+                "right": 426,
+                "top": 1501
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1285,
+                "left": 180,
+                "right": 333,
+                "top": 1217
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1384,
+                "left": 195,
+                "right": 360,
+                "top": 1315
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1384,
+                "left": 195,
+                "right": 360,
+                "top": 1315
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1581,
+                "left": 222,
+                "right": 426,
+                "top": 1497
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1581,
+                "left": 222,
+                "right": 426,
+                "top": 1497
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1261,
+                "left": 180,
+                "right": 333,
+                "top": 1193
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1261,
+                "left": 180,
+                "right": 333,
+                "top": 1193
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1459,
+                "left": 205,
+                "right": 403,
+                "top": 1371
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1459,
+                "left": 205,
+                "right": 403,
+                "top": 1371
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1508,
+                "left": 209,
+                "right": 395,
+                "top": 1425
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1508,
+                "left": 209,
+                "right": 395,
+                "top": 1425
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1613,
+                "left": 223,
+                "right": 427,
+                "top": 1522
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_bigger_shortcut_7_186/screen_1742398188944.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1613,
+                "left": 223,
+                "right": 427,
+                "top": 1522
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_bigger_shortcut_7_195/screen_1742398813922.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 919,
+                "left": 128,
+                "right": 236,
+                "top": 870
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 919,
+                "left": 128,
+                "right": 236,
+                "top": 870
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "Scan QR code function."
+        },
+        {
+            "bounds": {
+                "bottom": 1059,
+                "left": 146,
+                "right": 287,
+                "top": 996
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "Scan QR code function."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1082,
+                "left": 1540,
+                "right": 1566,
+                "top": 1056
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1405,
+                "left": 1129,
+                "right": 1168,
+                "top": 1366
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1405,
+                "left": 1129,
+                "right": 1168,
+                "top": 1366
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1631,
+                "left": 1129,
+                "right": 1168,
+                "top": 1592
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1631,
+                "left": 1129,
+                "right": 1168,
+                "top": 1592
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1303,
+                "left": 996,
+                "right": 1032,
+                "top": 1267
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1408,
+                "left": 1129,
+                "right": 1168,
+                "top": 1369
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1408,
+                "left": 1129,
+                "right": 1168,
+                "top": 1369
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1627,
+                "left": 1129,
+                "right": 1168,
+                "top": 1588
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1627,
+                "left": 1129,
+                "right": 1168,
+                "top": 1588
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1279,
+                "left": 996,
+                "right": 1032,
+                "top": 1243
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1279,
+                "left": 996,
+                "right": 1032,
+                "top": 1243
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1491,
+                "left": 996,
+                "right": 1032,
+                "top": 1455
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1491,
+                "left": 996,
+                "right": 1032,
+                "top": 1455
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1519,
+                "left": 1109,
+                "right": 1148,
+                "top": 1480
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1519,
+                "left": 1109,
+                "right": 1148,
+                "top": 1480
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1653,
+                "left": 1109,
+                "right": 1148,
+                "top": 1614
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_bigger_shortcut_7_186/screen_1742398188944.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1653,
+                "left": 1109,
+                "right": 1148,
+                "top": 1614
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_bigger_shortcut_7_195/screen_1742398813922.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 931,
+                "left": 1540,
+                "right": 1566,
+                "top": 905
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 931,
+                "left": 1540,
+                "right": 1566,
+                "top": 905
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "Navigation or forward option."
+        },
+        {
+            "bounds": {
+                "bottom": 1082,
+                "left": 1540,
+                "right": 1566,
+                "top": 1056
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "Navigation or forward option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1287,
+                "left": 34,
+                "right": 112,
+                "top": 1209
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1653,
+                "left": 52,
+                "right": 143,
+                "top": 1562
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1653,
+                "left": 52,
+                "right": 143,
+                "top": 1562
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1944,
+                "left": 52,
+                "right": 170,
+                "top": 1826
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1944,
+                "left": 52,
+                "right": 170,
+                "top": 1826
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1532,
+                "left": 48,
+                "right": 132,
+                "top": 1448
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1656,
+                "left": 52,
+                "right": 143,
+                "top": 1565
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1656,
+                "left": 52,
+                "right": 143,
+                "top": 1565
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1940,
+                "left": 52,
+                "right": 170,
+                "top": 1822
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1940,
+                "left": 52,
+                "right": 170,
+                "top": 1822
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1508,
+                "left": 48,
+                "right": 132,
+                "top": 1424
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1508,
+                "left": 48,
+                "right": 132,
+                "top": 1424
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1780,
+                "left": 48,
+                "right": 157,
+                "top": 1671
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1780,
+                "left": 48,
+                "right": 157,
+                "top": 1671
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1782,
+                "left": 52,
+                "right": 157,
+                "top": 1677
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1782,
+                "left": 52,
+                "right": 157,
+                "top": 1677
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1968,
+                "left": 52,
+                "right": 171,
+                "top": 1849
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_bigger_shortcut_7_186/screen_1742398188944.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1968,
+                "left": 52,
+                "right": 171,
+                "top": 1849
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_bigger_shortcut_7_195/screen_1742398813922.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1094,
+                "left": 34,
+                "right": 94,
+                "top": 1034
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1094,
+                "left": 34,
+                "right": 94,
+                "top": 1034
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1287,
+                "left": 34,
+                "right": 112,
+                "top": 1209
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1272,
+                "left": 146,
+                "right": 428,
+                "top": 1209
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1636,
+                "left": 195,
+                "right": 525,
+                "top": 1562
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1636,
+                "left": 195,
+                "right": 525,
+                "top": 1562
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1917,
+                "left": 222,
+                "right": 630,
+                "top": 1826
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1917,
+                "left": 222,
+                "right": 630,
+                "top": 1826
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1516,
+                "left": 180,
+                "right": 486,
+                "top": 1448
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1634,
+                "left": 195,
+                "right": 525,
+                "top": 1565
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1634,
+                "left": 195,
+                "right": 525,
+                "top": 1565
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1906,
+                "left": 222,
+                "right": 630,
+                "top": 1822
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1906,
+                "left": 222,
+                "right": 630,
+                "top": 1822
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1492,
+                "left": 180,
+                "right": 486,
+                "top": 1424
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1492,
+                "left": 180,
+                "right": 486,
+                "top": 1424
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1759,
+                "left": 205,
+                "right": 601,
+                "top": 1671
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1759,
+                "left": 205,
+                "right": 601,
+                "top": 1671
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1760,
+                "left": 209,
+                "right": 581,
+                "top": 1677
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1760,
+                "left": 209,
+                "right": 581,
+                "top": 1677
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1940,
+                "left": 223,
+                "right": 631,
+                "top": 1849
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_bigger_shortcut_7_186/screen_1742398188944.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1940,
+                "left": 223,
+                "right": 631,
+                "top": 1849
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_bigger_shortcut_7_195/screen_1742398813922.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1083,
+                "left": 128,
+                "right": 344,
+                "top": 1034
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1083,
+                "left": 128,
+                "right": 344,
+                "top": 1034
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1272,
+                "left": 146,
+                "right": 428,
+                "top": 1209
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "\"Add nearby friend\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1295,
+                "left": 1540,
+                "right": 1566,
+                "top": 1269
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1655,
+                "left": 1129,
+                "right": 1168,
+                "top": 1616
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1655,
+                "left": 1129,
+                "right": 1168,
+                "top": 1616
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1956,
+                "left": 1129,
+                "right": 1168,
+                "top": 1917
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1956,
+                "left": 1129,
+                "right": 1168,
+                "top": 1917
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1534,
+                "left": 996,
+                "right": 1032,
+                "top": 1498
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1658,
+                "left": 1129,
+                "right": 1168,
+                "top": 1619
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1658,
+                "left": 1129,
+                "right": 1168,
+                "top": 1619
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1952,
+                "left": 1129,
+                "right": 1168,
+                "top": 1913
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1952,
+                "left": 1129,
+                "right": 1168,
+                "top": 1913
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1510,
+                "left": 996,
+                "right": 1032,
+                "top": 1474
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1510,
+                "left": 996,
+                "right": 1032,
+                "top": 1474
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1791,
+                "left": 996,
+                "right": 1032,
+                "top": 1755
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1791,
+                "left": 996,
+                "right": 1032,
+                "top": 1755
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1771,
+                "left": 1109,
+                "right": 1148,
+                "top": 1732
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1771,
+                "left": 1109,
+                "right": 1148,
+                "top": 1732
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1980,
+                "left": 1109,
+                "right": 1148,
+                "top": 1941
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_bigger_shortcut_7_186/screen_1742398188944.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1980,
+                "left": 1109,
+                "right": 1148,
+                "top": 1941
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_bigger_shortcut_7_195/screen_1742398813922.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1095,
+                "left": 1540,
+                "right": 1566,
+                "top": 1069
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1095,
+                "left": 1540,
+                "right": 1566,
+                "top": 1069
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "Navigate to the next screen or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1295,
+                "left": 1540,
+                "right": 1566,
+                "top": 1269
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "Navigate to the next screen or option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1500,
+                "left": 34,
+                "right": 112,
+                "top": 1422
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 1903,
+                "left": 52,
+                "right": 143,
+                "top": 1812
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 1903,
+                "left": 52,
+                "right": 143,
+                "top": 1812
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 2269,
+                "left": 52,
+                "right": 170,
+                "top": 2151
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 2269,
+                "left": 52,
+                "right": 170,
+                "top": 2151
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 1763,
+                "left": 48,
+                "right": 132,
+                "top": 1679
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 1906,
+                "left": 52,
+                "right": 143,
+                "top": 1815
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 1906,
+                "left": 52,
+                "right": 143,
+                "top": 1815
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 2265,
+                "left": 52,
+                "right": 170,
+                "top": 2147
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 2265,
+                "left": 52,
+                "right": 170,
+                "top": 2147
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 1739,
+                "left": 48,
+                "right": 132,
+                "top": 1655
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 1739,
+                "left": 48,
+                "right": 132,
+                "top": 1655
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 2080,
+                "left": 48,
+                "right": 157,
+                "top": 1971
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 2080,
+                "left": 48,
+                "right": 157,
+                "top": 1971
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 2034,
+                "left": 52,
+                "right": 157,
+                "top": 1929
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 2034,
+                "left": 52,
+                "right": 157,
+                "top": 1929
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 2295,
+                "left": 52,
+                "right": 171,
+                "top": 2176
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_bigger_shortcut_7_186/screen_1742398188944.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 2295,
+                "left": 52,
+                "right": 171,
+                "top": 2176
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_bigger_shortcut_7_195/screen_1742398813922.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 1258,
+                "left": 34,
+                "right": 94,
+                "top": 1198
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 1258,
+                "left": 34,
+                "right": 94,
+                "top": 1198
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "Add contact from address book."
+        },
+        {
+            "bounds": {
+                "bottom": 1500,
+                "left": 34,
+                "right": 112,
+                "top": 1422
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "Add contact from address book."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1485,
+                "left": 146,
+                "right": 381,
+                "top": 1422
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1886,
+                "left": 195,
+                "right": 470,
+                "top": 1812
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1886,
+                "left": 195,
+                "right": 470,
+                "top": 1812
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2242,
+                "left": 222,
+                "right": 562,
+                "top": 2151
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2242,
+                "left": 222,
+                "right": 562,
+                "top": 2151
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1747,
+                "left": 180,
+                "right": 435,
+                "top": 1679
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1884,
+                "left": 195,
+                "right": 470,
+                "top": 1815
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1884,
+                "left": 195,
+                "right": 470,
+                "top": 1815
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2231,
+                "left": 222,
+                "right": 562,
+                "top": 2147
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2231,
+                "left": 222,
+                "right": 562,
+                "top": 2147
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1723,
+                "left": 180,
+                "right": 435,
+                "top": 1655
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1723,
+                "left": 180,
+                "right": 435,
+                "top": 1655
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2059,
+                "left": 205,
+                "right": 535,
+                "top": 1971
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2059,
+                "left": 205,
+                "right": 535,
+                "top": 1971
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2012,
+                "left": 209,
+                "right": 519,
+                "top": 1929
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2012,
+                "left": 209,
+                "right": 519,
+                "top": 1929
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2267,
+                "left": 223,
+                "right": 563,
+                "top": 2176
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_bigger_shortcut_7_186/screen_1742398188944.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2267,
+                "left": 223,
+                "right": 563,
+                "top": 2176
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_bigger_shortcut_7_195/screen_1742398813922.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1247,
+                "left": 128,
+                "right": 308,
+                "top": 1198
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1247,
+                "left": 128,
+                "right": 308,
+                "top": 1198
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1485,
+                "left": 146,
+                "right": 381,
+                "top": 1422
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "\"Add friends from mobile contacts.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1508,
+                "left": 1540,
+                "right": 1566,
+                "top": 1482
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 1905,
+                "left": 1129,
+                "right": 1168,
+                "top": 1866
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 1905,
+                "left": 1129,
+                "right": 1168,
+                "top": 1866
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 2281,
+                "left": 1129,
+                "right": 1168,
+                "top": 2242
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 2281,
+                "left": 1129,
+                "right": 1168,
+                "top": 2242
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 1765,
+                "left": 996,
+                "right": 1032,
+                "top": 1729
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 1908,
+                "left": 1129,
+                "right": 1168,
+                "top": 1869
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 1908,
+                "left": 1129,
+                "right": 1168,
+                "top": 1869
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 2277,
+                "left": 1129,
+                "right": 1168,
+                "top": 2238
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 2277,
+                "left": 1129,
+                "right": 1168,
+                "top": 2238
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 1741,
+                "left": 996,
+                "right": 1032,
+                "top": 1705
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 1741,
+                "left": 996,
+                "right": 1032,
+                "top": 1705
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 2091,
+                "left": 996,
+                "right": 1032,
+                "top": 2055
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 2091,
+                "left": 996,
+                "right": 1032,
+                "top": 2055
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 2023,
+                "left": 1109,
+                "right": 1148,
+                "top": 1984
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 2023,
+                "left": 1109,
+                "right": 1148,
+                "top": 1984
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 2307,
+                "left": 1109,
+                "right": 1148,
+                "top": 2268
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_bigger_shortcut_7_186/screen_1742398188944.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 2307,
+                "left": 1109,
+                "right": 1148,
+                "top": 2268
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_bigger_shortcut_7_195/screen_1742398813922.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 1259,
+                "left": 1540,
+                "right": 1566,
+                "top": 1233
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 1259,
+                "left": 1540,
+                "right": 1566,
+                "top": 1233
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "Navigation or next page indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 1508,
+                "left": 1540,
+                "right": 1566,
+                "top": 1482
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "Navigation or next page indicator."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1713,
+                "left": 34,
+                "right": 112,
+                "top": 1635
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 2153,
+                "left": 52,
+                "right": 143,
+                "top": 2062
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 2153,
+                "left": 52,
+                "right": 143,
+                "top": 2062
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 2594,
+                "left": 52,
+                "right": 170,
+                "top": 2476
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 2594,
+                "left": 52,
+                "right": 170,
+                "top": 2476
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 1994,
+                "left": 48,
+                "right": 132,
+                "top": 1910
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 2156,
+                "left": 52,
+                "right": 143,
+                "top": 2065
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 2156,
+                "left": 52,
+                "right": 143,
+                "top": 2065
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 2590,
+                "left": 52,
+                "right": 170,
+                "top": 2472
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 2590,
+                "left": 52,
+                "right": 170,
+                "top": 2472
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 1970,
+                "left": 48,
+                "right": 132,
+                "top": 1886
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 1970,
+                "left": 48,
+                "right": 132,
+                "top": 1886
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 2380,
+                "left": 48,
+                "right": 157,
+                "top": 2271
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 2380,
+                "left": 48,
+                "right": 157,
+                "top": 2271
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 2286,
+                "left": 52,
+                "right": 157,
+                "top": 2181
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 2286,
+                "left": 52,
+                "right": 157,
+                "top": 2181
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 2622,
+                "left": 52,
+                "right": 171,
+                "top": 2503
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_bigger_shortcut_7_186/screen_1742398188944.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 2622,
+                "left": 52,
+                "right": 171,
+                "top": 2503
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_bigger_shortcut_7_195/screen_1742398813922.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 1422,
+                "left": 34,
+                "right": 94,
+                "top": 1362
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 1422,
+                "left": 34,
+                "right": 94,
+                "top": 1362
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "WeChat friend addition function."
+        },
+        {
+            "bounds": {
+                "bottom": 1713,
+                "left": 34,
+                "right": 112,
+                "top": 1635
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "WeChat friend addition function."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1698,
+                "left": 146,
+                "right": 428,
+                "top": 1635
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2136,
+                "left": 195,
+                "right": 525,
+                "top": 2062
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2136,
+                "left": 195,
+                "right": 525,
+                "top": 2062
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2567,
+                "left": 222,
+                "right": 630,
+                "top": 2476
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2567,
+                "left": 222,
+                "right": 630,
+                "top": 2476
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1978,
+                "left": 180,
+                "right": 486,
+                "top": 1910
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2134,
+                "left": 195,
+                "right": 525,
+                "top": 2065
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2134,
+                "left": 195,
+                "right": 525,
+                "top": 2065
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2556,
+                "left": 222,
+                "right": 630,
+                "top": 2472
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2556,
+                "left": 222,
+                "right": 630,
+                "top": 2472
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1954,
+                "left": 180,
+                "right": 486,
+                "top": 1886
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1954,
+                "left": 180,
+                "right": 486,
+                "top": 1886
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2359,
+                "left": 205,
+                "right": 601,
+                "top": 2271
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2359,
+                "left": 205,
+                "right": 601,
+                "top": 2271
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2264,
+                "left": 209,
+                "right": 581,
+                "top": 2181
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2264,
+                "left": 209,
+                "right": 581,
+                "top": 2181
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2594,
+                "left": 223,
+                "right": 631,
+                "top": 2503
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_bigger_shortcut_7_186/screen_1742398188944.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2594,
+                "left": 223,
+                "right": 631,
+                "top": 2503
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_bigger_shortcut_7_195/screen_1742398813922.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1411,
+                "left": 128,
+                "right": 344,
+                "top": 1362
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1411,
+                "left": 128,
+                "right": 344,
+                "top": 1362
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "Add WeChat friend function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1698,
+                "left": 146,
+                "right": 428,
+                "top": 1635
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "Add WeChat friend function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1721,
+                "left": 1540,
+                "right": 1566,
+                "top": 1695
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 2155,
+                "left": 1129,
+                "right": 1168,
+                "top": 2116
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 2155,
+                "left": 1129,
+                "right": 1168,
+                "top": 2116
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 2606,
+                "left": 1129,
+                "right": 1168,
+                "top": 2567
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_bigger_shortcut_7_144/screen_1742291534690.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 2606,
+                "left": 1129,
+                "right": 1168,
+                "top": 2567
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_bigger_shortcut_7_65/screen_1742285790753.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1996,
+                "left": 996,
+                "right": 1032,
+                "top": 1960
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 2158,
+                "left": 1129,
+                "right": 1168,
+                "top": 2119
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 2158,
+                "left": 1129,
+                "right": 1168,
+                "top": 2119
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 2602,
+                "left": 1129,
+                "right": 1168,
+                "top": 2563
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_bigger_shortcut_7_242/screen_1742382765736.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 2602,
+                "left": 1129,
+                "right": 1168,
+                "top": 2563
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_bigger_shortcut_7_185/screen_1742377216066.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1972,
+                "left": 996,
+                "right": 1032,
+                "top": 1936
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1972,
+                "left": 996,
+                "right": 1032,
+                "top": 1936
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 2391,
+                "left": 996,
+                "right": 1032,
+                "top": 2355
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_bigger_shortcut_7_174/screen_1742386642058.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 2391,
+                "left": 996,
+                "right": 1032,
+                "top": 2355
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_bigger_shortcut_7_133/screen_1742383551439.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 2275,
+                "left": 1109,
+                "right": 1148,
+                "top": 2236
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 2275,
+                "left": 1109,
+                "right": 1148,
+                "top": 2236
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1423,
+                "left": 1540,
+                "right": 1566,
+                "top": 1397
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1423,
+                "left": 1540,
+                "right": 1566,
+                "top": 1397
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        },
+        {
+            "bounds": {
+                "bottom": 1721,
+                "left": 1540,
+                "right": 1566,
+                "top": 1695
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "Navigate to further details or move to the next screen."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1926,
+                "left": 34,
+                "right": 112,
+                "top": 1848
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "Add QQ friend option."
+        },
+        {
+            "bounds": {
+                "bottom": 1926,
+                "left": 34,
+                "right": 112,
+                "top": 1848
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "Add QQ friend option."
+        },
+        {
+            "bounds": {
+                "bottom": 1586,
+                "left": 34,
+                "right": 94,
+                "top": 1526
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "Add QQ friend option."
+        },
+        {
+            "bounds": {
+                "bottom": 1586,
+                "left": 34,
+                "right": 94,
+                "top": 1526
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "Add QQ friend option."
+        },
+        {
+            "bounds": {
+                "bottom": 2538,
+                "left": 52,
+                "right": 157,
+                "top": 2433
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "Add QQ friend option."
+        },
+        {
+            "bounds": {
+                "bottom": 2538,
+                "left": 52,
+                "right": 157,
+                "top": 2433
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "Add QQ friend option."
+        },
+        {
+            "bounds": {
+                "bottom": 2201,
+                "left": 48,
+                "right": 132,
+                "top": 2117
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "Add QQ friend option."
+        },
+        {
+            "bounds": {
+                "bottom": 2201,
+                "left": 48,
+                "right": 132,
+                "top": 2117
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "Add QQ friend option."
+        },
+        {
+            "bounds": {
+                "bottom": 2406,
+                "left": 52,
+                "right": 143,
+                "top": 2315
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "Add QQ friend option."
+        },
+        {
+            "bounds": {
+                "bottom": 2406,
+                "left": 52,
+                "right": 143,
+                "top": 2315
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "Add QQ friend option."
+        },
+        {
+            "bounds": {
+                "bottom": 2225,
+                "left": 48,
+                "right": 132,
+                "top": 2141
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "Add QQ friend option."
+        },
+        {
+            "bounds": {
+                "bottom": 2403,
+                "left": 52,
+                "right": 143,
+                "top": 2312
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "Add QQ friend option."
+        },
+        {
+            "bounds": {
+                "bottom": 2403,
+                "left": 52,
+                "right": 143,
+                "top": 2312
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "Add QQ friend option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1911,
+                "left": 146,
+                "right": 408,
+                "top": 1848
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "Add QQ friend function option."
+        },
+        {
+            "bounds": {
+                "bottom": 1911,
+                "left": 146,
+                "right": 408,
+                "top": 1848
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "Add QQ friend function option."
+        },
+        {
+            "bounds": {
+                "bottom": 1575,
+                "left": 128,
+                "right": 328,
+                "top": 1526
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "Add QQ friend function option."
+        },
+        {
+            "bounds": {
+                "bottom": 1575,
+                "left": 128,
+                "right": 328,
+                "top": 1526
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "Add QQ friend function option."
+        },
+        {
+            "bounds": {
+                "bottom": 2516,
+                "left": 209,
+                "right": 557,
+                "top": 2433
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "Add QQ friend function option."
+        },
+        {
+            "bounds": {
+                "bottom": 2516,
+                "left": 209,
+                "right": 557,
+                "top": 2433
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "Add QQ friend function option."
+        },
+        {
+            "bounds": {
+                "bottom": 2185,
+                "left": 180,
+                "right": 466,
+                "top": 2117
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "Add QQ friend function option."
+        },
+        {
+            "bounds": {
+                "bottom": 2185,
+                "left": 180,
+                "right": 466,
+                "top": 2117
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "Add QQ friend function option."
+        },
+        {
+            "bounds": {
+                "bottom": 2384,
+                "left": 195,
+                "right": 483,
+                "top": 2315
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "Add QQ friend function option."
+        },
+        {
+            "bounds": {
+                "bottom": 2384,
+                "left": 195,
+                "right": 483,
+                "top": 2315
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "Add QQ friend function option."
+        },
+        {
+            "bounds": {
+                "bottom": 2209,
+                "left": 180,
+                "right": 466,
+                "top": 2141
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "Add QQ friend function option."
+        },
+        {
+            "bounds": {
+                "bottom": 2386,
+                "left": 195,
+                "right": 509,
+                "top": 2312
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "Add QQ friend function option."
+        },
+        {
+            "bounds": {
+                "bottom": 2386,
+                "left": 195,
+                "right": 509,
+                "top": 2312
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "Add QQ friend function option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1934,
+                "left": 1540,
+                "right": 1566,
+                "top": 1908
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_75/screen_1742310765286.webp",
+            "semantic": "Navigation button indicating more options."
+        },
+        {
+            "bounds": {
+                "bottom": 1934,
+                "left": 1540,
+                "right": 1566,
+                "top": 1908
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_bigger_shortcut_7_121/screen_1742314318099.webp",
+            "semantic": "Navigation button indicating more options."
+        },
+        {
+            "bounds": {
+                "bottom": 1587,
+                "left": 1540,
+                "right": 1566,
+                "top": 1561
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_99/screen_1742313119733.webp",
+            "semantic": "Navigation button indicating more options."
+        },
+        {
+            "bounds": {
+                "bottom": 1587,
+                "left": 1540,
+                "right": 1566,
+                "top": 1561
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/HUAWEl MatePad Pro MRX-W39_shortcut_7_22/screen_1742306630625.webp",
+            "semantic": "Navigation button indicating more options."
+        },
+        {
+            "bounds": {
+                "bottom": 2527,
+                "left": 1109,
+                "right": 1148,
+                "top": 2488
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_dark_shortcut_7_149/screen_1742384849867.webp",
+            "semantic": "Navigation button indicating more options."
+        },
+        {
+            "bounds": {
+                "bottom": 2527,
+                "left": 1109,
+                "right": 1148,
+                "top": 2488
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Honor90GT_shortcut_7_64/screen_1742310794811.webp",
+            "semantic": "Navigation button indicating more options."
+        },
+        {
+            "bounds": {
+                "bottom": 2203,
+                "left": 996,
+                "right": 1032,
+                "top": 2167
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_dark_shortcut_7_21/screen_1742268562024.webp",
+            "semantic": "Navigation button indicating more options."
+        },
+        {
+            "bounds": {
+                "bottom": 2203,
+                "left": 996,
+                "right": 1032,
+                "top": 2167
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/IQOONeo5_shortcut_7_67/screen_1742361398326.webp",
+            "semantic": "Navigation button indicating more options."
+        },
+        {
+            "bounds": {
+                "bottom": 2408,
+                "left": 1129,
+                "right": 1168,
+                "top": 2369
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_dark_shortcut_7_255/screen_1742383305262.webp",
+            "semantic": "Navigation button indicating more options."
+        },
+        {
+            "bounds": {
+                "bottom": 2408,
+                "left": 1129,
+                "right": 1168,
+                "top": 2369
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/Redmik70U_shortcut_7_101/screen_1742353304141.webp",
+            "semantic": "Navigation button indicating more options."
+        },
+        {
+            "bounds": {
+                "bottom": 2227,
+                "left": 996,
+                "right": 1032,
+                "top": 2191
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/honorPlay8T_shortcut_7_156/screen_1741760761321.webp",
+            "semantic": "Navigation button indicating more options."
+        },
+        {
+            "bounds": {
+                "bottom": 2405,
+                "left": 1129,
+                "right": 1168,
+                "top": 2366
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_dark_shortcut_7_106/screen_1742288724858.webp",
+            "semantic": "Navigation button indicating more options."
+        },
+        {
+            "bounds": {
+                "bottom": 2405,
+                "left": 1129,
+                "right": 1168,
+                "top": 2366
+            },
+            "img_path": "../data/TikTok/TikTok_add_friend_face_to_face/redmi Turbo 14_shortcut_7_7/screen_1742227621348.webp",
+            "semantic": "Navigation button indicating more options."
+        }
+    ]
+]

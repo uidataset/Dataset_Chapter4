@@ -1,0 +1,2276 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 172,
+                "left": 94,
+                "right": 1413,
+                "top": 117
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Search cancellation button."
+        },
+        {
+            "bounds": {
+                "bottom": 241,
+                "left": 136,
+                "right": 913,
+                "top": 156
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Search cancellation button."
+        },
+        {
+            "bounds": {
+                "bottom": 214,
+                "left": 134,
+                "right": 818,
+                "top": 136
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Search cancellation button."
+        },
+        {
+            "bounds": {
+                "bottom": 250,
+                "left": 134,
+                "right": 818,
+                "top": 172
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "Search cancellation button."
+        },
+        {
+            "bounds": {
+                "bottom": 259,
+                "left": 145,
+                "right": 936,
+                "top": 174
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Search cancellation button."
+        },
+        {
+            "bounds": {
+                "bottom": 221,
+                "left": 125,
+                "right": 818,
+                "top": 143
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Search cancellation button."
+        },
+        {
+            "bounds": {
+                "bottom": 229,
+                "left": 135,
+                "right": 936,
+                "top": 144
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Search cancellation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 175,
+                "left": 1448,
+                "right": 1499,
+                "top": 126
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Location or map feature button."
+        },
+        {
+            "bounds": {
+                "bottom": 235,
+                "left": 964,
+                "right": 1043,
+                "top": 159
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Location or map feature button."
+        },
+        {
+            "bounds": {
+                "bottom": 219,
+                "left": 864,
+                "right": 936,
+                "top": 149
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Location or map feature button."
+        },
+        {
+            "bounds": {
+                "bottom": 255,
+                "left": 864,
+                "right": 936,
+                "top": 185
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "Location or map feature button."
+        },
+        {
+            "bounds": {
+                "bottom": 264,
+                "left": 986,
+                "right": 1064,
+                "top": 189
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Location or map feature button."
+        },
+        {
+            "bounds": {
+                "bottom": 216,
+                "left": 864,
+                "right": 936,
+                "top": 146
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Location or map feature button."
+        },
+        {
+            "bounds": {
+                "bottom": 224,
+                "left": 986,
+                "right": 1064,
+                "top": 149
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Location or map feature button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 241,
+                "left": 39,
+                "right": 71,
+                "top": 210
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Menu or application group button."
+        },
+        {
+            "bounds": {
+                "bottom": 356,
+                "left": 59,
+                "right": 107,
+                "top": 308
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Menu or application group button."
+        },
+        {
+            "bounds": {
+                "bottom": 337,
+                "left": 54,
+                "right": 99,
+                "top": 292
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Menu or application group button."
+        },
+        {
+            "bounds": {
+                "bottom": 366,
+                "left": 59,
+                "right": 107,
+                "top": 317
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Menu or application group button."
+        },
+        {
+            "bounds": {
+                "bottom": 349,
+                "left": 54,
+                "right": 99,
+                "top": 304
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "Menu or application group button."
+        },
+        {
+            "bounds": {
+                "bottom": 313,
+                "left": 54,
+                "right": 99,
+                "top": 268
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Menu or application group button."
+        },
+        {
+            "bounds": {
+                "bottom": 368,
+                "left": 59,
+                "right": 108,
+                "top": 319
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Menu or application group button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 247,
+                "left": 75,
+                "right": 139,
+                "top": 206
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "General or comprehensive category selection."
+        },
+        {
+            "bounds": {
+                "bottom": 375,
+                "left": 114,
+                "right": 214,
+                "top": 312
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "General or comprehensive category selection."
+        },
+        {
+            "bounds": {
+                "bottom": 319,
+                "left": 105,
+                "right": 195,
+                "top": 262
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "General or comprehensive category selection."
+        },
+        {
+            "bounds": {
+                "bottom": 355,
+                "left": 105,
+                "right": 195,
+                "top": 298
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "General or comprehensive category selection."
+        },
+        {
+            "bounds": {
+                "bottom": 372,
+                "left": 114,
+                "right": 212,
+                "top": 310
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "General or comprehensive category selection."
+        },
+        {
+            "bounds": {
+                "bottom": 343,
+                "left": 105,
+                "right": 195,
+                "top": 286
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "General or comprehensive category selection."
+        },
+        {
+            "bounds": {
+                "bottom": 363,
+                "left": 114,
+                "right": 212,
+                "top": 301
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "General or comprehensive category selection."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 241,
+                "left": 394,
+                "right": 426,
+                "top": 210
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Menu or options button."
+        },
+        {
+            "bounds": {
+                "bottom": 356,
+                "left": 296,
+                "right": 345,
+                "top": 308
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Menu or options button."
+        },
+        {
+            "bounds": {
+                "bottom": 337,
+                "left": 262,
+                "right": 307,
+                "top": 292
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Menu or options button."
+        },
+        {
+            "bounds": {
+                "bottom": 366,
+                "left": 296,
+                "right": 345,
+                "top": 317
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Menu or options button."
+        },
+        {
+            "bounds": {
+                "bottom": 349,
+                "left": 262,
+                "right": 307,
+                "top": 304
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "Menu or options button."
+        },
+        {
+            "bounds": {
+                "bottom": 313,
+                "left": 262,
+                "right": 307,
+                "top": 268
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Menu or options button."
+        },
+        {
+            "bounds": {
+                "bottom": 368,
+                "left": 291,
+                "right": 340,
+                "top": 319
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Menu or options button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 247,
+                "left": 430,
+                "right": 494,
+                "top": 206
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Tourist attraction highlights."
+        },
+        {
+            "bounds": {
+                "bottom": 375,
+                "left": 346,
+                "right": 446,
+                "top": 312
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Tourist attraction highlights."
+        },
+        {
+            "bounds": {
+                "bottom": 319,
+                "left": 313,
+                "right": 403,
+                "top": 262
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Tourist attraction highlights."
+        },
+        {
+            "bounds": {
+                "bottom": 355,
+                "left": 313,
+                "right": 403,
+                "top": 298
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "Tourist attraction highlights."
+        },
+        {
+            "bounds": {
+                "bottom": 372,
+                "left": 351,
+                "right": 449,
+                "top": 310
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Tourist attraction highlights."
+        },
+        {
+            "bounds": {
+                "bottom": 343,
+                "left": 313,
+                "right": 403,
+                "top": 286
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Tourist attraction highlights."
+        },
+        {
+            "bounds": {
+                "bottom": 363,
+                "left": 351,
+                "right": 449,
+                "top": 301
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Tourist attraction highlights."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 241,
+                "left": 750,
+                "right": 782,
+                "top": 210
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Accommodation or hotel booking section."
+        },
+        {
+            "bounds": {
+                "bottom": 368,
+                "left": 523,
+                "right": 572,
+                "top": 319
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Accommodation or hotel booking section."
+        },
+        {
+            "bounds": {
+                "bottom": 313,
+                "left": 470,
+                "right": 515,
+                "top": 268
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Accommodation or hotel booking section."
+        },
+        {
+            "bounds": {
+                "bottom": 349,
+                "left": 470,
+                "right": 515,
+                "top": 304
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "Accommodation or hotel booking section."
+        },
+        {
+            "bounds": {
+                "bottom": 366,
+                "left": 534,
+                "right": 583,
+                "top": 317
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Accommodation or hotel booking section."
+        },
+        {
+            "bounds": {
+                "bottom": 337,
+                "left": 470,
+                "right": 515,
+                "top": 292
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Accommodation or hotel booking section."
+        },
+        {
+            "bounds": {
+                "bottom": 356,
+                "left": 534,
+                "right": 583,
+                "top": 308
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Accommodation or hotel booking section."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 247,
+                "left": 786,
+                "right": 850,
+                "top": 206
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "\"Hotel\" section button."
+        },
+        {
+            "bounds": {
+                "bottom": 363,
+                "left": 589,
+                "right": 687,
+                "top": 301
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "\"Hotel\" section button."
+        },
+        {
+            "bounds": {
+                "bottom": 343,
+                "left": 521,
+                "right": 611,
+                "top": 286
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "\"Hotel\" section button."
+        },
+        {
+            "bounds": {
+                "bottom": 372,
+                "left": 589,
+                "right": 687,
+                "top": 310
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "\"Hotel\" section button."
+        },
+        {
+            "bounds": {
+                "bottom": 355,
+                "left": 521,
+                "right": 611,
+                "top": 298
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "\"Hotel\" section button."
+        },
+        {
+            "bounds": {
+                "bottom": 319,
+                "left": 521,
+                "right": 611,
+                "top": 262
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "\"Hotel\" section button."
+        },
+        {
+            "bounds": {
+                "bottom": 375,
+                "left": 578,
+                "right": 678,
+                "top": 312
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "\"Hotel\" section button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 241,
+                "left": 1106,
+                "right": 1138,
+                "top": 210
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "\"Flag icon indicating important or highlighted information.\""
+        },
+        {
+            "bounds": {
+                "bottom": 368,
+                "left": 754,
+                "right": 803,
+                "top": 319
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "\"Flag icon indicating important or highlighted information.\""
+        },
+        {
+            "bounds": {
+                "bottom": 313,
+                "left": 677,
+                "right": 722,
+                "top": 268
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "\"Flag icon indicating important or highlighted information.\""
+        },
+        {
+            "bounds": {
+                "bottom": 349,
+                "left": 677,
+                "right": 722,
+                "top": 304
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "\"Flag icon indicating important or highlighted information.\""
+        },
+        {
+            "bounds": {
+                "bottom": 366,
+                "left": 771,
+                "right": 820,
+                "top": 317
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "\"Flag icon indicating important or highlighted information.\""
+        },
+        {
+            "bounds": {
+                "bottom": 337,
+                "left": 677,
+                "right": 722,
+                "top": 292
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "\"Flag icon indicating important or highlighted information.\""
+        },
+        {
+            "bounds": {
+                "bottom": 356,
+                "left": 771,
+                "right": 820,
+                "top": 308
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "\"Flag icon indicating important or highlighted information.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 247,
+                "left": 1142,
+                "right": 1206,
+                "top": 206
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "\"Tourism\" or \"Travel\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 363,
+                "left": 826,
+                "right": 924,
+                "top": 301
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "\"Tourism\" or \"Travel\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 343,
+                "left": 728,
+                "right": 818,
+                "top": 286
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "\"Tourism\" or \"Travel\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 372,
+                "left": 826,
+                "right": 924,
+                "top": 310
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "\"Tourism\" or \"Travel\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 355,
+                "left": 728,
+                "right": 818,
+                "top": 298
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "\"Tourism\" or \"Travel\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 319,
+                "left": 728,
+                "right": 818,
+                "top": 262
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "\"Tourism\" or \"Travel\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 375,
+                "left": 809,
+                "right": 909,
+                "top": 312
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "\"Tourism\" or \"Travel\" category button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 241,
+                "left": 1462,
+                "right": 1494,
+                "top": 210
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Save or bookmark function button."
+        },
+        {
+            "bounds": {
+                "bottom": 313,
+                "left": 885,
+                "right": 930,
+                "top": 268
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Save or bookmark function button."
+        },
+        {
+            "bounds": {
+                "bottom": 368,
+                "left": 986,
+                "right": 1036,
+                "top": 319
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Save or bookmark function button."
+        },
+        {
+            "bounds": {
+                "bottom": 349,
+                "left": 885,
+                "right": 930,
+                "top": 304
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "Save or bookmark function button."
+        },
+        {
+            "bounds": {
+                "bottom": 366,
+                "left": 1009,
+                "right": 1058,
+                "top": 317
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Save or bookmark function button."
+        },
+        {
+            "bounds": {
+                "bottom": 337,
+                "left": 885,
+                "right": 930,
+                "top": 292
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Save or bookmark function button."
+        },
+        {
+            "bounds": {
+                "bottom": 356,
+                "left": 1009,
+                "right": 1058,
+                "top": 308
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Save or bookmark function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 247,
+                "left": 1498,
+                "right": 1562,
+                "top": 206
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Notes or Notepad function button."
+        },
+        {
+            "bounds": {
+                "bottom": 375,
+                "left": 1041,
+                "right": 1141,
+                "top": 312
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Notes or Notepad function button."
+        },
+        {
+            "bounds": {
+                "bottom": 319,
+                "left": 936,
+                "right": 1026,
+                "top": 262
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Notes or Notepad function button."
+        },
+        {
+            "bounds": {
+                "bottom": 355,
+                "left": 936,
+                "right": 1026,
+                "top": 298
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "Notes or Notepad function button."
+        },
+        {
+            "bounds": {
+                "bottom": 372,
+                "left": 1064,
+                "right": 1162,
+                "top": 310
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Notes or Notepad function button."
+        },
+        {
+            "bounds": {
+                "bottom": 343,
+                "left": 936,
+                "right": 1026,
+                "top": 286
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Notes or Notepad function button."
+        },
+        {
+            "bounds": {
+                "bottom": 363,
+                "left": 1064,
+                "right": 1162,
+                "top": 301
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Notes or Notepad function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 336,
+                "left": 39,
+                "right": 151,
+                "top": 298
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Local tour participation option."
+        },
+        {
+            "bounds": {
+                "bottom": 501,
+                "left": 59,
+                "right": 231,
+                "top": 443
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Local tour participation option."
+        },
+        {
+            "bounds": {
+                "bottom": 470,
+                "left": 54,
+                "right": 210,
+                "top": 417
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Local tour participation option."
+        },
+        {
+            "bounds": {
+                "bottom": 506,
+                "left": 59,
+                "right": 231,
+                "top": 455
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Local tour participation option."
+        },
+        {
+            "bounds": {
+                "bottom": 482,
+                "left": 66,
+                "right": 183,
+                "top": 429
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "Local tour participation option."
+        },
+        {
+            "bounds": {
+                "bottom": 446,
+                "left": 54,
+                "right": 210,
+                "top": 394
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Local tour participation option."
+        },
+        {
+            "bounds": {
+                "bottom": 514,
+                "left": 59,
+                "right": 231,
+                "top": 456
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Local tour participation option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 336,
+                "left": 203,
+                "right": 343,
+                "top": 298
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "\"Select Departure Group\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 514,
+                "left": 311,
+                "right": 526,
+                "top": 456
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "\"Select Departure Group\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 446,
+                "left": 284,
+                "right": 479,
+                "top": 394
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "\"Select Departure Group\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 506,
+                "left": 310,
+                "right": 525,
+                "top": 455
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "\"Select Departure Group\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 470,
+                "left": 284,
+                "right": 479,
+                "top": 417
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "\"Select Departure Group\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 501,
+                "left": 310,
+                "right": 525,
+                "top": 443
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "\"Select Departure Group\" button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 336,
+                "left": 393,
+                "right": 477,
+                "top": 298
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "\"Private tour\" designation or option."
+        },
+        {
+            "bounds": {
+                "bottom": 501,
+                "left": 604,
+                "right": 733,
+                "top": 443
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "\"Private tour\" designation or option."
+        },
+        {
+            "bounds": {
+                "bottom": 470,
+                "left": 551,
+                "right": 668,
+                "top": 417
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "\"Private tour\" designation or option."
+        },
+        {
+            "bounds": {
+                "bottom": 506,
+                "left": 604,
+                "right": 733,
+                "top": 455
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "\"Private tour\" designation or option."
+        },
+        {
+            "bounds": {
+                "bottom": 482,
+                "left": 468,
+                "right": 585,
+                "top": 429
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "\"Private tour\" designation or option."
+        },
+        {
+            "bounds": {
+                "bottom": 446,
+                "left": 551,
+                "right": 668,
+                "top": 394
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "\"Private tour\" designation or option."
+        },
+        {
+            "bounds": {
+                "bottom": 514,
+                "left": 605,
+                "right": 734,
+                "top": 456
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "\"Private tour\" designation or option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 336,
+                "left": 537,
+                "right": 621,
+                "top": 298
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "\"Day trip\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 514,
+                "left": 826,
+                "right": 955,
+                "top": 456
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "\"Day trip\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 446,
+                "left": 752,
+                "right": 869,
+                "top": 394
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "\"Day trip\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 482,
+                "left": 669,
+                "right": 786,
+                "top": 429
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "\"Day trip\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 506,
+                "left": 824,
+                "right": 953,
+                "top": 455
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "\"Day trip\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 470,
+                "left": 752,
+                "right": 869,
+                "top": 417
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "\"Day trip\" category button."
+        },
+        {
+            "bounds": {
+                "bottom": 501,
+                "left": 824,
+                "right": 953,
+                "top": 443
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "\"Day trip\" category button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 336,
+                "left": 680,
+                "right": 764,
+                "top": 298
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "\"Charter Tour\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 501,
+                "left": 1044,
+                "right": 1173,
+                "top": 443
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "\"Charter Tour\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 470,
+                "left": 953,
+                "right": 1070,
+                "top": 417
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "\"Charter Tour\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 506,
+                "left": 1044,
+                "right": 1173,
+                "top": 455
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "\"Charter Tour\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 482,
+                "left": 267,
+                "right": 384,
+                "top": 429
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "\"Charter Tour\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 446,
+                "left": 953,
+                "right": 1070,
+                "top": 394
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "\"Charter Tour\" selection button."
+        },
+        {
+            "bounds": {
+                "bottom": 514,
+                "left": 1046,
+                "right": 1175,
+                "top": 456
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "\"Charter Tour\" selection button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 441,
+                "left": 26,
+                "right": 140,
+                "top": 405
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "\"Duration/Date\" selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 676,
+                "left": 39,
+                "right": 211,
+                "top": 623
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "\"Duration/Date\" selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 593,
+                "left": 36,
+                "right": 192,
+                "top": 546
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "\"Duration/Date\" selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 629,
+                "left": 36,
+                "right": 192,
+                "top": 582
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "\"Duration/Date\" selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 667,
+                "left": 39,
+                "right": 212,
+                "top": 620
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "\"Duration/Date\" selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 615,
+                "left": 35,
+                "right": 190,
+                "top": 568
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "\"Duration/Date\" selection label."
+        },
+        {
+            "bounds": {
+                "bottom": 662,
+                "left": 39,
+                "right": 215,
+                "top": 608
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "\"Duration/Date\" selection label."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 432,
+                "left": 145,
+                "right": 160,
+                "top": 415
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "A dropdown menu or more options button."
+        },
+        {
+            "bounds": {
+                "bottom": 648,
+                "left": 223,
+                "right": 246,
+                "top": 623
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "A dropdown menu or more options button."
+        },
+        {
+            "bounds": {
+                "bottom": 603,
+                "left": 197,
+                "right": 218,
+                "top": 580
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "A dropdown menu or more options button."
+        },
+        {
+            "bounds": {
+                "bottom": 656,
+                "left": 220,
+                "right": 243,
+                "top": 631
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "A dropdown menu or more options button."
+        },
+        {
+            "bounds": {
+                "bottom": 617,
+                "left": 199,
+                "right": 220,
+                "top": 594
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "A dropdown menu or more options button."
+        },
+        {
+            "bounds": {
+                "bottom": 581,
+                "left": 199,
+                "right": 220,
+                "top": 558
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "A dropdown menu or more options button."
+        },
+        {
+            "bounds": {
+                "bottom": 662,
+                "left": 219,
+                "right": 242,
+                "top": 637
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "A dropdown menu or more options button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 441,
+                "left": 442,
+                "right": 494,
+                "top": 405
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "\"Number of participants\" selection indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 676,
+                "left": 363,
+                "right": 441,
+                "top": 623
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "\"Number of participants\" selection indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 593,
+                "left": 328,
+                "right": 398,
+                "top": 546
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "\"Number of participants\" selection indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 629,
+                "left": 328,
+                "right": 398,
+                "top": 582
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "\"Number of participants\" selection indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 667,
+                "left": 367,
+                "right": 447,
+                "top": 620
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "\"Number of participants\" selection indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 615,
+                "left": 358,
+                "right": 428,
+                "top": 568
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "\"Number of participants\" selection indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 662,
+                "left": 369,
+                "right": 449,
+                "top": 608
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "\"Number of participants\" selection indicator."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 432,
+                "left": 531,
+                "right": 546,
+                "top": 415
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Dropdown menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 648,
+                "left": 506,
+                "right": 529,
+                "top": 623
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Dropdown menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 603,
+                "left": 480,
+                "right": 501,
+                "top": 580
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Dropdown menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 656,
+                "left": 504,
+                "right": 527,
+                "top": 631
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Dropdown menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 617,
+                "left": 450,
+                "right": 471,
+                "top": 594
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "Dropdown menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 581,
+                "left": 450,
+                "right": 471,
+                "top": 558
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Dropdown menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 662,
+                "left": 498,
+                "right": 521,
+                "top": 637
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Dropdown menu button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 441,
+                "left": 828,
+                "right": 932,
+                "top": 405
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "\"Route details\" or \"Itinerary options\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 676,
+                "left": 642,
+                "right": 798,
+                "top": 623
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "\"Route details\" or \"Itinerary options\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 593,
+                "left": 580,
+                "right": 720,
+                "top": 546
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "\"Route details\" or \"Itinerary options\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 629,
+                "left": 580,
+                "right": 720,
+                "top": 582
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "\"Route details\" or \"Itinerary options\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 667,
+                "left": 651,
+                "right": 811,
+                "top": 620
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "\"Route details\" or \"Itinerary options\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 615,
+                "left": 640,
+                "right": 780,
+                "top": 568
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "\"Route details\" or \"Itinerary options\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 662,
+                "left": 652,
+                "right": 812,
+                "top": 608
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "\"Route details\" or \"Itinerary options\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 432,
+                "left": 937,
+                "right": 952,
+                "top": 415
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Dropdown menu expansion button."
+        },
+        {
+            "bounds": {
+                "bottom": 648,
+                "left": 820,
+                "right": 843,
+                "top": 623
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Dropdown menu expansion button."
+        },
+        {
+            "bounds": {
+                "bottom": 603,
+                "left": 787,
+                "right": 808,
+                "top": 580
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Dropdown menu expansion button."
+        },
+        {
+            "bounds": {
+                "bottom": 656,
+                "left": 819,
+                "right": 842,
+                "top": 631
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Dropdown menu expansion button."
+        },
+        {
+            "bounds": {
+                "bottom": 617,
+                "left": 727,
+                "right": 748,
+                "top": 594
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "Dropdown menu expansion button."
+        },
+        {
+            "bounds": {
+                "bottom": 581,
+                "left": 727,
+                "right": 748,
+                "top": 558
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Dropdown menu expansion button."
+        },
+        {
+            "bounds": {
+                "bottom": 662,
+                "left": 806,
+                "right": 829,
+                "top": 637
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Dropdown menu expansion button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 441,
+                "left": 1234,
+                "right": 1286,
+                "top": 405
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "\"Filter\" or \"Refine Selection\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 676,
+                "left": 950,
+                "right": 1028,
+                "top": 623
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "\"Filter\" or \"Refine Selection\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 593,
+                "left": 856,
+                "right": 926,
+                "top": 546
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "\"Filter\" or \"Refine Selection\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 629,
+                "left": 856,
+                "right": 926,
+                "top": 582
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "\"Filter\" or \"Refine Selection\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 667,
+                "left": 966,
+                "right": 1046,
+                "top": 620
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "\"Filter\" or \"Refine Selection\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 615,
+                "left": 948,
+                "right": 1018,
+                "top": 568
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "\"Filter\" or \"Refine Selection\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 662,
+                "left": 966,
+                "right": 1046,
+                "top": 608
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "\"Filter\" or \"Refine Selection\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 432,
+                "left": 1291,
+                "right": 1306,
+                "top": 415
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Dropdown or collapse menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 648,
+                "left": 1054,
+                "right": 1077,
+                "top": 623
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Dropdown or collapse menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 603,
+                "left": 1025,
+                "right": 1045,
+                "top": 580
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Dropdown or collapse menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 656,
+                "left": 1054,
+                "right": 1077,
+                "top": 631
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Dropdown or collapse menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 617,
+                "left": 933,
+                "right": 954,
+                "top": 594
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "Dropdown or collapse menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 581,
+                "left": 933,
+                "right": 954,
+                "top": 558
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Dropdown or collapse menu button."
+        },
+        {
+            "bounds": {
+                "bottom": 662,
+                "left": 1036,
+                "right": 1059,
+                "top": 637
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Dropdown or collapse menu button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 521,
+                "left": 39,
+                "right": 151,
+                "top": 482
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Ctrip self-operated products designation."
+        },
+        {
+            "bounds": {
+                "bottom": 798,
+                "left": 59,
+                "right": 231,
+                "top": 739
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Ctrip self-operated products designation."
+        },
+        {
+            "bounds": {
+                "bottom": 706,
+                "left": 54,
+                "right": 210,
+                "top": 652
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Ctrip self-operated products designation."
+        },
+        {
+            "bounds": {
+                "bottom": 742,
+                "left": 54,
+                "right": 210,
+                "top": 688
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "Ctrip self-operated products designation."
+        },
+        {
+            "bounds": {
+                "bottom": 792,
+                "left": 59,
+                "right": 231,
+                "top": 733
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Ctrip self-operated products designation."
+        },
+        {
+            "bounds": {
+                "bottom": 726,
+                "left": 54,
+                "right": 210,
+                "top": 672
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Ctrip self-operated products designation."
+        },
+        {
+            "bounds": {
+                "bottom": 783,
+                "left": 59,
+                "right": 231,
+                "top": 724
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Ctrip self-operated products designation."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 521,
+                "left": 193,
+                "right": 333,
+                "top": 482
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "\"Location or destination name within a travel app or booking interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 798,
+                "left": 297,
+                "right": 512,
+                "top": 739
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "\"Location or destination name within a travel app or booking interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 706,
+                "left": 270,
+                "right": 465,
+                "top": 652
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "\"Location or destination name within a travel app or booking interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 742,
+                "left": 438,
+                "right": 633,
+                "top": 688
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "\"Location or destination name within a travel app or booking interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 792,
+                "left": 296,
+                "right": 511,
+                "top": 733
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "\"Location or destination name within a travel app or booking interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 726,
+                "left": 270,
+                "right": 465,
+                "top": 672
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "\"Location or destination name within a travel app or booking interface.\""
+        },
+        {
+            "bounds": {
+                "bottom": 783,
+                "left": 296,
+                "right": 511,
+                "top": 724
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "\"Location or destination name within a travel app or booking interface.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 521,
+                "left": 376,
+                "right": 460,
+                "top": 482
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "\"Indicates absence of shopping facilities option.\""
+        },
+        {
+            "bounds": {
+                "bottom": 798,
+                "left": 577,
+                "right": 706,
+                "top": 739
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "\"Indicates absence of shopping facilities option.\""
+        },
+        {
+            "bounds": {
+                "bottom": 706,
+                "left": 525,
+                "right": 642,
+                "top": 652
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "\"Indicates absence of shopping facilities option.\""
+        },
+        {
+            "bounds": {
+                "bottom": 792,
+                "left": 576,
+                "right": 705,
+                "top": 733
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "\"Indicates absence of shopping facilities option.\""
+        },
+        {
+            "bounds": {
+                "bottom": 726,
+                "left": 525,
+                "right": 642,
+                "top": 672
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "\"Indicates absence of shopping facilities option.\""
+        },
+        {
+            "bounds": {
+                "bottom": 783,
+                "left": 576,
+                "right": 705,
+                "top": 724
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "\"Indicates absence of shopping facilities option.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 521,
+                "left": 502,
+                "right": 614,
+                "top": 482
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Free cancellation option."
+        },
+        {
+            "bounds": {
+                "bottom": 798,
+                "left": 772,
+                "right": 944,
+                "top": 739
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Free cancellation option."
+        },
+        {
+            "bounds": {
+                "bottom": 706,
+                "left": 702,
+                "right": 858,
+                "top": 652
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Free cancellation option."
+        },
+        {
+            "bounds": {
+                "bottom": 792,
+                "left": 770,
+                "right": 942,
+                "top": 733
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Free cancellation option."
+        },
+        {
+            "bounds": {
+                "bottom": 726,
+                "left": 702,
+                "right": 858,
+                "top": 672
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Free cancellation option."
+        },
+        {
+            "bounds": {
+                "bottom": 783,
+                "left": 770,
+                "right": 942,
+                "top": 724
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Free cancellation option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 622,
+                "left": 52,
+                "right": 80,
+                "top": 592
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Notification or alert sound button."
+        },
+        {
+            "bounds": {
+                "bottom": 953,
+                "left": 78,
+                "right": 121,
+                "top": 908
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Notification or alert sound button."
+        },
+        {
+            "bounds": {
+                "bottom": 849,
+                "left": 72,
+                "right": 111,
+                "top": 808
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Notification or alert sound button."
+        },
+        {
+            "bounds": {
+                "bottom": 885,
+                "left": 72,
+                "right": 111,
+                "top": 844
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "Notification or alert sound button."
+        },
+        {
+            "bounds": {
+                "bottom": 946,
+                "left": 78,
+                "right": 121,
+                "top": 901
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Notification or alert sound button."
+        },
+        {
+            "bounds": {
+                "bottom": 869,
+                "left": 72,
+                "right": 111,
+                "top": 828
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Notification or alert sound button."
+        },
+        {
+            "bounds": {
+                "bottom": 937,
+                "left": 78,
+                "right": 121,
+                "top": 892
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Notification or alert sound button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 623,
+                "left": 84,
+                "right": 1520,
+                "top": 591
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Important notification message."
+        },
+        {
+            "bounds": {
+                "bottom": 955,
+                "left": 128,
+                "right": 1075,
+                "top": 905
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Important notification message."
+        },
+        {
+            "bounds": {
+                "bottom": 851,
+                "left": 117,
+                "right": 966,
+                "top": 806
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Important notification message."
+        },
+        {
+            "bounds": {
+                "bottom": 887,
+                "left": 117,
+                "right": 966,
+                "top": 842
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "Important notification message."
+        },
+        {
+            "bounds": {
+                "bottom": 948,
+                "left": 128,
+                "right": 1096,
+                "top": 899
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Important notification message."
+        },
+        {
+            "bounds": {
+                "bottom": 871,
+                "left": 117,
+                "right": 966,
+                "top": 826
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Important notification message."
+        },
+        {
+            "bounds": {
+                "bottom": 939,
+                "left": 128,
+                "right": 1096,
+                "top": 890
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Important notification message."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 623,
+                "left": 1520,
+                "right": 1550,
+                "top": 591
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/HUAWEl MatePad Pro MRX-W39_shortcut_7_59/screen_1742309572993.webp",
+            "semantic": "Next page navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 954,
+                "left": 1075,
+                "right": 1120,
+                "top": 906
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Honor90GT_shortcut_7_121/screen_1742381680897.webp",
+            "semantic": "Next page navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 850,
+                "left": 966,
+                "right": 1008,
+                "top": 806
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/IQOONeo5_shortcut_7_114/screen_1742381753293.webp",
+            "semantic": "Next page navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 886,
+                "left": 966,
+                "right": 1008,
+                "top": 842
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/OPPO Reno9 Pro5G_shortcut_7_38/screen_1742272466739.webp",
+            "semantic": "Next page navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 948,
+                "left": 1096,
+                "right": 1142,
+                "top": 900
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/Redmik70U_shortcut_7_156/screen_1742370762648.webp",
+            "semantic": "Next page navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 870,
+                "left": 966,
+                "right": 1008,
+                "top": 826
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/honorPlay8T_shortcut_7_206/screen_1741840193389.webp",
+            "semantic": "Next page navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 939,
+                "left": 1096,
+                "right": 1142,
+                "top": 891
+            },
+            "img_path": "../data/Ctrip/Ctrip_search_Beijing_and_filter/redmi Turbo 14_shortcut_7_43/screen_1742272303733.webp",
+            "semantic": "Next page navigation button."
+        }
+    ]
+]

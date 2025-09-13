@@ -1,0 +1,300 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 184,
+                "left": 17,
+                "right": 87,
+                "top": 80
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro MRX-W39_shortcut_7_3/screen_1740147218633.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 184,
+                "left": 17,
+                "right": 87,
+                "top": 80
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_2/screen_1741840454806.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 174,
+                "left": 18,
+                "right": 91,
+                "top": 64
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_2/screen_1741965948807.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 174,
+                "left": 18,
+                "right": 91,
+                "top": 64
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_6/screen_1741964037418.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 174,
+                "left": 18,
+                "right": 91,
+                "top": 64
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_2/screen_1740311863567.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 0,
+                "right": 86,
+                "top": 122
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/OPPO Reno9 Pro5G_dark_shortcut_7_2/screen_1740308682311.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 264,
+                "left": 0,
+                "right": 97,
+                "top": 118
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/Redmik70U_dark_shortcut_7_7/screen_1740304551401.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 256,
+                "left": 0,
+                "right": 97,
+                "top": 110
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/redmi Turbo 14_dark_shortcut_7_2/screen_1740320425878.webp",
+            "semantic": "Back navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 184,
+                "left": 1461,
+                "right": 1583,
+                "top": 80
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro MRX-W39_shortcut_7_3/screen_1740147218633.webp",
+            "semantic": "Settings or configuration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 184,
+                "left": 1461,
+                "right": 1583,
+                "top": 80
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_2/screen_1741840454806.webp",
+            "semantic": "Settings or configuration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 174,
+                "left": 1454,
+                "right": 1582,
+                "top": 64
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_2/screen_1741965948807.webp",
+            "semantic": "Settings or configuration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 174,
+                "left": 1454,
+                "right": 1582,
+                "top": 64
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_6/screen_1741964037418.webp",
+            "semantic": "Settings or configuration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 174,
+                "left": 1454,
+                "right": 1582,
+                "top": 64
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_2/screen_1740311863567.webp",
+            "semantic": "Settings or configuration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 929,
+                "right": 1080,
+                "top": 122
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/OPPO Reno9 Pro5G_dark_shortcut_7_2/screen_1740308682311.webp",
+            "semantic": "Settings or configuration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 264,
+                "left": 1049,
+                "right": 1220,
+                "top": 118
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/Redmik70U_dark_shortcut_7_7/screen_1740304551401.webp",
+            "semantic": "Settings or configuration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 256,
+                "left": 1049,
+                "right": 1220,
+                "top": 110
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/redmi Turbo 14_dark_shortcut_7_2/screen_1740320425878.webp",
+            "semantic": "Settings or configuration function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2295,
+                "left": 13,
+                "right": 125,
+                "top": 2183
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro MRX-W39_shortcut_7_3/screen_1740147218633.webp",
+            "semantic": "\"WeChat application shortcut.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2207,
+                "left": 13,
+                "right": 125,
+                "top": 2095
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_2/screen_1741840454806.webp",
+            "semantic": "\"WeChat application shortcut.\""
+        },
+        {
+            "bounds": {
+                "bottom": 545,
+                "left": 16,
+                "right": 156,
+                "top": 405
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/OPPO Reno9 Pro5G_dark_shortcut_7_2/screen_1740308682311.webp",
+            "semantic": "\"WeChat application shortcut.\""
+        },
+        {
+            "bounds": {
+                "bottom": 594,
+                "left": 18,
+                "right": 176,
+                "top": 436
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/Redmik70U_dark_shortcut_7_7/screen_1740304551401.webp",
+            "semantic": "\"WeChat application shortcut.\""
+        },
+        {
+            "bounds": {
+                "bottom": 590,
+                "left": 18,
+                "right": 176,
+                "top": 432
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/redmi Turbo 14_dark_shortcut_7_2/screen_1740320425878.webp",
+            "semantic": "\"WeChat application shortcut.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2394,
+                "left": 624,
+                "right": 736,
+                "top": 2282
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro MRX-W39_shortcut_7_3/screen_1740147218633.webp",
+            "semantic": "Sharing content related to hiking or physical activity."
+        },
+        {
+            "bounds": {
+                "bottom": 2394,
+                "left": 630,
+                "right": 742,
+                "top": 2282
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_2/screen_1741840454806.webp",
+            "semantic": "Sharing content related to hiking or physical activity."
+        },
+        {
+            "bounds": {
+                "bottom": 631,
+                "left": 628,
+                "right": 746,
+                "top": 513
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_2/screen_1741965948807.webp",
+            "semantic": "Sharing content related to hiking or physical activity."
+        },
+        {
+            "bounds": {
+                "bottom": 631,
+                "left": 628,
+                "right": 746,
+                "top": 513
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_6/screen_1741964037418.webp",
+            "semantic": "Sharing content related to hiking or physical activity."
+        },
+        {
+            "bounds": {
+                "bottom": 526,
+                "left": 624,
+                "right": 742,
+                "top": 408
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_2/screen_1740311863567.webp",
+            "semantic": "Sharing content related to hiking or physical activity."
+        },
+        {
+            "bounds": {
+                "bottom": 669,
+                "left": 739,
+                "right": 879,
+                "top": 529
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/OPPO Reno9 Pro5G_dark_shortcut_7_2/screen_1740308682311.webp",
+            "semantic": "Sharing content related to hiking or physical activity."
+        },
+        {
+            "bounds": {
+                "bottom": 729,
+                "left": 835,
+                "right": 993,
+                "top": 571
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/Redmik70U_dark_shortcut_7_7/screen_1740304551401.webp",
+            "semantic": "Sharing content related to hiking or physical activity."
+        },
+        {
+            "bounds": {
+                "bottom": 731,
+                "left": 835,
+                "right": 993,
+                "top": 573
+            },
+            "img_path": "../data/WeChat/WeChat_close_motion/redmi Turbo 14_dark_shortcut_7_2/screen_1740320425878.webp",
+            "semantic": "Sharing content related to hiking or physical activity."
+        }
+    ]
+]

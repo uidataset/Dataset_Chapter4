@@ -1,0 +1,612 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 182,
+                "left": 0,
+                "right": 102,
+                "top": 80
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_93/screen_1742311668434.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 182,
+                "left": 0,
+                "right": 102,
+                "top": 80
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_shortcut_7_55/screen_1742309159823.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 278,
+                "left": 0,
+                "right": 157,
+                "top": 121
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_bigger_shortcut_7_220/screen_1742399913696.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 278,
+                "left": 0,
+                "right": 157,
+                "top": 121
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_shortcut_7_112/screen_1742373824721.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 228,
+                "left": 0,
+                "right": 144,
+                "top": 84
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_bigger_shortcut_7_156/screen_1742385254520.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 228,
+                "left": 0,
+                "right": 144,
+                "top": 84
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_shortcut_7_106/screen_1742380785762.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 266,
+                "left": 0,
+                "right": 144,
+                "top": 122
+            },
+            "img_path": "../data/12306/12306_find_lost_items/OPPO Reno9 Pro5G_bigger_shortcut_7_63/screen_1742274436715.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 274,
+                "left": 0,
+                "right": 156,
+                "top": 118
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_bigger_shortcut_7_220/screen_1742380886301.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 274,
+                "left": 0,
+                "right": 156,
+                "top": 118
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_shortcut_7_152/screen_1742369926451.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 0,
+                "right": 144,
+                "top": 108
+            },
+            "img_path": "../data/12306/12306_find_lost_items/honorPlay8T_shortcut_7_200/screen_1741838253930.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 266,
+                "left": 0,
+                "right": 156,
+                "top": 110
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_bigger_shortcut_7_90/screen_1742287667063.webp",
+            "semantic": "Back or Return navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 266,
+                "left": 0,
+                "right": 156,
+                "top": 110
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_shortcut_7_39/screen_1742271905263.webp",
+            "semantic": "Back or Return navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 182,
+                "left": 757,
+                "right": 843,
+                "top": 80
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_93/screen_1742311668434.webp",
+            "semantic": "Location identifier for Beijing."
+        },
+        {
+            "bounds": {
+                "bottom": 266,
+                "left": 545,
+                "right": 675,
+                "top": 110
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_shortcut_7_39/screen_1742271905263.webp",
+            "semantic": "Location identifier for Beijing."
+        },
+        {
+            "bounds": {
+                "bottom": 266,
+                "left": 545,
+                "right": 675,
+                "top": 110
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_bigger_shortcut_7_90/screen_1742287667063.webp",
+            "semantic": "Location identifier for Beijing."
+        },
+        {
+            "bounds": {
+                "bottom": 252,
+                "left": 480,
+                "right": 600,
+                "top": 108
+            },
+            "img_path": "../data/12306/12306_find_lost_items/honorPlay8T_shortcut_7_200/screen_1741838253930.webp",
+            "semantic": "Location identifier for Beijing."
+        },
+        {
+            "bounds": {
+                "bottom": 274,
+                "left": 545,
+                "right": 675,
+                "top": 118
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_shortcut_7_152/screen_1742369926451.webp",
+            "semantic": "Location identifier for Beijing."
+        },
+        {
+            "bounds": {
+                "bottom": 274,
+                "left": 545,
+                "right": 675,
+                "top": 118
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_bigger_shortcut_7_220/screen_1742380886301.webp",
+            "semantic": "Location identifier for Beijing."
+        },
+        {
+            "bounds": {
+                "bottom": 266,
+                "left": 480,
+                "right": 600,
+                "top": 122
+            },
+            "img_path": "../data/12306/12306_find_lost_items/OPPO Reno9 Pro5G_bigger_shortcut_7_63/screen_1742274436715.webp",
+            "semantic": "Location identifier for Beijing."
+        },
+        {
+            "bounds": {
+                "bottom": 228,
+                "left": 480,
+                "right": 600,
+                "top": 84
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_shortcut_7_106/screen_1742380785762.webp",
+            "semantic": "Location identifier for Beijing."
+        },
+        {
+            "bounds": {
+                "bottom": 228,
+                "left": 480,
+                "right": 600,
+                "top": 84
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_bigger_shortcut_7_156/screen_1742385254520.webp",
+            "semantic": "Location identifier for Beijing."
+        },
+        {
+            "bounds": {
+                "bottom": 278,
+                "left": 534,
+                "right": 666,
+                "top": 121
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_shortcut_7_112/screen_1742373824721.webp",
+            "semantic": "Location identifier for Beijing."
+        },
+        {
+            "bounds": {
+                "bottom": 278,
+                "left": 534,
+                "right": 666,
+                "top": 121
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_bigger_shortcut_7_220/screen_1742399913696.webp",
+            "semantic": "Location identifier for Beijing."
+        },
+        {
+            "bounds": {
+                "bottom": 182,
+                "left": 757,
+                "right": 843,
+                "top": 80
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_shortcut_7_55/screen_1742309159823.webp",
+            "semantic": "Location identifier for Beijing."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 303,
+                "left": 114,
+                "right": 665,
+                "top": 230
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_93/screen_1742311668434.webp",
+            "semantic": "Column header for \"Item Number\"."
+        },
+        {
+            "bounds": {
+                "bottom": 303,
+                "left": 114,
+                "right": 665,
+                "top": 230
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_shortcut_7_55/screen_1742309159823.webp",
+            "semantic": "Column header for \"Item Number\"."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 85,
+                "right": 501,
+                "top": 314
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_bigger_shortcut_7_220/screen_1742399913696.webp",
+            "semantic": "Column header for \"Item Number\"."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 85,
+                "right": 501,
+                "top": 314
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_shortcut_7_112/screen_1742373824721.webp",
+            "semantic": "Column header for \"Item Number\"."
+        },
+        {
+            "bounds": {
+                "bottom": 312,
+                "left": 75,
+                "right": 450,
+                "top": 261
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_bigger_shortcut_7_156/screen_1742385254520.webp",
+            "semantic": "Column header for \"Item Number\"."
+        },
+        {
+            "bounds": {
+                "bottom": 312,
+                "left": 75,
+                "right": 450,
+                "top": 261
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_shortcut_7_106/screen_1742380785762.webp",
+            "semantic": "Column header for \"Item Number\"."
+        },
+        {
+            "bounds": {
+                "bottom": 350,
+                "left": 75,
+                "right": 450,
+                "top": 299
+            },
+            "img_path": "../data/12306/12306_find_lost_items/OPPO Reno9 Pro5G_bigger_shortcut_7_63/screen_1742274436715.webp",
+            "semantic": "Column header for \"Item Number\"."
+        },
+        {
+            "bounds": {
+                "bottom": 368,
+                "left": 84,
+                "right": 507,
+                "top": 309
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_bigger_shortcut_7_220/screen_1742380886301.webp",
+            "semantic": "Column header for \"Item Number\"."
+        },
+        {
+            "bounds": {
+                "bottom": 368,
+                "left": 84,
+                "right": 507,
+                "top": 309
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_shortcut_7_152/screen_1742369926451.webp",
+            "semantic": "Column header for \"Item Number\"."
+        },
+        {
+            "bounds": {
+                "bottom": 336,
+                "left": 75,
+                "right": 450,
+                "top": 285
+            },
+            "img_path": "../data/12306/12306_find_lost_items/honorPlay8T_shortcut_7_200/screen_1741838253930.webp",
+            "semantic": "Column header for \"Item Number\"."
+        },
+        {
+            "bounds": {
+                "bottom": 360,
+                "left": 84,
+                "right": 507,
+                "top": 301
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_bigger_shortcut_7_90/screen_1742287667063.webp",
+            "semantic": "Column header for \"Item Number\"."
+        },
+        {
+            "bounds": {
+                "bottom": 360,
+                "left": 84,
+                "right": 507,
+                "top": 301
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_shortcut_7_39/screen_1742271905263.webp",
+            "semantic": "Column header for \"Item Number\"."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 303,
+                "left": 663,
+                "right": 1075,
+                "top": 230
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_93/screen_1742311668434.webp",
+            "semantic": "\"Date of retrieval\" header in a record list interface typically used for inventory management or tracking lost and found items."
+        },
+        {
+            "bounds": {
+                "bottom": 360,
+                "left": 503,
+                "right": 822,
+                "top": 301
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_shortcut_7_39/screen_1742271905263.webp",
+            "semantic": "\"Date of retrieval\" header in a record list interface typically used for inventory management or tracking lost and found items."
+        },
+        {
+            "bounds": {
+                "bottom": 360,
+                "left": 503,
+                "right": 822,
+                "top": 301
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_bigger_shortcut_7_90/screen_1742287667063.webp",
+            "semantic": "\"Date of retrieval\" header in a record list interface typically used for inventory management or tracking lost and found items."
+        },
+        {
+            "bounds": {
+                "bottom": 336,
+                "left": 447,
+                "right": 726,
+                "top": 285
+            },
+            "img_path": "../data/12306/12306_find_lost_items/honorPlay8T_shortcut_7_200/screen_1741838253930.webp",
+            "semantic": "\"Date of retrieval\" header in a record list interface typically used for inventory management or tracking lost and found items."
+        },
+        {
+            "bounds": {
+                "bottom": 368,
+                "left": 503,
+                "right": 822,
+                "top": 309
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_shortcut_7_152/screen_1742369926451.webp",
+            "semantic": "\"Date of retrieval\" header in a record list interface typically used for inventory management or tracking lost and found items."
+        },
+        {
+            "bounds": {
+                "bottom": 368,
+                "left": 503,
+                "right": 822,
+                "top": 309
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_bigger_shortcut_7_220/screen_1742380886301.webp",
+            "semantic": "\"Date of retrieval\" header in a record list interface typically used for inventory management or tracking lost and found items."
+        },
+        {
+            "bounds": {
+                "bottom": 350,
+                "left": 447,
+                "right": 726,
+                "top": 299
+            },
+            "img_path": "../data/12306/12306_find_lost_items/OPPO Reno9 Pro5G_bigger_shortcut_7_63/screen_1742274436715.webp",
+            "semantic": "\"Date of retrieval\" header in a record list interface typically used for inventory management or tracking lost and found items."
+        },
+        {
+            "bounds": {
+                "bottom": 312,
+                "left": 447,
+                "right": 726,
+                "top": 261
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_shortcut_7_106/screen_1742380785762.webp",
+            "semantic": "\"Date of retrieval\" header in a record list interface typically used for inventory management or tracking lost and found items."
+        },
+        {
+            "bounds": {
+                "bottom": 312,
+                "left": 447,
+                "right": 726,
+                "top": 261
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_bigger_shortcut_7_156/screen_1742385254520.webp",
+            "semantic": "\"Date of retrieval\" header in a record list interface typically used for inventory management or tracking lost and found items."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 497,
+                "right": 808,
+                "top": 314
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_shortcut_7_112/screen_1742373824721.webp",
+            "semantic": "\"Date of retrieval\" header in a record list interface typically used for inventory management or tracking lost and found items."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 497,
+                "right": 808,
+                "top": 314
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_bigger_shortcut_7_220/screen_1742399913696.webp",
+            "semantic": "\"Date of retrieval\" header in a record list interface typically used for inventory management or tracking lost and found items."
+        },
+        {
+            "bounds": {
+                "bottom": 303,
+                "left": 663,
+                "right": 1075,
+                "top": 230
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_shortcut_7_55/screen_1742309159823.webp",
+            "semantic": "\"Date of retrieval\" header in a record list interface typically used for inventory management or tracking lost and found items."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 303,
+                "left": 1073,
+                "right": 1485,
+                "top": 230
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_93/screen_1742311668434.webp",
+            "semantic": "\"Item Category\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 303,
+                "left": 1073,
+                "right": 1485,
+                "top": 230
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_shortcut_7_55/screen_1742309159823.webp",
+            "semantic": "\"Item Category\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 805,
+                "right": 1116,
+                "top": 314
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_bigger_shortcut_7_220/screen_1742399913696.webp",
+            "semantic": "\"Item Category\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 805,
+                "right": 1116,
+                "top": 314
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_shortcut_7_112/screen_1742373824721.webp",
+            "semantic": "\"Item Category\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 312,
+                "left": 723,
+                "right": 1005,
+                "top": 261
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_bigger_shortcut_7_156/screen_1742385254520.webp",
+            "semantic": "\"Item Category\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 312,
+                "left": 723,
+                "right": 1005,
+                "top": 261
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_shortcut_7_106/screen_1742380785762.webp",
+            "semantic": "\"Item Category\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 350,
+                "left": 723,
+                "right": 1005,
+                "top": 299
+            },
+            "img_path": "../data/12306/12306_find_lost_items/OPPO Reno9 Pro5G_bigger_shortcut_7_63/screen_1742274436715.webp",
+            "semantic": "\"Item Category\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 368,
+                "left": 819,
+                "right": 1134,
+                "top": 309
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_bigger_shortcut_7_220/screen_1742380886301.webp",
+            "semantic": "\"Item Category\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 368,
+                "left": 819,
+                "right": 1134,
+                "top": 309
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_shortcut_7_152/screen_1742369926451.webp",
+            "semantic": "\"Item Category\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 336,
+                "left": 723,
+                "right": 1005,
+                "top": 285
+            },
+            "img_path": "../data/12306/12306_find_lost_items/honorPlay8T_shortcut_7_200/screen_1741838253930.webp",
+            "semantic": "\"Item Category\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 360,
+                "left": 819,
+                "right": 1134,
+                "top": 301
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_bigger_shortcut_7_90/screen_1742287667063.webp",
+            "semantic": "\"Item Category\" label."
+        },
+        {
+            "bounds": {
+                "bottom": 360,
+                "left": 819,
+                "right": 1134,
+                "top": 301
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_shortcut_7_39/screen_1742271905263.webp",
+            "semantic": "\"Item Category\" label."
+        }
+    ]
+]

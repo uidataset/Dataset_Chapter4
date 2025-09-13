@@ -1,0 +1,734 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 170,
+                "left": 10,
+                "right": 116,
+                "top": 34
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_93/screen_1742311665008.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 260,
+                "left": 13,
+                "right": 182,
+                "top": 52
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_shortcut_7_39/screen_1742271902164.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 260,
+                "left": 13,
+                "right": 182,
+                "top": 52
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_bigger_shortcut_7_90/screen_1742287663699.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 240,
+                "left": 15,
+                "right": 165,
+                "top": 48
+            },
+            "img_path": "../data/12306/12306_find_lost_items/honorPlay8T_shortcut_7_200/screen_1741838247499.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 260,
+                "left": 13,
+                "right": 182,
+                "top": 52
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_shortcut_7_152/screen_1742369921887.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 260,
+                "left": 13,
+                "right": 182,
+                "top": 52
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_bigger_shortcut_7_220/screen_1742380879815.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 240,
+                "left": 15,
+                "right": 165,
+                "top": 48
+            },
+            "img_path": "../data/12306/12306_find_lost_items/OPPO Reno9 Pro5G_bigger_shortcut_7_63/screen_1742274407122.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 240,
+                "left": 15,
+                "right": 165,
+                "top": 48
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_shortcut_7_106/screen_1742380778930.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 240,
+                "left": 15,
+                "right": 165,
+                "top": 48
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_bigger_shortcut_7_156/screen_1742385236625.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 262,
+                "left": 16,
+                "right": 180,
+                "top": 52
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_shortcut_7_112/screen_1742373800459.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 262,
+                "left": 16,
+                "right": 180,
+                "top": 52
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_bigger_shortcut_7_220/screen_1742399909039.webp",
+            "semantic": "\"Back\" navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 170,
+                "left": 10,
+                "right": 116,
+                "top": 34
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_shortcut_7_55/screen_1742309156453.webp",
+            "semantic": "\"Back\" navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 892,
+                "left": 53,
+                "right": 803,
+                "top": 724
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_93/screen_1742311665008.webp",
+            "semantic": "Query by Train Number button."
+        },
+        {
+            "bounds": {
+                "bottom": 837,
+                "left": 53,
+                "right": 803,
+                "top": 724
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_shortcut_7_55/screen_1742309156453.webp",
+            "semantic": "Query by Train Number button."
+        },
+        {
+            "bounds": {
+                "bottom": 772,
+                "left": 39,
+                "right": 602,
+                "top": 543
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_bigger_shortcut_7_220/screen_1742399909039.webp",
+            "semantic": "Query by Train Number button."
+        },
+        {
+            "bounds": {
+                "bottom": 697,
+                "left": 39,
+                "right": 602,
+                "top": 543
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_shortcut_7_112/screen_1742373800459.webp",
+            "semantic": "Query by Train Number button."
+        },
+        {
+            "bounds": {
+                "bottom": 693,
+                "left": 36,
+                "right": 543,
+                "top": 489
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_bigger_shortcut_7_156/screen_1742385236625.webp",
+            "semantic": "Query by Train Number button."
+        },
+        {
+            "bounds": {
+                "bottom": 627,
+                "left": 36,
+                "right": 543,
+                "top": 489
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_shortcut_7_106/screen_1742380778930.webp",
+            "semantic": "Query by Train Number button."
+        },
+        {
+            "bounds": {
+                "bottom": 648,
+                "left": 36,
+                "right": 543,
+                "top": 489
+            },
+            "img_path": "../data/12306/12306_find_lost_items/OPPO Reno9 Pro5G_bigger_shortcut_7_63/screen_1742274407122.webp",
+            "semantic": "Query by Train Number button."
+        },
+        {
+            "bounds": {
+                "bottom": 786,
+                "left": 39,
+                "right": 614,
+                "top": 552
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_bigger_shortcut_7_220/screen_1742380879815.webp",
+            "semantic": "Query by Train Number button."
+        },
+        {
+            "bounds": {
+                "bottom": 708,
+                "left": 39,
+                "right": 614,
+                "top": 552
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_shortcut_7_152/screen_1742369921887.webp",
+            "semantic": "Query by Train Number button."
+        },
+        {
+            "bounds": {
+                "bottom": 627,
+                "left": 36,
+                "right": 543,
+                "top": 489
+            },
+            "img_path": "../data/12306/12306_find_lost_items/honorPlay8T_shortcut_7_200/screen_1741838247499.webp",
+            "semantic": "Query by Train Number button."
+        },
+        {
+            "bounds": {
+                "bottom": 786,
+                "left": 39,
+                "right": 614,
+                "top": 552
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_bigger_shortcut_7_90/screen_1742287663699.webp",
+            "semantic": "Query by Train Number button."
+        },
+        {
+            "bounds": {
+                "bottom": 708,
+                "left": 39,
+                "right": 614,
+                "top": 552
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_shortcut_7_39/screen_1742271902164.webp",
+            "semantic": "Query by Train Number button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 892,
+                "left": 801,
+                "right": 1551,
+                "top": 724
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_93/screen_1742311665008.webp",
+            "semantic": "\"Search by Train Station\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 708,
+                "left": 611,
+                "right": 1186,
+                "top": 552
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_shortcut_7_39/screen_1742271902164.webp",
+            "semantic": "\"Search by Train Station\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 786,
+                "left": 611,
+                "right": 1186,
+                "top": 552
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_bigger_shortcut_7_90/screen_1742287663699.webp",
+            "semantic": "\"Search by Train Station\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 627,
+                "left": 540,
+                "right": 1047,
+                "top": 489
+            },
+            "img_path": "../data/12306/12306_find_lost_items/honorPlay8T_shortcut_7_200/screen_1741838247499.webp",
+            "semantic": "\"Search by Train Station\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 708,
+                "left": 611,
+                "right": 1186,
+                "top": 552
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_shortcut_7_152/screen_1742369921887.webp",
+            "semantic": "\"Search by Train Station\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 786,
+                "left": 611,
+                "right": 1186,
+                "top": 552
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_bigger_shortcut_7_220/screen_1742380879815.webp",
+            "semantic": "\"Search by Train Station\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 648,
+                "left": 540,
+                "right": 1047,
+                "top": 489
+            },
+            "img_path": "../data/12306/12306_find_lost_items/OPPO Reno9 Pro5G_bigger_shortcut_7_63/screen_1742274407122.webp",
+            "semantic": "\"Search by Train Station\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 627,
+                "left": 540,
+                "right": 1047,
+                "top": 489
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_shortcut_7_106/screen_1742380778930.webp",
+            "semantic": "\"Search by Train Station\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 693,
+                "left": 540,
+                "right": 1047,
+                "top": 489
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_bigger_shortcut_7_156/screen_1742385236625.webp",
+            "semantic": "\"Search by Train Station\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 697,
+                "left": 599,
+                "right": 1165,
+                "top": 543
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_shortcut_7_112/screen_1742373800459.webp",
+            "semantic": "\"Search by Train Station\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 772,
+                "left": 599,
+                "right": 1165,
+                "top": 543
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_bigger_shortcut_7_220/screen_1742399909039.webp",
+            "semantic": "\"Search by Train Station\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 837,
+                "left": 801,
+                "right": 1551,
+                "top": 724
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_shortcut_7_55/screen_1742309156453.webp",
+            "semantic": "\"Search by Train Station\" button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1147,
+                "left": 138,
+                "right": 1517,
+                "top": 918
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_93/screen_1742311665008.webp",
+            "semantic": "Search by train number."
+        },
+        {
+            "bounds": {
+                "bottom": 1034,
+                "left": 138,
+                "right": 1517,
+                "top": 854
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_shortcut_7_55/screen_1742309156453.webp",
+            "semantic": "Search by train number."
+        },
+        {
+            "bounds": {
+                "bottom": 1067,
+                "left": 101,
+                "right": 1139,
+                "top": 808
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_bigger_shortcut_7_220/screen_1742399909039.webp",
+            "semantic": "Search by train number."
+        },
+        {
+            "bounds": {
+                "bottom": 913,
+                "left": 101,
+                "right": 1139,
+                "top": 720
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_shortcut_7_112/screen_1742373800459.webp",
+            "semantic": "Search by train number."
+        },
+        {
+            "bounds": {
+                "bottom": 960,
+                "left": 93,
+                "right": 1026,
+                "top": 726
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_bigger_shortcut_7_156/screen_1742385236625.webp",
+            "semantic": "Search by train number."
+        },
+        {
+            "bounds": {
+                "bottom": 822,
+                "left": 93,
+                "right": 1026,
+                "top": 645
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_shortcut_7_106/screen_1742380778930.webp",
+            "semantic": "Search by train number."
+        },
+        {
+            "bounds": {
+                "bottom": 870,
+                "left": 93,
+                "right": 1026,
+                "top": 672
+            },
+            "img_path": "../data/12306/12306_find_lost_items/OPPO Reno9 Pro5G_bigger_shortcut_7_63/screen_1742274407122.webp",
+            "semantic": "Search by train number."
+        },
+        {
+            "bounds": {
+                "bottom": 1088,
+                "left": 104,
+                "right": 1160,
+                "top": 819
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_bigger_shortcut_7_220/screen_1742380879815.webp",
+            "semantic": "Search by train number."
+        },
+        {
+            "bounds": {
+                "bottom": 932,
+                "left": 104,
+                "right": 1160,
+                "top": 731
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_shortcut_7_152/screen_1742369921887.webp",
+            "semantic": "Search by train number."
+        },
+        {
+            "bounds": {
+                "bottom": 822,
+                "left": 93,
+                "right": 1026,
+                "top": 645
+            },
+            "img_path": "../data/12306/12306_find_lost_items/honorPlay8T_shortcut_7_200/screen_1741838247499.webp",
+            "semantic": "Search by train number."
+        },
+        {
+            "bounds": {
+                "bottom": 1088,
+                "left": 104,
+                "right": 1160,
+                "top": 819
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_bigger_shortcut_7_90/screen_1742287663699.webp",
+            "semantic": "Search by train number."
+        },
+        {
+            "bounds": {
+                "bottom": 932,
+                "left": 104,
+                "right": 1160,
+                "top": 731
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_shortcut_7_39/screen_1742271902164.webp",
+            "semantic": "Search by train number."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1340,
+                "left": 95,
+                "right": 1551,
+                "top": 1145
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_93/screen_1742311665008.webp",
+            "semantic": "\"Query start and end date fields.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1111,
+                "left": 104,
+                "right": 1186,
+                "top": 929
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_shortcut_7_39/screen_1742271902164.webp",
+            "semantic": "\"Query start and end date fields.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1358,
+                "left": 71,
+                "right": 1186,
+                "top": 1085
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_bigger_shortcut_7_90/screen_1742287663699.webp",
+            "semantic": "\"Query start and end date fields.\""
+        },
+        {
+            "bounds": {
+                "bottom": 981,
+                "left": 93,
+                "right": 1047,
+                "top": 819
+            },
+            "img_path": "../data/12306/12306_find_lost_items/honorPlay8T_shortcut_7_200/screen_1741838247499.webp",
+            "semantic": "\"Query start and end date fields.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1111,
+                "left": 104,
+                "right": 1186,
+                "top": 929
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_shortcut_7_152/screen_1742369921887.webp",
+            "semantic": "\"Query start and end date fields.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1358,
+                "left": 71,
+                "right": 1186,
+                "top": 1085
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_bigger_shortcut_7_220/screen_1742380879815.webp",
+            "semantic": "\"Query start and end date fields.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1056,
+                "left": 93,
+                "right": 1047,
+                "top": 867
+            },
+            "img_path": "../data/12306/12306_find_lost_items/OPPO Reno9 Pro5G_bigger_shortcut_7_63/screen_1742274407122.webp",
+            "semantic": "\"Query start and end date fields.\""
+        },
+        {
+            "bounds": {
+                "bottom": 981,
+                "left": 93,
+                "right": 1047,
+                "top": 819
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_shortcut_7_106/screen_1742380778930.webp",
+            "semantic": "\"Query start and end date fields.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1197,
+                "left": 63,
+                "right": 1047,
+                "top": 957
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_bigger_shortcut_7_156/screen_1742385236625.webp",
+            "semantic": "\"Query start and end date fields.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1090,
+                "left": 101,
+                "right": 1165,
+                "top": 910
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_shortcut_7_112/screen_1742373800459.webp",
+            "semantic": "\"Query start and end date fields.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1332,
+                "left": 72,
+                "right": 1165,
+                "top": 1064
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_bigger_shortcut_7_220/screen_1742399909039.webp",
+            "semantic": "\"Query start and end date fields.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1164,
+                "left": 138,
+                "right": 1551,
+                "top": 1032
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_shortcut_7_55/screen_1742309156453.webp",
+            "semantic": "\"Query start and end date fields.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1578,
+                "left": 116,
+                "right": 1487,
+                "top": 1423
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_93/screen_1742311665008.webp",
+            "semantic": "Search immediately button."
+        },
+        {
+            "bounds": {
+                "bottom": 1351,
+                "left": 116,
+                "right": 1487,
+                "top": 1247
+            },
+            "img_path": "../data/12306/12306_find_lost_items/HUAWEl MatePad Pro MRX-W39_shortcut_7_55/screen_1742309156453.webp",
+            "semantic": "Search immediately button."
+        },
+        {
+            "bounds": {
+                "bottom": 1604,
+                "left": 85,
+                "right": 1120,
+                "top": 1391
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_bigger_shortcut_7_220/screen_1742399909039.webp",
+            "semantic": "Search immediately button."
+        },
+        {
+            "bounds": {
+                "bottom": 1296,
+                "left": 85,
+                "right": 1120,
+                "top": 1152
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Honor90GT_shortcut_7_112/screen_1742373800459.webp",
+            "semantic": "Search immediately button."
+        },
+        {
+            "bounds": {
+                "bottom": 1446,
+                "left": 78,
+                "right": 1005,
+                "top": 1254
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_bigger_shortcut_7_156/screen_1742385236625.webp",
+            "semantic": "Search immediately button."
+        },
+        {
+            "bounds": {
+                "bottom": 1164,
+                "left": 78,
+                "right": 1005,
+                "top": 1035
+            },
+            "img_path": "../data/12306/12306_find_lost_items/IQOONeo5_shortcut_7_106/screen_1742380778930.webp",
+            "semantic": "Search immediately button."
+        },
+        {
+            "bounds": {
+                "bottom": 1260,
+                "left": 78,
+                "right": 1005,
+                "top": 1110
+            },
+            "img_path": "../data/12306/12306_find_lost_items/OPPO Reno9 Pro5G_bigger_shortcut_7_63/screen_1742274407122.webp",
+            "semantic": "Search immediately button."
+        },
+        {
+            "bounds": {
+                "bottom": 1638,
+                "left": 87,
+                "right": 1137,
+                "top": 1420
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_bigger_shortcut_7_220/screen_1742380879815.webp",
+            "semantic": "Search immediately button."
+        },
+        {
+            "bounds": {
+                "bottom": 1322,
+                "left": 87,
+                "right": 1137,
+                "top": 1173
+            },
+            "img_path": "../data/12306/12306_find_lost_items/Redmik70U_shortcut_7_152/screen_1742369921887.webp",
+            "semantic": "Search immediately button."
+        },
+        {
+            "bounds": {
+                "bottom": 1164,
+                "left": 78,
+                "right": 1005,
+                "top": 1035
+            },
+            "img_path": "../data/12306/12306_find_lost_items/honorPlay8T_shortcut_7_200/screen_1741838247499.webp",
+            "semantic": "Search immediately button."
+        },
+        {
+            "bounds": {
+                "bottom": 1638,
+                "left": 87,
+                "right": 1137,
+                "top": 1420
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_bigger_shortcut_7_90/screen_1742287663699.webp",
+            "semantic": "Search immediately button."
+        },
+        {
+            "bounds": {
+                "bottom": 1322,
+                "left": 87,
+                "right": 1137,
+                "top": 1173
+            },
+            "img_path": "../data/12306/12306_find_lost_items/redmi Turbo 14_shortcut_7_39/screen_1742271902164.webp",
+            "semantic": "Search immediately button."
+        }
+    ]
+]

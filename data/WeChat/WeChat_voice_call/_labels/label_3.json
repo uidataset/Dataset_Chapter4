@@ -1,0 +1,770 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 2257,
+                "left": 631,
+                "right": 674,
+                "top": 2214
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro MRX-W39_shortcut_7_9/screen_1740147910775.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2160,
+                "left": 282,
+                "right": 354,
+                "top": 2088
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_18/screen_1741966417065.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2257,
+                "left": 603,
+                "right": 646,
+                "top": 2214
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_7/screen_1741840702590.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2243,
+                "left": 591,
+                "right": 637,
+                "top": 2197
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_11/screen_1741966238705.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2243,
+                "left": 591,
+                "right": 637,
+                "top": 2197
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_16/screen_1741964344025.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2243,
+                "left": 621,
+                "right": 667,
+                "top": 2197
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_9/screen_1740312356407.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2243,
+                "left": 621,
+                "right": 667,
+                "top": 2197
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_8/screen_1740311126899.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2172,
+                "left": 277,
+                "right": 348,
+                "top": 2101
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Honor90GT_bigger_shortcut_7_26/screen_1742033753734.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2172,
+                "left": 277,
+                "right": 348,
+                "top": 2101
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Honor90GT_bigger_shortcut_7_27/screen_1742033797000.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2199,
+                "left": 339,
+                "right": 406,
+                "top": 2132
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Honor90GT_dark_shortcut_7_14/screen_1740563480609.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1922,
+                "left": 250,
+                "right": 314,
+                "top": 1858
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_9/screen_1741962383082.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1922,
+                "left": 250,
+                "right": 314,
+                "top": 1858
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/OPPO Reno9 Pro5G_bigger_shortcut_7_8/screen_1741959347803.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1989,
+                "left": 329,
+                "right": 383,
+                "top": 1935
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/OPPO Reno9 Pro5G_dark_shortcut_7_7/screen_1740308905405.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2212,
+                "left": 282,
+                "right": 354,
+                "top": 2140
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Redmik70U_bigger_black_shortcut_7_70/screen_1741848676803.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2212,
+                "left": 282,
+                "right": 354,
+                "top": 2140
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Redmik70U_bigger_shortcut_7_12/screen_1741844973728.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2287,
+                "left": 372,
+                "right": 433,
+                "top": 2226
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Redmik70U_dark_shortcut_7_13/screen_1740304773902.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2160,
+                "left": 282,
+                "right": 354,
+                "top": 2088
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/redmi Turbo 14_bigger_dark_shortcut_7_18/screen_1741966417065.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2160,
+                "left": 282,
+                "right": 354,
+                "top": 2088
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/redmi Turbo 14_bigger_shortcut_7_9/screen_1741793607115.webp",
+            "semantic": "Video call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2235,
+                "left": 372,
+                "right": 433,
+                "top": 2174
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/redmi Turbo 14_dark_shortcut_7_8/screen_1740320963216.webp",
+            "semantic": "Video call function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2261,
+                "left": 726,
+                "right": 874,
+                "top": 2210
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro MRX-W39_shortcut_7_9/screen_1740147910775.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2182,
+                "left": 440,
+                "right": 780,
+                "top": 2067
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_18/screen_1741966417065.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2271,
+                "left": 698,
+                "right": 902,
+                "top": 2201
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_7/screen_1741840702590.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2256,
+                "left": 692,
+                "right": 908,
+                "top": 2183
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_11/screen_1741966238705.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2256,
+                "left": 692,
+                "right": 908,
+                "top": 2183
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_16/screen_1741964344025.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2246,
+                "left": 722,
+                "right": 878,
+                "top": 2193
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_9/screen_1740312356407.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2246,
+                "left": 722,
+                "right": 878,
+                "top": 2193
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_8/screen_1740311126899.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2193,
+                "left": 432,
+                "right": 768,
+                "top": 2081
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Honor90GT_bigger_shortcut_7_26/screen_1742033753734.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2193,
+                "left": 432,
+                "right": 768,
+                "top": 2081
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Honor90GT_bigger_shortcut_7_27/screen_1742033797000.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2204,
+                "left": 486,
+                "right": 714,
+                "top": 2127
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Honor90GT_dark_shortcut_7_14/screen_1740563480609.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1940,
+                "left": 390,
+                "right": 690,
+                "top": 1839
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_9/screen_1741962383082.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1940,
+                "left": 390,
+                "right": 690,
+                "top": 1839
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/OPPO Reno9 Pro5G_bigger_shortcut_7_8/screen_1741959347803.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1993,
+                "left": 448,
+                "right": 632,
+                "top": 1931
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/OPPO Reno9 Pro5G_dark_shortcut_7_7/screen_1740308905405.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2229,
+                "left": 440,
+                "right": 780,
+                "top": 2123
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Redmik70U_bigger_black_shortcut_7_70/screen_1741848676803.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2229,
+                "left": 440,
+                "right": 780,
+                "top": 2123
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Redmik70U_bigger_shortcut_7_12/screen_1741844973728.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2289,
+                "left": 506,
+                "right": 714,
+                "top": 2224
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Redmik70U_dark_shortcut_7_13/screen_1740304773902.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2182,
+                "left": 440,
+                "right": 780,
+                "top": 2067
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/redmi Turbo 14_bigger_dark_shortcut_7_18/screen_1741966417065.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2182,
+                "left": 440,
+                "right": 780,
+                "top": 2067
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/redmi Turbo 14_bigger_shortcut_7_9/screen_1741793607115.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2239,
+                "left": 506,
+                "right": 714,
+                "top": 2169
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/redmi Turbo 14_dark_shortcut_7_8/screen_1740320963216.webp",
+            "semantic": "\"A 'Video Call' function button, typically used to initiate video communication.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2380,
+                "left": 631,
+                "right": 674,
+                "top": 2337
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro MRX-W39_shortcut_7_9/screen_1740147910775.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2363,
+                "left": 282,
+                "right": 354,
+                "top": 2291
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_18/screen_1741966417065.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2380,
+                "left": 603,
+                "right": 646,
+                "top": 2337
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_7/screen_1741840702590.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2372,
+                "left": 591,
+                "right": 637,
+                "top": 2326
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_11/screen_1741966238705.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2372,
+                "left": 591,
+                "right": 637,
+                "top": 2326
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_16/screen_1741964344025.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2372,
+                "left": 621,
+                "right": 667,
+                "top": 2326
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_9/screen_1740312356407.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2372,
+                "left": 621,
+                "right": 667,
+                "top": 2326
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_8/screen_1740311126899.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2372,
+                "left": 277,
+                "right": 348,
+                "top": 2301
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Honor90GT_bigger_shortcut_7_26/screen_1742033753734.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2372,
+                "left": 277,
+                "right": 348,
+                "top": 2301
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Honor90GT_bigger_shortcut_7_27/screen_1742033797000.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2388,
+                "left": 339,
+                "right": 406,
+                "top": 2321
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Honor90GT_dark_shortcut_7_14/screen_1740563480609.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2102,
+                "left": 250,
+                "right": 314,
+                "top": 2038
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_9/screen_1741962383082.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2102,
+                "left": 250,
+                "right": 314,
+                "top": 2038
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/OPPO Reno9 Pro5G_bigger_shortcut_7_8/screen_1741959347803.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2141,
+                "left": 329,
+                "right": 383,
+                "top": 2087
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/OPPO Reno9 Pro5G_dark_shortcut_7_7/screen_1740308905405.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2415,
+                "left": 282,
+                "right": 354,
+                "top": 2343
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Redmik70U_bigger_black_shortcut_7_70/screen_1741848676803.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2415,
+                "left": 282,
+                "right": 354,
+                "top": 2343
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Redmik70U_bigger_shortcut_7_12/screen_1741844973728.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2460,
+                "left": 372,
+                "right": 433,
+                "top": 2399
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Redmik70U_dark_shortcut_7_13/screen_1740304773902.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2363,
+                "left": 282,
+                "right": 354,
+                "top": 2291
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/redmi Turbo 14_bigger_dark_shortcut_7_18/screen_1741966417065.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2363,
+                "left": 282,
+                "right": 354,
+                "top": 2291
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/redmi Turbo 14_bigger_shortcut_7_9/screen_1741793607115.webp",
+            "semantic": "Voice call function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2408,
+                "left": 372,
+                "right": 433,
+                "top": 2347
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/redmi Turbo 14_dark_shortcut_7_8/screen_1740320963216.webp",
+            "semantic": "Voice call function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2384,
+                "left": 726,
+                "right": 874,
+                "top": 2333
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro MRX-W39_shortcut_7_9/screen_1740147910775.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2385,
+                "left": 440,
+                "right": 780,
+                "top": 2270
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro MRX-W39_bigger_dark_shortcut_7_18/screen_1741966417065.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2394,
+                "left": 698,
+                "right": 902,
+                "top": 2324
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_7/screen_1741840702590.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2385,
+                "left": 692,
+                "right": 908,
+                "top": 2312
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro WGRR-WO9_bigger_dark_shortcut_7_11/screen_1741966238705.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2385,
+                "left": 692,
+                "right": 908,
+                "top": 2312
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro WGRR-WO9_bigger_shortcut_7_16/screen_1741964344025.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2375,
+                "left": 722,
+                "right": 878,
+                "top": 2322
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_9/screen_1740312356407.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2375,
+                "left": 722,
+                "right": 878,
+                "top": 2322
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_8/screen_1740311126899.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2393,
+                "left": 432,
+                "right": 768,
+                "top": 2281
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Honor90GT_bigger_shortcut_7_26/screen_1742033753734.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2393,
+                "left": 432,
+                "right": 768,
+                "top": 2281
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Honor90GT_bigger_shortcut_7_27/screen_1742033797000.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2393,
+                "left": 486,
+                "right": 714,
+                "top": 2316
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Honor90GT_dark_shortcut_7_14/screen_1740563480609.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2120,
+                "left": 390,
+                "right": 690,
+                "top": 2019
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/OPPO Reno9 Pro5G_bigger_dark_shortcut_7_9/screen_1741962383082.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2120,
+                "left": 390,
+                "right": 690,
+                "top": 2019
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/OPPO Reno9 Pro5G_bigger_shortcut_7_8/screen_1741959347803.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2145,
+                "left": 448,
+                "right": 632,
+                "top": 2083
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/OPPO Reno9 Pro5G_dark_shortcut_7_7/screen_1740308905405.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2432,
+                "left": 440,
+                "right": 780,
+                "top": 2326
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Redmik70U_bigger_black_shortcut_7_70/screen_1741848676803.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2432,
+                "left": 440,
+                "right": 780,
+                "top": 2326
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Redmik70U_bigger_shortcut_7_12/screen_1741844973728.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2462,
+                "left": 506,
+                "right": 714,
+                "top": 2397
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/Redmik70U_dark_shortcut_7_13/screen_1740304773902.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2385,
+                "left": 440,
+                "right": 780,
+                "top": 2270
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/redmi Turbo 14_bigger_dark_shortcut_7_18/screen_1741966417065.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2385,
+                "left": 440,
+                "right": 780,
+                "top": 2270
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/redmi Turbo 14_bigger_shortcut_7_9/screen_1741793607115.webp",
+            "semantic": "Voice call button."
+        },
+        {
+            "bounds": {
+                "bottom": 2412,
+                "left": 506,
+                "right": 714,
+                "top": 2342
+            },
+            "img_path": "../data/WeChat/WeChat_voice_call/redmi Turbo 14_dark_shortcut_7_8/screen_1740320963216.webp",
+            "semantic": "Voice call button."
+        }
+    ]
+]

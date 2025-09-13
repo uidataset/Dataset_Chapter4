@@ -1,0 +1,956 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 158,
+                "left": 23,
+                "right": 87,
+                "top": 94
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro MRX-W39_shortcut_7_38/screen_1740150184495.webp",
+            "semantic": "Reminder or calendar event button."
+        },
+        {
+            "bounds": {
+                "bottom": 137,
+                "left": 22,
+                "right": 82,
+                "top": 77
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_57/screen_1740142185905.webp",
+            "semantic": "Reminder or calendar event button."
+        },
+        {
+            "bounds": {
+                "bottom": 171,
+                "left": 27,
+                "right": 102,
+                "top": 96
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_48/screen_1740127485930.webp",
+            "semantic": "Reminder or calendar event button."
+        },
+        {
+            "bounds": {
+                "bottom": 241,
+                "left": 36,
+                "right": 134,
+                "top": 143
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Honor90GT_shortcut_7_43/screen_1740194280875.webp",
+            "semantic": "Reminder or calendar event button."
+        },
+        {
+            "bounds": {
+                "bottom": 232,
+                "left": 33,
+                "right": 123,
+                "top": 142
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/OPPO Reno9 Pro5G_shortcut_7_40/screen_1740132952983.webp",
+            "semantic": "Reminder or calendar event button."
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 36,
+                "right": 134,
+                "top": 139
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Redmik70U_shortcut_7_54/screen_1740121955838.webp",
+            "semantic": "Reminder or calendar event button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 33,
+                "right": 123,
+                "top": 128
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/honorPlay8T_shortcut_7_89/screen_1740021081034.webp",
+            "semantic": "Reminder or calendar event button."
+        },
+        {
+            "bounds": {
+                "bottom": 229,
+                "left": 36,
+                "right": 134,
+                "top": 131
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/redmi Turbo 14_shortcut_7_36/screen_1740123849762.webp",
+            "semantic": "Reminder or calendar event button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 152,
+                "left": 817,
+                "right": 893,
+                "top": 100
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro MRX-W39_shortcut_7_38/screen_1740150184495.webp",
+            "semantic": "\"Recommend\" section indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 140,
+                "left": 800,
+                "right": 922,
+                "top": 75
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_57/screen_1740142185905.webp",
+            "semantic": "\"Recommend\" section indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 164,
+                "left": 820,
+                "right": 910,
+                "top": 103
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_48/screen_1740127485930.webp",
+            "semantic": "\"Recommend\" section indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 231,
+                "left": 626,
+                "right": 744,
+                "top": 152
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Honor90GT_shortcut_7_43/screen_1740194280875.webp",
+            "semantic": "\"Recommend\" section indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 223,
+                "left": 564,
+                "right": 672,
+                "top": 150
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/OPPO Reno9 Pro5G_shortcut_7_40/screen_1740132952983.webp",
+            "semantic": "\"Recommend\" section indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 225,
+                "left": 636,
+                "right": 754,
+                "top": 151
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Redmik70U_shortcut_7_54/screen_1740121955838.webp",
+            "semantic": "\"Recommend\" section indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 209,
+                "left": 564,
+                "right": 672,
+                "top": 136
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/honorPlay8T_shortcut_7_89/screen_1740021081034.webp",
+            "semantic": "\"Recommend\" section indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 220,
+                "left": 636,
+                "right": 754,
+                "top": 141
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/redmi Turbo 14_shortcut_7_36/screen_1740123849762.webp",
+            "semantic": "\"Recommend\" section indicator."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 152,
+                "left": 688,
+                "right": 764,
+                "top": 100
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro MRX-W39_shortcut_7_38/screen_1740150184495.webp",
+            "semantic": "\"Follow\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 132,
+                "left": 694,
+                "right": 766,
+                "top": 83
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_57/screen_1740142185905.webp",
+            "semantic": "\"Follow\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 164,
+                "left": 667,
+                "right": 757,
+                "top": 103
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_48/screen_1740127485930.webp",
+            "semantic": "\"Follow\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 231,
+                "left": 426,
+                "right": 544,
+                "top": 152
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Honor90GT_shortcut_7_43/screen_1740194280875.webp",
+            "semantic": "\"Follow\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 223,
+                "left": 381,
+                "right": 489,
+                "top": 150
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/OPPO Reno9 Pro5G_shortcut_7_40/screen_1740132952983.webp",
+            "semantic": "\"Follow\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 225,
+                "left": 436,
+                "right": 554,
+                "top": 151
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Redmik70U_shortcut_7_54/screen_1740121955838.webp",
+            "semantic": "\"Follow\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 209,
+                "left": 381,
+                "right": 489,
+                "top": 136
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/honorPlay8T_shortcut_7_89/screen_1740021081034.webp",
+            "semantic": "\"Follow\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 220,
+                "left": 436,
+                "right": 554,
+                "top": 141
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/redmi Turbo 14_shortcut_7_36/screen_1740123849762.webp",
+            "semantic": "\"Follow\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 242,
+                "left": 400,
+                "right": 468,
+                "top": 196
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro MRX-W39_shortcut_7_38/screen_1740150184495.webp",
+            "semantic": "\"Top list\" or \"Leaderboard\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 216,
+                "left": 374,
+                "right": 438,
+                "top": 173
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_57/screen_1740142185905.webp",
+            "semantic": "\"Top list\" or \"Leaderboard\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 370,
+                "left": 436,
+                "right": 540,
+                "top": 300
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Honor90GT_shortcut_7_43/screen_1740194280875.webp",
+            "semantic": "\"Top list\" or \"Leaderboard\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 350,
+                "left": 387,
+                "right": 483,
+                "top": 285
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/OPPO Reno9 Pro5G_shortcut_7_40/screen_1740132952983.webp",
+            "semantic": "\"Top list\" or \"Leaderboard\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 363,
+                "left": 447,
+                "right": 551,
+                "top": 298
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Redmik70U_shortcut_7_54/screen_1740121955838.webp",
+            "semantic": "\"Top list\" or \"Leaderboard\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 336,
+                "left": 390,
+                "right": 486,
+                "top": 271
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/honorPlay8T_shortcut_7_89/screen_1740021081034.webp",
+            "semantic": "\"Top list\" or \"Leaderboard\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 357,
+                "left": 447,
+                "right": 551,
+                "top": 287
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/redmi Turbo 14_shortcut_7_36/screen_1740123849762.webp",
+            "semantic": "\"Top list\" or \"Leaderboard\" button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 436,
+                "left": 0,
+                "right": 1600,
+                "top": 266
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro MRX-W39_shortcut_7_38/screen_1740150184495.webp",
+            "semantic": "Leaderboard ranking button."
+        },
+        {
+            "bounds": {
+                "bottom": 399,
+                "left": 0,
+                "right": 1600,
+                "top": 239
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_57/screen_1740142185905.webp",
+            "semantic": "Leaderboard ranking button."
+        },
+        {
+            "bounds": {
+                "bottom": 498,
+                "left": 0,
+                "right": 1600,
+                "top": 298
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_48/screen_1740127485930.webp",
+            "semantic": "Leaderboard ranking button."
+        },
+        {
+            "bounds": {
+                "bottom": 669,
+                "left": 0,
+                "right": 1200,
+                "top": 407
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Honor90GT_shortcut_7_43/screen_1740194280875.webp",
+            "semantic": "Leaderboard ranking button."
+        },
+        {
+            "bounds": {
+                "bottom": 624,
+                "left": 0,
+                "right": 1080,
+                "top": 384
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/OPPO Reno9 Pro5G_shortcut_7_40/screen_1740132952983.webp",
+            "semantic": "Leaderboard ranking button."
+        },
+        {
+            "bounds": {
+                "bottom": 662,
+                "left": 0,
+                "right": 1220,
+                "top": 402
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Redmik70U_shortcut_7_54/screen_1740121955838.webp",
+            "semantic": "Leaderboard ranking button."
+        },
+        {
+            "bounds": {
+                "bottom": 610,
+                "left": 0,
+                "right": 1080,
+                "top": 370
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/honorPlay8T_shortcut_7_89/screen_1740021081034.webp",
+            "semantic": "Leaderboard ranking button."
+        },
+        {
+            "bounds": {
+                "bottom": 654,
+                "left": 0,
+                "right": 1220,
+                "top": 394
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/redmi Turbo 14_shortcut_7_36/screen_1740123849762.webp",
+            "semantic": "Leaderboard ranking button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2554,
+                "left": 0,
+                "right": 320,
+                "top": 2460
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro MRX-W39_shortcut_7_38/screen_1740150184495.webp",
+            "semantic": "Home button for navigation to the main page."
+        },
+        {
+            "bounds": {
+                "bottom": 2554,
+                "left": 0,
+                "right": 320,
+                "top": 2466
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_57/screen_1740142185905.webp",
+            "semantic": "Home button for navigation to the main page."
+        },
+        {
+            "bounds": {
+                "bottom": 2552,
+                "left": 0,
+                "right": 320,
+                "top": 2442
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_48/screen_1740127485930.webp",
+            "semantic": "Home button for navigation to the main page."
+        },
+        {
+            "bounds": {
+                "bottom": 2653,
+                "left": 0,
+                "right": 240,
+                "top": 2510
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Honor90GT_shortcut_7_43/screen_1740194280875.webp",
+            "semantic": "Home button for navigation to the main page."
+        },
+        {
+            "bounds": {
+                "bottom": 2355,
+                "left": 0,
+                "right": 216,
+                "top": 2223
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/OPPO Reno9 Pro5G_shortcut_7_40/screen_1740132952983.webp",
+            "semantic": "Home button for navigation to the main page."
+        },
+        {
+            "bounds": {
+                "bottom": 2702,
+                "left": 0,
+                "right": 244,
+                "top": 2559
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Redmik70U_shortcut_7_54/screen_1740121955838.webp",
+            "semantic": "Home button for navigation to the main page."
+        },
+        {
+            "bounds": {
+                "bottom": 2403,
+                "left": 0,
+                "right": 216,
+                "top": 2271
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/honorPlay8T_shortcut_7_89/screen_1740021081034.webp",
+            "semantic": "Home button for navigation to the main page."
+        },
+        {
+            "bounds": {
+                "bottom": 2650,
+                "left": 0,
+                "right": 244,
+                "top": 2507
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/redmi Turbo 14_shortcut_7_36/screen_1740123849762.webp",
+            "semantic": "Home button for navigation to the main page."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2554,
+                "left": 320,
+                "right": 640,
+                "top": 2460
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro MRX-W39_shortcut_7_38/screen_1740150184495.webp",
+            "semantic": "Video section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2554,
+                "left": 320,
+                "right": 640,
+                "top": 2466
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_57/screen_1740142185905.webp",
+            "semantic": "Video section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2552,
+                "left": 320,
+                "right": 640,
+                "top": 2442
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_48/screen_1740127485930.webp",
+            "semantic": "Video section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2653,
+                "left": 240,
+                "right": 480,
+                "top": 2510
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Honor90GT_shortcut_7_43/screen_1740194280875.webp",
+            "semantic": "Video section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2355,
+                "left": 216,
+                "right": 432,
+                "top": 2223
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/OPPO Reno9 Pro5G_shortcut_7_40/screen_1740132952983.webp",
+            "semantic": "Video section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2702,
+                "left": 244,
+                "right": 488,
+                "top": 2559
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Redmik70U_shortcut_7_54/screen_1740121955838.webp",
+            "semantic": "Video section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2403,
+                "left": 216,
+                "right": 432,
+                "top": 2271
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/honorPlay8T_shortcut_7_89/screen_1740021081034.webp",
+            "semantic": "Video section button."
+        },
+        {
+            "bounds": {
+                "bottom": 2650,
+                "left": 244,
+                "right": 488,
+                "top": 2507
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/redmi Turbo 14_shortcut_7_36/screen_1740123849762.webp",
+            "semantic": "Video section button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2554,
+                "left": 640,
+                "right": 960,
+                "top": 2460
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro MRX-W39_shortcut_7_38/screen_1740150184495.webp",
+            "semantic": "\"Discovery or search notification button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2554,
+                "left": 640,
+                "right": 960,
+                "top": 2466
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_57/screen_1740142185905.webp",
+            "semantic": "\"Discovery or search notification button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2552,
+                "left": 640,
+                "right": 960,
+                "top": 2442
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_48/screen_1740127485930.webp",
+            "semantic": "\"Discovery or search notification button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2653,
+                "left": 480,
+                "right": 720,
+                "top": 2510
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Honor90GT_shortcut_7_43/screen_1740194280875.webp",
+            "semantic": "\"Discovery or search notification button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2355,
+                "left": 432,
+                "right": 648,
+                "top": 2223
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/OPPO Reno9 Pro5G_shortcut_7_40/screen_1740132952983.webp",
+            "semantic": "\"Discovery or search notification button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2702,
+                "left": 488,
+                "right": 732,
+                "top": 2559
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Redmik70U_shortcut_7_54/screen_1740121955838.webp",
+            "semantic": "\"Discovery or search notification button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2403,
+                "left": 432,
+                "right": 648,
+                "top": 2271
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/honorPlay8T_shortcut_7_89/screen_1740021081034.webp",
+            "semantic": "\"Discovery or search notification button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2650,
+                "left": 488,
+                "right": 732,
+                "top": 2507
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/redmi Turbo 14_shortcut_7_36/screen_1740123849762.webp",
+            "semantic": "\"Discovery or search notification button.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2554,
+                "left": 960,
+                "right": 1280,
+                "top": 2460
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro MRX-W39_shortcut_7_38/screen_1740150184495.webp",
+            "semantic": "Unread messages notification."
+        },
+        {
+            "bounds": {
+                "bottom": 2554,
+                "left": 960,
+                "right": 1280,
+                "top": 2466
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_57/screen_1740142185905.webp",
+            "semantic": "Unread messages notification."
+        },
+        {
+            "bounds": {
+                "bottom": 2552,
+                "left": 960,
+                "right": 1280,
+                "top": 2442
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_48/screen_1740127485930.webp",
+            "semantic": "Unread messages notification."
+        },
+        {
+            "bounds": {
+                "bottom": 2653,
+                "left": 720,
+                "right": 960,
+                "top": 2510
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Honor90GT_shortcut_7_43/screen_1740194280875.webp",
+            "semantic": "Unread messages notification."
+        },
+        {
+            "bounds": {
+                "bottom": 2355,
+                "left": 648,
+                "right": 864,
+                "top": 2223
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/OPPO Reno9 Pro5G_shortcut_7_40/screen_1740132952983.webp",
+            "semantic": "Unread messages notification."
+        },
+        {
+            "bounds": {
+                "bottom": 2702,
+                "left": 732,
+                "right": 976,
+                "top": 2559
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Redmik70U_shortcut_7_54/screen_1740121955838.webp",
+            "semantic": "Unread messages notification."
+        },
+        {
+            "bounds": {
+                "bottom": 2403,
+                "left": 648,
+                "right": 864,
+                "top": 2271
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/honorPlay8T_shortcut_7_89/screen_1740021081034.webp",
+            "semantic": "Unread messages notification."
+        },
+        {
+            "bounds": {
+                "bottom": 2650,
+                "left": 732,
+                "right": 976,
+                "top": 2507
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/redmi Turbo 14_shortcut_7_36/screen_1740123849762.webp",
+            "semantic": "Unread messages notification."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2554,
+                "left": 1280,
+                "right": 1600,
+                "top": 2460
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro MRX-W39_shortcut_7_38/screen_1740150184495.webp",
+            "semantic": "Personal notifications or profile messages notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 2554,
+                "left": 1280,
+                "right": 1600,
+                "top": 2466
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_57/screen_1740142185905.webp",
+            "semantic": "Personal notifications or profile messages notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 2552,
+                "left": 1280,
+                "right": 1600,
+                "top": 2442
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_48/screen_1740127485930.webp",
+            "semantic": "Personal notifications or profile messages notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 2653,
+                "left": 960,
+                "right": 1200,
+                "top": 2510
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Honor90GT_shortcut_7_43/screen_1740194280875.webp",
+            "semantic": "Personal notifications or profile messages notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 2355,
+                "left": 864,
+                "right": 1080,
+                "top": 2223
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/OPPO Reno9 Pro5G_shortcut_7_40/screen_1740132952983.webp",
+            "semantic": "Personal notifications or profile messages notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 2702,
+                "left": 976,
+                "right": 1220,
+                "top": 2559
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Redmik70U_shortcut_7_54/screen_1740121955838.webp",
+            "semantic": "Personal notifications or profile messages notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 2403,
+                "left": 864,
+                "right": 1080,
+                "top": 2271
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/honorPlay8T_shortcut_7_89/screen_1740021081034.webp",
+            "semantic": "Personal notifications or profile messages notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 2650,
+                "left": 976,
+                "right": 1220,
+                "top": 2507
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/redmi Turbo 14_shortcut_7_36/screen_1740123849762.webp",
+            "semantic": "Personal notifications or profile messages notification button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 158,
+                "left": 1510,
+                "right": 1574,
+                "top": 94
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro MRX-W39_shortcut_7_38/screen_1740150184495.webp",
+            "semantic": "\"Add new content or create a new post button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 171,
+                "left": 1495,
+                "right": 1570,
+                "top": 96
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_48/screen_1740127485930.webp",
+            "semantic": "\"Add new content or create a new post button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 241,
+                "left": 1063,
+                "right": 1161,
+                "top": 143
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Honor90GT_shortcut_7_43/screen_1740194280875.webp",
+            "semantic": "\"Add new content or create a new post button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 232,
+                "left": 954,
+                "right": 1044,
+                "top": 142
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/OPPO Reno9 Pro5G_shortcut_7_40/screen_1740132952983.webp",
+            "semantic": "\"Add new content or create a new post button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 1083,
+                "right": 1181,
+                "top": 139
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Redmik70U_shortcut_7_54/screen_1740121955838.webp",
+            "semantic": "\"Add new content or create a new post button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 954,
+                "right": 1044,
+                "top": 128
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/honorPlay8T_shortcut_7_89/screen_1740021081034.webp",
+            "semantic": "\"Add new content or create a new post button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 229,
+                "left": 1083,
+                "right": 1181,
+                "top": 131
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/redmi Turbo 14_shortcut_7_36/screen_1740123849762.webp",
+            "semantic": "\"Add new content or create a new post button.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 158,
+                "left": 1438,
+                "right": 1502,
+                "top": 94
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro MRX-W39_shortcut_7_38/screen_1740150184495.webp",
+            "semantic": "Currency collection or offer button."
+        },
+        {
+            "bounds": {
+                "bottom": 171,
+                "left": 1410,
+                "right": 1485,
+                "top": 96
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_48/screen_1740127485930.webp",
+            "semantic": "Currency collection or offer button."
+        },
+        {
+            "bounds": {
+                "bottom": 241,
+                "left": 951,
+                "right": 1049,
+                "top": 143
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Honor90GT_shortcut_7_43/screen_1740194280875.webp",
+            "semantic": "Currency collection or offer button."
+        },
+        {
+            "bounds": {
+                "bottom": 232,
+                "left": 852,
+                "right": 942,
+                "top": 142
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/OPPO Reno9 Pro5G_shortcut_7_40/screen_1740132952983.webp",
+            "semantic": "Currency collection or offer button."
+        },
+        {
+            "bounds": {
+                "bottom": 237,
+                "left": 972,
+                "right": 1070,
+                "top": 139
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/Redmik70U_shortcut_7_54/screen_1740121955838.webp",
+            "semantic": "Currency collection or offer button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 852,
+                "right": 942,
+                "top": 128
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/honorPlay8T_shortcut_7_89/screen_1740021081034.webp",
+            "semantic": "Currency collection or offer button."
+        },
+        {
+            "bounds": {
+                "bottom": 229,
+                "left": 972,
+                "right": 1070,
+                "top": 131
+            },
+            "img_path": "../data/Weibo/Weibo_view_local_ranking/redmi Turbo 14_shortcut_7_36/screen_1740123849762.webp",
+            "semantic": "Currency collection or offer button."
+        }
+    ]
+]

@@ -1,0 +1,894 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 170,
+                "left": 378,
+                "right": 1221,
+                "top": 78
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_90/screen_1742311489666.webp",
+            "semantic": "\"Orders\" or \"Purchases\" interface tab."
+        },
+        {
+            "bounds": {
+                "bottom": 247,
+                "left": 289,
+                "right": 932,
+                "top": 107
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_shortcut_7_35/screen_1742271632833.webp",
+            "semantic": "\"Orders\" or \"Purchases\" interface tab."
+        },
+        {
+            "bounds": {
+                "bottom": 247,
+                "left": 289,
+                "right": 932,
+                "top": 107
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_bigger_shortcut_7_85/screen_1742287431567.webp",
+            "semantic": "\"Orders\" or \"Purchases\" interface tab."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 255,
+                "right": 825,
+                "top": 108
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/honorPlay8T_shortcut_7_191/screen_1741836856191.webp",
+            "semantic": "\"Orders\" or \"Purchases\" interface tab."
+        },
+        {
+            "bounds": {
+                "bottom": 210,
+                "left": 255,
+                "right": 825,
+                "top": 84
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_shortcut_7_99/screen_1742370595502.webp",
+            "semantic": "\"Orders\" or \"Purchases\" interface tab."
+        },
+        {
+            "bounds": {
+                "bottom": 210,
+                "left": 255,
+                "right": 825,
+                "top": 84
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_bigger_shortcut_7_153/screen_1742384961822.webp",
+            "semantic": "\"Orders\" or \"Purchases\" interface tab."
+        },
+        {
+            "bounds": {
+                "bottom": 170,
+                "left": 378,
+                "right": 1221,
+                "top": 78
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_shortcut_7_50/screen_1742308896626.webp",
+            "semantic": "\"Orders\" or \"Purchases\" interface tab."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 344,
+                "left": 63,
+                "right": 578,
+                "top": 221
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_90/screen_1742311489666.webp",
+            "semantic": "\"Train ticket order\" viewing screen title."
+        },
+        {
+            "bounds": {
+                "bottom": 255,
+                "left": 68,
+                "right": 257,
+                "top": 210
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_shortcut_7_50/screen_1742308896626.webp",
+            "semantic": "\"Train ticket order\" viewing screen title."
+        },
+        {
+            "bounds": {
+                "bottom": 339,
+                "left": 42,
+                "right": 390,
+                "top": 234
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_bigger_shortcut_7_153/screen_1742384961822.webp",
+            "semantic": "\"Train ticket order\" viewing screen title."
+        },
+        {
+            "bounds": {
+                "bottom": 288,
+                "left": 45,
+                "right": 279,
+                "top": 231
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_shortcut_7_99/screen_1742370595502.webp",
+            "semantic": "\"Train ticket order\" viewing screen title."
+        },
+        {
+            "bounds": {
+                "bottom": 351,
+                "left": 52,
+                "right": 315,
+                "top": 279
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/Redmik70U_shortcut_7_141/screen_1742369284221.webp",
+            "semantic": "\"Train ticket order\" viewing screen title."
+        },
+        {
+            "bounds": {
+                "bottom": 312,
+                "left": 45,
+                "right": 279,
+                "top": 255
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/honorPlay8T_shortcut_7_191/screen_1741836856191.webp",
+            "semantic": "\"Train ticket order\" viewing screen title."
+        },
+        {
+            "bounds": {
+                "bottom": 393,
+                "left": 45,
+                "right": 442,
+                "top": 276
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_bigger_shortcut_7_85/screen_1742287431567.webp",
+            "semantic": "\"Train ticket order\" viewing screen title."
+        },
+        {
+            "bounds": {
+                "bottom": 344,
+                "left": 52,
+                "right": 315,
+                "top": 269
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_shortcut_7_35/screen_1742271632833.webp",
+            "semantic": "\"Train ticket order\" viewing screen title."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 397,
+                "left": 1228,
+                "right": 1536,
+                "top": 170
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_90/screen_1742311489666.webp",
+            "semantic": "\"Reminder\" or \"Alert\" feature button."
+        },
+        {
+            "bounds": {
+                "bottom": 364,
+                "left": 965,
+                "right": 1222,
+                "top": 243
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_shortcut_7_35/screen_1742271632833.webp",
+            "semantic": "\"Reminder\" or \"Alert\" feature button."
+        },
+        {
+            "bounds": {
+                "bottom": 422,
+                "left": 936,
+                "right": 1176,
+                "top": 247
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_bigger_shortcut_7_85/screen_1742287431567.webp",
+            "semantic": "\"Reminder\" or \"Alert\" feature button."
+        },
+        {
+            "bounds": {
+                "bottom": 336,
+                "left": 855,
+                "right": 1080,
+                "top": 234
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/honorPlay8T_shortcut_7_191/screen_1741836856191.webp",
+            "semantic": "\"Reminder\" or \"Alert\" feature button."
+        },
+        {
+            "bounds": {
+                "bottom": 373,
+                "left": 965,
+                "right": 1222,
+                "top": 253
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/Redmik70U_shortcut_7_141/screen_1742369284221.webp",
+            "semantic": "\"Reminder\" or \"Alert\" feature button."
+        },
+        {
+            "bounds": {
+                "bottom": 312,
+                "left": 855,
+                "right": 1080,
+                "top": 210
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_shortcut_7_99/screen_1742370595502.webp",
+            "semantic": "\"Reminder\" or \"Alert\" feature button."
+        },
+        {
+            "bounds": {
+                "bottom": 366,
+                "left": 828,
+                "right": 1038,
+                "top": 210
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_bigger_shortcut_7_153/screen_1742384961822.webp",
+            "semantic": "\"Reminder\" or \"Alert\" feature button."
+        },
+        {
+            "bounds": {
+                "bottom": 291,
+                "left": 1357,
+                "right": 1600,
+                "top": 167
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_shortcut_7_50/screen_1742308896626.webp",
+            "semantic": "\"Reminder\" or \"Alert\" feature button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 847,
+                "left": 63,
+                "right": 769,
+                "top": 461
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_90/screen_1742311489666.webp",
+            "semantic": "Pending payment section."
+        },
+        {
+            "bounds": {
+                "bottom": 535,
+                "left": 99,
+                "right": 199,
+                "top": 376
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_shortcut_7_50/screen_1742308896626.webp",
+            "semantic": "Pending payment section."
+        },
+        {
+            "bounds": {
+                "bottom": 669,
+                "left": 42,
+                "right": 519,
+                "top": 408
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_bigger_shortcut_7_153/screen_1742384961822.webp",
+            "semantic": "Pending payment section."
+        },
+        {
+            "bounds": {
+                "bottom": 498,
+                "left": 33,
+                "right": 159,
+                "top": 369
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_shortcut_7_99/screen_1742370595502.webp",
+            "semantic": "Pending payment section."
+        },
+        {
+            "bounds": {
+                "bottom": 585,
+                "left": 39,
+                "right": 178,
+                "top": 435
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/Redmik70U_shortcut_7_141/screen_1742369284221.webp",
+            "semantic": "Pending payment section."
+        },
+        {
+            "bounds": {
+                "bottom": 522,
+                "left": 33,
+                "right": 159,
+                "top": 393
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/honorPlay8T_shortcut_7_191/screen_1741836856191.webp",
+            "semantic": "Pending payment section."
+        },
+        {
+            "bounds": {
+                "bottom": 767,
+                "left": 45,
+                "right": 588,
+                "top": 468
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_bigger_shortcut_7_85/screen_1742287431567.webp",
+            "semantic": "Pending payment section."
+        },
+        {
+            "bounds": {
+                "bottom": 578,
+                "left": 39,
+                "right": 178,
+                "top": 429
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_shortcut_7_35/screen_1742271632833.webp",
+            "semantic": "Pending payment section."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 847,
+                "left": 830,
+                "right": 1536,
+                "top": 461
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_90/screen_1742311489666.webp",
+            "semantic": "Payment completed status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 578,
+                "left": 256,
+                "right": 396,
+                "top": 429
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_shortcut_7_35/screen_1742271632833.webp",
+            "semantic": "Payment completed status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 767,
+                "left": 633,
+                "right": 1176,
+                "top": 468
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_bigger_shortcut_7_85/screen_1742287431567.webp",
+            "semantic": "Payment completed status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 522,
+                "left": 225,
+                "right": 351,
+                "top": 393
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/honorPlay8T_shortcut_7_191/screen_1741836856191.webp",
+            "semantic": "Payment completed status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 585,
+                "left": 256,
+                "right": 396,
+                "top": 435
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/Redmik70U_shortcut_7_141/screen_1742369284221.webp",
+            "semantic": "Payment completed status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 498,
+                "left": 225,
+                "right": 351,
+                "top": 369
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_shortcut_7_99/screen_1742370595502.webp",
+            "semantic": "Payment completed status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 669,
+                "left": 561,
+                "right": 1038,
+                "top": 408
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_bigger_shortcut_7_153/screen_1742384961822.webp",
+            "semantic": "Payment completed status indicator."
+        },
+        {
+            "bounds": {
+                "bottom": 535,
+                "left": 399,
+                "right": 501,
+                "top": 376
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_shortcut_7_50/screen_1742308896626.webp",
+            "semantic": "Payment completed status indicator."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1304,
+                "left": 63,
+                "right": 769,
+                "top": 918
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_90/screen_1742311489666.webp",
+            "semantic": "\"Pending supplement order\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 535,
+                "left": 701,
+                "right": 833,
+                "top": 376
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_shortcut_7_50/screen_1742308896626.webp",
+            "semantic": "\"Pending supplement order\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 978,
+                "left": 42,
+                "right": 519,
+                "top": 714
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_bigger_shortcut_7_153/screen_1742384961822.webp",
+            "semantic": "\"Pending supplement order\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 498,
+                "left": 417,
+                "right": 582,
+                "top": 369
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_shortcut_7_99/screen_1742370595502.webp",
+            "semantic": "\"Pending supplement order\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 585,
+                "left": 471,
+                "right": 659,
+                "top": 435
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/Redmik70U_shortcut_7_141/screen_1742369284221.webp",
+            "semantic": "\"Pending supplement order\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 522,
+                "left": 417,
+                "right": 582,
+                "top": 393
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/honorPlay8T_shortcut_7_191/screen_1741836856191.webp",
+            "semantic": "\"Pending supplement order\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1114,
+                "left": 45,
+                "right": 588,
+                "top": 819
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_bigger_shortcut_7_85/screen_1742287431567.webp",
+            "semantic": "\"Pending supplement order\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 578,
+                "left": 471,
+                "right": 659,
+                "top": 429
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_shortcut_7_35/screen_1742271632833.webp",
+            "semantic": "\"Pending supplement order\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1304,
+                "left": 830,
+                "right": 1536,
+                "top": 918
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_90/screen_1742311489666.webp",
+            "semantic": "Insurance order function button."
+        },
+        {
+            "bounds": {
+                "bottom": 939,
+                "left": 0,
+                "right": 1222,
+                "top": 789
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_shortcut_7_35/screen_1742271632833.webp",
+            "semantic": "Insurance order function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1114,
+                "left": 633,
+                "right": 1176,
+                "top": 819
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_bigger_shortcut_7_85/screen_1742287431567.webp",
+            "semantic": "Insurance order function button."
+        },
+        {
+            "bounds": {
+                "bottom": 849,
+                "left": 0,
+                "right": 1080,
+                "top": 714
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/honorPlay8T_shortcut_7_191/screen_1741836856191.webp",
+            "semantic": "Insurance order function button."
+        },
+        {
+            "bounds": {
+                "bottom": 949,
+                "left": 0,
+                "right": 1222,
+                "top": 796
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/Redmik70U_shortcut_7_141/screen_1742369284221.webp",
+            "semantic": "Insurance order function button."
+        },
+        {
+            "bounds": {
+                "bottom": 825,
+                "left": 0,
+                "right": 1080,
+                "top": 690
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_shortcut_7_99/screen_1742370595502.webp",
+            "semantic": "Insurance order function button."
+        },
+        {
+            "bounds": {
+                "bottom": 978,
+                "left": 561,
+                "right": 1038,
+                "top": 714
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_bigger_shortcut_7_153/screen_1742384961822.webp",
+            "semantic": "Insurance order function button."
+        },
+        {
+            "bounds": {
+                "bottom": 884,
+                "left": 0,
+                "right": 1600,
+                "top": 752
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_shortcut_7_50/screen_1742308896626.webp",
+            "semantic": "Insurance order function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1761,
+                "left": 63,
+                "right": 769,
+                "top": 1374
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_90/screen_1742311489666.webp",
+            "semantic": "\"Personal train ticket purchase or management function button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 535,
+                "left": 1032,
+                "right": 1166,
+                "top": 376
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_shortcut_7_50/screen_1742308896626.webp",
+            "semantic": "\"Personal train ticket purchase or management function button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1284,
+                "left": 42,
+                "right": 519,
+                "top": 1023
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_bigger_shortcut_7_153/screen_1742384961822.webp",
+            "semantic": "\"Personal train ticket purchase or management function button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 498,
+                "left": 651,
+                "right": 813,
+                "top": 369
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_shortcut_7_99/screen_1742370595502.webp",
+            "semantic": "\"Personal train ticket purchase or management function button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 585,
+                "left": 734,
+                "right": 923,
+                "top": 435
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/Redmik70U_shortcut_7_141/screen_1742369284221.webp",
+            "semantic": "\"Personal train ticket purchase or management function button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 522,
+                "left": 651,
+                "right": 813,
+                "top": 393
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/honorPlay8T_shortcut_7_191/screen_1741836856191.webp",
+            "semantic": "\"Personal train ticket purchase or management function button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1462,
+                "left": 45,
+                "right": 588,
+                "top": 1166
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_bigger_shortcut_7_85/screen_1742287431567.webp",
+            "semantic": "\"Personal train ticket purchase or management function button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 578,
+                "left": 734,
+                "right": 923,
+                "top": 429
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_shortcut_7_35/screen_1742271632833.webp",
+            "semantic": "\"Personal train ticket purchase or management function button.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 0,
+                "right": 533,
+                "top": 2433
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_90/screen_1742311489666.webp",
+            "semantic": "Homepage button."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 0,
+                "right": 244,
+                "top": 2493
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_shortcut_7_35/screen_1742271632833.webp",
+            "semantic": "Homepage button."
+        },
+        {
+            "bounds": {
+                "bottom": 2659,
+                "left": 0,
+                "right": 406,
+                "top": 2465
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_bigger_shortcut_7_85/screen_1742287431567.webp",
+            "semantic": "Homepage button."
+        },
+        {
+            "bounds": {
+                "bottom": 2412,
+                "left": 0,
+                "right": 216,
+                "top": 2258
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/honorPlay8T_shortcut_7_191/screen_1741836856191.webp",
+            "semantic": "Homepage button."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 0,
+                "right": 244,
+                "top": 2548
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/Redmik70U_shortcut_7_141/screen_1742369284221.webp",
+            "semantic": "Homepage button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 0,
+                "right": 216,
+                "top": 2247
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_shortcut_7_99/screen_1742370595502.webp",
+            "semantic": "Homepage button."
+        },
+        {
+            "bounds": {
+                "bottom": 2397,
+                "left": 0,
+                "right": 360,
+                "top": 2220
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_bigger_shortcut_7_153/screen_1742384961822.webp",
+            "semantic": "Homepage button."
+        },
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 0,
+                "right": 320,
+                "top": 2449
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_shortcut_7_50/screen_1742308896626.webp",
+            "semantic": "Homepage button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 533,
+                "right": 1066,
+                "top": 2433
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_90/screen_1742311489666.webp",
+            "semantic": "\"Orders\" tab button in a mobile application for train ticket management."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 488,
+                "right": 732,
+                "top": 2493
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_shortcut_7_35/screen_1742271632833.webp",
+            "semantic": "\"Orders\" tab button in a mobile application for train ticket management."
+        },
+        {
+            "bounds": {
+                "bottom": 2659,
+                "left": 406,
+                "right": 813,
+                "top": 2465
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_bigger_shortcut_7_85/screen_1742287431567.webp",
+            "semantic": "\"Orders\" tab button in a mobile application for train ticket management."
+        },
+        {
+            "bounds": {
+                "bottom": 2412,
+                "left": 432,
+                "right": 648,
+                "top": 2258
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/honorPlay8T_shortcut_7_191/screen_1741836856191.webp",
+            "semantic": "\"Orders\" tab button in a mobile application for train ticket management."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 488,
+                "right": 732,
+                "top": 2548
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/Redmik70U_shortcut_7_141/screen_1742369284221.webp",
+            "semantic": "\"Orders\" tab button in a mobile application for train ticket management."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 432,
+                "right": 648,
+                "top": 2247
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_shortcut_7_99/screen_1742370595502.webp",
+            "semantic": "\"Orders\" tab button in a mobile application for train ticket management."
+        },
+        {
+            "bounds": {
+                "bottom": 2397,
+                "left": 360,
+                "right": 720,
+                "top": 2220
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_bigger_shortcut_7_153/screen_1742384961822.webp",
+            "semantic": "\"Orders\" tab button in a mobile application for train ticket management."
+        },
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 640,
+                "right": 960,
+                "top": 2449
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_shortcut_7_50/screen_1742308896626.webp",
+            "semantic": "\"Orders\" tab button in a mobile application for train ticket management."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 1066,
+                "right": 1600,
+                "top": 2433
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_90/screen_1742311489666.webp",
+            "semantic": "User profile or account settings button."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 976,
+                "right": 1220,
+                "top": 2493
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_shortcut_7_35/screen_1742271632833.webp",
+            "semantic": "User profile or account settings button."
+        },
+        {
+            "bounds": {
+                "bottom": 2659,
+                "left": 813,
+                "right": 1220,
+                "top": 2465
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_bigger_shortcut_7_85/screen_1742287431567.webp",
+            "semantic": "User profile or account settings button."
+        },
+        {
+            "bounds": {
+                "bottom": 2412,
+                "left": 864,
+                "right": 1080,
+                "top": 2258
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/honorPlay8T_shortcut_7_191/screen_1741836856191.webp",
+            "semantic": "User profile or account settings button."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 976,
+                "right": 1220,
+                "top": 2548
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/Redmik70U_shortcut_7_141/screen_1742369284221.webp",
+            "semantic": "User profile or account settings button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 864,
+                "right": 1080,
+                "top": 2247
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_shortcut_7_99/screen_1742370595502.webp",
+            "semantic": "User profile or account settings button."
+        },
+        {
+            "bounds": {
+                "bottom": 2397,
+                "left": 720,
+                "right": 1080,
+                "top": 2220
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_bigger_shortcut_7_153/screen_1742384961822.webp",
+            "semantic": "User profile or account settings button."
+        },
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 1280,
+                "right": 1600,
+                "top": 2449
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_shortcut_7_50/screen_1742308896626.webp",
+            "semantic": "User profile or account settings button."
+        }
+    ]
+]

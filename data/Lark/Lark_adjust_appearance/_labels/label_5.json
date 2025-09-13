@@ -1,0 +1,238 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 2260,
+                "left": 665,
+                "right": 935,
+                "top": 2219
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/HUAWEl MatePad Pro MRX-W39_shortcut_7_61/screen_1740151757020.webp",
+            "semantic": "Confirm appearance change and restart option."
+        },
+        {
+            "bounds": {
+                "bottom": 2278,
+                "left": 674,
+                "right": 926,
+                "top": 2240
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_65/screen_1740142643727.webp",
+            "semantic": "Confirm appearance change and restart option."
+        },
+        {
+            "bounds": {
+                "bottom": 2198,
+                "left": 357,
+                "right": 843,
+                "top": 2125
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/Honor90GT_shortcut_7_66/screen_1740196083508.webp",
+            "semantic": "Confirm appearance change and restart option."
+        },
+        {
+            "bounds": {
+                "bottom": 1940,
+                "left": 351,
+                "right": 729,
+                "top": 1883
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/OPPO Reno9 Pro5G_shortcut_7_64/screen_1740134363627.webp",
+            "semantic": "Confirm appearance change and restart option."
+        },
+        {
+            "bounds": {
+                "bottom": 2253,
+                "left": 403,
+                "right": 817,
+                "top": 2195
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/Redmik70U_shortcut_7_76/screen_1740124421503.webp",
+            "semantic": "Confirm appearance change and restart option."
+        },
+        {
+            "bounds": {
+                "bottom": 1988,
+                "left": 72,
+                "right": 1008,
+                "top": 1931
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/honorPlay8T_shortcut_7_129/screen_1740043136627.webp",
+            "semantic": "Confirm appearance change and restart option."
+        },
+        {
+            "bounds": {
+                "bottom": 2201,
+                "left": 403,
+                "right": 817,
+                "top": 2139
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/redmi Turbo 14_shortcut_7_63/screen_1740140323773.webp",
+            "semantic": "Confirm appearance change and restart option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2375,
+                "left": 764,
+                "right": 836,
+                "top": 2326
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/HUAWEl MatePad Pro MRX-W39_shortcut_7_61/screen_1740151757020.webp",
+            "semantic": "Confirm button for applying selected theme."
+        },
+        {
+            "bounds": {
+                "bottom": 2386,
+                "left": 766,
+                "right": 834,
+                "top": 2340
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_65/screen_1740142643727.webp",
+            "semantic": "Confirm button for applying selected theme."
+        },
+        {
+            "bounds": {
+                "bottom": 2343,
+                "left": 756,
+                "right": 842,
+                "top": 2285
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_72/screen_1740129577220.webp",
+            "semantic": "Confirm button for applying selected theme."
+        },
+        {
+            "bounds": {
+                "bottom": 2381,
+                "left": 538,
+                "right": 662,
+                "top": 2298
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/Honor90GT_shortcut_7_66/screen_1740196083508.webp",
+            "semantic": "Confirm button for applying selected theme."
+        },
+        {
+            "bounds": {
+                "bottom": 2102,
+                "left": 489,
+                "right": 591,
+                "top": 2034
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/OPPO Reno9 Pro5G_shortcut_7_64/screen_1740134363627.webp",
+            "semantic": "Confirm button for applying selected theme."
+        },
+        {
+            "bounds": {
+                "bottom": 2426,
+                "left": 555,
+                "right": 665,
+                "top": 2357
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/Redmik70U_shortcut_7_76/screen_1740124421503.webp",
+            "semantic": "Confirm button for applying selected theme."
+        },
+        {
+            "bounds": {
+                "bottom": 2150,
+                "left": 489,
+                "right": 591,
+                "top": 2082
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/honorPlay8T_shortcut_7_129/screen_1740043136627.webp",
+            "semantic": "Confirm button for applying selected theme."
+        },
+        {
+            "bounds": {
+                "bottom": 2376,
+                "left": 555,
+                "right": 665,
+                "top": 2302
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/redmi Turbo 14_shortcut_7_63/screen_1740140323773.webp",
+            "semantic": "Confirm button for applying selected theme."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2535,
+                "left": 322,
+                "right": 1278,
+                "top": 2433
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/HUAWEl MatePad Pro MRX-W39_shortcut_7_61/screen_1740151757020.webp",
+            "semantic": "\"Cancel\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 2536,
+                "left": 350,
+                "right": 1250,
+                "top": 2440
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_65/screen_1740142643727.webp",
+            "semantic": "\"Cancel\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 2530,
+                "left": 237,
+                "right": 1362,
+                "top": 2410
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_72/screen_1740129577220.webp",
+            "semantic": "\"Cancel\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 2625,
+                "left": 39,
+                "right": 1161,
+                "top": 2468
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/Honor90GT_shortcut_7_66/screen_1740196083508.webp",
+            "semantic": "\"Cancel\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 2328,
+                "left": 36,
+                "right": 1044,
+                "top": 2184
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/OPPO Reno9 Pro5G_shortcut_7_64/screen_1740134363627.webp",
+            "semantic": "\"Cancel\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 2673,
+                "left": 39,
+                "right": 1181,
+                "top": 2517
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/Redmik70U_shortcut_7_76/screen_1740124421503.webp",
+            "semantic": "\"Cancel\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 2376,
+                "left": 36,
+                "right": 1044,
+                "top": 2232
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/honorPlay8T_shortcut_7_129/screen_1740043136627.webp",
+            "semantic": "\"Cancel\" action button."
+        },
+        {
+            "bounds": {
+                "bottom": 2621,
+                "left": 39,
+                "right": 1181,
+                "top": 2465
+            },
+            "img_path": "../data/Lark/Lark_adjust_appearance/redmi Turbo 14_shortcut_7_63/screen_1740140323773.webp",
+            "semantic": "\"Cancel\" action button."
+        }
+    ]
+]

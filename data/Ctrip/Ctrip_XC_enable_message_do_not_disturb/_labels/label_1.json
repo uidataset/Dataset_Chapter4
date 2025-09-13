@@ -1,0 +1,1258 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 154,
+                "left": 878,
+                "right": 921,
+                "top": 111
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "\"Clear notifications\" or \"Delete messages\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 236,
+                "left": 719,
+                "right": 785,
+                "top": 170
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "\"Clear notifications\" or \"Delete messages\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 189,
+                "left": 618,
+                "right": 678,
+                "top": 129
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "\"Clear notifications\" or \"Delete messages\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 227,
+                "left": 618,
+                "right": 678,
+                "top": 167
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "\"Clear notifications\" or \"Delete messages\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 232,
+                "left": 742,
+                "right": 807,
+                "top": 167
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Redmik70U_shortcut_7_159/screen_1742370890539.webp",
+            "semantic": "\"Clear notifications\" or \"Delete messages\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 213,
+                "left": 618,
+                "right": 678,
+                "top": 153
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/honorPlay8T_shortcut_7_208/screen_1741840822085.webp",
+            "semantic": "\"Clear notifications\" or \"Delete messages\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 224,
+                "left": 751,
+                "right": 816,
+                "top": 159
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "\"Clear notifications\" or \"Delete messages\" button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 186,
+                "left": 1446,
+                "right": 1510,
+                "top": 80
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "Customer service function button."
+        },
+        {
+            "bounds": {
+                "bottom": 285,
+                "left": 964,
+                "right": 1062,
+                "top": 121
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "Customer service function button."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 864,
+                "right": 954,
+                "top": 84
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "Customer service function button."
+        },
+        {
+            "bounds": {
+                "bottom": 272,
+                "left": 864,
+                "right": 954,
+                "top": 122
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "Customer service function button."
+        },
+        {
+            "bounds": {
+                "bottom": 281,
+                "left": 984,
+                "right": 1082,
+                "top": 118
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Redmik70U_shortcut_7_159/screen_1742370890539.webp",
+            "semantic": "Customer service function button."
+        },
+        {
+            "bounds": {
+                "bottom": 258,
+                "left": 864,
+                "right": 954,
+                "top": 108
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/honorPlay8T_shortcut_7_208/screen_1741840822085.webp",
+            "semantic": "Customer service function button."
+        },
+        {
+            "bounds": {
+                "bottom": 273,
+                "left": 984,
+                "right": 1082,
+                "top": 110
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "Customer service function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 186,
+                "left": 1514,
+                "right": 1578,
+                "top": 80
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "Settings or configuration options."
+        },
+        {
+            "bounds": {
+                "bottom": 273,
+                "left": 1089,
+                "right": 1187,
+                "top": 110
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "Settings or configuration options."
+        },
+        {
+            "bounds": {
+                "bottom": 258,
+                "left": 960,
+                "right": 1050,
+                "top": 108
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/honorPlay8T_shortcut_7_208/screen_1741840822085.webp",
+            "semantic": "Settings or configuration options."
+        },
+        {
+            "bounds": {
+                "bottom": 281,
+                "left": 1089,
+                "right": 1187,
+                "top": 118
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Redmik70U_shortcut_7_159/screen_1742370890539.webp",
+            "semantic": "Settings or configuration options."
+        },
+        {
+            "bounds": {
+                "bottom": 272,
+                "left": 960,
+                "right": 1050,
+                "top": 122
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "Settings or configuration options."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 960,
+                "right": 1050,
+                "top": 84
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "Settings or configuration options."
+        },
+        {
+            "bounds": {
+                "bottom": 285,
+                "left": 1069,
+                "right": 1167,
+                "top": 121
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "Settings or configuration options."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 340,
+                "left": 195,
+                "right": 289,
+                "top": 246
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "\"Order Records\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 142,
+                "right": 286,
+                "top": 376
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "\"Order Records\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 450,
+                "left": 127,
+                "right": 259,
+                "top": 318
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "\"Order Records\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 626,
+                "left": 127,
+                "right": 259,
+                "top": 494
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "\"Order Records\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 665,
+                "left": 144,
+                "right": 287,
+                "top": 522
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Redmik70U_shortcut_7_159/screen_1742370890539.webp",
+            "semantic": "\"Order Records\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 474,
+                "left": 127,
+                "right": 259,
+                "top": 342
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/honorPlay8T_shortcut_7_208/screen_1741840822085.webp",
+            "semantic": "\"Order Records\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 507,
+                "left": 144,
+                "right": 287,
+                "top": 364
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "\"Order Records\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 391,
+                "left": 175,
+                "right": 309,
+                "top": 358
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "\"Order Travel\" or \"Trip Orders\" section button."
+        },
+        {
+            "bounds": {
+                "bottom": 589,
+                "left": 115,
+                "right": 315,
+                "top": 533
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "\"Order Travel\" or \"Trip Orders\" section button."
+        },
+        {
+            "bounds": {
+                "bottom": 544,
+                "left": 100,
+                "right": 286,
+                "top": 498
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/honorPlay8T_shortcut_7_208/screen_1741840822085.webp",
+            "semantic": "\"Order Travel\" or \"Trip Orders\" section button."
+        },
+        {
+            "bounds": {
+                "bottom": 743,
+                "left": 115,
+                "right": 315,
+                "top": 691
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Redmik70U_shortcut_7_159/screen_1742370890539.webp",
+            "semantic": "\"Order Travel\" or \"Trip Orders\" section button."
+        },
+        {
+            "bounds": {
+                "bottom": 702,
+                "left": 100,
+                "right": 286,
+                "top": 650
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "\"Order Travel\" or \"Trip Orders\" section button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 100,
+                "right": 286,
+                "top": 474
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "\"Order Travel\" or \"Trip Orders\" section button."
+        },
+        {
+            "bounds": {
+                "bottom": 596,
+                "left": 112,
+                "right": 316,
+                "top": 546
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "\"Order Travel\" or \"Trip Orders\" section button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 340,
+                "left": 567,
+                "right": 661,
+                "top": 246
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "\"Interactive Message\" notification icon."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 399,
+                "right": 543,
+                "top": 376
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "\"Interactive Message\" notification icon."
+        },
+        {
+            "bounds": {
+                "bottom": 450,
+                "left": 358,
+                "right": 490,
+                "top": 318
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "\"Interactive Message\" notification icon."
+        },
+        {
+            "bounds": {
+                "bottom": 626,
+                "left": 358,
+                "right": 490,
+                "top": 494
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "\"Interactive Message\" notification icon."
+        },
+        {
+            "bounds": {
+                "bottom": 665,
+                "left": 407,
+                "right": 550,
+                "top": 522
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Redmik70U_shortcut_7_159/screen_1742370890539.webp",
+            "semantic": "\"Interactive Message\" notification icon."
+        },
+        {
+            "bounds": {
+                "bottom": 474,
+                "left": 358,
+                "right": 490,
+                "top": 342
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/honorPlay8T_shortcut_7_208/screen_1741840822085.webp",
+            "semantic": "\"Interactive Message\" notification icon."
+        },
+        {
+            "bounds": {
+                "bottom": 507,
+                "left": 407,
+                "right": 550,
+                "top": 364
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "\"Interactive Message\" notification icon."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 391,
+                "left": 547,
+                "right": 681,
+                "top": 358
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "Interactive messages tab."
+        },
+        {
+            "bounds": {
+                "bottom": 589,
+                "left": 378,
+                "right": 578,
+                "top": 533
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "Interactive messages tab."
+        },
+        {
+            "bounds": {
+                "bottom": 544,
+                "left": 331,
+                "right": 517,
+                "top": 498
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/honorPlay8T_shortcut_7_208/screen_1741840822085.webp",
+            "semantic": "Interactive messages tab."
+        },
+        {
+            "bounds": {
+                "bottom": 743,
+                "left": 378,
+                "right": 578,
+                "top": 691
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Redmik70U_shortcut_7_159/screen_1742370890539.webp",
+            "semantic": "Interactive messages tab."
+        },
+        {
+            "bounds": {
+                "bottom": 702,
+                "left": 331,
+                "right": 517,
+                "top": 650
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "Interactive messages tab."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 331,
+                "right": 517,
+                "top": 474
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "Interactive messages tab."
+        },
+        {
+            "bounds": {
+                "bottom": 596,
+                "left": 369,
+                "right": 573,
+                "top": 546
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "Interactive messages tab."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 340,
+                "left": 939,
+                "right": 1033,
+                "top": 246
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "Notification or alert function button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 656,
+                "right": 800,
+                "top": 376
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "Notification or alert function button."
+        },
+        {
+            "bounds": {
+                "bottom": 450,
+                "left": 589,
+                "right": 721,
+                "top": 318
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "Notification or alert function button."
+        },
+        {
+            "bounds": {
+                "bottom": 626,
+                "left": 589,
+                "right": 721,
+                "top": 494
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "Notification or alert function button."
+        },
+        {
+            "bounds": {
+                "bottom": 665,
+                "left": 670,
+                "right": 813,
+                "top": 522
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Redmik70U_shortcut_7_159/screen_1742370890539.webp",
+            "semantic": "Notification or alert function button."
+        },
+        {
+            "bounds": {
+                "bottom": 474,
+                "left": 589,
+                "right": 721,
+                "top": 342
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/honorPlay8T_shortcut_7_208/screen_1741840822085.webp",
+            "semantic": "Notification or alert function button."
+        },
+        {
+            "bounds": {
+                "bottom": 507,
+                "left": 670,
+                "right": 813,
+                "top": 364
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "Notification or alert function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 391,
+                "left": 919,
+                "right": 1053,
+                "top": 358
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "Account notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 589,
+                "left": 641,
+                "right": 841,
+                "top": 533
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "Account notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 544,
+                "left": 562,
+                "right": 748,
+                "top": 498
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/honorPlay8T_shortcut_7_208/screen_1741840822085.webp",
+            "semantic": "Account notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 743,
+                "left": 641,
+                "right": 841,
+                "top": 691
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Redmik70U_shortcut_7_159/screen_1742370890539.webp",
+            "semantic": "Account notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 702,
+                "left": 562,
+                "right": 748,
+                "top": 650
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "Account notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 562,
+                "right": 748,
+                "top": 474
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "Account notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 596,
+                "left": 626,
+                "right": 830,
+                "top": 546
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "Account notification button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 340,
+                "left": 1311,
+                "right": 1405,
+                "top": 246
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "\"Membership services\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 913,
+                "right": 1057,
+                "top": 376
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "\"Membership services\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 450,
+                "left": 820,
+                "right": 952,
+                "top": 318
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "\"Membership services\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 626,
+                "left": 820,
+                "right": 952,
+                "top": 494
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "\"Membership services\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 665,
+                "left": 933,
+                "right": 1076,
+                "top": 522
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Redmik70U_shortcut_7_159/screen_1742370890539.webp",
+            "semantic": "\"Membership services\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 474,
+                "left": 820,
+                "right": 952,
+                "top": 342
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/honorPlay8T_shortcut_7_208/screen_1741840822085.webp",
+            "semantic": "\"Membership services\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 507,
+                "left": 933,
+                "right": 1076,
+                "top": 364
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "\"Membership services\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 391,
+                "left": 1291,
+                "right": 1425,
+                "top": 358
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "\"Member Services\" button or section label."
+        },
+        {
+            "bounds": {
+                "bottom": 589,
+                "left": 904,
+                "right": 1104,
+                "top": 533
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "\"Member Services\" button or section label."
+        },
+        {
+            "bounds": {
+                "bottom": 544,
+                "left": 793,
+                "right": 979,
+                "top": 498
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/honorPlay8T_shortcut_7_208/screen_1741840822085.webp",
+            "semantic": "\"Member Services\" button or section label."
+        },
+        {
+            "bounds": {
+                "bottom": 743,
+                "left": 904,
+                "right": 1104,
+                "top": 691
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Redmik70U_shortcut_7_159/screen_1742370890539.webp",
+            "semantic": "\"Member Services\" button or section label."
+        },
+        {
+            "bounds": {
+                "bottom": 702,
+                "left": 793,
+                "right": 979,
+                "top": 650
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "\"Member Services\" button or section label."
+        },
+        {
+            "bounds": {
+                "bottom": 520,
+                "left": 793,
+                "right": 979,
+                "top": 474
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "\"Member Services\" button or section label."
+        },
+        {
+            "bounds": {
+                "bottom": 596,
+                "left": 883,
+                "right": 1087,
+                "top": 546
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "\"Member Services\" button or section label."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 741,
+                "left": 34,
+                "right": 128,
+                "top": 647
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "Notification or Announcement prompt."
+        },
+        {
+            "bounds": {
+                "bottom": 883,
+                "left": 52,
+                "right": 196,
+                "top": 739
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "Notification or Announcement prompt."
+        },
+        {
+            "bounds": {
+                "bottom": 1012,
+                "left": 48,
+                "right": 180,
+                "top": 880
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "Notification or Announcement prompt."
+        },
+        {
+            "bounds": {
+                "bottom": 1194,
+                "left": 48,
+                "right": 180,
+                "top": 1062
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "Notification or Announcement prompt."
+        },
+        {
+            "bounds": {
+                "bottom": 1122,
+                "left": 52,
+                "right": 195,
+                "top": 979
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "Notification or Announcement prompt."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 691,
+                "left": 162,
+                "right": 294,
+                "top": 647
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "\"Activity Promotions\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 807,
+                "left": 248,
+                "right": 452,
+                "top": 739
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "\"Activity Promotions\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 943,
+                "left": 228,
+                "right": 416,
+                "top": 880
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "\"Activity Promotions\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 1125,
+                "left": 228,
+                "right": 416,
+                "top": 1062
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "\"Activity Promotions\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 1047,
+                "left": 247,
+                "right": 447,
+                "top": 979
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "\"Activity Promotions\" section header."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 0,
+                "right": 320,
+                "top": 2456
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "\"Home\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 0,
+                "right": 240,
+                "top": 2504
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "\"Home\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 0,
+                "right": 216,
+                "top": 2253
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "\"Home\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2364,
+                "left": 0,
+                "right": 216,
+                "top": 2217
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "\"Home\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 0,
+                "right": 244,
+                "top": 2553
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Redmik70U_shortcut_7_159/screen_1742370890539.webp",
+            "semantic": "\"Home\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2412,
+                "left": 0,
+                "right": 216,
+                "top": 2265
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/honorPlay8T_shortcut_7_208/screen_1741840822085.webp",
+            "semantic": "\"Home\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 0,
+                "right": 244,
+                "top": 2501
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "\"Home\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 320,
+                "right": 640,
+                "top": 2456
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "Message or Inbox section button notification."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 244,
+                "right": 488,
+                "top": 2501
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "Message or Inbox section button notification."
+        },
+        {
+            "bounds": {
+                "bottom": 2412,
+                "left": 216,
+                "right": 432,
+                "top": 2265
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/honorPlay8T_shortcut_7_208/screen_1741840822085.webp",
+            "semantic": "Message or Inbox section button notification."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 244,
+                "right": 488,
+                "top": 2553
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Redmik70U_shortcut_7_159/screen_1742370890539.webp",
+            "semantic": "Message or Inbox section button notification."
+        },
+        {
+            "bounds": {
+                "bottom": 2364,
+                "left": 216,
+                "right": 432,
+                "top": 2217
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "Message or Inbox section button notification."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 216,
+                "right": 432,
+                "top": 2253
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "Message or Inbox section button notification."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 240,
+                "right": 480,
+                "top": 2504
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "Message or Inbox section button notification."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2550,
+                "left": 753,
+                "right": 847,
+                "top": 2456
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "Add new content or create a new item."
+        },
+        {
+            "bounds": {
+                "bottom": 2644,
+                "left": 538,
+                "right": 681,
+                "top": 2501
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "Add new content or create a new item."
+        },
+        {
+            "bounds": {
+                "bottom": 2397,
+                "left": 474,
+                "right": 606,
+                "top": 2265
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/honorPlay8T_shortcut_7_208/screen_1741840822085.webp",
+            "semantic": "Add new content or create a new item."
+        },
+        {
+            "bounds": {
+                "bottom": 2696,
+                "left": 538,
+                "right": 681,
+                "top": 2553
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Redmik70U_shortcut_7_159/screen_1742370890539.webp",
+            "semantic": "Add new content or create a new item."
+        },
+        {
+            "bounds": {
+                "bottom": 2349,
+                "left": 474,
+                "right": 606,
+                "top": 2217
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "Add new content or create a new item."
+        },
+        {
+            "bounds": {
+                "bottom": 2385,
+                "left": 474,
+                "right": 606,
+                "top": 2253
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "Add new content or create a new item."
+        },
+        {
+            "bounds": {
+                "bottom": 2648,
+                "left": 528,
+                "right": 672,
+                "top": 2504
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "Add new content or create a new item."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 960,
+                "right": 1280,
+                "top": 2456
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "Schedule or calendar function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 720,
+                "right": 960,
+                "top": 2504
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "Schedule or calendar function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 648,
+                "right": 864,
+                "top": 2253
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "Schedule or calendar function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2364,
+                "left": 648,
+                "right": 864,
+                "top": 2217
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "Schedule or calendar function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 732,
+                "right": 976,
+                "top": 2553
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Redmik70U_shortcut_7_159/screen_1742370890539.webp",
+            "semantic": "Schedule or calendar function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2412,
+                "left": 648,
+                "right": 864,
+                "top": 2265
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/honorPlay8T_shortcut_7_208/screen_1741840822085.webp",
+            "semantic": "Schedule or calendar function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 732,
+                "right": 976,
+                "top": 2501
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "Schedule or calendar function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 1280,
+                "right": 1600,
+                "top": 2456
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/HUAWEl MatePad Pro MRX-W39_shortcut_7_60/screen_1742309629057.webp",
+            "semantic": "\"User profile or account information section button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 976,
+                "right": 1220,
+                "top": 2501
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/redmi Turbo 14_shortcut_7_44/screen_1742272358126.webp",
+            "semantic": "\"User profile or account information section button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2412,
+                "left": 864,
+                "right": 1080,
+                "top": 2265
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/honorPlay8T_shortcut_7_208/screen_1741840822085.webp",
+            "semantic": "\"User profile or account information section button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 976,
+                "right": 1220,
+                "top": 2553
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Redmik70U_shortcut_7_159/screen_1742370890539.webp",
+            "semantic": "\"User profile or account information section button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2364,
+                "left": 864,
+                "right": 1080,
+                "top": 2217
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/OPPO Reno9 Pro5G_shortcut_7_39/screen_1742272509310.webp",
+            "semantic": "\"User profile or account information section button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 864,
+                "right": 1080,
+                "top": 2253
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/IQOONeo5_shortcut_7_116/screen_1742381840068.webp",
+            "semantic": "\"User profile or account information section button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 960,
+                "right": 1200,
+                "top": 2504
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_enable_message_do_not_disturb/Honor90GT_shortcut_7_123/screen_1742382346533.webp",
+            "semantic": "\"User profile or account information section button.\""
+        }
+    ]
+]

@@ -1,0 +1,558 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 161,
+                "left": 30,
+                "right": 98,
+                "top": 93
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro MRX-W39_shortcut_7_68/screen_1740152410460.webp",
+            "semantic": "Close or exit button."
+        },
+        {
+            "bounds": {
+                "bottom": 140,
+                "left": 28,
+                "right": 92,
+                "top": 76
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_45/screen_1740313815794.webp",
+            "semantic": "Close or exit button."
+        },
+        {
+            "bounds": {
+                "bottom": 175,
+                "left": 35,
+                "right": 115,
+                "top": 95
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_57/screen_1740336082343.webp",
+            "semantic": "Close or exit button."
+        },
+        {
+            "bounds": {
+                "bottom": 245,
+                "left": 46,
+                "right": 151,
+                "top": 140
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/Honor90GT_dark_shortcut_7_58/screen_1740571817632.webp",
+            "semantic": "Close or exit button."
+        },
+        {
+            "bounds": {
+                "bottom": 236,
+                "left": 42,
+                "right": 138,
+                "top": 140
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/OPPO Reno9 Pro5G_dark_shortcut_7_55/screen_1740311231704.webp",
+            "semantic": "Close or exit button."
+        },
+        {
+            "bounds": {
+                "bottom": 241,
+                "left": 46,
+                "right": 150,
+                "top": 137
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/Redmik70U_dark_shortcut_7_57/screen_1740307440132.webp",
+            "semantic": "Close or exit button."
+        },
+        {
+            "bounds": {
+                "bottom": 233,
+                "left": 46,
+                "right": 150,
+                "top": 129
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/redmi Turbo 14_dark_shortcut_7_56/screen_1740326447206.webp",
+            "semantic": "Close or exit button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 849,
+                "left": 1200,
+                "right": 1277,
+                "top": 772
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro MRX-W39_shortcut_7_68/screen_1740152410460.webp",
+            "semantic": "Background effect adjustment button."
+        },
+        {
+            "bounds": {
+                "bottom": 869,
+                "left": 1176,
+                "right": 1248,
+                "top": 797
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_45/screen_1740313815794.webp",
+            "semantic": "Background effect adjustment button."
+        },
+        {
+            "bounds": {
+                "bottom": 767,
+                "left": 1270,
+                "right": 1360,
+                "top": 677
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_57/screen_1740336082343.webp",
+            "semantic": "Background effect adjustment button."
+        },
+        {
+            "bounds": {
+                "bottom": 954,
+                "left": 991,
+                "right": 1109,
+                "top": 836
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/Honor90GT_dark_shortcut_7_58/screen_1740571817632.webp",
+            "semantic": "Background effect adjustment button."
+        },
+        {
+            "bounds": {
+                "bottom": 849,
+                "left": 888,
+                "right": 996,
+                "top": 741
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/OPPO Reno9 Pro5G_dark_shortcut_7_55/screen_1740311231704.webp",
+            "semantic": "Background effect adjustment button."
+        },
+        {
+            "bounds": {
+                "bottom": 959,
+                "left": 1012,
+                "right": 1129,
+                "top": 842
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/Redmik70U_dark_shortcut_7_57/screen_1740307440132.webp",
+            "semantic": "Background effect adjustment button."
+        },
+        {
+            "bounds": {
+                "bottom": 933,
+                "left": 1012,
+                "right": 1129,
+                "top": 816
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/redmi Turbo 14_dark_shortcut_7_56/screen_1740326447206.webp",
+            "semantic": "Background effect adjustment button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1847,
+                "left": 410,
+                "right": 457,
+                "top": 1800
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro MRX-W39_shortcut_7_68/screen_1740152410460.webp",
+            "semantic": "Audio mute button."
+        },
+        {
+            "bounds": {
+                "bottom": 1809,
+                "left": 432,
+                "right": 476,
+                "top": 1765
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_45/screen_1740313815794.webp",
+            "semantic": "Audio mute button."
+        },
+        {
+            "bounds": {
+                "bottom": 1942,
+                "left": 341,
+                "right": 396,
+                "top": 1887
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_57/screen_1740336082343.webp",
+            "semantic": "Audio mute button."
+        },
+        {
+            "bounds": {
+                "bottom": 2050,
+                "left": 186,
+                "right": 258,
+                "top": 1978
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/Honor90GT_dark_shortcut_7_58/screen_1740571817632.webp",
+            "semantic": "Audio mute button."
+        },
+        {
+            "bounds": {
+                "bottom": 1833,
+                "left": 167,
+                "right": 233,
+                "top": 1767
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/OPPO Reno9 Pro5G_dark_shortcut_7_55/screen_1740311231704.webp",
+            "semantic": "Audio mute button."
+        },
+        {
+            "bounds": {
+                "bottom": 2077,
+                "left": 190,
+                "right": 262,
+                "top": 2005
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/Redmik70U_dark_shortcut_7_57/screen_1740307440132.webp",
+            "semantic": "Audio mute button."
+        },
+        {
+            "bounds": {
+                "bottom": 2049,
+                "left": 190,
+                "right": 262,
+                "top": 1977
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/redmi Turbo 14_dark_shortcut_7_56/screen_1740326447206.webp",
+            "semantic": "Audio mute button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1847,
+                "left": 1127,
+                "right": 1174,
+                "top": 1800
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro MRX-W39_shortcut_7_68/screen_1740152410460.webp",
+            "semantic": "Speaker or audio output button."
+        },
+        {
+            "bounds": {
+                "bottom": 1809,
+                "left": 1106,
+                "right": 1150,
+                "top": 1765
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_45/screen_1740313815794.webp",
+            "semantic": "Speaker or audio output button."
+        },
+        {
+            "bounds": {
+                "bottom": 1942,
+                "left": 1184,
+                "right": 1239,
+                "top": 1887
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_57/screen_1740336082343.webp",
+            "semantic": "Speaker or audio output button."
+        },
+        {
+            "bounds": {
+                "bottom": 1833,
+                "left": 847,
+                "right": 913,
+                "top": 1767
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/OPPO Reno9 Pro5G_dark_shortcut_7_55/screen_1740311231704.webp",
+            "semantic": "Speaker or audio output button."
+        },
+        {
+            "bounds": {
+                "bottom": 2077,
+                "left": 959,
+                "right": 1031,
+                "top": 2005
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/Redmik70U_dark_shortcut_7_57/screen_1740307440132.webp",
+            "semantic": "Speaker or audio output button."
+        },
+        {
+            "bounds": {
+                "bottom": 2049,
+                "left": 959,
+                "right": 1031,
+                "top": 1977
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/redmi Turbo 14_dark_shortcut_7_56/screen_1740326447206.webp",
+            "semantic": "Speaker or audio output button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1886,
+                "left": 394,
+                "right": 472,
+                "top": 1850
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro MRX-W39_shortcut_7_68/screen_1740152410460.webp",
+            "semantic": "Microphone mute button."
+        },
+        {
+            "bounds": {
+                "bottom": 1845,
+                "left": 418,
+                "right": 490,
+                "top": 1812
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_45/screen_1740313815794.webp",
+            "semantic": "Microphone mute button."
+        },
+        {
+            "bounds": {
+                "bottom": 1987,
+                "left": 323,
+                "right": 413,
+                "top": 1946
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_57/screen_1740336082343.webp",
+            "semantic": "Microphone mute button."
+        },
+        {
+            "bounds": {
+                "bottom": 2109,
+                "left": 163,
+                "right": 280,
+                "top": 2056
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/Honor90GT_dark_shortcut_7_58/screen_1740571817632.webp",
+            "semantic": "Microphone mute button."
+        },
+        {
+            "bounds": {
+                "bottom": 1887,
+                "left": 146,
+                "right": 254,
+                "top": 1838
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/OPPO Reno9 Pro5G_dark_shortcut_7_55/screen_1740311231704.webp",
+            "semantic": "Microphone mute button."
+        },
+        {
+            "bounds": {
+                "bottom": 2133,
+                "left": 167,
+                "right": 284,
+                "top": 2084
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/Redmik70U_dark_shortcut_7_57/screen_1740307440132.webp",
+            "semantic": "Microphone mute button."
+        },
+        {
+            "bounds": {
+                "bottom": 2107,
+                "left": 167,
+                "right": 284,
+                "top": 2055
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/redmi Turbo 14_dark_shortcut_7_56/screen_1740326447206.webp",
+            "semantic": "Microphone mute button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2073,
+                "left": 729,
+                "right": 873,
+                "top": 1971
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro MRX-W39_shortcut_7_68/screen_1740152410460.webp",
+            "semantic": "Start meeting button."
+        },
+        {
+            "bounds": {
+                "bottom": 2021,
+                "left": 732,
+                "right": 868,
+                "top": 1925
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_45/screen_1740313815794.webp",
+            "semantic": "Start meeting button."
+        },
+        {
+            "bounds": {
+                "bottom": 2207,
+                "left": 714,
+                "right": 886,
+                "top": 2087
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_57/screen_1740336082343.webp",
+            "semantic": "Start meeting button."
+        },
+        {
+            "bounds": {
+                "bottom": 2618,
+                "left": 476,
+                "right": 724,
+                "top": 2461
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/Honor90GT_dark_shortcut_7_58/screen_1740571817632.webp",
+            "semantic": "Start meeting button."
+        },
+        {
+            "bounds": {
+                "bottom": 2322,
+                "left": 438,
+                "right": 642,
+                "top": 2178
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/OPPO Reno9 Pro5G_dark_shortcut_7_55/screen_1740311231704.webp",
+            "semantic": "Start meeting button."
+        },
+        {
+            "bounds": {
+                "bottom": 2666,
+                "left": 500,
+                "right": 720,
+                "top": 2510
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/Redmik70U_dark_shortcut_7_57/screen_1740307440132.webp",
+            "semantic": "Start meeting button."
+        },
+        {
+            "bounds": {
+                "bottom": 2614,
+                "left": 500,
+                "right": 720,
+                "top": 2458
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/redmi Turbo 14_dark_shortcut_7_56/screen_1740326447206.webp",
+            "semantic": "Start meeting button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 656,
+                "left": 615,
+                "right": 988,
+                "top": 588
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro MRX-W39_shortcut_7_68/screen_1740152410460.webp",
+            "semantic": "Video conference interface."
+        },
+        {
+            "bounds": {
+                "bottom": 687,
+                "left": 633,
+                "right": 969,
+                "top": 622
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_45/screen_1740313815794.webp",
+            "semantic": "Video conference interface."
+        },
+        {
+            "bounds": {
+                "bottom": 539,
+                "left": 591,
+                "right": 1011,
+                "top": 458
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_57/screen_1740336082343.webp",
+            "semantic": "Video conference interface."
+        },
+        {
+            "bounds": {
+                "bottom": 656,
+                "left": 102,
+                "right": 1098,
+                "top": 545
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/Honor90GT_dark_shortcut_7_58/screen_1740571817632.webp",
+            "semantic": "Video conference interface."
+        },
+        {
+            "bounds": {
+                "bottom": 576,
+                "left": 288,
+                "right": 792,
+                "top": 479
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/OPPO Reno9 Pro5G_dark_shortcut_7_55/screen_1740311231704.webp",
+            "semantic": "Video conference interface."
+        },
+        {
+            "bounds": {
+                "bottom": 663,
+                "left": 307,
+                "right": 913,
+                "top": 566
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/Redmik70U_dark_shortcut_7_57/screen_1740307440132.webp",
+            "semantic": "Video conference interface."
+        },
+        {
+            "bounds": {
+                "bottom": 637,
+                "left": 337,
+                "right": 883,
+                "top": 533
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/redmi Turbo 14_dark_shortcut_7_56/screen_1740326447206.webp",
+            "semantic": "Video conference interface."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1499,
+                "left": 550,
+                "right": 1051,
+                "top": 998
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro MRX-W39_shortcut_7_68/screen_1740152410460.webp",
+            "semantic": "User profile picture within the video conference interface."
+        },
+        {
+            "bounds": {
+                "bottom": 1532,
+                "left": 505,
+                "right": 1095,
+                "top": 942
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/HUAWEl MatePad Pro-GOT-W29_dark_shortcut_7_57/screen_1740336082343.webp",
+            "semantic": "User profile picture within the video conference interface."
+        },
+        {
+            "bounds": {
+                "bottom": 1618,
+                "left": 327,
+                "right": 874,
+                "top": 1071
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/Honor90GT_dark_shortcut_7_58/screen_1740571817632.webp",
+            "semantic": "User profile picture within the video conference interface."
+        },
+        {
+            "bounds": {
+                "bottom": 1443,
+                "left": 294,
+                "right": 786,
+                "top": 951
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/OPPO Reno9 Pro5G_dark_shortcut_7_55/screen_1740311231704.webp",
+            "semantic": "User profile picture within the video conference interface."
+        },
+        {
+            "bounds": {
+                "bottom": 1640,
+                "left": 331,
+                "right": 889,
+                "top": 1082
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/Redmik70U_dark_shortcut_7_57/screen_1740307440132.webp",
+            "semantic": "User profile picture within the video conference interface."
+        },
+        {
+            "bounds": {
+                "bottom": 1614,
+                "left": 331,
+                "right": 889,
+                "top": 1056
+            },
+            "img_path": "../data/Lark/Lark_start_video_conference/redmi Turbo 14_dark_shortcut_7_56/screen_1740326447206.webp",
+            "semantic": "User profile picture within the video conference interface."
+        }
+    ]
+]

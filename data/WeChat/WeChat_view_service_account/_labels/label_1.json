@@ -1,0 +1,1594 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 287,
+                "left": 35,
+                "right": 122,
+                "top": 200
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "\"Add new contact\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 283,
+                "left": 37,
+                "right": 128,
+                "top": 192
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "\"Add new contact\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 299,
+                "left": 37,
+                "right": 128,
+                "top": 208
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "\"Add new contact\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 381,
+                "left": 43,
+                "right": 151,
+                "top": 273
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "\"Add new contact\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 410,
+                "left": 49,
+                "right": 171,
+                "top": 288
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "\"Add new contact\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 367,
+                "left": 43,
+                "right": 151,
+                "top": 259
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "\"Add new contact\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 402,
+                "left": 49,
+                "right": 171,
+                "top": 280
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "\"Add new contact\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 269,
+                "left": 157,
+                "right": 340,
+                "top": 218
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "\"New friends\" section in a contacts list."
+        },
+        {
+            "bounds": {
+                "bottom": 264,
+                "left": 165,
+                "right": 358,
+                "top": 211
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "\"New friends\" section in a contacts list."
+        },
+        {
+            "bounds": {
+                "bottom": 280,
+                "left": 165,
+                "right": 358,
+                "top": 227
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "\"New friends\" section in a contacts list."
+        },
+        {
+            "bounds": {
+                "bottom": 358,
+                "left": 194,
+                "right": 421,
+                "top": 296
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "\"New friends\" section in a contacts list."
+        },
+        {
+            "bounds": {
+                "bottom": 381,
+                "left": 220,
+                "right": 477,
+                "top": 316
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "\"New friends\" section in a contacts list."
+        },
+        {
+            "bounds": {
+                "bottom": 376,
+                "left": 220,
+                "right": 477,
+                "top": 306
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "\"New friends\" section in a contacts list."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 409,
+                "left": 35,
+                "right": 122,
+                "top": 322
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "[Semantic Inference] \r\nNew friends contact section."
+        },
+        {
+            "bounds": {
+                "bottom": 411,
+                "left": 37,
+                "right": 128,
+                "top": 320
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "[Semantic Inference] \r\nNew friends contact section."
+        },
+        {
+            "bounds": {
+                "bottom": 427,
+                "left": 37,
+                "right": 128,
+                "top": 336
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "[Semantic Inference] \r\nNew friends contact section."
+        },
+        {
+            "bounds": {
+                "bottom": 628,
+                "left": 53,
+                "right": 186,
+                "top": 495
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Honor90GT_shortcut_7_20/screen_1740192789095.webp",
+            "semantic": "[Semantic Inference] \r\nNew friends contact section."
+        },
+        {
+            "bounds": {
+                "bottom": 581,
+                "left": 49,
+                "right": 171,
+                "top": 459
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "[Semantic Inference] \r\nNew friends contact section."
+        },
+        {
+            "bounds": {
+                "bottom": 518,
+                "left": 43,
+                "right": 151,
+                "top": 410
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "[Semantic Inference] \r\nNew friends contact section."
+        },
+        {
+            "bounds": {
+                "bottom": 573,
+                "left": 49,
+                "right": 171,
+                "top": 451
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "[Semantic Inference] \r\nNew friends contact section."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 531,
+                "left": 35,
+                "right": 122,
+                "top": 444
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "Contacts or address book application."
+        },
+        {
+            "bounds": {
+                "bottom": 411,
+                "left": 37,
+                "right": 128,
+                "top": 320
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "[Semantic Inference] \r\nNew friends contact section."
+        },
+        {
+            "bounds": {
+                "bottom": 555,
+                "left": 37,
+                "right": 128,
+                "top": 464
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "Contacts or address book application."
+        },
+        {
+            "bounds": {
+                "bottom": 815,
+                "left": 53,
+                "right": 186,
+                "top": 682
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Honor90GT_shortcut_7_20/screen_1740192789095.webp",
+            "semantic": "Contacts or address book application."
+        },
+        {
+            "bounds": {
+                "bottom": 532,
+                "left": 43,
+                "right": 151,
+                "top": 424
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "Contacts or address book application."
+        },
+        {
+            "bounds": {
+                "bottom": 752,
+                "left": 49,
+                "right": 171,
+                "top": 630
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "Contacts or address book application."
+        },
+        {
+            "bounds": {
+                "bottom": 669,
+                "left": 43,
+                "right": 151,
+                "top": 561
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "Contacts or address book application."
+        },
+        {
+            "bounds": {
+                "bottom": 744,
+                "left": 49,
+                "right": 171,
+                "top": 622
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "Contacts or address book application."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 548,
+                "left": 157,
+                "right": 231,
+                "top": 428
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "Group chat label."
+        },
+        {
+            "bounds": {
+                "bottom": 429,
+                "left": 165,
+                "right": 243,
+                "top": 302
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "Group chat label."
+        },
+        {
+            "bounds": {
+                "bottom": 573,
+                "left": 165,
+                "right": 243,
+                "top": 446
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "Group chat label."
+        },
+        {
+            "bounds": {
+                "bottom": 841,
+                "left": 240,
+                "right": 354,
+                "top": 655
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Honor90GT_shortcut_7_20/screen_1740192789095.webp",
+            "semantic": "Group chat label."
+        },
+        {
+            "bounds": {
+                "bottom": 553,
+                "left": 194,
+                "right": 286,
+                "top": 403
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "Group chat label."
+        },
+        {
+            "bounds": {
+                "bottom": 776,
+                "left": 220,
+                "right": 324,
+                "top": 606
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "Group chat label."
+        },
+        {
+            "bounds": {
+                "bottom": 690,
+                "left": 194,
+                "right": 286,
+                "top": 540
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "Group chat label."
+        },
+        {
+            "bounds": {
+                "bottom": 768,
+                "left": 220,
+                "right": 324,
+                "top": 598
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "Group chat label."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 653,
+                "left": 35,
+                "right": 122,
+                "top": 566
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "\"Tag or category assignment button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 539,
+                "left": 37,
+                "right": 128,
+                "top": 448
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "\"Tag or category assignment button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 683,
+                "left": 37,
+                "right": 128,
+                "top": 592
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "\"Tag or category assignment button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1002,
+                "left": 53,
+                "right": 186,
+                "top": 869
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Honor90GT_shortcut_7_20/screen_1740192789095.webp",
+            "semantic": "\"Tag or category assignment button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 683,
+                "left": 43,
+                "right": 151,
+                "top": 575
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "\"Tag or category assignment button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 923,
+                "left": 49,
+                "right": 171,
+                "top": 801
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "\"Tag or category assignment button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 820,
+                "left": 43,
+                "right": 151,
+                "top": 712
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "\"Tag or category assignment button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 915,
+                "left": 49,
+                "right": 171,
+                "top": 793
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "\"Tag or category assignment button.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 670,
+                "left": 157,
+                "right": 231,
+                "top": 550
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "Contact categorization through tags."
+        },
+        {
+            "bounds": {
+                "bottom": 557,
+                "left": 165,
+                "right": 243,
+                "top": 430
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "Contact categorization through tags."
+        },
+        {
+            "bounds": {
+                "bottom": 701,
+                "left": 165,
+                "right": 243,
+                "top": 574
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "Contact categorization through tags."
+        },
+        {
+            "bounds": {
+                "bottom": 1028,
+                "left": 240,
+                "right": 354,
+                "top": 842
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Honor90GT_shortcut_7_20/screen_1740192789095.webp",
+            "semantic": "Contact categorization through tags."
+        },
+        {
+            "bounds": {
+                "bottom": 704,
+                "left": 194,
+                "right": 286,
+                "top": 554
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "Contact categorization through tags."
+        },
+        {
+            "bounds": {
+                "bottom": 947,
+                "left": 220,
+                "right": 324,
+                "top": 777
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "Contact categorization through tags."
+        },
+        {
+            "bounds": {
+                "bottom": 841,
+                "left": 194,
+                "right": 286,
+                "top": 691
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "Contact categorization through tags."
+        },
+        {
+            "bounds": {
+                "bottom": 939,
+                "left": 220,
+                "right": 324,
+                "top": 769
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "Contact categorization through tags."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 775,
+                "left": 35,
+                "right": 122,
+                "top": 688
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "Public Account feature."
+        },
+        {
+            "bounds": {
+                "bottom": 667,
+                "left": 37,
+                "right": 128,
+                "top": 576
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "Public Account feature."
+        },
+        {
+            "bounds": {
+                "bottom": 811,
+                "left": 37,
+                "right": 128,
+                "top": 720
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "Public Account feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1189,
+                "left": 53,
+                "right": 186,
+                "top": 1056
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Honor90GT_shortcut_7_20/screen_1740192789095.webp",
+            "semantic": "Public Account feature."
+        },
+        {
+            "bounds": {
+                "bottom": 834,
+                "left": 43,
+                "right": 151,
+                "top": 726
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "Public Account feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1094,
+                "left": 49,
+                "right": 171,
+                "top": 972
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "Public Account feature."
+        },
+        {
+            "bounds": {
+                "bottom": 971,
+                "left": 43,
+                "right": 151,
+                "top": 863
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "Public Account feature."
+        },
+        {
+            "bounds": {
+                "bottom": 1086,
+                "left": 49,
+                "right": 171,
+                "top": 964
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "Public Account feature."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 792,
+                "left": 157,
+                "right": 268,
+                "top": 672
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "\"Public Account\" or \"Subscription Account\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 685,
+                "left": 165,
+                "right": 282,
+                "top": 558
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "\"Public Account\" or \"Subscription Account\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 829,
+                "left": 165,
+                "right": 282,
+                "top": 702
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "\"Public Account\" or \"Subscription Account\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1215,
+                "left": 240,
+                "right": 411,
+                "top": 1029
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Honor90GT_shortcut_7_20/screen_1740192789095.webp",
+            "semantic": "\"Public Account\" or \"Subscription Account\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 855,
+                "left": 194,
+                "right": 332,
+                "top": 705
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "\"Public Account\" or \"Subscription Account\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1118,
+                "left": 220,
+                "right": 376,
+                "top": 948
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "\"Public Account\" or \"Subscription Account\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 992,
+                "left": 194,
+                "right": 332,
+                "top": 842
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "\"Public Account\" or \"Subscription Account\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1110,
+                "left": 220,
+                "right": 376,
+                "top": 940
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "\"Public Account\" or \"Subscription Account\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 897,
+                "left": 35,
+                "right": 122,
+                "top": 810
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "Professional or service account button."
+        },
+        {
+            "bounds": {
+                "bottom": 795,
+                "left": 37,
+                "right": 128,
+                "top": 704
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "Professional or service account button."
+        },
+        {
+            "bounds": {
+                "bottom": 939,
+                "left": 37,
+                "right": 128,
+                "top": 848
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "Professional or service account button."
+        },
+        {
+            "bounds": {
+                "bottom": 1376,
+                "left": 53,
+                "right": 186,
+                "top": 1243
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Honor90GT_shortcut_7_20/screen_1740192789095.webp",
+            "semantic": "Professional or service account button."
+        },
+        {
+            "bounds": {
+                "bottom": 985,
+                "left": 43,
+                "right": 151,
+                "top": 877
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "Professional or service account button."
+        },
+        {
+            "bounds": {
+                "bottom": 1265,
+                "left": 49,
+                "right": 171,
+                "top": 1143
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "Professional or service account button."
+        },
+        {
+            "bounds": {
+                "bottom": 1122,
+                "left": 43,
+                "right": 151,
+                "top": 1014
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "Professional or service account button."
+        },
+        {
+            "bounds": {
+                "bottom": 1257,
+                "left": 49,
+                "right": 171,
+                "top": 1135
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "Professional or service account button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 914,
+                "left": 157,
+                "right": 268,
+                "top": 794
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "\"Service account\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 813,
+                "left": 165,
+                "right": 282,
+                "top": 686
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "\"Service account\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 957,
+                "left": 165,
+                "right": 282,
+                "top": 830
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "\"Service account\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1402,
+                "left": 240,
+                "right": 411,
+                "top": 1216
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Honor90GT_shortcut_7_20/screen_1740192789095.webp",
+            "semantic": "\"Service account\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1006,
+                "left": 194,
+                "right": 332,
+                "top": 856
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "\"Service account\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1289,
+                "left": 220,
+                "right": 376,
+                "top": 1119
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "\"Service account\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1143,
+                "left": 194,
+                "right": 332,
+                "top": 993
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "\"Service account\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1281,
+                "left": 220,
+                "right": 376,
+                "top": 1111
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "\"Service account\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 157,
+                "left": 744,
+                "right": 855,
+                "top": 106
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "Contact list."
+        },
+        {
+            "bounds": {
+                "bottom": 145,
+                "left": 741,
+                "right": 858,
+                "top": 92
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "Contact list."
+        },
+        {
+            "bounds": {
+                "bottom": 161,
+                "left": 741,
+                "right": 858,
+                "top": 108
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "Contact list."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 471,
+                "right": 609,
+                "top": 156
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "Contact list."
+        },
+        {
+            "bounds": {
+                "bottom": 223,
+                "left": 532,
+                "right": 688,
+                "top": 158
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "Contact list."
+        },
+        {
+            "bounds": {
+                "bottom": 204,
+                "left": 471,
+                "right": 609,
+                "top": 142
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "Contact list."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 532,
+                "right": 688,
+                "top": 148
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "Contact list."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 158,
+                "left": 1410,
+                "right": 1462,
+                "top": 106
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 146,
+                "left": 1399,
+                "right": 1454,
+                "top": 91
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 162,
+                "left": 1399,
+                "right": 1454,
+                "top": 107
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 219,
+                "left": 863,
+                "right": 928,
+                "top": 154
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 227,
+                "left": 977,
+                "right": 1050,
+                "top": 154
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 205,
+                "left": 863,
+                "right": 928,
+                "top": 140
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 219,
+                "left": 977,
+                "right": 1050,
+                "top": 146
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "Search function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 158,
+                "left": 1496,
+                "right": 1548,
+                "top": 106
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "Add a new contact."
+        },
+        {
+            "bounds": {
+                "bottom": 146,
+                "left": 1490,
+                "right": 1545,
+                "top": 91
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "Add a new contact."
+        },
+        {
+            "bounds": {
+                "bottom": 162,
+                "left": 1490,
+                "right": 1545,
+                "top": 107
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "Add a new contact."
+        },
+        {
+            "bounds": {
+                "bottom": 219,
+                "left": 972,
+                "right": 1037,
+                "top": 154
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "Add a new contact."
+        },
+        {
+            "bounds": {
+                "bottom": 227,
+                "left": 1098,
+                "right": 1171,
+                "top": 154
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "Add a new contact."
+        },
+        {
+            "bounds": {
+                "bottom": 205,
+                "left": 972,
+                "right": 1037,
+                "top": 140
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "Add a new contact."
+        },
+        {
+            "bounds": {
+                "bottom": 219,
+                "left": 1098,
+                "right": 1171,
+                "top": 146
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "Add a new contact."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2512,
+                "left": 169,
+                "right": 230,
+                "top": 2451
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "Unread message notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 2509,
+                "left": 168,
+                "right": 232,
+                "top": 2445
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "Unread message notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 2509,
+                "left": 168,
+                "right": 232,
+                "top": 2445
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "Unread message notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 2590,
+                "left": 103,
+                "right": 196,
+                "top": 2497
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Honor90GT_shortcut_7_20/screen_1740192789095.webp",
+            "semantic": "Unread message notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 2305,
+                "left": 97,
+                "right": 173,
+                "top": 2229
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "Unread message notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 2646,
+                "left": 110,
+                "right": 195,
+                "top": 2561
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "Unread message notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 2353,
+                "left": 97,
+                "right": 173,
+                "top": 2277
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "Unread message notification button."
+        },
+        {
+            "bounds": {
+                "bottom": 2592,
+                "left": 110,
+                "right": 195,
+                "top": 2507
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "Unread message notification button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2512,
+                "left": 569,
+                "right": 630,
+                "top": 2451
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "\"Contact\" or \"Profile\" information section."
+        },
+        {
+            "bounds": {
+                "bottom": 2509,
+                "left": 568,
+                "right": 632,
+                "top": 2445
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "\"Contact\" or \"Profile\" information section."
+        },
+        {
+            "bounds": {
+                "bottom": 2509,
+                "left": 568,
+                "right": 632,
+                "top": 2445
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "\"Contact\" or \"Profile\" information section."
+        },
+        {
+            "bounds": {
+                "bottom": 2590,
+                "left": 403,
+                "right": 496,
+                "top": 2497
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Honor90GT_shortcut_7_20/screen_1740192789095.webp",
+            "semantic": "\"Contact\" or \"Profile\" information section."
+        },
+        {
+            "bounds": {
+                "bottom": 2305,
+                "left": 367,
+                "right": 443,
+                "top": 2229
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "\"Contact\" or \"Profile\" information section."
+        },
+        {
+            "bounds": {
+                "bottom": 2646,
+                "left": 415,
+                "right": 500,
+                "top": 2561
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "\"Contact\" or \"Profile\" information section."
+        },
+        {
+            "bounds": {
+                "bottom": 2353,
+                "left": 367,
+                "right": 443,
+                "top": 2277
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "\"Contact\" or \"Profile\" information section."
+        },
+        {
+            "bounds": {
+                "bottom": 2592,
+                "left": 415,
+                "right": 500,
+                "top": 2507
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "\"Contact\" or \"Profile\" information section."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2512,
+                "left": 969,
+                "right": 1030,
+                "top": 2451
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "Navigation or discovery function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2509,
+                "left": 968,
+                "right": 1032,
+                "top": 2445
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "Navigation or discovery function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2509,
+                "left": 968,
+                "right": 1032,
+                "top": 2445
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "Navigation or discovery function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2590,
+                "left": 703,
+                "right": 796,
+                "top": 2497
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Honor90GT_shortcut_7_20/screen_1740192789095.webp",
+            "semantic": "Navigation or discovery function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2305,
+                "left": 637,
+                "right": 713,
+                "top": 2229
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "Navigation or discovery function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2646,
+                "left": 720,
+                "right": 805,
+                "top": 2561
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "Navigation or discovery function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2353,
+                "left": 637,
+                "right": 713,
+                "top": 2277
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "Navigation or discovery function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2592,
+                "left": 720,
+                "right": 805,
+                "top": 2507
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "Navigation or discovery function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2512,
+                "left": 1369,
+                "right": 1430,
+                "top": 2451
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "User profile icon."
+        },
+        {
+            "bounds": {
+                "bottom": 2509,
+                "left": 1368,
+                "right": 1432,
+                "top": 2445
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_15/screen_1740139966427.webp",
+            "semantic": "User profile icon."
+        },
+        {
+            "bounds": {
+                "bottom": 2509,
+                "left": 1368,
+                "right": 1432,
+                "top": 2445
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "User profile icon."
+        },
+        {
+            "bounds": {
+                "bottom": 2590,
+                "left": 1003,
+                "right": 1096,
+                "top": 2497
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Honor90GT_shortcut_7_20/screen_1740192789095.webp",
+            "semantic": "User profile icon."
+        },
+        {
+            "bounds": {
+                "bottom": 2305,
+                "left": 907,
+                "right": 983,
+                "top": 2229
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/OPPO Reno9 Pro5G_shortcut_7_77/screen_1740148159789.webp",
+            "semantic": "User profile icon."
+        },
+        {
+            "bounds": {
+                "bottom": 2646,
+                "left": 1025,
+                "right": 1110,
+                "top": 2561
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "User profile icon."
+        },
+        {
+            "bounds": {
+                "bottom": 2353,
+                "left": 907,
+                "right": 983,
+                "top": 2277
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "User profile icon."
+        },
+        {
+            "bounds": {
+                "bottom": 2592,
+                "left": 1025,
+                "right": 1110,
+                "top": 2507
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "User profile icon."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 426,
+                "left": 157,
+                "right": 379,
+                "top": 306
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "\"Contacts filtered by chat history.\""
+        },
+        {
+            "bounds": {
+                "bottom": 445,
+                "left": 165,
+                "right": 399,
+                "top": 318
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "\"Contacts filtered by chat history.\""
+        },
+        {
+            "bounds": {
+                "bottom": 654,
+                "left": 240,
+                "right": 582,
+                "top": 468
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Honor90GT_shortcut_7_20/screen_1740192789095.webp",
+            "semantic": "\"Contacts filtered by chat history.\""
+        },
+        {
+            "bounds": {
+                "bottom": 605,
+                "left": 220,
+                "right": 532,
+                "top": 435
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "\"Contacts filtered by chat history.\""
+        },
+        {
+            "bounds": {
+                "bottom": 539,
+                "left": 194,
+                "right": 470,
+                "top": 389
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "\"Contacts filtered by chat history.\""
+        },
+        {
+            "bounds": {
+                "bottom": 597,
+                "left": 220,
+                "right": 532,
+                "top": 427
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "\"Contacts filtered by chat history.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1089,
+                "left": 35,
+                "right": 122,
+                "top": 1002
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "Corporate WeChat contacts."
+        },
+        {
+            "bounds": {
+                "bottom": 1140,
+                "left": 37,
+                "right": 128,
+                "top": 1049
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "Corporate WeChat contacts."
+        },
+        {
+            "bounds": {
+                "bottom": 1669,
+                "left": 53,
+                "right": 186,
+                "top": 1536
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Honor90GT_shortcut_7_20/screen_1740192789095.webp",
+            "semantic": "Corporate WeChat contacts."
+        },
+        {
+            "bounds": {
+                "bottom": 1534,
+                "left": 49,
+                "right": 171,
+                "top": 1412
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "Corporate WeChat contacts."
+        },
+        {
+            "bounds": {
+                "bottom": 1359,
+                "left": 43,
+                "right": 151,
+                "top": 1251
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "Corporate WeChat contacts."
+        },
+        {
+            "bounds": {
+                "bottom": 1526,
+                "left": 49,
+                "right": 171,
+                "top": 1404
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "Corporate WeChat contacts."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1071,
+                "left": 157,
+                "right": 416,
+                "top": 1020
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro MRX-W39_shortcut_7_12/screen_1740148208247.webp",
+            "semantic": "Enterprise WeChat contact category."
+        },
+        {
+            "bounds": {
+                "bottom": 1120,
+                "left": 165,
+                "right": 438,
+                "top": 1067
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_10/screen_1740124057023.webp",
+            "semantic": "Enterprise WeChat contact category."
+        },
+        {
+            "bounds": {
+                "bottom": 1641,
+                "left": 240,
+                "right": 639,
+                "top": 1564
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Honor90GT_shortcut_7_20/screen_1740192789095.webp",
+            "semantic": "Enterprise WeChat contact category."
+        },
+        {
+            "bounds": {
+                "bottom": 1505,
+                "left": 220,
+                "right": 584,
+                "top": 1440
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/Redmik70U_shortcut_7_23/screen_1740118442849.webp",
+            "semantic": "Enterprise WeChat contact category."
+        },
+        {
+            "bounds": {
+                "bottom": 1336,
+                "left": 194,
+                "right": 516,
+                "top": 1274
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/honorPlay8T_shortcut_7_114/screen_1740038042124.webp",
+            "semantic": "Enterprise WeChat contact category."
+        },
+        {
+            "bounds": {
+                "bottom": 1500,
+                "left": 220,
+                "right": 584,
+                "top": 1430
+            },
+            "img_path": "../data/WeChat/WeChat_view_service_account/redmi Turbo 14_shortcut_7_17/screen_1740120048838.webp",
+            "semantic": "Enterprise WeChat contact category."
+        }
+    ]
+]

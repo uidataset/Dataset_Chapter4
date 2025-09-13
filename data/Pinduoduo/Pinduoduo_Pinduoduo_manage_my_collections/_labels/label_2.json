@@ -1,0 +1,762 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 151,
+                "left": 30,
+                "right": 77,
+                "top": 103
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_81/screen_1742311101550.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 46,
+                "right": 118,
+                "top": 144
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_shortcut_7_26/screen_1742271005341.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 46,
+                "right": 118,
+                "top": 144
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_dark_shortcut_7_130/screen_1742290685107.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 46,
+                "right": 118,
+                "top": 144
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_dark_bigger_shortcut_7_149/screen_1742291795704.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 46,
+                "right": 118,
+                "top": 144
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_bigger_shortcut_7_72/screen_1742286371258.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 208,
+                "left": 42,
+                "right": 108,
+                "top": 140
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/honorPlay8T_shortcut_7_180/screen_1741770448047.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 226,
+                "left": 46,
+                "right": 118,
+                "top": 152
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Redmik70U_shortcut_7_127/screen_1742365488088.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 226,
+                "left": 46,
+                "right": 118,
+                "top": 152
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Redmik70U_bigger_shortcut_7_194/screen_1742378625119.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 222,
+                "left": 42,
+                "right": 108,
+                "top": 154
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/OPPO Reno9 Pro5G_dark_bigger_shortcut_7_71/screen_1742275184145.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 184,
+                "left": 42,
+                "right": 108,
+                "top": 116
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/IQOONeo5_shortcut_7_88/screen_1742368809105.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 184,
+                "left": 42,
+                "right": 108,
+                "top": 116
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/IQOONeo5_dark_bigger_shortcut_7_179/screen_1742387081948.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 184,
+                "left": 42,
+                "right": 108,
+                "top": 116
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/IQOONeo5_bigger_shortcut_7_140/screen_1742384221348.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 230,
+                "left": 46,
+                "right": 118,
+                "top": 156
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Honor90GT_shortcut_7_90/screen_1742354331896.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 230,
+                "left": 46,
+                "right": 118,
+                "top": 156
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Honor90GT_bigger_shortcut_7_201/screen_1742399119708.webp",
+            "semantic": "Back navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 151,
+                "left": 30,
+                "right": 77,
+                "top": 103
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/HUAWEl MatePad Pro MRX-W39_shortcut_7_42/screen_1742308348210.webp",
+            "semantic": "Back navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 174,
+                "left": 709,
+                "right": 853,
+                "top": 80
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_81/screen_1742311101550.webp",
+            "semantic": "\"Product collection\" or \"favorite products\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 253,
+                "left": 472,
+                "right": 692,
+                "top": 110
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_shortcut_7_26/screen_1742271005341.webp",
+            "semantic": "\"Product collection\" or \"favorite products\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 253,
+                "left": 472,
+                "right": 692,
+                "top": 110
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_dark_shortcut_7_130/screen_1742290685107.webp",
+            "semantic": "\"Product collection\" or \"favorite products\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 253,
+                "left": 472,
+                "right": 692,
+                "top": 110
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_dark_bigger_shortcut_7_149/screen_1742291795704.webp",
+            "semantic": "\"Product collection\" or \"favorite products\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 253,
+                "left": 472,
+                "right": 692,
+                "top": 110
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_bigger_shortcut_7_72/screen_1742286371258.webp",
+            "semantic": "\"Product collection\" or \"favorite products\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 240,
+                "left": 412,
+                "right": 616,
+                "top": 108
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/honorPlay8T_shortcut_7_180/screen_1741770448047.webp",
+            "semantic": "\"Product collection\" or \"favorite products\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 261,
+                "left": 472,
+                "right": 692,
+                "top": 118
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Redmik70U_shortcut_7_127/screen_1742365488088.webp",
+            "semantic": "\"Product collection\" or \"favorite products\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 261,
+                "left": 472,
+                "right": 692,
+                "top": 118
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Redmik70U_bigger_shortcut_7_194/screen_1742378625119.webp",
+            "semantic": "\"Product collection\" or \"favorite products\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 254,
+                "left": 412,
+                "right": 616,
+                "top": 122
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/OPPO Reno9 Pro5G_dark_bigger_shortcut_7_71/screen_1742275184145.webp",
+            "semantic": "\"Product collection\" or \"favorite products\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 216,
+                "left": 412,
+                "right": 616,
+                "top": 84
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/IQOONeo5_shortcut_7_88/screen_1742368809105.webp",
+            "semantic": "\"Product collection\" or \"favorite products\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 216,
+                "left": 412,
+                "right": 616,
+                "top": 84
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/IQOONeo5_dark_bigger_shortcut_7_179/screen_1742387081948.webp",
+            "semantic": "\"Product collection\" or \"favorite products\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 216,
+                "left": 412,
+                "right": 616,
+                "top": 84
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/IQOONeo5_bigger_shortcut_7_140/screen_1742384221348.webp",
+            "semantic": "\"Product collection\" or \"favorite products\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 265,
+                "left": 460,
+                "right": 684,
+                "top": 121
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Honor90GT_shortcut_7_90/screen_1742354331896.webp",
+            "semantic": "\"Product collection\" or \"favorite products\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 265,
+                "left": 460,
+                "right": 684,
+                "top": 121
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Honor90GT_bigger_shortcut_7_201/screen_1742399119708.webp",
+            "semantic": "\"Product collection\" or \"favorite products\" section tab."
+        },
+        {
+            "bounds": {
+                "bottom": 174,
+                "left": 709,
+                "right": 853,
+                "top": 80
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/HUAWEl MatePad Pro MRX-W39_shortcut_7_42/screen_1742308348210.webp",
+            "semantic": "\"Product collection\" or \"favorite products\" section tab."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 151,
+                "left": 1426,
+                "right": 1473,
+                "top": 103
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_81/screen_1742311101550.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 956,
+                "right": 1028,
+                "top": 144
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_shortcut_7_26/screen_1742271005341.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 956,
+                "right": 1028,
+                "top": 144
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_dark_shortcut_7_130/screen_1742290685107.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 956,
+                "right": 1028,
+                "top": 144
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_dark_bigger_shortcut_7_149/screen_1742291795704.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 956,
+                "right": 1028,
+                "top": 144
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_bigger_shortcut_7_72/screen_1742286371258.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 208,
+                "left": 837,
+                "right": 903,
+                "top": 140
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/honorPlay8T_shortcut_7_180/screen_1741770448047.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 226,
+                "left": 956,
+                "right": 1028,
+                "top": 152
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Redmik70U_shortcut_7_127/screen_1742365488088.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 226,
+                "left": 956,
+                "right": 1028,
+                "top": 152
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Redmik70U_bigger_shortcut_7_194/screen_1742378625119.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 222,
+                "left": 837,
+                "right": 903,
+                "top": 154
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/OPPO Reno9 Pro5G_dark_bigger_shortcut_7_71/screen_1742275184145.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 184,
+                "left": 837,
+                "right": 903,
+                "top": 116
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/IQOONeo5_shortcut_7_88/screen_1742368809105.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 184,
+                "left": 837,
+                "right": 903,
+                "top": 116
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/IQOONeo5_dark_bigger_shortcut_7_179/screen_1742387081948.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 184,
+                "left": 837,
+                "right": 903,
+                "top": 116
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/IQOONeo5_bigger_shortcut_7_140/screen_1742384221348.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 230,
+                "left": 935,
+                "right": 1007,
+                "top": 156
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Honor90GT_shortcut_7_90/screen_1742354331896.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 230,
+                "left": 935,
+                "right": 1007,
+                "top": 156
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Honor90GT_bigger_shortcut_7_201/screen_1742399119708.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 151,
+                "left": 1426,
+                "right": 1473,
+                "top": 103
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/HUAWEl MatePad Pro MRX-W39_shortcut_7_42/screen_1742308348210.webp",
+            "semantic": "Search function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 148,
+                "left": 1512,
+                "right": 1576,
+                "top": 105
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_81/screen_1742311101550.webp",
+            "semantic": "Manage or Administration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 214,
+                "left": 1086,
+                "right": 1184,
+                "top": 148
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_shortcut_7_26/screen_1742271005341.webp",
+            "semantic": "Manage or Administration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 214,
+                "left": 1086,
+                "right": 1184,
+                "top": 148
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_dark_shortcut_7_130/screen_1742290685107.webp",
+            "semantic": "Manage or Administration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 214,
+                "left": 1086,
+                "right": 1184,
+                "top": 148
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_dark_bigger_shortcut_7_149/screen_1742291795704.webp",
+            "semantic": "Manage or Administration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 214,
+                "left": 1086,
+                "right": 1184,
+                "top": 148
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_bigger_shortcut_7_72/screen_1742286371258.webp",
+            "semantic": "Manage or Administration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 204,
+                "left": 957,
+                "right": 1047,
+                "top": 143
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/honorPlay8T_shortcut_7_180/screen_1741770448047.webp",
+            "semantic": "Manage or Administration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 1086,
+                "right": 1184,
+                "top": 161
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Redmik70U_shortcut_7_127/screen_1742365488088.webp",
+            "semantic": "Manage or Administration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 1086,
+                "right": 1184,
+                "top": 161
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Redmik70U_bigger_shortcut_7_194/screen_1742378625119.webp",
+            "semantic": "Manage or Administration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 218,
+                "left": 957,
+                "right": 1047,
+                "top": 157
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/OPPO Reno9 Pro5G_dark_bigger_shortcut_7_71/screen_1742275184145.webp",
+            "semantic": "Manage or Administration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 180,
+                "left": 957,
+                "right": 1047,
+                "top": 119
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/IQOONeo5_shortcut_7_88/screen_1742368809105.webp",
+            "semantic": "Manage or Administration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 180,
+                "left": 957,
+                "right": 1047,
+                "top": 119
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/IQOONeo5_dark_bigger_shortcut_7_179/screen_1742387081948.webp",
+            "semantic": "Manage or Administration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 180,
+                "left": 957,
+                "right": 1047,
+                "top": 119
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/IQOONeo5_bigger_shortcut_7_140/screen_1742384221348.webp",
+            "semantic": "Manage or Administration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 226,
+                "left": 1066,
+                "right": 1164,
+                "top": 160
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Honor90GT_shortcut_7_90/screen_1742354331896.webp",
+            "semantic": "Manage or Administration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 226,
+                "left": 1066,
+                "right": 1164,
+                "top": 160
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Honor90GT_bigger_shortcut_7_201/screen_1742399119708.webp",
+            "semantic": "Manage or Administration function button."
+        },
+        {
+            "bounds": {
+                "bottom": 148,
+                "left": 1512,
+                "right": 1576,
+                "top": 105
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/HUAWEl MatePad Pro MRX-W39_shortcut_7_42/screen_1742308348210.webp",
+            "semantic": "Manage or Administration function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 1307,
+                "right": 1600,
+                "top": 2445
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_81/screen_1742311101550.webp",
+            "semantic": "\"Immediate Purchase\" or \"Buy Now\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 771,
+                "right": 1220,
+                "top": 2484
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_shortcut_7_26/screen_1742271005341.webp",
+            "semantic": "\"Immediate Purchase\" or \"Buy Now\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 771,
+                "right": 1220,
+                "top": 2484
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_dark_shortcut_7_130/screen_1742290685107.webp",
+            "semantic": "\"Immediate Purchase\" or \"Buy Now\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 771,
+                "right": 1220,
+                "top": 2484
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_dark_bigger_shortcut_7_149/screen_1742291795704.webp",
+            "semantic": "\"Immediate Purchase\" or \"Buy Now\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2660,
+                "left": 771,
+                "right": 1220,
+                "top": 2484
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/redmi Turbo 14_bigger_shortcut_7_72/screen_1742286371258.webp",
+            "semantic": "\"Immediate Purchase\" or \"Buy Now\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2412,
+                "left": 666,
+                "right": 1080,
+                "top": 2250
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/honorPlay8T_shortcut_7_180/screen_1741770448047.webp",
+            "semantic": "\"Immediate Purchase\" or \"Buy Now\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 771,
+                "right": 1220,
+                "top": 2536
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Redmik70U_shortcut_7_127/screen_1742365488088.webp",
+            "semantic": "\"Immediate Purchase\" or \"Buy Now\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2712,
+                "left": 771,
+                "right": 1220,
+                "top": 2536
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Redmik70U_bigger_shortcut_7_194/screen_1742378625119.webp",
+            "semantic": "\"Immediate Purchase\" or \"Buy Now\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2364,
+                "left": 666,
+                "right": 1080,
+                "top": 2202
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/OPPO Reno9 Pro5G_dark_bigger_shortcut_7_71/screen_1742275184145.webp",
+            "semantic": "\"Immediate Purchase\" or \"Buy Now\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 666,
+                "right": 1080,
+                "top": 2238
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/IQOONeo5_shortcut_7_88/screen_1742368809105.webp",
+            "semantic": "\"Immediate Purchase\" or \"Buy Now\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 666,
+                "right": 1080,
+                "top": 2238
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/IQOONeo5_dark_bigger_shortcut_7_179/screen_1742387081948.webp",
+            "semantic": "\"Immediate Purchase\" or \"Buy Now\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2400,
+                "left": 666,
+                "right": 1080,
+                "top": 2238
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/IQOONeo5_bigger_shortcut_7_140/screen_1742384221348.webp",
+            "semantic": "\"Immediate Purchase\" or \"Buy Now\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 748,
+                "right": 1200,
+                "top": 2487
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Honor90GT_shortcut_7_90/screen_1742354331896.webp",
+            "semantic": "\"Immediate Purchase\" or \"Buy Now\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2664,
+                "left": 748,
+                "right": 1200,
+                "top": 2487
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/Honor90GT_bigger_shortcut_7_201/screen_1742399119708.webp",
+            "semantic": "\"Immediate Purchase\" or \"Buy Now\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2560,
+                "left": 1307,
+                "right": 1600,
+                "top": 2445
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_manage_my_collections/HUAWEl MatePad Pro MRX-W39_shortcut_7_42/screen_1742308348210.webp",
+            "semantic": "\"Immediate Purchase\" or \"Buy Now\" function button."
+        }
+    ]
+]

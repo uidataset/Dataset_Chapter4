@@ -1,0 +1,74 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 555,
+                "left": 0,
+                "right": 1600,
+                "top": 265
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro MRX-W39_shortcut_7_41/screen_1740150396406.webp",
+            "semantic": "\"Custom menu settings button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 555,
+                "left": 0,
+                "right": 1600,
+                "top": 265
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro MRX-W39_dark_shortcut_7_31/screen_1740412724801.webp",
+            "semantic": "\"Custom menu settings button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 511,
+                "left": 0,
+                "right": 1600,
+                "top": 239
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/HUAWEl MatePad Pro WGRR-WO9_dark_shortcut_7_30/screen_1740313285529.webp",
+            "semantic": "\"Custom menu settings button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 852,
+                "left": 0,
+                "right": 1200,
+                "top": 406
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/Honor90GT_dark_shortcut_7_40/screen_1740570865074.webp",
+            "semantic": "\"Custom menu settings button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 791,
+                "left": 0,
+                "right": 1080,
+                "top": 383
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/OPPO Reno9 Pro5G_dark_shortcut_7_32/screen_1740310166620.webp",
+            "semantic": "\"Custom menu settings button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 844,
+                "left": 0,
+                "right": 1220,
+                "top": 402
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/Redmik70U_dark_shortcut_7_43/screen_1740306428180.webp",
+            "semantic": "\"Custom menu settings button.\""
+        },
+        {
+            "bounds": {
+                "bottom": 836,
+                "left": 0,
+                "right": 1220,
+                "top": 394
+            },
+            "img_path": "../data/Weibo/Weibo_set_private_message_reply/redmi Turbo 14_dark_shortcut_7_30/screen_1740323159490.webp",
+            "semantic": "\"Custom menu settings button.\""
+        }
+    ]
+]

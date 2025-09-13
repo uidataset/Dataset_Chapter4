@@ -1,0 +1,412 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 1386,
+                "left": 0,
+                "right": 1600,
+                "top": 1310
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_90/screen_1742311492795.webp",
+            "semantic": "Face verification function for security and identity verification."
+        },
+        {
+            "bounds": {
+                "bottom": 1369,
+                "left": 0,
+                "right": 1600,
+                "top": 1310
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_shortcut_7_50/screen_1742308904849.webp",
+            "semantic": "Face verification function for security and identity verification."
+        },
+        {
+            "bounds": {
+                "bottom": 1152,
+                "left": 0,
+                "right": 1080,
+                "top": 987
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_bigger_shortcut_7_153/screen_1742384967309.webp",
+            "semantic": "Face verification function for security and identity verification."
+        },
+        {
+            "bounds": {
+                "bottom": 1104,
+                "left": 0,
+                "right": 1080,
+                "top": 987
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_shortcut_7_99/screen_1742370605194.webp",
+            "semantic": "Face verification function for security and identity verification."
+        },
+        {
+            "bounds": {
+                "bottom": 1271,
+                "left": 0,
+                "right": 1222,
+                "top": 1132
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/Redmik70U_shortcut_7_141/screen_1742369288547.webp",
+            "semantic": "Face verification function for security and identity verification."
+        },
+        {
+            "bounds": {
+                "bottom": 1128,
+                "left": 0,
+                "right": 1080,
+                "top": 1011
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/honorPlay8T_shortcut_7_191/screen_1741836861531.webp",
+            "semantic": "Face verification function for security and identity verification."
+        },
+        {
+            "bounds": {
+                "bottom": 1315,
+                "left": 0,
+                "right": 1222,
+                "top": 1124
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_bigger_shortcut_7_85/screen_1742287434754.webp",
+            "semantic": "Face verification function for security and identity verification."
+        },
+        {
+            "bounds": {
+                "bottom": 1263,
+                "left": 0,
+                "right": 1222,
+                "top": 1124
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_shortcut_7_35/screen_1742271635845.webp",
+            "semantic": "Face verification function for security and identity verification."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1550,
+                "left": 31,
+                "right": 376,
+                "top": 1384
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_90/screen_1742311492795.webp",
+            "semantic": "Consent checkbox for terms and conditions."
+        },
+        {
+            "bounds": {
+                "bottom": 1416,
+                "left": 22,
+                "right": 344,
+                "top": 1260
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_shortcut_7_35/screen_1742271635845.webp",
+            "semantic": "\"Terms of Service\" link text."
+        },
+        {
+            "bounds": {
+                "bottom": 1543,
+                "left": 22,
+                "right": 503,
+                "top": 1309
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_bigger_shortcut_7_85/screen_1742287434754.webp",
+            "semantic": "Consent checkbox for terms and conditions."
+        },
+        {
+            "bounds": {
+                "bottom": 1266,
+                "left": 21,
+                "right": 303,
+                "top": 1125
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/honorPlay8T_shortcut_7_191/screen_1741836861531.webp",
+            "semantic": "Consent checkbox for terms and conditions."
+        },
+        {
+            "bounds": {
+                "bottom": 1424,
+                "left": 22,
+                "right": 344,
+                "top": 1268
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/Redmik70U_shortcut_7_141/screen_1742369288547.webp",
+            "semantic": "Consent checkbox for terms and conditions."
+        },
+        {
+            "bounds": {
+                "bottom": 1242,
+                "left": 21,
+                "right": 303,
+                "top": 1101
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_shortcut_7_99/screen_1742370605194.webp",
+            "semantic": "Consent checkbox for terms and conditions."
+        },
+        {
+            "bounds": {
+                "bottom": 1356,
+                "left": 21,
+                "right": 444,
+                "top": 1149
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_bigger_shortcut_7_153/screen_1742384967309.webp",
+            "semantic": "Consent checkbox for terms and conditions."
+        },
+        {
+            "bounds": {
+                "bottom": 1478,
+                "left": 31,
+                "right": 261,
+                "top": 1367
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_shortcut_7_50/screen_1742308904849.webp",
+            "semantic": "Consent checkbox for terms and conditions."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1550,
+                "left": 386,
+                "right": 663,
+                "top": 1384
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_90/screen_1742311492795.webp",
+            "semantic": "\"Terms of Service\" link text."
+        },
+        {
+            "bounds": {
+                "bottom": 1478,
+                "left": 267,
+                "right": 452,
+                "top": 1367
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_shortcut_7_50/screen_1742308904849.webp",
+            "semantic": "\"Terms of Service\" link text."
+        },
+        {
+            "bounds": {
+                "bottom": 1356,
+                "left": 456,
+                "right": 798,
+                "top": 1149
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_bigger_shortcut_7_153/screen_1742384967309.webp",
+            "semantic": "\"Terms of Service\" link text."
+        },
+        {
+            "bounds": {
+                "bottom": 1242,
+                "left": 312,
+                "right": 540,
+                "top": 1101
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_shortcut_7_99/screen_1742370605194.webp",
+            "semantic": "\"Terms of Service\" link text."
+        },
+        {
+            "bounds": {
+                "bottom": 1424,
+                "left": 354,
+                "right": 611,
+                "top": 1268
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/Redmik70U_shortcut_7_141/screen_1742369288547.webp",
+            "semantic": "\"Terms of Service\" link text."
+        },
+        {
+            "bounds": {
+                "bottom": 1266,
+                "left": 312,
+                "right": 537,
+                "top": 1125
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/honorPlay8T_shortcut_7_191/screen_1741836861531.webp",
+            "semantic": "\"Terms of Service\" link text."
+        },
+        {
+            "bounds": {
+                "bottom": 1543,
+                "left": 22,
+                "right": 503,
+                "top": 1309
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_bigger_shortcut_7_85/screen_1742287434754.webp",
+            "semantic": "Consent checkbox for terms and conditions."
+        },
+        {
+            "bounds": {
+                "bottom": 1416,
+                "left": 22,
+                "right": 344,
+                "top": 1260
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_shortcut_7_35/screen_1742271635845.webp",
+            "semantic": "\"Terms of Service\" link text."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1550,
+                "left": 731,
+                "right": 962,
+                "top": 1384
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_90/screen_1742311492795.webp",
+            "semantic": "\"Privacy Policy\" link."
+        },
+        {
+            "bounds": {
+                "bottom": 1416,
+                "left": 663,
+                "right": 880,
+                "top": 1260
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_shortcut_7_35/screen_1742271635845.webp",
+            "semantic": "\"Privacy Policy\" link."
+        },
+        {
+            "bounds": {
+                "bottom": 1774,
+                "left": 22,
+                "right": 344,
+                "top": 1540
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_bigger_shortcut_7_85/screen_1742287434754.webp",
+            "semantic": "\"Privacy Policy\" link."
+        },
+        {
+            "bounds": {
+                "bottom": 1266,
+                "left": 594,
+                "right": 783,
+                "top": 1125
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/honorPlay8T_shortcut_7_191/screen_1741836861531.webp",
+            "semantic": "\"Privacy Policy\" link."
+        },
+        {
+            "bounds": {
+                "bottom": 1424,
+                "left": 676,
+                "right": 890,
+                "top": 1268
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/Redmik70U_shortcut_7_141/screen_1742369288547.webp",
+            "semantic": "\"Privacy Policy\" link."
+        },
+        {
+            "bounds": {
+                "bottom": 1242,
+                "left": 594,
+                "right": 783,
+                "top": 1101
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_shortcut_7_99/screen_1742370605194.webp",
+            "semantic": "\"Privacy Policy\" link."
+        },
+        {
+            "bounds": {
+                "bottom": 1560,
+                "left": 21,
+                "right": 303,
+                "top": 1353
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_bigger_shortcut_7_153/screen_1742384967309.webp",
+            "semantic": "\"Privacy Policy\" link."
+        },
+        {
+            "bounds": {
+                "bottom": 1478,
+                "left": 497,
+                "right": 652,
+                "top": 1367
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_shortcut_7_50/screen_1742308904849.webp",
+            "semantic": "\"Privacy Policy\" link."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1737,
+                "left": 53,
+                "right": 1547,
+                "top": 1595
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_bigger_shortcut_7_90/screen_1742311492795.webp",
+            "semantic": "Face verification initiation button."
+        },
+        {
+            "bounds": {
+                "bottom": 1601,
+                "left": 53,
+                "right": 1547,
+                "top": 1505
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/HUAWEl MatePad Pro MRX-W39_shortcut_7_50/screen_1742308904849.webp",
+            "semantic": "Face verification initiation button."
+        },
+        {
+            "bounds": {
+                "bottom": 1788,
+                "left": 75,
+                "right": 1005,
+                "top": 1611
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_bigger_shortcut_7_153/screen_1742384967309.webp",
+            "semantic": "Face verification initiation button."
+        },
+        {
+            "bounds": {
+                "bottom": 1392,
+                "left": 75,
+                "right": 1005,
+                "top": 1275
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/IQOONeo5_shortcut_7_99/screen_1742370605194.webp",
+            "semantic": "Face verification initiation button."
+        },
+        {
+            "bounds": {
+                "bottom": 1596,
+                "left": 78,
+                "right": 1144,
+                "top": 1463
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/Redmik70U_shortcut_7_141/screen_1742369288547.webp",
+            "semantic": "Face verification initiation button."
+        },
+        {
+            "bounds": {
+                "bottom": 1416,
+                "left": 75,
+                "right": 1005,
+                "top": 1299
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/honorPlay8T_shortcut_7_191/screen_1741836861531.webp",
+            "semantic": "Face verification initiation button."
+        },
+        {
+            "bounds": {
+                "bottom": 2034,
+                "left": 78,
+                "right": 1144,
+                "top": 1832
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_bigger_shortcut_7_85/screen_1742287434754.webp",
+            "semantic": "Face verification initiation button."
+        },
+        {
+            "bounds": {
+                "bottom": 1588,
+                "left": 78,
+                "right": 1144,
+                "top": 1455
+            },
+            "img_path": "../data/12306/12306_12306_view_my_tickets/redmi Turbo 14_shortcut_7_35/screen_1742271635845.webp",
+            "semantic": "Face verification initiation button."
+        }
+    ]
+]

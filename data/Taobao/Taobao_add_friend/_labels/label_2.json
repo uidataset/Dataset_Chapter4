@@ -1,0 +1,330 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 250,
+                "left": 1380,
+                "right": 1516,
+                "top": 204
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/HUAWEl MatePad Pro MRX-W39_shortcut_7_54/screen_1740151227178.webp",
+            "semantic": "Initiate group chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 223,
+                "left": 1393,
+                "right": 1521,
+                "top": 180
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_38/screen_1740141020074.webp",
+            "semantic": "Initiate group chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 280,
+                "left": 1341,
+                "right": 1501,
+                "top": 226
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_67/screen_1740129159736.webp",
+            "semantic": "Initiate group chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 381,
+                "left": 860,
+                "right": 1068,
+                "top": 311
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/Honor90GT_shortcut_7_59/screen_1740195639338.webp",
+            "semantic": "Initiate group chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 361,
+                "left": 770,
+                "right": 962,
+                "top": 296
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/OPPO Reno9 Pro5G_shortcut_7_56/screen_1740133758223.webp",
+            "semantic": "Initiate group chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 372,
+                "left": 884,
+                "right": 1092,
+                "top": 312
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/Redmik70U_shortcut_7_70/screen_1740123469535.webp",
+            "semantic": "Initiate group chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 347,
+                "left": 770,
+                "right": 962,
+                "top": 282
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/honorPlay8T_shortcut_7_124/screen_1740040549358.webp",
+            "semantic": "Initiate group chat function button."
+        },
+        {
+            "bounds": {
+                "bottom": 369,
+                "left": 884,
+                "right": 1092,
+                "top": 299
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/redmi Turbo 14_shortcut_7_58/screen_1740139651972.webp",
+            "semantic": "Initiate group chat function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 353,
+                "left": 1380,
+                "right": 1482,
+                "top": 307
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/HUAWEl MatePad Pro MRX-W39_shortcut_7_54/screen_1740151227178.webp",
+            "semantic": "\"Contacts\" or \"Address book\" access button."
+        },
+        {
+            "bounds": {
+                "bottom": 320,
+                "left": 1393,
+                "right": 1489,
+                "top": 277
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_38/screen_1740141020074.webp",
+            "semantic": "\"Contacts\" or \"Address book\" access button."
+        },
+        {
+            "bounds": {
+                "bottom": 401,
+                "left": 1341,
+                "right": 1461,
+                "top": 347
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_67/screen_1740129159736.webp",
+            "semantic": "\"Contacts\" or \"Address book\" access button."
+        },
+        {
+            "bounds": {
+                "bottom": 540,
+                "left": 860,
+                "right": 1016,
+                "top": 470
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/Honor90GT_shortcut_7_59/screen_1740195639338.webp",
+            "semantic": "\"Contacts\" or \"Address book\" access button."
+        },
+        {
+            "bounds": {
+                "bottom": 507,
+                "left": 770,
+                "right": 914,
+                "top": 442
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/OPPO Reno9 Pro5G_shortcut_7_56/screen_1740133758223.webp",
+            "semantic": "\"Contacts\" or \"Address book\" access button."
+        },
+        {
+            "bounds": {
+                "bottom": 530,
+                "left": 884,
+                "right": 1040,
+                "top": 470
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/Redmik70U_shortcut_7_70/screen_1740123469535.webp",
+            "semantic": "\"Contacts\" or \"Address book\" access button."
+        },
+        {
+            "bounds": {
+                "bottom": 493,
+                "left": 770,
+                "right": 914,
+                "top": 428
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/honorPlay8T_shortcut_7_124/screen_1740040549358.webp",
+            "semantic": "\"Contacts\" or \"Address book\" access button."
+        },
+        {
+            "bounds": {
+                "bottom": 527,
+                "left": 884,
+                "right": 1040,
+                "top": 457
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/redmi Turbo 14_shortcut_7_58/screen_1740139651972.webp",
+            "semantic": "\"Contacts\" or \"Address book\" access button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 456,
+                "left": 1380,
+                "right": 1516,
+                "top": 410
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/HUAWEl MatePad Pro MRX-W39_shortcut_7_54/screen_1740151227178.webp",
+            "semantic": "\"Add new friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 417,
+                "left": 1393,
+                "right": 1521,
+                "top": 374
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_38/screen_1740141020074.webp",
+            "semantic": "\"Add new friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 522,
+                "left": 1341,
+                "right": 1501,
+                "top": 468
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_67/screen_1740129159736.webp",
+            "semantic": "\"Add new friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 699,
+                "left": 860,
+                "right": 1068,
+                "top": 629
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/Honor90GT_shortcut_7_59/screen_1740195639338.webp",
+            "semantic": "\"Add new friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 653,
+                "left": 770,
+                "right": 962,
+                "top": 588
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/OPPO Reno9 Pro5G_shortcut_7_56/screen_1740133758223.webp",
+            "semantic": "\"Add new friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 688,
+                "left": 884,
+                "right": 1092,
+                "top": 628
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/Redmik70U_shortcut_7_70/screen_1740123469535.webp",
+            "semantic": "\"Add new friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 639,
+                "left": 770,
+                "right": 962,
+                "top": 574
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/honorPlay8T_shortcut_7_124/screen_1740040549358.webp",
+            "semantic": "\"Add new friend\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 685,
+                "left": 884,
+                "right": 1092,
+                "top": 615
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/redmi Turbo 14_shortcut_7_58/screen_1740139651972.webp",
+            "semantic": "\"Add new friend\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 559,
+                "left": 1380,
+                "right": 1516,
+                "top": 513
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/HUAWEl MatePad Pro MRX-W39_shortcut_7_54/screen_1740151227178.webp",
+            "semantic": "Message configuration settings button."
+        },
+        {
+            "bounds": {
+                "bottom": 514,
+                "left": 1393,
+                "right": 1521,
+                "top": 471
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/HUAWEl MatePad Pro WGRR-WO9_shortcut_7_38/screen_1740141020074.webp",
+            "semantic": "Message configuration settings button."
+        },
+        {
+            "bounds": {
+                "bottom": 643,
+                "left": 1341,
+                "right": 1501,
+                "top": 589
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/HUAWEl MatePad Pro-GOT-W29 _shortcut_7_67/screen_1740129159736.webp",
+            "semantic": "Message configuration settings button."
+        },
+        {
+            "bounds": {
+                "bottom": 858,
+                "left": 860,
+                "right": 1068,
+                "top": 788
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/Honor90GT_shortcut_7_59/screen_1740195639338.webp",
+            "semantic": "Message configuration settings button."
+        },
+        {
+            "bounds": {
+                "bottom": 799,
+                "left": 770,
+                "right": 962,
+                "top": 734
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/OPPO Reno9 Pro5G_shortcut_7_56/screen_1740133758223.webp",
+            "semantic": "Message configuration settings button."
+        },
+        {
+            "bounds": {
+                "bottom": 846,
+                "left": 884,
+                "right": 1092,
+                "top": 786
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/Redmik70U_shortcut_7_70/screen_1740123469535.webp",
+            "semantic": "Message configuration settings button."
+        },
+        {
+            "bounds": {
+                "bottom": 785,
+                "left": 770,
+                "right": 962,
+                "top": 720
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/honorPlay8T_shortcut_7_124/screen_1740040549358.webp",
+            "semantic": "Message configuration settings button."
+        },
+        {
+            "bounds": {
+                "bottom": 843,
+                "left": 884,
+                "right": 1092,
+                "top": 773
+            },
+            "img_path": "../data/Taobao/Taobao_add_friend/redmi Turbo 14_shortcut_7_58/screen_1740139651972.webp",
+            "semantic": "Message configuration settings button."
+        }
+    ]
+]

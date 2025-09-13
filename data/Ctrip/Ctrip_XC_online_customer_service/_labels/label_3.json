@@ -1,0 +1,2134 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 444,
+                "left": 654,
+                "right": 946,
+                "top": 256
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Online customer service\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 440,
+                "left": 442,
+                "right": 638,
+                "top": 313
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Online customer service\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 521,
+                "left": 498,
+                "right": 722,
+                "top": 377
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Online customer service\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 465,
+                "left": 442,
+                "right": 638,
+                "top": 338
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Online customer service\" section header."
+        },
+        {
+            "bounds": {
+                "bottom": 362,
+                "left": 498,
+                "right": 722,
+                "top": 219
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Online customer service\" section header."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 578,
+                "left": 68,
+                "right": 360,
+                "top": 480
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Transportation and accommodation navigation section title.\""
+        },
+        {
+            "bounds": {
+                "bottom": 531,
+                "left": 46,
+                "right": 242,
+                "top": 465
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Transportation and accommodation navigation section title.\""
+        },
+        {
+            "bounds": {
+                "bottom": 618,
+                "left": 52,
+                "right": 276,
+                "top": 553
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Transportation and accommodation navigation section title.\""
+        },
+        {
+            "bounds": {
+                "bottom": 556,
+                "left": 46,
+                "right": 242,
+                "top": 490
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Transportation and accommodation navigation section title.\""
+        },
+        {
+            "bounds": {
+                "bottom": 465,
+                "left": 52,
+                "right": 276,
+                "top": 390
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Transportation and accommodation navigation section title.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1803,
+                "left": 68,
+                "right": 433,
+                "top": 1705
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Vacation and Other Services\" section heading."
+        },
+        {
+            "bounds": {
+                "bottom": 1358,
+                "left": 46,
+                "right": 291,
+                "top": 1292
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Vacation and Other Services\" section heading."
+        },
+        {
+            "bounds": {
+                "bottom": 1552,
+                "left": 52,
+                "right": 332,
+                "top": 1487
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Vacation and Other Services\" section heading."
+        },
+        {
+            "bounds": {
+                "bottom": 1383,
+                "left": 46,
+                "right": 291,
+                "top": 1317
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Vacation and Other Services\" section heading."
+        },
+        {
+            "bounds": {
+                "bottom": 1399,
+                "left": 52,
+                "right": 332,
+                "top": 1324
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Vacation and Other Services\" section heading."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 792,
+                "left": 131,
+                "right": 268,
+                "top": 656
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Domestic flight booking option."
+        },
+        {
+            "bounds": {
+                "bottom": 679,
+                "left": 89,
+                "right": 181,
+                "top": 587
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Domestic flight booking option."
+        },
+        {
+            "bounds": {
+                "bottom": 791,
+                "left": 99,
+                "right": 203,
+                "top": 686
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Domestic flight booking option."
+        },
+        {
+            "bounds": {
+                "bottom": 705,
+                "left": 89,
+                "right": 181,
+                "top": 612
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Domestic flight booking option."
+        },
+        {
+            "bounds": {
+                "bottom": 632,
+                "left": 99,
+                "right": 203,
+                "top": 528
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Domestic flight booking option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 861,
+                "left": 6,
+                "right": 393,
+                "top": 801
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Domestic flight ticket section."
+        },
+        {
+            "bounds": {
+                "bottom": 726,
+                "left": 9,
+                "right": 261,
+                "top": 685
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Domestic flight ticket section."
+        },
+        {
+            "bounds": {
+                "bottom": 684,
+                "left": 10,
+                "right": 293,
+                "top": 638
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Domestic flight ticket section."
+        },
+        {
+            "bounds": {
+                "bottom": 751,
+                "left": 9,
+                "right": 261,
+                "top": 710
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Domestic flight ticket section."
+        },
+        {
+            "bounds": {
+                "bottom": 842,
+                "left": 10,
+                "right": 293,
+                "top": 796
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Domestic flight ticket section."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 792,
+                "left": 531,
+                "right": 668,
+                "top": 656
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "International flight booking."
+        },
+        {
+            "bounds": {
+                "bottom": 679,
+                "left": 359,
+                "right": 451,
+                "top": 587
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "International flight booking."
+        },
+        {
+            "bounds": {
+                "bottom": 791,
+                "left": 401,
+                "right": 505,
+                "top": 686
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "International flight booking."
+        },
+        {
+            "bounds": {
+                "bottom": 705,
+                "left": 359,
+                "right": 451,
+                "top": 612
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "International flight booking."
+        },
+        {
+            "bounds": {
+                "bottom": 632,
+                "left": 401,
+                "right": 505,
+                "top": 528
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "International flight booking."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 921,
+                "left": 406,
+                "right": 793,
+                "top": 801
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "International flight booking option."
+        },
+        {
+            "bounds": {
+                "bottom": 767,
+                "left": 279,
+                "right": 531,
+                "top": 685
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "International flight booking option."
+        },
+        {
+            "bounds": {
+                "bottom": 730,
+                "left": 312,
+                "right": 595,
+                "top": 638
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "International flight booking option."
+        },
+        {
+            "bounds": {
+                "bottom": 792,
+                "left": 279,
+                "right": 531,
+                "top": 710
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "International flight booking option."
+        },
+        {
+            "bounds": {
+                "bottom": 888,
+                "left": 312,
+                "right": 595,
+                "top": 796
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "International flight booking option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 792,
+                "left": 930,
+                "right": 1067,
+                "top": 656
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Domestic Train Ticket option."
+        },
+        {
+            "bounds": {
+                "bottom": 679,
+                "left": 629,
+                "right": 721,
+                "top": 587
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Domestic Train Ticket option."
+        },
+        {
+            "bounds": {
+                "bottom": 791,
+                "left": 704,
+                "right": 808,
+                "top": 686
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Domestic Train Ticket option."
+        },
+        {
+            "bounds": {
+                "bottom": 705,
+                "left": 629,
+                "right": 721,
+                "top": 612
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Domestic Train Ticket option."
+        },
+        {
+            "bounds": {
+                "bottom": 632,
+                "left": 704,
+                "right": 808,
+                "top": 528
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Domestic Train Ticket option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 861,
+                "left": 805,
+                "right": 1192,
+                "top": 801
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Domestic train ticket function button."
+        },
+        {
+            "bounds": {
+                "bottom": 726,
+                "left": 549,
+                "right": 801,
+                "top": 685
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Domestic train ticket function button."
+        },
+        {
+            "bounds": {
+                "bottom": 684,
+                "left": 615,
+                "right": 898,
+                "top": 638
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Domestic train ticket function button."
+        },
+        {
+            "bounds": {
+                "bottom": 751,
+                "left": 549,
+                "right": 801,
+                "top": 710
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Domestic train ticket function button."
+        },
+        {
+            "bounds": {
+                "bottom": 842,
+                "left": 615,
+                "right": 898,
+                "top": 796
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Domestic train ticket function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 792,
+                "left": 1330,
+                "right": 1467,
+                "top": 656
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "International train ticket purchasing option."
+        },
+        {
+            "bounds": {
+                "bottom": 679,
+                "left": 899,
+                "right": 991,
+                "top": 587
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "International train ticket purchasing option."
+        },
+        {
+            "bounds": {
+                "bottom": 791,
+                "left": 1006,
+                "right": 1110,
+                "top": 686
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "International train ticket purchasing option."
+        },
+        {
+            "bounds": {
+                "bottom": 705,
+                "left": 899,
+                "right": 991,
+                "top": 612
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "International train ticket purchasing option."
+        },
+        {
+            "bounds": {
+                "bottom": 632,
+                "left": 1006,
+                "right": 1110,
+                "top": 528
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "International train ticket purchasing option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 861,
+                "left": 1205,
+                "right": 1592,
+                "top": 801
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"International Train Ticket\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 726,
+                "left": 819,
+                "right": 1071,
+                "top": 685
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"International Train Ticket\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 684,
+                "left": 917,
+                "right": 1199,
+                "top": 638
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"International Train Ticket\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 751,
+                "left": 819,
+                "right": 1071,
+                "top": 710
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"International Train Ticket\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 842,
+                "left": 917,
+                "right": 1199,
+                "top": 796
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"International Train Ticket\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1112,
+                "left": 131,
+                "right": 268,
+                "top": 976
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Domestic hotel\" navigation icon."
+        },
+        {
+            "bounds": {
+                "bottom": 895,
+                "left": 89,
+                "right": 181,
+                "top": 803
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Domestic hotel\" navigation icon."
+        },
+        {
+            "bounds": {
+                "bottom": 1035,
+                "left": 99,
+                "right": 203,
+                "top": 930
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Domestic hotel\" navigation icon."
+        },
+        {
+            "bounds": {
+                "bottom": 921,
+                "left": 89,
+                "right": 181,
+                "top": 828
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Domestic hotel\" navigation icon."
+        },
+        {
+            "bounds": {
+                "bottom": 876,
+                "left": 99,
+                "right": 203,
+                "top": 772
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Domestic hotel\" navigation icon."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1181,
+                "left": 6,
+                "right": 393,
+                "top": 1121
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Domestic hotel booking."
+        },
+        {
+            "bounds": {
+                "bottom": 942,
+                "left": 9,
+                "right": 261,
+                "top": 901
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Domestic hotel booking."
+        },
+        {
+            "bounds": {
+                "bottom": 928,
+                "left": 10,
+                "right": 293,
+                "top": 882
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Domestic hotel booking."
+        },
+        {
+            "bounds": {
+                "bottom": 967,
+                "left": 9,
+                "right": 261,
+                "top": 926
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Domestic hotel booking."
+        },
+        {
+            "bounds": {
+                "bottom": 1086,
+                "left": 10,
+                "right": 293,
+                "top": 1040
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Domestic hotel booking."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1112,
+                "left": 531,
+                "right": 668,
+                "top": 976
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Overseas hotels booking option."
+        },
+        {
+            "bounds": {
+                "bottom": 895,
+                "left": 359,
+                "right": 451,
+                "top": 803
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Overseas hotels booking option."
+        },
+        {
+            "bounds": {
+                "bottom": 1035,
+                "left": 401,
+                "right": 505,
+                "top": 930
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Overseas hotels booking option."
+        },
+        {
+            "bounds": {
+                "bottom": 921,
+                "left": 359,
+                "right": 451,
+                "top": 828
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Overseas hotels booking option."
+        },
+        {
+            "bounds": {
+                "bottom": 876,
+                "left": 401,
+                "right": 505,
+                "top": 772
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Overseas hotels booking option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1181,
+                "left": 406,
+                "right": 793,
+                "top": 1121
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Overseas hotel booking function button."
+        },
+        {
+            "bounds": {
+                "bottom": 942,
+                "left": 279,
+                "right": 531,
+                "top": 901
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Overseas hotel booking function button."
+        },
+        {
+            "bounds": {
+                "bottom": 928,
+                "left": 312,
+                "right": 595,
+                "top": 882
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Overseas hotel booking function button."
+        },
+        {
+            "bounds": {
+                "bottom": 967,
+                "left": 279,
+                "right": 531,
+                "top": 926
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Overseas hotel booking function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1086,
+                "left": 312,
+                "right": 595,
+                "top": 1040
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Overseas hotel booking function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1112,
+                "left": 930,
+                "right": 1067,
+                "top": 976
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Domestic Car Rental function button."
+        },
+        {
+            "bounds": {
+                "bottom": 895,
+                "left": 629,
+                "right": 721,
+                "top": 803
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Domestic Car Rental function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1035,
+                "left": 704,
+                "right": 808,
+                "top": 930
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Domestic Car Rental function button."
+        },
+        {
+            "bounds": {
+                "bottom": 921,
+                "left": 629,
+                "right": 721,
+                "top": 828
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Domestic Car Rental function button."
+        },
+        {
+            "bounds": {
+                "bottom": 876,
+                "left": 704,
+                "right": 808,
+                "top": 772
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Domestic Car Rental function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1181,
+                "left": 805,
+                "right": 1192,
+                "top": 1121
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Domestic car rental service."
+        },
+        {
+            "bounds": {
+                "bottom": 942,
+                "left": 549,
+                "right": 801,
+                "top": 901
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Domestic car rental service."
+        },
+        {
+            "bounds": {
+                "bottom": 928,
+                "left": 615,
+                "right": 898,
+                "top": 882
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Domestic car rental service."
+        },
+        {
+            "bounds": {
+                "bottom": 967,
+                "left": 549,
+                "right": 801,
+                "top": 926
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Domestic car rental service."
+        },
+        {
+            "bounds": {
+                "bottom": 1086,
+                "left": 615,
+                "right": 898,
+                "top": 1040
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Domestic car rental service."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1112,
+                "left": 1330,
+                "right": 1467,
+                "top": 976
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"International Car Rental\" option button."
+        },
+        {
+            "bounds": {
+                "bottom": 895,
+                "left": 899,
+                "right": 991,
+                "top": 803
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"International Car Rental\" option button."
+        },
+        {
+            "bounds": {
+                "bottom": 1035,
+                "left": 1006,
+                "right": 1110,
+                "top": 930
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"International Car Rental\" option button."
+        },
+        {
+            "bounds": {
+                "bottom": 921,
+                "left": 899,
+                "right": 991,
+                "top": 828
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"International Car Rental\" option button."
+        },
+        {
+            "bounds": {
+                "bottom": 876,
+                "left": 1006,
+                "right": 1110,
+                "top": 772
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"International Car Rental\" option button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1181,
+                "left": 1205,
+                "right": 1592,
+                "top": 1121
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Foreign Car Rental function button."
+        },
+        {
+            "bounds": {
+                "bottom": 942,
+                "left": 819,
+                "right": 1071,
+                "top": 901
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Foreign Car Rental function button."
+        },
+        {
+            "bounds": {
+                "bottom": 928,
+                "left": 917,
+                "right": 1199,
+                "top": 882
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Foreign Car Rental function button."
+        },
+        {
+            "bounds": {
+                "bottom": 967,
+                "left": 819,
+                "right": 1071,
+                "top": 926
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Foreign Car Rental function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1086,
+                "left": 917,
+                "right": 1199,
+                "top": 1040
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Foreign Car Rental function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1432,
+                "left": 131,
+                "right": 268,
+                "top": 1296
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Domestic chauffeur service.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1111,
+                "left": 89,
+                "right": 181,
+                "top": 1019
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Domestic chauffeur service.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1279,
+                "left": 99,
+                "right": 203,
+                "top": 1174
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Domestic chauffeur service.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1137,
+                "left": 89,
+                "right": 181,
+                "top": 1044
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Domestic chauffeur service.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1120,
+                "left": 99,
+                "right": 203,
+                "top": 1016
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Domestic chauffeur service.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1501,
+                "left": 6,
+                "right": 393,
+                "top": 1441
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Domestic Shuttle Service\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1158,
+                "left": 9,
+                "right": 261,
+                "top": 1117
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Domestic Shuttle Service\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1172,
+                "left": 10,
+                "right": 293,
+                "top": 1126
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Domestic Shuttle Service\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1183,
+                "left": 9,
+                "right": 261,
+                "top": 1142
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Domestic Shuttle Service\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1330,
+                "left": 10,
+                "right": 293,
+                "top": 1284
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Domestic Shuttle Service\" button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1432,
+                "left": 531,
+                "right": 668,
+                "top": 1296
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "International car rental service function."
+        },
+        {
+            "bounds": {
+                "bottom": 1111,
+                "left": 359,
+                "right": 451,
+                "top": 1019
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "International car rental service function."
+        },
+        {
+            "bounds": {
+                "bottom": 1279,
+                "left": 401,
+                "right": 505,
+                "top": 1174
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "International car rental service function."
+        },
+        {
+            "bounds": {
+                "bottom": 1137,
+                "left": 359,
+                "right": 451,
+                "top": 1044
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "International car rental service function."
+        },
+        {
+            "bounds": {
+                "bottom": 1120,
+                "left": 401,
+                "right": 505,
+                "top": 1016
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "International car rental service function."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1501,
+                "left": 406,
+                "right": 793,
+                "top": 1441
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Foreign dedicated car service."
+        },
+        {
+            "bounds": {
+                "bottom": 1158,
+                "left": 279,
+                "right": 531,
+                "top": 1117
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Foreign dedicated car service."
+        },
+        {
+            "bounds": {
+                "bottom": 1172,
+                "left": 312,
+                "right": 595,
+                "top": 1126
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Foreign dedicated car service."
+        },
+        {
+            "bounds": {
+                "bottom": 1183,
+                "left": 279,
+                "right": 531,
+                "top": 1142
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Foreign dedicated car service."
+        },
+        {
+            "bounds": {
+                "bottom": 1330,
+                "left": 312,
+                "right": 595,
+                "top": 1284
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Foreign dedicated car service."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1432,
+                "left": 930,
+                "right": 1067,
+                "top": 1296
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Bus ticket or ferry ticket purchasing option.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1111,
+                "left": 629,
+                "right": 721,
+                "top": 1019
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Bus ticket or ferry ticket purchasing option.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1279,
+                "left": 704,
+                "right": 808,
+                "top": 1174
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Bus ticket or ferry ticket purchasing option.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1137,
+                "left": 629,
+                "right": 721,
+                "top": 1044
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Bus ticket or ferry ticket purchasing option.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1120,
+                "left": 704,
+                "right": 808,
+                "top": 1016
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Bus ticket or ferry ticket purchasing option.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 1501,
+                "left": 805,
+                "right": 1192,
+                "top": 1441
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Bus or boat ticket booking option."
+        },
+        {
+            "bounds": {
+                "bottom": 1158,
+                "left": 549,
+                "right": 801,
+                "top": 1117
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Bus or boat ticket booking option."
+        },
+        {
+            "bounds": {
+                "bottom": 1172,
+                "left": 615,
+                "right": 898,
+                "top": 1126
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Bus or boat ticket booking option."
+        },
+        {
+            "bounds": {
+                "bottom": 1183,
+                "left": 549,
+                "right": 801,
+                "top": 1142
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Bus or boat ticket booking option."
+        },
+        {
+            "bounds": {
+                "bottom": 1330,
+                "left": 615,
+                "right": 898,
+                "top": 1284
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Bus or boat ticket booking option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2017,
+                "left": 131,
+                "right": 268,
+                "top": 1880
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Tickets or One-day Tours\" category."
+        },
+        {
+            "bounds": {
+                "bottom": 1507,
+                "left": 89,
+                "right": 181,
+                "top": 1414
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Tickets or One-day Tours\" category."
+        },
+        {
+            "bounds": {
+                "bottom": 1724,
+                "left": 99,
+                "right": 203,
+                "top": 1620
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Tickets or One-day Tours\" category."
+        },
+        {
+            "bounds": {
+                "bottom": 1531,
+                "left": 89,
+                "right": 181,
+                "top": 1439
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Tickets or One-day Tours\" category."
+        },
+        {
+            "bounds": {
+                "bottom": 1566,
+                "left": 99,
+                "right": 203,
+                "top": 1462
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Tickets or One-day Tours\" category."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2085,
+                "left": 6,
+                "right": 393,
+                "top": 2025
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Ticket/Day tour selection option."
+        },
+        {
+            "bounds": {
+                "bottom": 1553,
+                "left": 9,
+                "right": 261,
+                "top": 1512
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Ticket/Day tour selection option."
+        },
+        {
+            "bounds": {
+                "bottom": 1618,
+                "left": 10,
+                "right": 293,
+                "top": 1572
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Ticket/Day tour selection option."
+        },
+        {
+            "bounds": {
+                "bottom": 1578,
+                "left": 9,
+                "right": 261,
+                "top": 1537
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Ticket/Day tour selection option."
+        },
+        {
+            "bounds": {
+                "bottom": 1776,
+                "left": 10,
+                "right": 293,
+                "top": 1730
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Ticket/Day tour selection option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2017,
+                "left": 531,
+                "right": 668,
+                "top": 1880
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Travel or vacation option related to free travel or group tours.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1507,
+                "left": 359,
+                "right": 451,
+                "top": 1414
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Travel or vacation option related to free travel or group tours.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1724,
+                "left": 401,
+                "right": 505,
+                "top": 1620
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Travel or vacation option related to free travel or group tours.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1531,
+                "left": 359,
+                "right": 451,
+                "top": 1439
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Travel or vacation option related to free travel or group tours.\""
+        },
+        {
+            "bounds": {
+                "bottom": 1566,
+                "left": 401,
+                "right": 505,
+                "top": 1462
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Travel or vacation option related to free travel or group tours.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2085,
+                "left": 406,
+                "right": 793,
+                "top": 2025
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Independent or Group Travel module."
+        },
+        {
+            "bounds": {
+                "bottom": 1553,
+                "left": 279,
+                "right": 531,
+                "top": 1512
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Independent or Group Travel module."
+        },
+        {
+            "bounds": {
+                "bottom": 1618,
+                "left": 312,
+                "right": 595,
+                "top": 1572
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Independent or Group Travel module."
+        },
+        {
+            "bounds": {
+                "bottom": 1578,
+                "left": 279,
+                "right": 531,
+                "top": 1537
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Independent or Group Travel module."
+        },
+        {
+            "bounds": {
+                "bottom": 1776,
+                "left": 312,
+                "right": 595,
+                "top": 1730
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Independent or Group Travel module."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2017,
+                "left": 930,
+                "right": 1067,
+                "top": 1880
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Custom Travel\" feature icon."
+        },
+        {
+            "bounds": {
+                "bottom": 1507,
+                "left": 629,
+                "right": 721,
+                "top": 1414
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Custom Travel\" feature icon."
+        },
+        {
+            "bounds": {
+                "bottom": 1724,
+                "left": 704,
+                "right": 808,
+                "top": 1620
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Custom Travel\" feature icon."
+        },
+        {
+            "bounds": {
+                "bottom": 1531,
+                "left": 629,
+                "right": 721,
+                "top": 1439
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Custom Travel\" feature icon."
+        },
+        {
+            "bounds": {
+                "bottom": 1566,
+                "left": 704,
+                "right": 808,
+                "top": 1462
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Custom Travel\" feature icon."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2085,
+                "left": 805,
+                "right": 1192,
+                "top": 2025
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Customized tour\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1553,
+                "left": 549,
+                "right": 801,
+                "top": 1512
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Customized tour\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1618,
+                "left": 615,
+                "right": 898,
+                "top": 1572
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Customized tour\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1578,
+                "left": 549,
+                "right": 801,
+                "top": 1537
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Customized tour\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1776,
+                "left": 615,
+                "right": 898,
+                "top": 1730
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Customized tour\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2017,
+                "left": 1330,
+                "right": 1467,
+                "top": 1880
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Educational travel or study tour options."
+        },
+        {
+            "bounds": {
+                "bottom": 1507,
+                "left": 899,
+                "right": 991,
+                "top": 1414
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Educational travel or study tour options."
+        },
+        {
+            "bounds": {
+                "bottom": 1724,
+                "left": 1006,
+                "right": 1110,
+                "top": 1620
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Educational travel or study tour options."
+        },
+        {
+            "bounds": {
+                "bottom": 1531,
+                "left": 899,
+                "right": 991,
+                "top": 1439
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Educational travel or study tour options."
+        },
+        {
+            "bounds": {
+                "bottom": 1566,
+                "left": 1006,
+                "right": 1110,
+                "top": 1462
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Educational travel or study tour options."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2085,
+                "left": 1205,
+                "right": 1592,
+                "top": 2025
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Study Tour\" category or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1553,
+                "left": 819,
+                "right": 1071,
+                "top": 1512
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Study Tour\" category or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1618,
+                "left": 917,
+                "right": 1199,
+                "top": 1572
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Study Tour\" category or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1578,
+                "left": 819,
+                "right": 1071,
+                "top": 1537
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Study Tour\" category or option."
+        },
+        {
+            "bounds": {
+                "bottom": 1776,
+                "left": 917,
+                "right": 1199,
+                "top": 1730
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Study Tour\" category or option."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2337,
+                "left": 131,
+                "right": 268,
+                "top": 2200
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Membership Center function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1723,
+                "left": 89,
+                "right": 181,
+                "top": 1630
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Membership Center function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1968,
+                "left": 99,
+                "right": 203,
+                "top": 1864
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Membership Center function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1747,
+                "left": 89,
+                "right": 181,
+                "top": 1655
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Membership Center function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1810,
+                "left": 99,
+                "right": 203,
+                "top": 1706
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Membership Center function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2405,
+                "left": 6,
+                "right": 393,
+                "top": 2345
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Membership Center\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1769,
+                "left": 9,
+                "right": 261,
+                "top": 1728
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Membership Center\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1862,
+                "left": 10,
+                "right": 293,
+                "top": 1816
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Membership Center\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1794,
+                "left": 9,
+                "right": 261,
+                "top": 1753
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Membership Center\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 2020,
+                "left": 10,
+                "right": 293,
+                "top": 1974
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Membership Center\" button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2337,
+                "left": 531,
+                "right": 668,
+                "top": 2200
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Financial services or savings options."
+        },
+        {
+            "bounds": {
+                "bottom": 1723,
+                "left": 359,
+                "right": 451,
+                "top": 1630
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Financial services or savings options."
+        },
+        {
+            "bounds": {
+                "bottom": 1968,
+                "left": 401,
+                "right": 505,
+                "top": 1864
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Financial services or savings options."
+        },
+        {
+            "bounds": {
+                "bottom": 1747,
+                "left": 359,
+                "right": 451,
+                "top": 1655
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Financial services or savings options."
+        },
+        {
+            "bounds": {
+                "bottom": 1810,
+                "left": 401,
+                "right": 505,
+                "top": 1706
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Financial services or savings options."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2405,
+                "left": 406,
+                "right": 793,
+                "top": 2345
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Financial services or options\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1769,
+                "left": 279,
+                "right": 531,
+                "top": 1728
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Financial services or options\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1862,
+                "left": 312,
+                "right": 595,
+                "top": 1816
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Financial services or options\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 1794,
+                "left": 279,
+                "right": 531,
+                "top": 1753
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Financial services or options\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 2020,
+                "left": 312,
+                "right": 595,
+                "top": 1974
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Financial services or options\" function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2337,
+                "left": 930,
+                "right": 1067,
+                "top": 2200
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "Gift card or voucher management."
+        },
+        {
+            "bounds": {
+                "bottom": 1723,
+                "left": 629,
+                "right": 721,
+                "top": 1630
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "Gift card or voucher management."
+        },
+        {
+            "bounds": {
+                "bottom": 1968,
+                "left": 704,
+                "right": 808,
+                "top": 1864
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "Gift card or voucher management."
+        },
+        {
+            "bounds": {
+                "bottom": 1747,
+                "left": 629,
+                "right": 721,
+                "top": 1655
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "Gift card or voucher management."
+        },
+        {
+            "bounds": {
+                "bottom": 1810,
+                "left": 704,
+                "right": 808,
+                "top": 1706
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "Gift card or voucher management."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2405,
+                "left": 805,
+                "right": 1192,
+                "top": 2345
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Gift card\" purchase or redemption function."
+        },
+        {
+            "bounds": {
+                "bottom": 1769,
+                "left": 549,
+                "right": 801,
+                "top": 1728
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Gift card\" purchase or redemption function."
+        },
+        {
+            "bounds": {
+                "bottom": 2020,
+                "left": 615,
+                "right": 898,
+                "top": 1974
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Gift card\" purchase or redemption function."
+        },
+        {
+            "bounds": {
+                "bottom": 1794,
+                "left": 549,
+                "right": 801,
+                "top": 1753
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Gift card\" purchase or redemption function."
+        },
+        {
+            "bounds": {
+                "bottom": 1862,
+                "left": 615,
+                "right": 898,
+                "top": 1816
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Gift card\" purchase or redemption function."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2337,
+                "left": 1330,
+                "right": 1467,
+                "top": 2200
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Business travel partnership\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1723,
+                "left": 899,
+                "right": 991,
+                "top": 1630
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Business travel partnership\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1810,
+                "left": 1006,
+                "right": 1110,
+                "top": 1706
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Business travel partnership\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1747,
+                "left": 899,
+                "right": 991,
+                "top": 1655
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Business travel partnership\" button."
+        },
+        {
+            "bounds": {
+                "bottom": 1968,
+                "left": 1006,
+                "right": 1110,
+                "top": 1864
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Business travel partnership\" button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 2405,
+                "left": 1205,
+                "right": 1592,
+                "top": 2345
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/HUAWEl MatePad Pro MRX-W39_shortcut_7_70/screen_1742310339501.webp",
+            "semantic": "\"Business Travel Collaboration\" section."
+        },
+        {
+            "bounds": {
+                "bottom": 1769,
+                "left": 819,
+                "right": 1071,
+                "top": 1728
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/IQOONeo5_shortcut_7_125/screen_1742382707314.webp",
+            "semantic": "\"Business Travel Collaboration\" section."
+        },
+        {
+            "bounds": {
+                "bottom": 2020,
+                "left": 917,
+                "right": 1199,
+                "top": 1974
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/Redmik70U_shortcut_7_175/screen_1742373737095.webp",
+            "semantic": "\"Business Travel Collaboration\" section."
+        },
+        {
+            "bounds": {
+                "bottom": 1794,
+                "left": 819,
+                "right": 1071,
+                "top": 1753
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/honorPlay8T_shortcut_7_216/screen_1741857740140.webp",
+            "semantic": "\"Business Travel Collaboration\" section."
+        },
+        {
+            "bounds": {
+                "bottom": 1862,
+                "left": 917,
+                "right": 1199,
+                "top": 1816
+            },
+            "img_path": "../data/Ctrip/Ctrip_XC_online_customer_service/redmi Turbo 14_shortcut_7_51/screen_1742274111856.webp",
+            "semantic": "\"Business Travel Collaboration\" section."
+        }
+    ]
+]

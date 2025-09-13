@@ -1,0 +1,330 @@
+[
+    [
+        {
+            "bounds": {
+                "bottom": 153,
+                "left": 30,
+                "right": 77,
+                "top": 104
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/HUAWEl MatePad Pro MRX-W39_shortcut_7_41/screen_1742308229731.webp",
+            "semantic": "Back or previous screen navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 223,
+                "left": 46,
+                "right": 118,
+                "top": 147
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/redmi Turbo 14_shortcut_7_22/screen_1742270835631.webp",
+            "semantic": "Back or previous screen navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 223,
+                "left": 46,
+                "right": 118,
+                "top": 147
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/redmi Turbo 14_dark_shortcut_7_129/screen_1742290636380.webp",
+            "semantic": "Back or previous screen navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 211,
+                "left": 42,
+                "right": 108,
+                "top": 142
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/honorPlay8T_shortcut_7_179/screen_1741770395029.webp",
+            "semantic": "Back or previous screen navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 231,
+                "left": 46,
+                "right": 118,
+                "top": 155
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/Redmik70U_shortcut_7_126/screen_1742365351113.webp",
+            "semantic": "Back or previous screen navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 187,
+                "left": 42,
+                "right": 108,
+                "top": 118
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/IQOONeo5_shortcut_7_86/screen_1742368471116.webp",
+            "semantic": "Back or previous screen navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 187,
+                "left": 42,
+                "right": 108,
+                "top": 118
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/IQOONeo5_dark_shortcut_7_47/screen_1742352499641.webp",
+            "semantic": "Back or previous screen navigation button."
+        },
+        {
+            "bounds": {
+                "bottom": 234,
+                "left": 46,
+                "right": 118,
+                "top": 158
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/Honor90GT_shortcut_7_89/screen_1742354276938.webp",
+            "semantic": "Back or previous screen navigation button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 178,
+                "left": 728,
+                "right": 872,
+                "top": 80
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/HUAWEl MatePad Pro MRX-W39_shortcut_7_41/screen_1742308229731.webp",
+            "semantic": "\"Package management or tracking section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 260,
+                "left": 500,
+                "right": 720,
+                "top": 110
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/redmi Turbo 14_shortcut_7_22/screen_1742270835631.webp",
+            "semantic": "\"Package management or tracking section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 260,
+                "left": 500,
+                "right": 720,
+                "top": 110
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/redmi Turbo 14_dark_shortcut_7_129/screen_1742290636380.webp",
+            "semantic": "\"Package management or tracking section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 246,
+                "left": 438,
+                "right": 642,
+                "top": 108
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/honorPlay8T_shortcut_7_179/screen_1741770395029.webp",
+            "semantic": "\"Package management or tracking section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 268,
+                "left": 500,
+                "right": 720,
+                "top": 118
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/Redmik70U_shortcut_7_126/screen_1742365351113.webp",
+            "semantic": "\"Package management or tracking section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 222,
+                "left": 438,
+                "right": 642,
+                "top": 84
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/IQOONeo5_shortcut_7_86/screen_1742368471116.webp",
+            "semantic": "\"Package management or tracking section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 222,
+                "left": 438,
+                "right": 642,
+                "top": 84
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/IQOONeo5_dark_shortcut_7_47/screen_1742352499641.webp",
+            "semantic": "\"Package management or tracking section.\""
+        },
+        {
+            "bounds": {
+                "bottom": 272,
+                "left": 490,
+                "right": 710,
+                "top": 121
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/Honor90GT_shortcut_7_89/screen_1742354276938.webp",
+            "semantic": "\"Package management or tracking section.\""
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 152,
+                "left": 1438,
+                "right": 1485,
+                "top": 105
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/HUAWEl MatePad Pro MRX-W39_shortcut_7_41/screen_1742308229731.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 221,
+                "left": 973,
+                "right": 1045,
+                "top": 149
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/redmi Turbo 14_shortcut_7_22/screen_1742270835631.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 221,
+                "left": 973,
+                "right": 1045,
+                "top": 149
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/redmi Turbo 14_dark_shortcut_7_129/screen_1742290636380.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 210,
+                "left": 852,
+                "right": 918,
+                "top": 144
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/honorPlay8T_shortcut_7_179/screen_1741770395029.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 229,
+                "left": 973,
+                "right": 1045,
+                "top": 157
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/Redmik70U_shortcut_7_126/screen_1742365351113.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 186,
+                "left": 852,
+                "right": 918,
+                "top": 120
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/IQOONeo5_shortcut_7_86/screen_1742368471116.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 186,
+                "left": 852,
+                "right": 918,
+                "top": 120
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/IQOONeo5_dark_shortcut_7_47/screen_1742352499641.webp",
+            "semantic": "Search function button."
+        },
+        {
+            "bounds": {
+                "bottom": 232,
+                "left": 953,
+                "right": 1025,
+                "top": 160
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/Honor90GT_shortcut_7_89/screen_1742354276938.webp",
+            "semantic": "Search function button."
+        }
+    ],
+    [
+        {
+            "bounds": {
+                "bottom": 152,
+                "left": 1523,
+                "right": 1570,
+                "top": 105
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/HUAWEl MatePad Pro MRX-W39_shortcut_7_41/screen_1742308229731.webp",
+            "semantic": "\"Add or Expand\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 221,
+                "left": 1103,
+                "right": 1175,
+                "top": 149
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/redmi Turbo 14_shortcut_7_22/screen_1742270835631.webp",
+            "semantic": "\"Add or Expand\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 221,
+                "left": 1103,
+                "right": 1175,
+                "top": 149
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/redmi Turbo 14_dark_shortcut_7_129/screen_1742290636380.webp",
+            "semantic": "\"Add or Expand\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 210,
+                "left": 972,
+                "right": 1038,
+                "top": 144
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/honorPlay8T_shortcut_7_179/screen_1741770395029.webp",
+            "semantic": "\"Add or Expand\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 229,
+                "left": 1103,
+                "right": 1175,
+                "top": 157
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/Redmik70U_shortcut_7_126/screen_1742365351113.webp",
+            "semantic": "\"Add or Expand\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 186,
+                "left": 972,
+                "right": 1038,
+                "top": 120
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/IQOONeo5_shortcut_7_86/screen_1742368471116.webp",
+            "semantic": "\"Add or Expand\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 186,
+                "left": 972,
+                "right": 1038,
+                "top": 120
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/IQOONeo5_dark_shortcut_7_47/screen_1742352499641.webp",
+            "semantic": "\"Add or Expand\" function button."
+        },
+        {
+            "bounds": {
+                "bottom": 232,
+                "left": 1083,
+                "right": 1155,
+                "top": 160
+            },
+            "img_path": "../data/Pinduoduo/Pinduoduo_Pinduoduo_view_parcel/Honor90GT_shortcut_7_89/screen_1742354276938.webp",
+            "semantic": "\"Add or Expand\" function button."
+        }
+    ]
+]

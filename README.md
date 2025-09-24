@@ -51,4 +51,4 @@
 
 ## **许可证**
 
-本项目采用 [CC BY 4.0 许可证]（https://creativecommons.org/licenses/by/4.0/） 进行授权。
+本项目采用 [CC BY 4.0 许可证]（https://creativecommons.org/licenses/by/4.0/）进行授权。

@@ -15,8 +15,8 @@
 
 每个应用程序中每个任务流程的结构如下：
 
-  - application (应用程序)
-      - workflow (任务流程)
+  - application （应用程序）
+      - workflow （任务流程）
           - **\_labels**
             包含当前任务流程中每个页面的已标注 GUI 控件信息，文件格式为 **label\_{idx}.json**，其中 `idx` 是任务流程中的页面编号。
               - label\_0.json
@@ -51,4 +51,4 @@
 
 ## **许可证**
 
-本项目采用 [CC BY 4.0 许可证](https://creativecommons.org/licenses/by/4.0/) 进行授权。
+本项目采用 [CC BY 4.0 许可证]（https://creativecommons.org/licenses/by/4.0/） 进行授权。
